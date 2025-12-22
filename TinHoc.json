@@ -1,0 +1,305 @@
+{
+    "Mon": "Tin học 11",
+    "QA": [
+        {
+            "Q": "Quy tắc lành mạnh là",
+            "A": "hướng tới việc cần chịu trách nhiệm về các hành vi, ứng xử trên mạng xã hội, khi có yêu cầu phải chủ động phối hợp, hợp tác với các cơ quan chức năng để xử lý hành vi, nội dung thông tin vi phạm pháp luật.",
+            "B": "đòi hỏi mọi hành vi ứng xử trên mạng xã hội phải phù hợp với các giá trị đạo đức, văn hóa truyền thống tốt đẹp của dân tộc Việt Nam.",
+            "C": "yêu cầu phải tuân thủ luật pháp Việt Nam, tôn trọng quyền và lợi ích hợp pháp của tổ chức, cá nhân.",
+            "D": "yêu cầu phải tuân thủ các quy định và hướng dẫn về bảo vệ an toàn và bảo mật thông tin cá nhân và tổ chức.",
+            "True": "C"
+        },
+        {
+            "Q": "Việc nào sau đây không được khuyến khích khi tham gia môi trường số?",
+            "A": "Tìm hiểu và tuân thủ các điều khoản hướng dẫn sử dụng của nhà cung cấp dịch vụ mạng xã hội trước khi đăng kí, tham gia mạng xã hội.",
+            "B": "Trong ứng xử trên mạng xã hội được phép làm mọi điều pháp luật không cấm.",
+            "C": "Mạng xã hội là môi trường ảo, do vậy không cần quá câu nệ về câu chữ.",
+            "D": "Cần được sự đồng ý khi chia sẻ hình ảnh và chuyện riêng tư của bạn bè.",
+            "True": "B"
+        },
+        {
+            "Q": "Phát biểu nào SAI trong các phát biểu sau?",
+            "A": "Trong ứng xử trên mạng xã hội được phép làm mọi điều pháp luật không cấm",
+            "B": "Cần nhanh chóng thông báo tới cơ quan chức năng, nhà cung cấp dịch vụ khi tài khoản của tổ chức, cá nhân bị mất quyền kiểm soát, bị giả mạo.",
+            "C": "Cần phê phán các từ ngữ không mang tính phổ thông, nặng bản sắc vùng miền.",
+            "D": "Không cho mượn, cho thuê giấy tờ cá nhân hoặc thẻ ngân hàng; không bán, cho mượn tài khoản; không nhận chuyển khoản hay nhận tiền cho người không quen,...",
+            "True": "C"
+        },
+        {
+            "Q": "Việc thêm, xoá và chỉnh sửa dữ liệu là những công việc thường được thực hiện với dữ liệu của tất cả các bài toán quản lí và chúng được gọi chung là",
+            "A": "tạo lập dữ liệu.",
+            "B": "khai thác dữ liệu.",
+            "C": "thêm và xoá dữ liệu.",
+            "D": "cập nhật dữ liệu.",
+            "True": "D"
+        },
+        {
+            "Q": "Chọn phát biểu đúng nhất trong các phát biểu sau:",
+            "A": "Dữ liệu lưu trữ có thể được cập nhật thường xuyên, được truy xuất theo nhiều tiêu chí khác nhau để thu được các thông tin hữu ích.",
+            "B": "Dữ liệu lưu trữ có thể được cập nhật thường xuyên, được truy xuất theo một tiêu chí để thu được các thông tin hữu ích.",
+            "C": "Dữ liệu lưu trữ có thể được cập nhật không thường xuyên, được truy xuất theo nhiều tiêu chí khác nhau để thu được các thông tin hữu ích.",
+            "D": "Dữ liệu lưu trữ có thể được cập nhật không thường xuyên, được truy xuất theo tiêu chí khác nhau để thu được các thông tin hữu ích.",
+            "True": "A"
+        },
+        {
+            "Q": "Chọn phát biểu đúng trong các phát biểu sau:",
+            "A": "Bài toán quản lí là bài toán ít phổ biến trong thực tế. Cần phải tổ chức lưu trữ dữ liệu để phục vụ các yêu cầu quản lí đa dạng.",
+            "B": "Bài toán quản lí là bài toán phổ biến trong thực tế. Không cần phải tổ chức lưu trữ dữ liệu để phục vụ các yêu cầu quản lí đa dạng.",
+            "C": "Bài toán quản lí là bài toán ít phổ biến trong thực tế. Không cần phải tổ chức lưu trữ dữ liệu để phục vụ các yêu cầu quản lí đa dạng.",
+            "D": "Bài toán quản lí là bài toán phổ biến trong thực tế. Cần phải tổ chức lưu trữ dữ liệu để phục vụ các yêu cầu quản lí đa dạng.",
+            "True": "D"
+        },
+        {
+            "Q": "Việc ghi điểm vào sổ điểm được thực hiện thường xuyên, mỗi khi có ĐĐG thường xuyên, giữa kì hay cuối kì. Việc ghi chép này gọi là",
+            "A": "lưu điểm.",
+            "B": "lưu vào sổ điểm.",
+            "C": "lưu trữ dữ liệu điểm.",
+            "D": "ghi chép dữ liệu điểm.",
+            "True": "C"
+        },
+        {
+            "Q": "Công việc lập bảng phân loại kết quả học tập như Bảng 10.3, đòi hỏi phải phân tích, thống kê, tính toán từ dữ liệu đã có để được thông tin cần thiết. Những công việc kiểu như vậy được gọi là",
+            "A": "cập nhật thông tin từ dữ liệu đã có.",
+            "B": "khai thác thông tin từ dữ liệu đã có.",
+            "C": "tìm kiếm thông tin từ dữ liệu đã có.",
+            "D": "tổng hợp thông tin từ dữ liệu đã có.",
+            "True": "B"
+        },
+        {
+            "Q": "Việc tìm kiếm, sắp xếp hay lọc ra các dữ liệu theo những tiêu chí nào đó từ dữ liệu đã có thường được gọi là",
+            "A": "cập nhật dữ liệu.",
+            "B": "lưu dữ liệu.",
+            "C": "truy xuất dữ liệu.",
+            "D": "",
+            "True": "C"
+        },
+        {
+            "Q": "Ở các siêu thị lớn, nhân viên tính tiền muốn thực hiện nhanh công việc của mình thì cần dùng phương pháp nào sau đây?",
+            "A": "Dùng giấy bút để tính tiền.",
+            "B": "Nhập vào phần mềm excel trong máy tính để tính tiền.",
+            "C": "Quét mã vạch để tính tiền tự động.",
+            "D": "Dùng máy tính cầm tay để tính tiền.",
+            "True": "C"
+        },
+        {
+            "Q": "Chọn phát biểu đúng nhất trong các phát biểu sau:",
+            "A": "Quản lí là hoạt động ít phổ biến. Mục đích chính của quản lí là xử lí thông tin để đưa ra các quyết định. Vì vậy việc thu thập, lưu trữ dữ liệu có ý nghĩa quan trọng hàng đầu.",
+            "B": "Quản lí là hoạt động rất phổ biến. Mục đích chính của quản lí là xử lí dữ liệu để đưa ra các quyết định. Vì vậy việc thu thập, lưu trữ dữ liệu có ý nghĩa quan trọng hàng đầu.",
+            "C": "Quản lí là hoạt động ít phổ biến. Mục đích chính của quản lí là xử lí dữ liệu để đưa ra các quyết định. Vì vậy việc thu thập, lưu trữ dữ liệu có ý nghĩa quan trọng hàng đầu.",
+            "D": "Quản lí là hoạt động rất phổ biến. Mục đích chính của quản lí là xử lí thông tin để đưa ra các quyết định. Vì vậy việc thu thập, lưu trữ dữ liệu có ý nghĩa quan trọng hàng đầu.",
+            "True": "D"
+        },
+        {
+            "Q": "Khi lưu trữ dữ liệu trên máy tính, cần phải tổ chức việc lưu trữ sao cho có thể hạn chế",
+            "A": "trùng lặp làm dư thừa dữ liệu, khắc phục những lỗi không nhất quán về dữ liệu.",
+            "B": "trùng lặp làm thiếu dữ liệu, khắc phục những lỗi không nhất quán về dữ liệu.",
+            "C": "trùng lặp làm dư thừa dữ liệu, khắc phục những lỗi không nhất quán về thông tin.",
+            "D": "trùng lặp làm dư thừa thông tin, khắc phục những lỗi không nhất quán về dữ liệu.",
+            "True": "A"
+        },
+        {
+            "Q": "Một số thuộc tính cơ bản của CSDL bao gồm:",
+            "A": "tính cấu trúc; tính dư thừa; tính độc lập; tính toàn vẹn; tính nhất quán; tính bảo mật và an toàn.",
+            "B": "tính không dư thừa; tính độc lập; tính toàn vẹn; tính nhất quán; tính bảo mật và an toàn.",
+            "C": "tính cấu trúc; tính không dư thừa; tính độc lập; tính toàn vẹn; tính nhất quán; tính bảo mật và an toàn.",
+            "D": "tính cấu trúc; tính không dư thừa; tính độc lập; tính toàn phần; tính nhất quán; tính bảo mật và an toàn.",
+            "True": "C"
+        },
+        {
+            "Q": "Chọn phát biểu đúng trong các phát biểu sau:",
+            "A": "Việc lưu trữ dữ liệu có thể tách rời với việc khai thác thông tin nhờ các phần mềm ứng dụng vì khai thác thông tin chính là mục đích của việc lưu trữ dữ liệu.",
+            "B": "Việc lưu trữ dữ liệu không tách rời với việc khai thác thông tin nhờ các phần mềm ứng dụng vì khai thác dữ liệu chính là mục đích của việc lưu trữ dữ liệu.",
+            "C": "Việc lưu trữ dữ liệu không tách rời với việc khai thác thông tin nhờ các phần mềm ứng dụng vì khai thác dữ liệu chính là mục đích của việc lưu trữ thông tin.",
+            "D": "Việc lưu trữ dữ liệu không tách rời với việc khai thác thông tin nhờ các phần mềm ứng dụng vì khai thác thông tin chính là mục đích của việc lưu trữ dữ liệu.",
+            "True": "D"
+        },
+        {
+            "Q": "Tính không dư thừa trong CSDL có nghĩa là gì?",
+            "A": "Không có dữ liệu nào bị lưu trữ trùng lặp trong CSDL.",
+            "B": "Các dữ liệu được phân loại đúng theo mức độ quan trọng.",
+            "C": "CSDL được thiết kế sao cho không có thông tin nào bị bỏ sót.",
+            "D": "CSDL không bao gồm bất kì thông tin nào không cần thiết.",
+            "True": "A"
+        },
+        {
+            "Q": "Ràng buộc nào sau đây đảm bảo tính toàn vẹn của dữ liệu ghi số lượng học sinh của một lớp học?",
+            "A": "Phải là số nguyên.",
+            "B": "Phải là số nguyên dương.",
+            "C": "Phải là số thực.",
+            "D": "Phải là số thập phân với hai chữ số thập phân.",
+            "True": "B"
+        },
+        {
+            "Q": "Phát biểu sau đây nằm trong thuộc tính cơ bản nào của CSDL? \"CSDL cần được tổ chức sao cho không phải ai cũng có quyền truy cập hay cập nhật dữ liệu\".",
+            "A": "Tính toàn vẹn.",
+            "B": "Tính nhất quán.",
+            "C": "Tính không dư thừa.",
+            "D": "Tính bảo mật và an toàn.",
+            "True": "D"
+        },
+        {
+            "Q": "Hệ Quản trị cơ sở dữ liệu là",
+            "A": "phần mềm hệ thống chuyên dụng quản lí thư mục, tệp chứa dữ liệu.",
+            "B": "phần mềm cung cấp phương thức để lưu trữ, cập nhật và truy xuất dữ liệu của CSDL, bảo mật và an toàn dữ liệu.",
+            "C": "phần mền giúp người dùng trực tiếp cập nhật và truy xuất CSDL.",
+            "D": "phần mềm giúp truy cập từ xa vào CSDL.",
+            "True": "B"
+        },
+        {
+            "Q": "Hệ Quản trị cơ sở dữ liệu là",
+            "A": "phần mềm hệ thống chuyên dụng quản lí thư mục, tệp chứa dữ liệu.",
+            "B": "phần mềm cung cấp giao diện lập trình ứng dụng cho các nhà phát triển ứng dụng và người dùng.",
+            "C": "phần mền giúp người dùng trực tiếp cập nhật và truy xuất CSDL.",
+            "D": "phần mềm được xây dựng nhằm mục đích hỗ trợ người dùng khai thác thông tin.",
+            "True": "B"
+        },
+        {
+            "Q": "Phát biểu sau đây nằm trong thuộc tính cơ bản nào của CSDL? \"CSDL cần được tổ chức sao cho không phải ai cũng có quyền truy cập hay cập nhật dữ liệu\".",
+            "A": "Tính toàn vẹn.",
+            "B": "Tính nhất quán.",
+            "C": "Tính không dư thừa.",
+            "D": "Tính bảo mật và an toàn.",
+            "True": "D"
+        },
+        {
+            "Q": "Hệ Quản trị cơ sở dữ liệu là",
+            "A": "phần mềm hệ thống chuyên dụng quản lí thư mục, tệp chứa dữ liệu.",
+            "B": "phần mềm cung cấp phương thức để lưu trữ, cập nhật và truy xuất dữ liệu của CSDL, bảo mật và an toàn dữ liệu.",
+            "C": "phần mền giúp người dùng trực tiếp cập nhật và truy xuất CSDL.",
+            "D": "phần mềm giúp truy cập từ xa vào CSDL.",
+            "True": "B"
+        },
+        {
+            "Q": "Hệ Quản trị cơ sở dữ liệu là",
+            "A": "phần mềm hệ thống chuyên dụng quản lí thư mục, tệp chứa dữ liệu.",
+            "B": "phần mềm cung cấp giao diện lập trình ứng dụng cho các nhà phát triển ứng dụng và người dùng.",
+            "C": "phần mền giúp người dùng trực tiếp cập nhật và truy xuất CSDL.",
+            "D": "phần mềm được xây dựng nhằm mục đích hỗ trợ người dùng khai thác thông tin.",
+            "True": "B"
+        },
+        {
+            "Q": "Hệ CSDL tập trung là",
+            "A": "hệ CSDL mà tất cả các thành phần của nó cùng tập trung trên một máy tính.",
+            "B": "hệ CSDL mà CSDL của nó được lưu trữ trên một máy tính.",
+            "C": "hệ CSDL một người dùng trên một máy tính.",
+            "D": "hệ CSDL mà tất cả các ứng dụng CSDL được cài đặt tập trung trên một máy tính.",
+            "True": "A"
+        },
+        {
+            "Q": "Một hệ thống gồm ba thành phần: CSDL, hệ QTCSDL và các phần mềm ứng dụng CSDL được gọi là",
+            "A": "một hệ CSDL.",
+            "B": "một hệ QTCSDL.",
+            "C": "một CSDL.",
+            "D": "một nhóm các phần mềm.",
+            "True": "A"
+        },
+        {
+            "Q": "Phát biểu nào SAI khi nói về Ưu điểm của hệ CSDL tập trung?",
+            "A": "Khi triển khai trên diện rộng mạng máy tính ổn định và đường truyền mạng có tốc độ đáp ứng đủ nhanh",
+            "B": "Dễ bảo trì, phát triển",
+            "C": "Thuận lợi trong công tác đảm bảo nhất quán dữ liệu",
+            "D": "Thuận lợi trong công tác đảm bảo an ninh",
+            "True": "A"
+        },
+        {
+            "Q": "Cho CSDL Music gồm 2 bảng, Bản nhạc và Nhạc sĩ. Thì Tên nhạc sĩ của Tên bản nhạc \"Tình ca\" là",
+            "A": "Hoàng Việt",
+            "B": "Đỗ Nhuận",
+            "C": "Văn Cao",
+            "D": "Nguyễn Tài Tuệ",
+            "True": "C"
+        },
+        {
+            "Q": "Trong CSDL quan hệ, TRƯỜNG là",
+            "A": "chỉ các hàng trong bảng dữ liệu.",
+            "B": "tập hợp các thông tin về một đối tượng cụ thể được quản lí trong bảng.",
+            "C": "chỉ dữ liệu nằm trên một hàng cụ thể của bảng dữ liệu.",
+            "D": "tương ứng mỗi cột trong bảng, thể hiện thuộc tính của đối tượng được quản lí trong bảng.",
+            "True": "D"
+        },
+        {
+            "Q": "CSDL quan hệ là",
+            "A": "CSDL lưu trữ dữ liệu dưới dạng các bảng có quan hệ với nhau.",
+            "B": "CSDL gồm các dữ liệu có liên quan với nhau.",
+            "C": "CSDL mà dữ liệu được tổ chức thành các nhóm có quan hệ với nhau.",
+            "D": "CSDL gồm các dữ liệu được sắp xếp ở dạng bảng.",
+            "True": "A"
+        },
+        {
+            "Q": "Với CSDL quản lí cho vay của một ngân hàng chứa bảng KHACH_HANG gồm các thuộc tính: STT, mã khách hàng, họ tên, số CMND, địa chỉ, số điện thoại. Khóa của bảng này là",
+            "A": "STT, mã khách hàng, số CMND, họ tên, địa chỉ, số điện thoại",
+            "B": "STT, mã khách hàng, số CMND, họ tên, số điện thoại",
+            "C": "mã khách hàng, số CMND",
+            "D": "mã khách hàng, số CMND, họ tên, địa chỉ, số điện thoại",
+            "True": "C"
+        },
+        {
+            "Q": "Bảng danh sách thi gồm các trường STT, Họ tên, SBD, Phòng thi; nên chọn trường nào làm khoá chính là đúng nhất?",
+            "A": "Phòng thi",
+            "B": "SBD",
+            "C": "Họ tên",
+            "D": "STT",
+            "True": "B"
+        },
+        {
+            "Q": "Giả sử có bảng nhacsi. Câu truy vấn lấy tất cả các dòng của bảng nhacsi là:",
+            "A": "SELECT Aid, TenNS FROM nhacsi;",
+            "B": "SELECT 1, 2, 3 4 FROM nhacsi;",
+            "C": "SELECT TenNS FROM nhacsi;",
+            "D": "SELECT 1, 2, 3, 4 FROM Đỗ Nhuận, Văn Cao, Hoàng Việt, Nguyễn Tài Tuệ;",
+            "True": "A"
+        },
+        {
+            "Q": "Câu truy vấn tạo bảng Ca sĩ như đã mô tả với tên bảng casi là:",
+            "A": "CREATE TABLE casi (Sid CHAR(2), TenCS VARCHAR (28) );",
+            "B": "CREATE DATABASE casi (Sid VARCHAR (28), TenCS CHAR (2) );",
+            "C": "CREATE DATABASE casi (Sid CHAR(2), TenCS VARCHAR (28) );",
+            "D": "CREATE TABLE casi (Sid VARCHAR (28), TenCS CHAR (2) );",
+            "True": "A"
+        },
+        {
+            "Q": "Một nhóm học sinh sử dụng phần mềm hệ QTCSDL tạo ra CSDL có 2 bảng sau. Sau đây là các ý kiến của nhóm học sinh đối với việc tạo hai bảng nói trên:",
+            "type": "true_false_set",
+            "questions": [
+                {"text": "Trường Sdt trong bảng THUE_BAO tuy chứa số điện thoại nhưng định nghĩa kiểu dữ liệu là chuỗi ký tự", "correct": true},
+                {"text": "Trường LoaiTB là khóa chính trong bảng LOAI_THUE_BAO và là khóa ngoại trong bảng THUE_BAO.", "correct": true},
+                {"text": "Thiết đặt trường LoaiTB trong 2 bảng LOAI_THUE_BAO và THUE_BAO làm khóa chính của 2 bảng.", "correct": false},
+                {"text": "Trường LoaiTB trong bảng LOAI_THUE_BAO liên kết với (tham chiếu tới) trường LoaiTB trong bảng THUE_BAO.", "correct": true}
+            ],
+            "True": "T"
+        },
+        {
+            "Q": "Cơ sở dữ liệu quan hệ lưu trữ dữ liệu dưới dạng các bảng có quan hệ với nhau, giúp quản lý thông tin một cách hiệu quả và có cấu trúc. Hãy cho biết trong các phát biểu sau, phát biểu nào đúng, phát biểu nào sai?",
+            "type": "true_false_set",
+            "questions": [
+                {"text": "CSDL quan hệ tổ chức dữ liệu dưới dạng bảng, trong đó các hàng và cột được gọi lần lượt là bản ghi và trường.", "correct": true},
+                {"text": "Mỗi hàng trong bảng CSDL quan hệ đại diện cho một đối tượng dữ liệu, và các cột đại diện cho các thuộc tính của đối tượng đó.", "correct": true},
+                {"text": "Các bảng trong CSDL quan hệ không cần phải có thuộc tính chung để có thể liên kết với nhau.", "correct": false},
+                {"text": "Dữ liệu trong CSDL quan hệ có thể được tổ chức một cách phi cấu trúc để phù hợp với nhiều kiểu lưu trữ khác nhau.", "correct": false}
+            ],
+            "True": "T"
+        },
+        {
+            "Q": "Các trường và kiểu dữ liệu trong CSDL quan hệ giúp đảm bảo dữ liệu được tổ chức một cách logic và hiệu quả, tránh lãng phí tài nguyên. Hãy cho biết trong các phát biểu sau, phát biểu nào đúng, phát biểu nào sai?",
+            "type": "true_false_set",
+            "questions": [
+                {"text": "Mỗi trường trong bảng CSDL có thể chứa các giá trị thuộc nhiều kiểu dữ liệu khác nhau.", "correct": false},
+                {"text": "Kiểu dữ liệu của trường giúp hạn chế việc nhập dữ liệu sai về mặt logic trong bảng.", "correct": true},
+                {"text": "Sử dụng kiểu dữ liệu nhất quán trong các trường giúp tiết kiệm dung lượng lưu trữ.", "correct": true},
+                {"text": "Việc lựa chọn kiểu dữ liệu không ảnh hưởng đến hiệu quả và tính đúng đắn của dữ liệu được lưu trữ trong bảng.", "correct": false}
+            ],
+            "True": "T"
+        },
+        {
+            "Q": "Hệ cơ sở dữ liệu phân tán là hệ thống trong đó CSDL được lưu trữ trên nhiều máy tính khác nhau trong một mạng, mang lại một số ưu điểm nhưng cũng có những thách thức. Hãy cho biết trong các phát biểu sau, phát biểu nào đúng, phát biểu nào sai?",
+            "type": "true_false_set",
+            "questions": [
+                {"text": "Trong Hệ CSDL phân tán, CSDL được lưu trữ phân tán trên các máy tính khác nhau được gọi là các trạm CSDL cục bộ.", "correct": true},
+                {"text": "Mỗi trạm CSDL cục bộ chỉ hỗ trợ trực tiếp người dùng trong mạng cục bộ của nó và không thể hỗ trợ người dùng từ các mạng khác.", "correct": false},
+                {"text": "Hệ CSDL phân tán có tính sẵn sàng cao và dễ dàng mở rộng do dữ liệu được lưu trữ ở nhiều trạm cục bộ.", "correct": true},
+                {"text": "Một nhược điểm của Hệ CSDL phân tán là chi phí duy trì cao và có thể gặp khó khăn trong việc đảm bảo tính nhất quán dữ liệu.", "correct": true}
+            ],
+            "True": "T"
+        }
+    ]
+}
