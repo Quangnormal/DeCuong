@@ -1,0 +1,507 @@
+{
+  "Mon": "Vật lí lớp 11",
+  "QA": [
+    {
+      "Q": "Khoảng thời gian để vật thực hiện được một dao động toàn phần gọi là",
+      "A": "tần số.",
+      "B": "chu kì.",
+      "C": "biên độ.",
+      "D": "tần số góc.",
+      "True": "B"
+    },
+    {
+      "Q": "Tần số dao động là",
+      "A": "số dao động vật thực hiện được trong 1 phút.",
+      "B": "số dao động vật thực hiện được trong 1 giây.",
+      "C": "số dao động vật thực hiện được trong 1 giờ.",
+      "D": "quãng đường vật đi được trong 1 giây.",
+      "True": "B"
+    },
+    {
+      "Q": "Một vật dao động điều hòa với phương trình $x = A \\cos(\\omega t + \\varphi)$, đại lượng $\\omega$ được gọi là",
+      "A": "biên độ của dao động.",
+      "B": "chu kì của dao động.",
+      "C": "tần số góc của dao động.",
+      "D": "tần số của dao động.",
+      "True": "C"
+    },
+    {
+      "Q": "Tần số góc $\\omega$ có liên hệ với chu kỳ T theo biểu thức:",
+      "A": "$\\omega = 2\\pi T$.",
+      "B": "$\\omega = \\frac{1}{2\\pi T}$.",
+      "C": "$\\omega = \\frac{2\\pi}{T}$.",
+      "D": "$\\omega = \\frac{T}{2\\pi}$.",
+      "True": "C"
+    },
+    {
+      "Q": "Khi xảy ra cộng hưởng, biên độ dao động của vật",
+      "A": "bằng biên độ của ngoại lực.",
+      "B": "đạt giá trị cực đại.",
+      "C": "giảm xuống rất nhỏ.",
+      "D": "không đổi theo thời gian.",
+      "True": "B"
+    },
+    {
+      "Q": "Trong thực tế, hiện tượng cộng hưởng có hại trong trường hợp nào sau đây?",
+      "A": "Cầu treo bị rung mạnh khi có đoàn người đi đều bước.",
+      "B": "Đàn ghi-ta phát ra âm thanh lớn hơn.",
+      "C": "Máy phát điện hoạt động ở tần số cộng hưởng.",
+      "D": "Bộ giảm xóc của xe máy.",
+      "True": "A"
+    },
+    {
+      "Q": "Trong thực tế, hiện tượng cộng hưởng có lợi trong trường hợp nào sau đây?",
+      "A": "Khi đo rung động của cầu.",
+      "B": "Khi thiết kế nhà cao tầng chịu động đất.",
+      "C": "Khi chế tạo nhạc cụ như đàn, sáo, trống.",
+      "D": "Khi thiết kế máy giảm chấn.",
+      "True": "C"
+    },
+    {
+      "Q": "Bộ phận đóng, khép cửa ra vào tự động là ứng dụng của",
+      "A": "dao động tắt dần.",
+      "B": "tự dao động.",
+      "C": "cộng hưởng dao động.",
+      "D": "dao động cưỡng bức.",
+      "True": "A"
+    },
+    {
+      "Q": "Câu chuyện về một giọng hát ôpêra cao và khỏe có thể làm vỡ cái cốc uống rượu. Hiện tượng này được giải thích dựa trên",
+      "A": "dao động cưỡng bức.",
+      "B": "hiện tượng cộng hưởng cơ.",
+      "C": "dao động tắt dần.",
+      "D": "dao động bé.",
+      "True": "B"
+    },
+    {
+      "Q": "Sự truyền sóng là",
+      "A": "Quá trình lan truyền sự dao động trong môi trường.",
+      "B": "Quá trình lan tỏa các chất trong môi trường.",
+      "C": "Quá trình đẩy các phần tử môi trường dịch ra xa nguồn sóng.",
+      "D": "Quá trình truyền lực cơ học trong môi trường.",
+      "True": "A"
+    },
+    {
+      "Q": "Biên độ sóng là",
+      "A": "biên độ dao động của một phần tử của môi trường có sóng truyền qua.",
+      "B": "khoảng cách giữa hai đỉnh sóng kề nhau.",
+      "C": "quãng đường sóng lan truyền trong một chu kì.",
+      "D": "quãng đường mà sóng truyền được trong một giây.",
+      "True": "A"
+    },
+    {
+      "Q": "Khoảng cách giữa hai điểm trên phương truyền sóng gần nhau nhất và dao động cùng pha với nhau gọi là",
+      "A": "Chu kì.",
+      "B": "Bước sóng.",
+      "C": "Độ lệch pha.",
+      "D": "Vận tốc truyền sóng.",
+      "True": "B"
+    },
+    {
+      "Q": "Chọn phát biểu sai. Bước sóng",
+      "A": "của sóng cơ bằng khoảng cách giữa hai đỉnh sóng kề nhau.",
+      "B": "là quãng đường mà sóng truyền được trong một giây.",
+      "C": "là quãng đường mà sóng truyền được trong một chu kì.",
+      "D": "là khoảng cách giữa hai điểm trên phương truyền sóng gần nhau nhất mà dao động cùng pha.",
+      "True": "B"
+    },
+    {
+      "Q": "Chọn phát biểu sai.",
+      "A": "Chu kì sóng là chu kì dao động của một phần tử của môi trường có sóng truyền qua.",
+      "B": "Tần số sóng là tần số dao động của một phần tử của môi trường có sóng truyền qua.",
+      "C": "Tần số sóng là đại lượng nghịch đảo của chu kì sóng.",
+      "D": "Chu kì sóng là thời gian một phần tử của môi trường thực hiện hai dao động toàn phần.",
+      "True": "D"
+    },
+    {
+      "Q": "Trong sóng cơ, tốc độ truyền sóng là",
+      "A": "tốc độ dao động của các phần tử môi trường.",
+      "B": "tốc độ lan truyền dao động trong môi trường.",
+      "C": "quãng đường sóng lan truyền trong một chu kì.",
+      "D": "số lần dao động của các phần tử môi trường trong một giây.",
+      "True": "B"
+    },
+    {
+      "Q": "Cường độ sóng là",
+      "A": "năng lượng sóng truyền được truyền qua một đơn vị diện tích vuông góc với phương truyền sóng trong một đơn vị thời gian.",
+      "B": "năng lượng sóng truyền được truyền qua một đơn vị diện tích trong một đơn vị thời gian.",
+      "C": "năng lượng sóng truyền được truyền qua một đơn vị diện tích vuông góc với phương truyền sóng.",
+      "D": "năng lượng sóng truyền đi trong không gian trong một đơn vị thời gian.",
+      "True": "A"
+    },
+    {
+      "Q": "Một sóng cơ học có tần số $f$ lan truyền trong môi trường vật chất đàn hồi với tốc độ $v$, khi đó bước sóng $\\lambda$ được tính theo công thức",
+      "A": "$\\lambda  = \\frac{2v}{f}$.",
+      "B": "$\\lambda  = vf$.",
+      "C": "$\\lambda  = 2vf$.",
+      "D": "$\\lambda  = \\frac{v}{f}$.",
+      "True": "D"
+    },
+    {
+      "Q": "Một sóng cơ có tần số f, truyền trên dây đàn hồi với tốc độ truyền sóng v và bước sóng $\\lambda$. Hệ thức đúng là",
+      "A": "$v = f \\lambda$.",
+      "B": "$v = \\frac{\\lambda}{f}$.",
+      "C": "$v = 2\\pi f \\lambda$.",
+      "D": "$v = \\frac{2\\pi \\lambda}{f}$.",
+      "True": "A"
+    },
+    {
+      "Q": "Ví dụ nào sau đây không chứng tỏ sóng có năng lượng?",
+      "A": "Sóng biển có thể nâng con thuyền lên cao.",
+      "B": "Tai ta nghe được là do sóng âm truyền đến làm màng nhĩ rung.",
+      "C": "Sóng điện từ truyền đến một anten có thể làm cho các electron trong anten dao động.",
+      "D": "Pit-tông dao động trong xi lanh động cơ chứng tỏ nó nhận được năng lượng sóng.",
+      "True": "D"
+    },
+    {
+      "Q": "Để phân loại sóng ngang và sóng dọc người ta dựa vào",
+      "A": "phương truyền sóng và tần số sóng.",
+      "B": "phương truyền sóng và bước sóng.",
+      "C": "phương dao động và phương truyền sóng.",
+      "D": "phương dao động và chu kỳ sóng.",
+      "True": "C"
+    },
+    {
+      "Q": "Sóng dọc là sóng các phần tử",
+      "A": "có phương dao động nằm ngang.",
+      "B": "có phương dao động thẳng đứng.",
+      "C": "có phương dao động vuông góc với phương truyền sóng.",
+      "D": "có phương dao động trùng với phương truyền sóng.",
+      "True": "D"
+    },
+    {
+      "Q": "Khi sóng âm truyền từ môi trường không khí vào môi trường nước thì",
+      "A": "chu kì của nó tăng.",
+      "B": "tần số của nó không thay đổi.",
+      "C": "bước sóng của nó giảm.",
+      "D": "bước sóng của nó không thay đổi.",
+      "True": "B"
+    },
+    {
+      "Q": "Sóng điện từ là",
+      "A": "Dao động điện từ lan truyền trong không gian theo thời gian.",
+      "B": "Điện tích lan truyền trong không gian theo thời gian.",
+      "C": "Loại sóng có một trong hai thành phần: điện trường hoặc từ trường.",
+      "D": "Loại sóng chỉ truyền được trong môi trường đàn hồi (vật chất).",
+      "True": "A"
+    },
+    {
+      "Q": "Tất cả các sóng điện từ đều có cùng",
+      "A": "tốc độ khi truyền trong một môi trường nhất định.",
+      "B": "tần số khi truyền trong môi trường chân không.",
+      "C": "chu kì khi truyền trong một môi trường nhất định.",
+      "D": "tốc độ khi truyền trong chân không.",
+      "True": "D"
+    },
+    {
+      "Q": "Trong các loại tia: Rơn-ghen, hồng ngoại, tử ngoại, đơn sắc màu lục; tia có bước sóng lớn nhất là",
+      "A": "tia tử ngoại.",
+      "B": "tia hồng ngoại.",
+      "C": "tia đơn sắc màu lục.",
+      "D": "tia Rơn-ghen.",
+      "True": "B"
+    },
+    {
+      "Q": "Thứ tự sắp xếp tăng dần của tần số trong thang sóng điện từ là",
+      "A": "tia X - tia tử ngoại - tia hồng ngoại - ánh sáng nhìn thấy - sóng vô tuyến.",
+      "B": "tia X - tia tử ngoại - ánh sáng nhìn thấy - tia hồng ngoại - sóng vô tuyến.",
+      "C": "sóng vô tuyến - tia hồng ngoại - ánh sáng nhìn thấy - tia tử ngoại - tia X.",
+      "D": "sóng vô tuyến - ánh sáng nhìn thấy - tia hồng ngoại - tia tử ngoại - tia X.",
+      "True": "C"
+    },
+    {
+      "Q": "Điều kiện để hai sóng cơ khi gặp nhau, giao thoa được với nhau là hai sóng phải xuất phát từ hai nguồn dao động và",
+      "A": "cùng biên độ và có hiệu số pha không đổi theo thời gian.",
+      "B": "cùng tần số, cùng phương.",
+      "C": "cùng pha ban đầu và cùng biên độ.",
+      "D": "cùng tần số cùng phương và có hiệu số pha không đổi theo thời gian.",
+      "True": "D"
+    },
+    {
+      "Q": "Trong vùng giao thoa của hai sóng kết hợp cùng pha, bước sóng $\\lambda$ những điểm có khoảng cách tới hai nguồn sóng lần lượt là $d_1$ và $d_2$ sẽ dao động với biên độ cực đại khi",
+      "A": "$d_2 - d_1 = (k + 1)\\frac{\\lambda}{2}$ với $k=0;\\pm1;\\pm2;...$.",
+      "B": "$d_2 - d_1 = (k + \\frac{1}{2})\\lambda$ với $k=0;\\pm1;\\pm2;...$.",
+      "C": "$d_2 - d_1 = k\\frac{\\lambda}{2}$ với $k=0;\\pm1;\\pm2;...$.",
+      "D": "$d_2 - d_1 = k\\lambda$ với $k=0;\\pm1;\\pm2;...$.",
+      "True": "D"
+    },
+    {
+      "Q": "Tia Rơn-ghen có bước sóng",
+      "A": "Nhỏ hơn bước sóng của tia tử ngoại.",
+      "B": "Nhỏ hơn bước sóng của tia gamma.",
+      "C": "Lớn hơn bước sóng của ánh sáng tím.",
+      "D": "Lớn hơn bước sóng của tia tử ngoại.",
+      "True": "A"
+    },
+    {
+      "Q": "Trong chân không, tất cả các sóng điện từ đều truyền với tốc độ",
+      "A": "$c = 1.5 \\times 10^8\\ \\text{m/s}$.",
+      "B": "$c = 2.0 \\times 10^8\\ \\text{m/s}$.",
+      "C": "$c = 2.5 \\times 10^8\\ \\text{m/s}$.",
+      "D": "$c = 3.0 \\times 10^8\\ \\text{m/s}$.",
+      "True": "D"
+    },
+    {
+      "Q": "Phát biểu nào sau đây là đúng khi nói về sóng dừng?",
+      "A": "Những điểm luôn đứng yên gọi là nút sóng.",
+      "B": "Những điểm luôn đứng yên gọi là bụng sóng.",
+      "C": "Những điểm luôn dao động với biên độ cực đại gọi là nút sóng.",
+      "D": "Những điểm luôn dao động với biên độ cực tiểu gọi là bụng sóng.",
+      "True": "A"
+    },
+    {
+      "Q": "Trên một sợi dây có sóng dừng với bước sóng là $\\lambda$. Khoảng cách giữa hai nút sóng liền kề",
+      "A": "$\\frac{\\lambda}{2}$.",
+      "B": "$2\\lambda$.",
+      "C": "$\\lambda$.",
+      "D": "$\\frac{\\lambda}{4}$.",
+      "True": "A"
+    },
+    {
+      "Q": "Sóng dừng trên một sợi dây đàn hồi chiều dài L = PQ được mô tả như Hình bên. Số nút sóng (kể cả hai đầu dây) và số bụng sóng trên dây là",
+      "A": "hai nút sóng và ba bụng sóng.",
+      "B": "ba nút sóng và bốn bụng sóng.",
+      "C": "bốn nút sóng và ba bụng sóng.",
+      "D": "bốn nút sóng và sáu bụng sóng.",
+      "True": "C"
+    },
+    {
+      "Q": "Từ hình ảnh sóng dừng trên dây như hình vẽ. Trên dây có mấy nút sóng?",
+      "A": "3.",
+      "B": "4.",
+      "C": "5.",
+      "D": "6.",
+      "True": "C"
+    },
+    {
+      "Q": "Tại một điểm O trên mặt nước có một nguồn dao động điều hoà theo phương thẳng đứng với tần số 2 Hz. Từ điểm O có những gợn sóng tròn lan rộng ra xung quanh. Khoảng cách giữa hai gợn sóng kế tiếp là 20 cm. Tốc độ truyền sóng trên mặt nước là",
+      "A": "20 cm/s.",
+      "B": "40 cm/s.",
+      "C": "80 cm/s.",
+      "D": "120 cm/s.",
+      "True": "B"
+    },
+    {
+      "Q": "Trên sợi dây có hai đầu cố định đang xảy ra sóng dừng với 6 điểm đứng yên. Số nút sóng trên dây là",
+      "A": "6 nút.",
+      "B": "5 nút.",
+      "C": "7 nút.",
+      "D": "4 nút.",
+      "True": "A"
+    },
+    {
+      "Q": "Ở mặt chất lỏng, tại hai điểm S$_1$ và S$_2$, có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp có bước sóng 2,5 cm. Trong vùng giao thoa, M là điểm cách S$_1$ và S$_2$ lần lượt là 9 cm và d. M thuộc vân giao thoa cực đại khi d nhận giá trị nào sau đây?",
+      "A": "14 cm.",
+      "B": "20 cm.",
+      "C": "10 cm.",
+      "D": "16 cm.",
+      "True": "D"
+    },
+    {
+      "Q": "Một sóng vô tuyến có tần số $10^8$ Hz được truyền trong không trung với tốc độ $3 \\times 10^8$ m/s. Bước sóng của sóng đó là",
+      "A": "1,5 m.",
+      "B": "3 m.",
+      "C": "0,33 m.",
+      "D": "0,16 m.",
+      "True": "B"
+    },
+    {
+      "Q": "Trong một thí nghiệm Young, biết a = 0,15 mm; D = 1,20 m; khoảng cách giữa 11 vân sáng liên tiếp là 5,2 mm. Bước sóng ánh sáng là bao nhiêu μm?",
+      "type": "short_answer",
+      "correctAnswer": "0.65",
+      "True": "S"
+    },
+    {
+      "Q": "Một sợi dây đàn hồi dài 0,25 m, hai đầu cố định. Sóng dừng trên sợi dây có bước sóng dài nhất bằng bao nhiêu mét?",
+      "type": "short_answer",
+      "correctAnswer": "0.5",
+      "True": "S"
+    },
+    {
+      "Q": "Trong thí nghiệm Y-âng về giao thoa ánh sáng. Chiếu ánh sáng đơn sắc vào hai khe hẹp cách nhau 1 mm thì trên màn phía sau hai khe, cách mặt phẳng chứa hai khe 1,2 m ta thu được hệ vân giao thoa, khoảng cách từ vân trung tâm đến vân sáng bậc 5 là 4,5 mm. Ánh sáng đơn sắc có bước sóng bằng bao nhiêu nanomet?",
+      "type": "short_answer",
+      "correctAnswer": "750",
+      "True": "S"
+    },
+    {
+      "Q": "Một sóng cơ học lan truyền với tốc độ 32 m/s, bước sóng 3,2 m. Tần số của sóng đó là bao nhiêu Hz?",
+      "type": "short_answer",
+      "correctAnswer": "10",
+      "True": "S"
+    },
+    {
+      "Q": "Một sóng hình sin truyền theo phương Ox từ nguồn O với tần số 20 Hz, có tốc độ truyền sóng là 0,7 m/s. Bước sóng của sóng là $\\lambda$ (cm). Tìm $\\lambda.$ (Làm tròn kết quả đến chữ số hàng phần mười).",
+      "type": "short_answer",
+      "correctAnswer": "3.5",
+      "True": "S"
+    },
+    {
+      "Q": "Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe là 1 mm, khoảng cách từ mặt phẳng chứa hai khe đến màn quan sát là 2 m. Nguồn sáng đơn sắc có bước sóng 0,45 μm. Khoảng vân giao thoa trên màn là $i$ (mm). Tìm $i$. (Làm tròn kết quả đến chữ số hàng phần mười).",
+      "type": "short_answer",
+      "correctAnswer": "0.9",
+      "True": "S"
+    },
+    {
+      "Q": "Một sợi dây AB có chiều dài 1 m căng ngang, đầu A cố định, đầu B gắn với một nhánh của âm thoa dao động điều hoà với tần số 20 Hz. Trên dây AB có một sóng dừng ổn định với 4 bụng sóng, B được coi là nút sóng. Tốc độ truyền sóng trên dây là bao nhiêu m/s?",
+      "type": "short_answer",
+      "correctAnswer": "10",
+      "True": "S"
+    },
+    {
+      "Q": "Trong thí nghiệm giao thoa sóng trên mặt nước với hai nguồn kết hợp A và B dao động cùng pha cách nhau 13 cm, tốc độ truyền sóng là 0,5 m/s với tần số sóng là 25 Hz. Số điểm dao động với biên độ cực đại trong vùng không gian giữa hai nguồn bằng bao nhiêu?",
+      "type": "short_answer",
+      "correctAnswer": "13",
+      "True": "S"
+    },
+    {
+      "Q": "Một sóng có tần số 60 Hz truyền trong một môi trường đồng chất. Tại một thời điểm, hai điểm gần nhất trên cùng phương truyền sóng dao động lệch pha nhau π cách nhau 60 cm. Tốc độ lan truyền của sóng bằng bao nhiêu m/s?",
+      "type": "short_answer",
+      "correctAnswer": "72",
+      "True": "S"
+    },
+    {
+      "Q": "Phương trình dao động sóng tại điểm O có dạng u = 5cos(200πt) mm. Biên độ sóng bằng bao nhiêu mm?",
+      "type": "short_answer",
+      "correctAnswer": "5",
+      "True": "S"
+    },
+    {
+      "Q": "Trong một buổi cắm trại, nhóm học sinh quan sát sóng nước trên mặt hồ khi có bạn Nam ném hòn sỏi xuống mặt hồ phẳng lặng. Hãy cho biết các phát biểu sau là đúng hay sai.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Khi viên sỏi rơi xuống hồ, các gợn sóng tròn lan rộng dần ra xung quanh. Đây là một ví dụ của sóng cơ.",
+          "correct": true
+        },
+        {
+          "text": "Các phân tử nước trên mặt hồ cùng lan truyền ra xa theo hướng sóng truyền.",
+          "correct": false
+        },
+        {
+          "text": "Sóng nước truyền đi mang năng lượng nhưng không mang phân tử nước từ chỗ viên sỏi rơi đến bờ.",
+          "correct": true
+        },
+        {
+          "text": "Nếu quan sát thấy khoảng cách giữa hai đỉnh sóng liên tiếp là 10 cm và trong 2 giây có 5 gợn sóng liên tiếp truyền qua chỗ quan sát, thì vận tốc truyền sóng là 0,25 m/s.",
+          "correct": false
+        }
+      ],
+      "True": "T"
+    },
+    {
+      "Q": "Cho hai điểm gần nhất trên cùng phương truyền sóng dao động cùng pha cách nhau 60 cm. Biết tốc độ truyền sóng là 300 m/s.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Sóng truyền với bước sóng là $60\\ \\text{cm}$.",
+          "correct": true
+        },
+        {
+          "text": "Khoảng cách giữa hai điểm gần nhau nhất trên phương truyền sóng dao động ngược pha là 15 cm.",
+          "correct": false
+        },
+        {
+          "text": "Chu kì sóng là 2 ms.",
+          "correct": true
+        },
+        {
+          "text": "Quãng đường sóng truyền được sau 2 chu kì là 120 cm.",
+          "correct": false
+        }
+      ],
+      "True": "T"
+    },
+    {
+      "Q": "Một sợi dây AB có chiều dài 3 m hai đầu cố định. Kích thích cho sợi dây dao động với tần số 100 Hz thì trên dây xuất hiện sóng dừng. Tốc độ truyền sóng trên dây là 150 m/s.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Hai đầu dây A, B đều là nút.",
+          "correct": true
+        },
+        {
+          "text": "Đầu A của sợi dây không dao động.",
+          "correct": true
+        },
+        {
+          "text": "Số nút và số bụng sóng trong trường hợp này như nhau.",
+          "correct": false
+        },
+        {
+          "text": "Trên dây có 3 bụng sóng.",
+          "correct": false
+        }
+      ],
+      "True": "T"
+    },
+    {
+      "Q": "Trong một thí nghiệm Young về giao thoa ánh sáng, khi nguồn sáng là ánh sáng đơn sắc có bước sóng λ, người ta đo khoảng cách giữa 9 vân sáng liên tiếp là 25,3 mm. Cho biết khoảng cách giữa hai khe là 0,200 mm và khoảng cách từ hai khe đến màn là 1 m.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Khoảng vân là i = 3,16 mm.",
+          "correct": false
+        },
+        {
+          "text": "Bước sóng λ = 0,632 nm.",
+          "correct": false
+        },
+        {
+          "text": "Vân tối thứ 3 so với vân sáng trung tâm là 9,48 mm.",
+          "correct": true
+        },
+        {
+          "text": "Khoảng cách từ vân sáng bậc hai đến vân tối thứ tư ở cùng bên so với vân sáng trung tâm là 4,74 m.",
+          "correct": false
+        }
+      ],
+      "True": "T"
+    },
+    {
+      "Q": "Trên một sợi dây dài $2\\ \\text{m}$ có một hệ sóng dừng với một đầu dây cố định và một đầu dây tự do. Trên dây có tất cả 5 nút sóng. Tần số dao động của dây là $f$.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Trên sợi dây có 5 bụng sóng.",
+          "correct": false
+        },
+        {
+          "text": "Bước sóng của sóng dừng trên sợi dây gần bằng $0.8\\ \\text{m}$.",
+          "correct": true
+        },
+        {
+          "text": "Tốc độ truyền sóng trên dây là $v = 64\\ \\text{m/s}$.",
+          "correct": true
+        },
+        {
+          "text": "Nếu tốc độ truyền sóng và chiều dài dây không đổi, để trên dây có tất cả 13 nút sóng thì tần số dao động của dây là $f' = 48\\ \\text{Hz}$.",
+          "correct": true
+        }
+      ],
+      "True": "T"
+    },
+    {
+      "Q": "Trong thí nghiệm Young về giao thoa ánh sáng đơn sắc, người ta sử dụng hai khe hẹp đặt cách nhau $a = 1\\ \\text{mm},$ mặt phẳng chứa hai khe cách màn quan sát $D = 2\\ \\text{m}.$ Biết ánh sáng đơn sắc có bước sóng λ = 0,6 μm.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Khoảng vân i = 1,2 mm.",
+          "correct": true
+        },
+        {
+          "text": "Tại điểm N trên màn quan sát, cách vân trung tâm 3,6 mm là một vân tối.",
+          "correct": true
+        },
+        {
+          "text": "Sử dụng thêm ánh sáng đơn sắc có bước sóng λ = 0,45 μm. Biết M, N là hai điểm nằm cùng phía với vân sáng trung tâm và cách vân trung tâm lần lượt là 5,5 mm và 22 mm. Số vị trí trùng nhau của hai bức xạ trên đoạn MN là 4.",
+          "correct": false
+        },
+        {
+          "text": "Sử dụng thêm ánh sáng đơn sắc có bước sóng λ = 0,45 μm. Số vân sáng quan sát được trong khoảng từ vân sáng trung tâm đến vị trí trùng nhau lần thứ hai của hai bức xạ trên là 11 vân.",
+          "correct": true
+        }
+      ],
+      "True": "T"
+    }
+  ]
+}
