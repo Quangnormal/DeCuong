@@ -1,0 +1,506 @@
+{
+  "Mon": "Lịch sử 11",
+  "QA": [
+    {
+      "Q": "Từ sau chiến tranh thế giới thứ nhất, cuộc đấu tranh giành độc lập dân tộc ở Đông Nam Á có điểm mới nào sau đây?",
+      "A": "Xuất hiện và phát triển theo hai khuynh hướng cách mạng: tư sản và vô sản",
+      "B": "Xuất hiện và phát triển theo hai khuynh hướng cách mạng: phong kiến và tư sản",
+      "C": "Khuynh hướng vô sản được nối tiếp sau khi khuynh hướng tư sản đã thất bại",
+      "D": "Tận dụng thời cơ chiến tranh thế giới thứ nhất, nhiều nước đã tuyên bố độc lập",
+      "True": "A"
+    },
+    {
+      "Q": "Từ thế kỉ XVI đến thế kỉ XIX, nhân dân In-đô-nê-xi-a đấu tranh chống lại thực dân nào sau đây?",
+      "A": "Hà Lan.",
+      "B": "Tây Ban Nha.",
+      "C": "Anh.",
+      "D": "Pháp.",
+      "True": "A"
+    },
+    {
+      "Q": "Từ giữa thế kỷ XVI đến cuối thế kỷ XIX, nhân dân Phi-líp-pin đấu tranh chống lại thực dân nào sau đây?",
+      "A": "Tây Ban Nha.",
+      "B": "Bồ Đào Nha.",
+      "C": "Mĩ.",
+      "D": "Hà Lan.",
+      "True": "A"
+    },
+    {
+      "Q": "Điểm chung trong phong trào giải phóng dân tộc ở các nước Việt Nam, Lào, Cam-pu-chia cuối thế kỉ XIX là",
+      "A": "theo khuynh hướng tư sản",
+      "B": "theo khuynh hướng vô sản",
+      "C": "Theo khuynh hướng phong kiến",
+      "D": "Từng bước giành được thắng lợi",
+      "True": "C"
+    },
+    {
+      "Q": "Mục tiêu hàng đầu trong các phong trào đấu tranh của khu vực Đông Nam Á sau Chiến tranh thế giới thứ hai là",
+      "A": "giành độc lập dân tộc.",
+      "B": "đòi quyền tự do kinh doanh.",
+      "C": "đòi các quyền dân chủ, bình đẳng",
+      "D": "đòi quyền tự quyết dân tộc.",
+      "True": "A"
+    },
+    {
+      "Q": "Nội dung nào sau đây phản ánh đúng đặc điểm của phong trào đấu tranh giải phóng dân tộc ở Đông Nam Á sau chiến tranh thế giới thứ hai?",
+      "A": "Phát triển đồng thời theo hai khuynh hướng tư sản và vô sản",
+      "B": "Khuynh hướng tư sản giành được thắng lợi ở tất cả các nước",
+      "C": "Khuynh hướng vô sản giành được thắng lợi ở tất cả các nước",
+      "D": "Đấu tranh bằng phương pháp hòa bình, bất hợp tác là chủ yếu",
+      "True": "A"
+    },
+    {
+      "Q": "Thời kì đầu sau khi độc lập, để xây dựng và phát triển đất nước, nhóm các nước sáng lập ASEAN đã thực hiện chính sách",
+      "A": "công nghiệp hóa hướng tới xuất khẩu.",
+      "B": "công nghiệp hóa thay thế nhập khẩu",
+      "C": "công nghiệp hóa xã hội chủ nghĩa.",
+      "D": "ưu tiên phát triển công nghiệp nặng",
+      "True": "B"
+    },
+    {
+      "Q": "Cuối thế kỉ XIX - đầu thế kỉ XX, chính sách nào sau đây của chủ nghĩa thực dân là nguyên nhân sâu xa dẫn đến sự chia rẽ sâu sắc giữa các cộng đồng dân cư ở các nước Đông Nam Á?",
+      "A": "Chính sách \"chia để trị\".",
+      "B": "Chính sách ngu dân.",
+      "C": "Chính sách \"Kinh tế chỉ huy\".",
+      "D": "Chính sách \"Cướp ruộng\".",
+      "True": "A"
+    },
+    {
+      "Q": "Nội dung nào sau đây phản ánh không đúng về chính sách công nghiệp hóa được nhóm 5 nước sáng lập ASEAN thực hiện trong những năm 60 của thế kỉ XX?",
+      "A": "Tận dụng tốt nguồn vốn và công nghệ nước ngoài.",
+      "B": "Đẩy mạnh xuất khẩu, phát triển ngoại thương.",
+      "C": "Mở cửa kinh tế, thu hút vốn đầu tư nước ngoài.",
+      "D": "Từng bước giải quyết các vấn đề sắc tộc, tôn giáo.",
+      "True": "D"
+    },
+    {
+      "Q": "Nội dung nào sau đây không phải là tác động tích cực trong chính sách cai trị của thực dân phương Tây đối với khu vực Đông Nam Á?",
+      "A": "du nhập nền sản xuất công nghiệp.",
+      "B": "gắn kết khu vực với thị trường thế giới.",
+      "C": "thúc đẩy phát triển một số yếu tố về văn hóa.",
+      "D": "các mâu thuẫn xã hội được giải quyết triệt để.",
+      "True": "D"
+    },
+    {
+      "Q": "Một trong những tác động tiêu cực từ chính sách cai trị của thực dân phương Tây đến khu vực Đông Nam Á là",
+      "A": "kinh tế phát triển với tốc độ nhanh, quy mô lớn.",
+      "B": "làm chia rẽ sâu sắc khối đoàn kết dân tộc",
+      "C": "đặt cơ sở hình thành nền văn hóa truyền thống.",
+      "D": "giải quyết triệt để các mâu thuẫn trong xã hội.",
+      "True": "B"
+    },
+    {
+      "Q": "Chiến tranh bảo vệ Tổ quốc có vai trò quan trọng",
+      "A": "trong việc hình thành và nâng cao lòng tự hào dân tộc.",
+      "B": "trong việc hình thành và phát triển truyền thống yêu nước.",
+      "C": "đối với sự sinh tồn và phát triển của quốc gia, dân tộc",
+      "D": "khơi dậy và củng cố tinh thần đoàn kết, lòng tự hào dân tộc.",
+      "True": "C"
+    },
+    {
+      "Q": "Một trong những cuộc kháng chiến thắng lợi tiêu biểu của dân tộc Việt Nam trước Cách mạng tháng Tám năm 1945 là",
+      "A": "kháng chiến chống quân Nam Hán thế kỉ X",
+      "B": "kháng chiến chống quân Triệu thế kỉ II TCN",
+      "C": "kháng chiến chống quân Minh thế kỉ XV",
+      "D": "kháng chiến chống thực dân Pháp thế kỉ XIX",
+      "True": "A"
+    },
+    {
+      "Q": "Trận quyết chiến chiến lược trong cuộc kháng chiến chống quân xâm lược Nam Hán năm 938 diễn ra tại",
+      "A": "sông Bạch Đằng.",
+      "B": "sông Như Nguyệt.",
+      "C": "bến Đông Bộ Đầu.",
+      "D": "cửa ải Hàm Tử",
+      "True": "A"
+    },
+    {
+      "Q": "Cuộc khởi nghĩa nào sau đây của quân dân Việt Nam có đặc điểm độc đáo: sự khởi đầu và kết thúc cuộc khởi nghĩa là một hội thề lịch sử?",
+      "A": "Khởi nghĩa Mai Thúc Loan",
+      "B": "Khởi nghĩa Hai Bà Trưng",
+      "C": "Khởi nghĩa Lam Sơn",
+      "D": "Khởi nghĩa Bà Triệu",
+      "True": "C"
+    },
+    {
+      "Q": "Dòng sông nào sau đây ba lần ghi danh quân dân Việt Nam chiến thắng quân xâm lược?",
+      "A": "Sông Đà",
+      "B": "Sông Bạch Đằng",
+      "C": "Sông Hồng",
+      "D": "Sông Mê Công",
+      "True": "B"
+    },
+    {
+      "Q": "Một trong những cuộc kháng chiến không thành công của dân tộc Việt Nam trước cách mạng tháng Tám năm 1945 là",
+      "A": "kháng chiến chống quân Thanh thế kỉ XVIII",
+      "B": "kháng chiến chống quân Tống thế kỉ XI",
+      "C": "kháng chiến chống thực dân Pháp thế kỉ XIX",
+      "D": "kháng chiến chống quân Nam Hán thế kỉ X",
+      "True": "C"
+    },
+    {
+      "Q": "Lãnh đạo cuộc kháng chiến chống quân Tống xâm lược năm 981 là",
+      "A": "Lý Thường Kiệt.",
+      "B": "Lê Hoàn.",
+      "C": "Ngô Quyền.",
+      "D": "Trần Quốc Tuấn.",
+      "True": "B"
+    },
+    {
+      "Q": "Nội dung nào sau đây lý giải không đúng về nhận định: \"Với vị trí địa chiến lược quan trọng, trong nhiều thế kỉ, Việt Nam là quốc gia thường xuyên trở thành đối tượng nhòm nhó, can thiệp và xâm lược của các thế lực bên ngoài\"?",
+      "A": "Nằm trên tuyến đường giao thông, giao thương lâu đời và quan trọng giữa các nước lớn",
+      "B": "Là trung tâm kinh tế - tài chính duy nhất của thế giới, nhiều nước lớn muốn giao thương",
+      "C": "Là địa bàn tiền tiêu của Đông Nam Á từ phía bắc, cửa ngõ tiến vào bán đảo Trung Ấn",
+      "D": "Liền kề Trung Quốc, án ngữ biển Đông, là cầu nối giữa Đông Nam Á lục địa với hải đảo",
+      "True": "B"
+    },
+    {
+      "Q": "Năm 1258, trong cuộc kháng chiến chống quân Mông Cổ xâm lược, quân dân nhà Trần đã giành thắng lợi vang dội tại",
+      "A": "Đông Bộ Đầu.",
+      "B": "sông Bạch Đằng.",
+      "C": "Chi Lăng - Xương Giang.",
+      "D": "sông Như Nguyệt.",
+      "True": "A"
+    },
+    {
+      "Q": "Năm 1285, trong cuộc kháng chiến chống quân Nguyên xâm lược, quân dân nhà Trần đã tổ chức phản công và giành thắng lợi ở",
+      "A": "cửa Hàm Tử",
+      "B": "sông Như Nguyệt.",
+      "C": "ải Chi Lăng.",
+      "D": "sông Bạch Đằng",
+      "True": "A"
+    },
+    {
+      "Q": "Nội dung nào sau đây là nguyên nhân chủ quan dẫn đến thắng lợi của các cuộc kháng chiến bảo vệ Tổ quốc của nhân dân Việt Nam trước cách mạng Tháng Tám 1945?",
+      "A": "Mục đích kháng chiến của ta là chính nghĩa.",
+      "B": "Kẻ thù gặp khó khăn trong quá trình xâm lược",
+      "C": "Lực lượng quân sự của ta lớn mạnh hơn kẻ thù.",
+      "D": "Ta nhận được ủng hộ, giúp đỡ to lớn từ bên ngoài.",
+      "True": "A"
+    },
+    {
+      "Q": "Trần Quốc Tuấn đã tổng kết nguyên nhân thắng lợi của cuộc kháng chiến chống quân Mông - Nguyên như sau: \"vì vua tôi đồng tâm, anh em hòa mục, cả nước nhà góp sức, giặc phải bị bắt\". Nguyên nhân thắng lợi mà Trần Quốc Tuấn nhắc đến ở đây là",
+      "A": "Lòng yêu nước và tinh thần đoàn kết của dân tộc",
+      "B": "Sự chỉ huy tài tình của các tướng lĩnh",
+      "C": "Những khó khăn của kẻ thù trong quá trình xâm lược",
+      "D": "Các cuộc kháng chiến của ta đều chính nghĩa",
+      "True": "A"
+    },
+    {
+      "Q": "Cuộc kháng chiến nào sau đây của nhân dân ta chống lại kẻ thù xâm lược đến từ phương Tây?",
+      "A": "kháng chiến chống quân Mông Cổ",
+      "B": "kháng chiến chống thực dân Pháp",
+      "C": "kháng chiến chống quân Thanh",
+      "D": "kháng chiến chống quân Tống",
+      "True": "B"
+    },
+    {
+      "Q": "Lãnh đạo cuộc kháng chiến của quân dân ta chống quân xâm lược Tống thế kỉ XI là",
+      "A": "Lý Thường Kiệt.",
+      "B": "Trần Hưng Đạo.",
+      "C": "Lê lợi.",
+      "D": "Quang Trung.",
+      "True": "A"
+    },
+    {
+      "Q": "Chiến tranh bảo vệ Tổ quốc của ta là cuộc chiến tranh chính nghĩa. Tính chất chính nghĩa của cuộc chiến tranh được thể hiện chủ yếu thông qua",
+      "A": "hình thức chiến tranh.",
+      "B": "lực lượng tham gia.",
+      "C": "mục đích chiến tranh.",
+      "D": "thành phần lãnh đạo",
+      "True": "C"
+    },
+    {
+      "Q": "Cuộc kháng chiến nào sau đây đã mở đầu truyền thống kết thúc chiến tranh một cách mềm dẻo để giữ vững hoà hiếu với nước ngoài của dân tộc ta?",
+      "A": "Kháng chiến chống Nam Hán thế kỉ X",
+      "B": "Kháng chiến chống Tống thế kỉ XI.",
+      "C": "Kháng chiến chống Mông - Nguyên thế kỉ XIII.",
+      "D": "Kháng chiến chống Xiêm thế kỉ XVIII",
+      "True": "B"
+    },
+    {
+      "Q": "Một trong những nghệ thuật quân sự tiêu biểu của cuộc kháng chiến chống Tống thời Lý (1075 - 1077) là",
+      "A": "vườn không nhà trống",
+      "B": "Chớp thời cơ",
+      "C": "Đóng cọc trên sông, lợi dụng thủy triều",
+      "D": "Tiên phát chế nhân",
+      "True": "D"
+    },
+    {
+      "Q": "Một trong những nghệ thuật quân sự tiêu biểu của cuộc kháng chiến chống quân Thanh (1789) là",
+      "A": "vườn không nhà trống",
+      "B": "Chớp thời cơ",
+      "C": "Đóng cọc trên sông, lợi dụng thủy triều",
+      "D": "Tiên phát chế nhân",
+      "True": "B"
+    },
+    {
+      "Q": "Nội dung nào sau đây phản ánh không đúng nguyên nhân thắng lợi của cuộc kháng chiến chống quân Mông - Nguyên xâm lược dưới thời Trần?",
+      "A": "Vua tôi nhà Trần có chính sách tích cực đúng đắn, sáng tạo.",
+      "B": "Nhân dân Đại Việt có tinh thần yêu nước và bền bỉ đấu tranh.",
+      "C": "Quân giặc yếu, chủ quan, không có người lãnh đạo tài giỏi.",
+      "D": "Tinh thần đoàn kết và ý chí quyết chiến của quân dân nhà Trần",
+      "True": "C"
+    },
+    {
+      "Q": "Việt Nam nằm trên trục đường giao thông quan trọng, nối liền",
+      "A": "châu Á và châu Mĩ",
+      "B": "Ấn Độ Dương và Thái Bình Dương",
+      "C": "Thái Bình Dương và Đại Tây Dương",
+      "D": "châu Mĩ và châu Đại Dương",
+      "True": "B"
+    },
+    {
+      "Q": "Ở khu vực Đông Nam Á, Việt Nam có vị trí địa chiến lược nào sau đây?",
+      "A": "Là cầu nối giữa Trung Quốc với khu vực Đông Nam Á.",
+      "B": "Nằm trên trục đường giao thông kết nối châu Á và châu Phi.",
+      "C": "Là quốc gia có diện tích và dân số lớn nhất Đông Nam Á.",
+      "D": "Lãnh thổ gồm cả Đông Nam Á lục địa và Đông Nam Á hải đảo.",
+      "True": "A"
+    },
+    {
+      "Q": "Trong cuộc kháng chiến chống Tống (1075-1077), quân và dân nhà Lý đã sử dụng nghệ thuật quân sự nào sau đây?",
+      "A": "Đánh nhanh, thắng nhanh.",
+      "B": "Chủ động tiến công.",
+      "C": "Vây thành, diệt viện.",
+      "D": "Vườn không nhà trống.",
+      "True": "B"
+    },
+    {
+      "Q": "Thắng lợi của cuộc kháng chiến chống quân Thanh xâm lược thế kỉ XVIII gắn liền với sự lãnh đạo của vương triều nào?",
+      "A": "Nhà Tiền Lê.",
+      "B": "Nhà Lý.",
+      "C": "Nhà Tây Sơn.",
+      "D": "Nhà Hồ.",
+      "True": "C"
+    },
+    {
+      "Q": "Trong suốt tiến trình lịch sử, chiến tranh bảo vệ Tổ quốc của nhân dân Việt Nam có vai trò nào sau đây?",
+      "A": "Góp phần định hình bản sắc văn hóa dân tộc Việt.",
+      "B": "Củng cố vị thế cường quốc kinh tế của Việt Nam.",
+      "C": "Khẳng định Việt Nam là cường quốc về quân sự.",
+      "D": "Góp phần bảo vệ vững chắc nền độc lập dân tộc.",
+      "True": "D"
+    },
+    {
+      "Q": "Nội dung nào sau đây là nguyên nhân khách quan dẫn đến một số cuộc chiến tranh bảo vệ Tổ quốc của nhân dân Việt Nam trước năm 1945 bị thất bại?",
+      "A": "Giai cấp lãnh đạo không xây dựng khối đại đoàn kết toàn dân.",
+      "B": "Tương quan lực lượng không có lợi cho nhân dân Việt Nam.",
+      "C": "Các phong trào đấu tranh diễn ra khi không có giai cấp lãnh đạo.",
+      "D": "Sai lầm trong cách tổ chức, lãnh đạo quần chúng đấu tranh.",
+      "True": "B"
+    },
+    {
+      "Q": "Cuộc kháng chiến chống quân Nam Hán (938) của Ngô Quyền có điểm khác biệt nào so với các cuộc đấu tranh khác của nhân dân Việt Nam thời Bắc thuộc?",
+      "A": "Lần đầu tiên khôi phục được độc lập dân tộc.",
+      "B": "Lần đầu tiên thành lập chính quyền mới, tự trị.",
+      "C": "Buộc chính quyền phương Bắc công nhận độc lập.",
+      "D": "Mở ra thời kỳ độc lập, tự chủ lâu dài cho dân tộc.",
+      "True": "D"
+    },
+    {
+      "Q": "Nguyên nhân chủ quan dẫn đến thất bại của cuộc kháng chiến chống quân Minh dưới triều Hồ và kháng chiến chống Pháp dưới triều Nguyễn là",
+      "A": "triều đình không huy động được sức mạnh toàn dân.",
+      "B": "kháng chiến không có sự lãnh đạo của triều đình.",
+      "C": "triều đình lơ là, mất cảnh giác, không có sự phòng bị",
+      "D": "tương quan lực lượng chênh lệch không có lợi cho ta",
+      "True": "A"
+    },
+    {
+      "Q": "Sau khi đánh đổ chính quyền chúa Nguyễn, một nhiệm vụ đặt ra cho phong trào Tây Sơn là",
+      "A": "tiến quân ra Bắc, phối hợp với vua Lê đánh đổ chúa Trịnh.",
+      "B": "tiến quân ra Bắc tiêu diệt 29 vạn quân Thanh xâm lược",
+      "C": "tiến ra Bắc đánh đổ chính quyền Lê - Trịnh, thống nhất đất nước.",
+      "D": "tiến ra bắc phối hợp với chúa Trịnh lật đổ vua Lê.",
+      "True": "C"
+    },
+    {
+      "Q": "Một trong những điểm độc đáo của cuộc khởi nghĩa Hai Bà Trưng (40 - 43) là",
+      "A": "khởi nghĩa khi chính quyền Đông Hán suy yếu.",
+      "B": "thu hút đông đảo nhân dân tham gia.",
+      "C": "lực lượng thủy binh giữ vai trò tiên phong.",
+      "D": "nhiều nữ tướng tham gia chỉ huy khởi nghĩa.",
+      "True": "D"
+    },
+    {
+      "Q": "Một trong những đặc điểm của cuộc khởi nghĩa Phùng Hưng (cuối thế kỉ VIII) là gì?",
+      "A": "Do triều đình phong kiến lãnh đạo.",
+      "B": "Chống lại ách cai trị của nhà Đường.",
+      "C": "Nhằm mục đích bảo vệ độc lập dân tộc.",
+      "D": "Giành được thắng lợi trọn vẹn và lâu dài",
+      "True": "B"
+    },
+    {
+      "Q": "Một trong những điểm khác biệt của cuộc khởi nghĩa Lam Sơn (1418 - 1427) so với cuộc kháng chiến chống quân Tống xâm lược (1075 - 1077) là",
+      "A": "sử dụng kế sách \"tiên phát chế nhân\".",
+      "B": "diễn ra khi đất nước bị mất độc lập.",
+      "C": "được đông đảo nhân dân tham gia.",
+      "D": "sử dụng kế sách \"vườn không nhà trống\"",
+      "True": "B"
+    },
+    {
+      "Q": "Nội dung nào dưới đây không phản ánh đúng ý nghĩa của phong trào Tây Sơn (1771 - 1789)?",
+      "A": "Từ một cuộc khởi nghĩa địa phương đã phát triển thành phong trào dân tộc rộng lớn.",
+      "B": "Lật đổ chính quyền phong kiến Nguyễn - Trịnh, xoá bỏ tình trạng chia cắt đất nước.",
+      "C": "Đập tan các thế lực ngoại xâm hùng mạnh, bảo vệ vững chắc nền độc lập dân tộc.",
+      "D": "Đập tan âm mưu thủ tiêu nền văn hoá Đại Việt, mở ra thời kì phát triển mới của đất nước.",
+      "True": "D"
+    },
+    {
+      "Q": "Một trong những đóng góp to lớn của phong trào Tây Sơn (1771-1802) đối với lịch sử dân tộc Việt Nam là",
+      "A": "lật đổ ách đô hộ tàn bạo của nhà Minh ở Việt Nam.",
+      "B": "thống nhất hoàn toàn đất nước về mặt nhà nước.",
+      "C": "đánh tan quân xâm lược, bảo vệ nền độc lập dân tộc.",
+      "D": "ngăn chặn được nguy cơ Pháp xâm lược Việt Nam.",
+      "True": "C"
+    },
+    {
+      "Q": "Một trong những điểm giống nhau giữa khởi nghĩa Hai Bà Trưng năm 40 và khởi nghĩa Lý Bí năm 542 là",
+      "A": "diễn ra qua hai giai đoạn khởi nghĩa và kháng chiến.",
+      "B": "đều chống lại ách đô hộ của nhà Hán.",
+      "C": "đều chống lại ách đô hộ của nhà Đường.",
+      "D": "đều mở ra bước ngoặt mới trong lịch sử dân tộc.",
+      "True": "D"
+    },
+    {
+      "Q": "Cuộc khởi nghĩa của Bà Triệu (năm 248) đã",
+      "A": "mở đầu cuộc đấu tranh giành độc lập của nhân dân ta thời Bắc thuộc",
+      "B": "tiếp tục khẳng định sức mạnh và ý chí của phụ nữ Việt Nam",
+      "C": "Mở ra thời kì độc lập, tự chủ lâu dài trong lịch sử dân tộc",
+      "D": "Tạo cơ sở cho sự thắng lợi hoàn toàn của cuộc đấu tranh giành độc lập về sau",
+      "True": "B"
+    },
+    {
+      "Q": "Sau khi đánh bại quân Thanh xâm lược (1789), chính quyền của vua Quang Trung đã",
+      "A": "đặt kinh đô ở Nghệ An, kiểm soát toàn bộ Đàng Trong và Đàng Ngoài cũ.",
+      "B": "đánh bại tập đoàn vua Lê - chúa Trịnh ở Đàng Ngoài, thống nhất đất nước",
+      "C": "đóng đô ở Phú Xuân, kiểm soát phía bắc Đàng Trong và toàn bộ Đàng Ngoài cũ.",
+      "D": "xây dựng kinh thành ở Huế, kiểm soát toàn bộ Đàng Trong và Đàng Ngoài.",
+      "True": "C"
+    },
+    {
+      "Q": "Nội dung nào sau đây không phản ánh đúng đặc điểm nổi bật của các cuộc khởi nghĩa của nhân dân ta thời kì Bắc thuộc?",
+      "A": "Liên tiếp nổ ra ở ba quận Giao Chỉ, Cửu Chân và Nhật Nam.",
+      "B": "Được đông đảo nhân dân tham gia, hưởng ứng.",
+      "C": "Nhiều cuộc khởi nghĩa lập được chính quyền trong một thời gian.",
+      "D": "Mở ra thời kì độc lập tự chủ lâu dài của dân tộc.",
+      "True": "D"
+    },
+    {
+      "Q": "Các cuộc khởi nghĩa của nhân dân ta thời kì Bắc thuộc đều diễn ra trong bối cảnh lịch sử nào sau đây?",
+      "A": "Chính quyền phương Bắc suy yếu.",
+      "B": "Đất nước bị mất độc lập, tự chủ.",
+      "C": "Lực lượng vũ trang của ta lớn mạnh.",
+      "D": "Nhân dân Việt Nam đã bị đồng hóa.",
+      "True": "B"
+    },
+    {
+      "Q": "Nội dung nào sau đây không phải là bài học lịch sử của các cuộc khởi nghĩa và chiến tranh giải phóng dân tộc của nhân dân ta (từ thế kỉ III TCN đến cuối thế kỉ XIX)?",
+      "A": "Xây dựng lực lượng chống giặc ngoại xâm.",
+      "B": "Xây dựng khối đại đoàn kết toàn dân.",
+      "C": "Nghệ thuật quân sự đánh giặc giữ nước.",
+      "D": "Nâng cao sức năng lực lãnh đạo của Đảng.",
+      "True": "D"
+    },
+    {
+      "Q": "Nguyên nhân sâu xa bùng nổ các cuộc đấu tranh của nhân dân Việt Nam thời Bắc thuộc là",
+      "A": "nhân dân Việt Nam đã thiết lập được chính quyền vững mạnh.",
+      "B": "chính quyền đô hộ của phương Bắc khủng hoảng, tổ chức lỏng lẻo.",
+      "C": "do ách cai trị, bóc lột nặng nề của chính quyền đô hộ phương Bắc.",
+      "D": "do mâu thuẫn của các thủ lĩnh người Việt với chính quyền đô hộ.",
+      "True": "C"
+    },
+    {
+      "Q": "Nghệ thuật quân sự nào dưới đây trong kháng chiến chống quân xâm lược Tống thời Lý được kế thừa và phát huy trong cuộc khởi nghĩa Lam Sơn?",
+      "A": "Kế sách \"tiên phát chế nhân\".",
+      "B": "Kế sách \"thanh dã\"",
+      "C": "Chủ động kết thúc chiến tranh.",
+      "D": "Đánh nhanh thắng nhanh.",
+      "True": "B"
+    },
+    {
+      "Q": "Cuộc khởi nghĩa Lam Sơn (1418-1427) thắng lợi đã",
+      "A": "chấm dứt vĩnh viễn ách đô hộ ngàn năm Bắc thuộc.",
+      "B": "chấm dứt mọi cuộc chiến tranh xâm lược từ Trung Quốc.",
+      "C": "mở đầu thời kì độc lập, tự chủ lâu dài cho dân tộc.",
+      "D": "đập tan âm mưu thủ tiêu văn hóa Đại Việt của Trung Quốc",
+      "True": "C"
+    },
+    {
+      "Q": "Một trong những đặc điểm nổi bật về nghệ thuật quân sự của các cuộc khởi nghĩa trong lịch sử Việt Nam từ thế kỉ III TCN đến cuối thế kỉ XIX là",
+      "A": "lấy ít địch nhiều",
+      "B": "lấy lực thắng thế",
+      "C": "tiên phát chế nhân",
+      "D": "vườn không nhà trống",
+      "True": "A"
+    },
+    {
+      "Q": "Đọc đoạn tư liệu sau đây:\n\"Tại Tây Ninh, Trương Quyền liên minh với Pu-côm-bô đánh Pháp. Nguyễn Hữu Huân xây dựng căn cứ ở Đồng Tháp Mười, liên kết với A-cha Xoa (Cam-pu-chia) chống Pháp. Ông bị thực dân Pháp bắt, đày ra hải đảo, khi được tha về lại tiếp tục tổ chức lực lượng đánh Pháp dọc theo các tỉnh Tân An, Mỹ Tho cho đến năm 1875. Tại căn cứ Hòn Chông (Rạch Giá), Nguyễn Trung Trực xây dựng lực lượng mở rộng kháng Pháp khắp vùng Rạch Giá, Kiên Giang...\"",
+      "type": "true_false_set",
+      "questions": [
+        { "text": "Đoạn tư liệu cung cấp thông tin về cuộc kháng chiến chống thực dân Pháp xâm lược của nhân dân Việt Nam tại Bắc Kì.", "correct": false },
+        { "text": "Một số cuộc kháng chiến chống Pháp của nhân dân ta có liên minh chặt chẽ với phong trào kháng chiến ở Cam-pu-chia.", "correct": true },
+        { "text": "Nguyễn Trung Trực đã xây dựng căn cứ ở Tây Ninh và tổ chức lực lượng đánh Pháp ở khắp Tây Ninh, Rạch Giá, Kiên Giang.", "correct": false },
+        { "text": "Trương Quyền, Nguyễn Hữu Huân, Nguyễn Trung Trực đã có sự liên kết chặt chẽ, thống nhất với nhau trong quá trình kháng chiến chống Pháp.", "correct": false }
+      ],
+      "True": "T"
+    },
+    {
+      "Q": "Đọc đoạn tư liệu sau đây:\n\"Từ năm 1920 đến năm 1945, nhiều đảng phái và tổ chức chính trị mới đã ra đời ở Đông Nam Á. Tiêu biểu trong số này là Đảng Lập hiến, Việt Nam Quốc dân đảng, Đảng Cộng Sản Đông Dương (Việt Nam, Đông Dương); Đảng Dân tộc, Đảng Cộng sản (In-đô-nê-xi-a); Đảng Tha-khin, Đảng Cộng sản (Mi-an-ma); Đại hội toàn Mã Lai (Ma-lai-xi-a); Đảng Cộng sản Phi-lip-pin,...\"",
+      "type": "true_false_set",
+      "questions": [
+        { "text": "Trong quá trình đấu tranh giành độc lập, nhân dân các nước Đông Nam Á đã thành lập được nhiều tổ chức chính trị và đảng phái theo các khuynh hướng khác nhau.", "correct": true },
+        { "text": "Trong quá trình đấu tranh giành độc lập từ 1920 - 1945, Đảng Cộng sản đã được thành lập ở tất cả các nước Đông Nam Á.", "correct": false },
+        { "text": "Đảng Dân tộc là một trong những chính đảng cách mạng tiêu biểu của nhân dân Việt Nam và Đông Dương.", "correct": false },
+        { "text": "Việt Nam Quốc dân đảng, Đảng Tha-khin, Đại hội toàn Mã Lai là những đảng phái và tổ chức chính trị tiêu biểu đại diện cho khuynh hướng dân chủ tư sản ở Đông Nam Á.", "correct": true }
+      ],
+      "True": "T"
+    },
+    {
+      "Q": "Đọc đoạn tư liệu sau đây:\nNăm 1075, trước những hành động chuẩn bị xâm lược Đại Việt của nhà Tống, nhà Lý thực hiện kế sách \"tiên phát chế nhân\", bất ngờ tấn công vào vùng tập kết của quân địch ở Quảng Đông và Quảng Tây (Trung Quốc), sau đó nhanh chóng rút quân về nước, chuẩn bị kháng chiến. Năm 1076, quân Tống tiến vào Đại Việt nhưng bị chặn lại ở phòng tuyến sông Như Nguyệt (Bắc Ninh ngày nay). Năm 1077, Lý Thường Kiệt bất ngờ cho quân vượt sông, tấn công vào doanh trại địch. Quân Tống thiệt hại nặng.",
+      "type": "true_false_set",
+      "questions": [
+        { "text": "Đoạn trích cung cấp thông tin về diễn biến, kết quả, ý nghĩa cuộc kháng chiến chống quân xâm lược Tống của vương triều Lý", "correct": true },
+        { "text": "Cuộc kháng chiến được nhắc đến trong đoạn trích diễn ra vào cuối thế kỉ X, do Lý Thường Kiệt lãnh đạo", "correct": false },
+        { "text": "Một trong những mục đích của kế sách \"tiên phát chế nhân\" là nhằm kéo dài thời gian chuẩn bị cho cuộc kháng chiến của ta", "correct": true },
+        { "text": "Trận quyết chiến chiến lược của cuộc kháng chiến diễn ra tại sông Như Nguyệt, phía bắc kinh thành Thăng Long", "correct": true }
+      ],
+      "True": "T"
+    },
+    {
+      "Q": "Trình bày những nét chính về phong trào đấu tranh chống thực dân xâm lược ở Đông Nam Á.",
+      "type": "short_answer",
+      "correctAnswer": "Phong trào đấu tranh chống thực dân ở Đông Nam Á diễn ra sôi nổi, liên tục từ khi thực dân phương Tây xâm lược đến khi các quốc gia giành được độc lập. Các phong trào phát triển từ tự phát đến tự giác, với sự tham gia của nhiều tầng lớp nhân dân. Từ đầu thế kỉ XX, xuất hiện hai khuynh hướng chính: dân chủ tư sản và vô sản. Sau Chiến tranh thế giới thứ hai, phong trào phát triển mạnh mẽ, giành độc lập cho hầu hết các nước trong khu vực.",
+      "True": "S"
+    },
+    {
+      "Q": "Phân tích những tác động của chủ nghĩa thực dân đối với quá trình tái thiết và phát triển của các quốc gia Đông Nam Á (giữa thế kỉ XX)?",
+      "type": "short_answer",
+      "correctAnswer": "Chủ nghĩa thực dân để lại những di sản phức tạp: tích cực (du nhập kỹ thuật, hình thành cơ sở hạ tầng hiện đại, gắn kết với thị trường thế giới) và tiêu cực (nền kinh tế lệ thuộc, mất cân đối, mâu thuẫn xã hội và sắc tộc trầm trọng, văn hóa truyền thống bị xâm hại). Những di sản này ảnh hưởng lâu dài đến quá trình tái thiết và phát triển của các quốc gia Đông Nam Á sau khi giành độc lập.",
+      "True": "S"
+    },
+    {
+      "Q": "Lập bảng thống kê các cuộc kháng chiến chống ngoại xâm thắng lợi tiêu biểu của quân dân ta từ thế kỉ X - XVIII theo yêu cầu",
+      "type": "short_answer",
+      "correctAnswer": "| Tên cuộc kháng chiến | Thời gian | Lãnh đạo | Chiến thắng tiêu biểu |\n|----------------------|-----------|----------|------------------------|\n| Chống Nam Hán | 938 | Ngô Quyền | Trận Bạch Đằng |\n| Chống Tống lần 1 | 981 | Lê Hoàn | Chiến thắng trên sông Bạch Đằng |\n| Chống Tống lần 2 | 1075-1077 | Lý Thường Kiệt | Phòng tuyến sông Như Nguyệt |\n| Chống Mông Cổ lần 1 | 1258 | Vua Trần, Trần Thủ Độ | Trận Đông Bộ Đầu |\n| Chống Nguyên lần 2 | 1285 | Trần Quốc Tuấn | Các trận Hàm Tử, Chương Dương, Tây Kết |\n| Chống Nguyên lần 3 | 1287-1288 | Trần Quốc Tuấn | Trận Bạch Đằng |\n| Chống Minh | 1418-1427 | Lê Lợi, Nguyễn Trãi | Chiến thắng Chi Lăng - Xương Giang |\n| Chống Xiêm | 1785 | Nguyễn Huệ | Trận Rạch Gầm - Xoài Mút |\n| Chống Thanh | 1789 | Quang Trung | Trận Ngọc Hồi - Đống Đa |",
+      "True": "S"
+    },
+    {
+      "Q": "Phân tích vai trò và ý nghĩa của chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam?",
+      "type": "short_answer",
+      "correctAnswer": "Chiến tranh bảo vệ Tổ quốc có vai trò và ý nghĩa to lớn: Bảo vệ nền độc lập, chủ quyền và toàn vẹn lãnh thổ của dân tộc. Củng cố và phát huy tinh thần yêu nước, ý chí tự lực tự cường, truyền thống đoàn kết. Rèn luyện nghệ thuật quân sự độc đáo, sáng tạo. Góp phần hình thành và phát triển bản sắc văn hóa, con người Việt Nam. Khẳng định sức mạnh và vị thế của dân tộc trên trường quốc tế.",
+      "True": "S"
+    },
+    {
+      "Q": "Vì sao nói phong trào khởi nghĩa Tây Sơn đã đặt cơ sở bước đầu cho việc thống nhất đất nước vào cuối thế kỉ XVIII và bảo vệ nền độc lập dân tộc?",
+      "type": "short_answer",
+      "correctAnswer": "Phong trào Tây Sơn đã lật đổ các chính quyền phong kiến cát cứ (chúa Nguyễn ở Đàng Trong, chúa Trịnh ở Đàng Ngoài), xóa bỏ tình trạng chia cắt đất nước kéo dài hơn 2 thế kỷ, đặt nền móng cho sự thống nhất quốc gia. Đồng thời, phong trào đã đánh bại các cuộc xâm lược của Xiêm (1785) và Thanh (1789), bảo vệ vững chắc nền độc lập, chủ quyền của dân tộc.",
+      "True": "S"
+    },
+    {
+      "Q": "Kể tên các cuộc khởi nghĩa tiêu biểu thời kỳ Bắc thuộc và nêu thời gian bùng nổ, tên người lãnh đạo của các cuộc khởi nghĩa đó.",
+      "type": "short_answer",
+      "correctAnswer": "1. Khởi nghĩa Hai Bà Trưng (40 - 43), lãnh đạo: Trưng Trắc, Trưng Nhị.\n2. Khởi nghĩa Bà Triệu (248), lãnh đạo: Triệu Thị Trinh.\n3. Khởi nghĩa Lý Bí (542), lãnh đạo: Lý Bí.\n4. Khởi nghĩa Mai Thúc Loan (722), lãnh đạo: Mai Thúc Loan.\n5. Khởi nghĩa Phùng Hưng (766 - 791), lãnh đạo: Phùng Hưng.\n6. Khởi nghĩa Khúc Thừa Dụ (905), lãnh đạo: Khúc Thừa Dụ.",
+      "True": "S"
+    }
+  ]
+}

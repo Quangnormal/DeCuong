@@ -1,0 +1,1027 @@
+{
+  "Mon": "Sinh 11",
+  "QA": [
+    {
+      "Q": "Hô hấp là quá trình lấy ... liên tục từ môi trường cung cấp cho hô hấp tế bào, tạo năng lượng cho hoạt động sống, đồng thời thải ... sinh ra từ quá trình chuyển hoá ra ngoài.",
+      "A": "CO$_2$ và O$_2$",
+      "B": "O$_2$ và SO$_2$",
+      "C": "O$_2$ và CO$_2$",
+      "D": "CO$_2$ và O$_2$",
+      "True": "C"
+    },
+    {
+      "Q": "Điều nào sau đây đúng với hiệu quả trao đổi khí ở động vật?",
+      "A": "Có sự lưu thông tạo ra sự cân bằng về nồng độ O$_2$ và CO$_2$ để các khí đó khuếch tán qua bề mặt trao đổi khí.",
+      "B": "Có sự lưu thông tạo ra sự chênh lệch về nồng độ O$_2$ và CO$_2$ để các khí đó khuếch tán qua bề mặt trao đổi khí.",
+      "C": "Không có sự lưu thông khí, O$_2$ và CO$_2$ tự động khuếch tán qua bề mặt trao đổi khí.",
+      "D": "Không có sự lưu thông khí, O$_2$ và CO$_2$ được vận chuyển chủ động qua bề mặt trao đổi khí.",
+      "True": "B"
+    },
+    {
+      "Q": "Trao đổi khí là quá trình cơ thể động vật lấy .... từ môi trường vào cơ thể và thải ..... từ cơ thể ra môi trường.",
+      "A": "CO$_2$ và O$_2$",
+      "B": "O$_2$ và SO$_2$",
+      "C": "O$_2$ và CO$_2$",
+      "D": "CO$_2$ và O$_2$",
+      "True": "C"
+    },
+    {
+      "Q": "Phát biểu nào đúng khi nói về quá trình trao đổi khí với môi trường ở động vật?",
+      "A": "Được thực hiện qua bề mặt trao đổi khí.",
+      "B": "O$_2$ được vận chuyển chủ động từ môi trường ngoài vào.",
+      "C": "Năng lượng hóa học có trong chất hữu cơ được chuyển đổi thành năng lượng ATP.",
+      "D": "CO$_2$ được thẩm thấu từ tế bào ra môi trường.",
+      "True": "A"
+    },
+    {
+      "Q": "Phát biểu nào sau đây không đúng về quá trình hô hấp tế bào?",
+      "A": "Năng lượng hóa học có trong chất hữu cơ được chuyển đổi thành năng lượng ATP.",
+      "B": "Quá trình này cần O$_2$ và sản sinh ra CO$_2$.",
+      "C": "O$_2$ được khuếch tán từ môi trường ngoài vào.",
+      "D": "CO$_2$ sinh ra được vận chuyển đến bề mặt trao đổi khí.",
+      "True": "C"
+    },
+    {
+      "Q": "Ý nào sau đây về nồng độ O$_2$ và CO$_2$ là không đúng?",
+      "A": "Nồng độ O$_2$ tế bào thấp hơn ở ngoài cơ thể.",
+      "B": "Trong tế bào, nồng độ CO$_2$ cao so với ở ngoài cơ thể.",
+      "C": "Nồng độ O$_2$ và CO$_2$ trong tế bào cao hơn ở ngoài cơ thể.",
+      "D": "Trong tế bào, nồng độ O$_2$ thấp còn CO$_2$ cao hơn so với ở ngoài cơ thể.",
+      "True": "C"
+    },
+    {
+      "Q": "Số ý đúng khi nói về đặc điểm của bề mặt trao đổi khí? 1. Diện tích bề mặt lớn. 2. Mỏng và luôn ẩm ướt. 3. Có nhiều mao mạch. 4. Có sự lưu thông khí.",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "D"
+    },
+    {
+      "Q": "Trong các đặc điểm sau về bề mặt trao đổi khí, hiệu quả trao đổi khí liên quan đến những đặc điểm nào? 1. Diện tích bề mặt lớn 2. Mỏng và luôn ẩm ướt 3. Có rất nhiều mao mạch 4. Có sắc tố hô hấp 5. Dày và luôn ẩm ướt",
+      "A": "(1), (2), (3), (4)",
+      "B": "(1), (2), (3)",
+      "C": "(1), (4), (5)",
+      "D": "(1), (3), (5)",
+      "True": "B"
+    },
+    {
+      "Q": "Vai trò không đúng khi nói về hô hấp ở động vật là: 1. Cung cấp năng lượng cho toàn bộ hoạt động cơ thể 2. Cung cấp O$_2$ cho tế bào tạo năng lượng. 3. Mang CO$_2$ từ tế bào đến cơ quan hô hấp 4. Cung cấp các sản phẩm trung gian cho quá trình đồng hóa các chất.",
+      "A": "(2), (3)",
+      "B": "(3), (4)",
+      "C": "(3)",
+      "D": "(4)",
+      "True": "D"
+    },
+    {
+      "Q": "Nồng độ O$_2$ khi thở ra thấp hơn so với hít vào phổi là do",
+      "A": "một lượng O$_2$ còn lưu giữ trong phế nang.",
+      "B": "một lượng O$_2$ còn lưu giữ trong phế quản.",
+      "C": "một lượng O$_2$ đã oxi hoá các chất trong cơ thể.",
+      "D": "một lượng O$_2$ đã khuếch tán vào máu trước khi ra khỏi phổi.",
+      "True": "D"
+    },
+    {
+      "Q": "Nồng độ CO$_2$ thở ra cao hơn so với hít vào là do",
+      "A": "một lượng CO$_2$ khuếch tán từ mao mạch phổi vào phế nang trước khi đi ra khỏi phổi.",
+      "B": "một lượng CO$_2$ được dồn về phổi từ các cơ quan khác trong cơ thể.",
+      "C": "một lượng CO$_2$ còn lưu trữ trong phế nang.",
+      "D": "một lượng CO$_2$ thải ra trong hô hấp tế bào của phổi.",
+      "True": "A"
+    },
+    {
+      "Q": "Động tác thở của côn trùng được thực hiện nhờ:",
+      "A": "Sự nhu động của hệ tiêu hoá.",
+      "B": "Sự di chuyển của cơ thể.",
+      "C": "Sự co dãn của thành bụng.",
+      "D": "Không cần thực hiện động tác thở, không khí vẫn tự lưu thông.",
+      "True": "C"
+    },
+    {
+      "Q": "Các loại thân mềm và chân khớp sống trong nước có hình thức hô hấp là",
+      "A": "hô hấp bằng phổi.",
+      "B": "hô hấp bằng hệ thống ống khí.",
+      "C": "hô hấp qua bề mặt cơ thể.",
+      "D": "hô hấp bằng mang.",
+      "True": "D"
+    },
+    {
+      "Q": "Động vật có quá trình trao đổi khí của cơ thể với môi trường không diễn ra ở mang là",
+      "A": "tôm",
+      "B": "cua",
+      "C": "cá sấu",
+      "D": "trai",
+      "True": "C"
+    },
+    {
+      "Q": "Động vật có quá trình trao đổi khí giữa cơ thể với môi trường diễn ra ở mang là",
+      "A": "rùa",
+      "B": "lươn",
+      "C": "chim.",
+      "D": "cá sấu",
+      "True": "B"
+    },
+    {
+      "Q": "Mang cá có nhiều cung mang và mỗi cung mang gồm nhiều phiến mang mỏng là để",
+      "A": "Để tăng số lượng mang.",
+      "B": "Để giảm tác động quá mạnh của dòng nước.",
+      "C": "Để tăng kích thước cho mang.",
+      "D": "Để tăng diện tích trao đổi khí cho mang.",
+      "True": "D"
+    },
+    {
+      "Q": "Khi cá thở ra, diễn biến nào sau đây đúng?",
+      "A": "Cửa miệng đóng, thềm miệng nâng lên, nắp mang mở.",
+      "B": "Cửa miệng đóng, thềm miệng nâng lên, nắp mang đóng.",
+      "C": "Cửa miệng đóng, thềm miệng hạ xuống, nắp mang mở.",
+      "D": "Cửa miệng đóng, thềm miệng nâng lên, nắp mang đóng.",
+      "True": "C"
+    },
+    {
+      "Q": "Khi cá thở ra, thể tích khoang miệng ...., áp suất trong khoang miệng ..... nước từ khoang miệng đi qua mang.",
+      "A": "tăng, tăng",
+      "B": "tăng, giảm",
+      "C": "giảm, giảm",
+      "D": "giảm, tăng",
+      "True": "D"
+    },
+    {
+      "Q": "Đặc điểm phổi của chim có cấu tạo khác với phổi của thú là",
+      "A": "phế quản phân nhánh nhiều.",
+      "B": "khí quản dài.",
+      "C": "có nhiều phế nang.",
+      "D": "có nhiều túi khí.",
+      "True": "D"
+    },
+    {
+      "Q": "Đặc điểm phổi của thú có cấu tạo khác với phổi của chim là",
+      "A": "có bề mặt trao đổi khí rộng.",
+      "B": "có nhiều phế nang.",
+      "C": "có các ống khí.",
+      "D": "có nhiều mao mạch.",
+      "True": "B"
+    },
+    {
+      "Q": "Động vật có hệ thống túi khí thông với phổi là",
+      "A": "sư tử",
+      "B": "chim bồ câu",
+      "C": "ếch nhái",
+      "D": "châu chấu",
+      "True": "B"
+    },
+    {
+      "Q": "Cá lên cạn sẽ bị chết trong thời gian ngắn là do",
+      "A": "diện tích trao đổi khí còn rất nhỏ và mang bị khô nên cá không hô hấp được.",
+      "B": "độ ẩm trên cạn thấp.",
+      "C": "không hấp thu được O$_2$ của không khí.",
+      "D": "nhiệt độ trên cạn cao.",
+      "True": "A"
+    },
+    {
+      "Q": "Cá xương có thể lấy được hơn 80% lượng O$_2$ của nước đi qua mang là do",
+      "A": "dòng nước chảy một chiều qua mang và dòng máu chảy trong mao mạch song song với dòng nước.",
+      "B": "dòng nước chảy một chiều qua mang và dòng máu chảy trong mao mạch song song và cùng chiều với dòng nước.",
+      "C": "dòng nước chảy một chiều qua mang và dòng máu chảy trong mao mạch xuyên ngang với dòng nước.",
+      "D": "dòng nước chảy một chiều qua mang và dòng máu chảy trong mao mạch song song và ngược chiều với dòng nước.",
+      "True": "D"
+    },
+    {
+      "Q": "Sự thông khí ở phổi của bò sát, chim và thú chủ yếu nhờ",
+      "A": "sự nâng lên và hạ xuống của thềm miệng",
+      "B": "các cơ hô hấp làm thay đổi thể tích lồng ngực hoặc khoang bụng.",
+      "C": "sự vận động của các chi.",
+      "D": "sự vận động của toàn bộ hệ cơ.",
+      "True": "B"
+    },
+    {
+      "Q": "Cơ quan hô hấp trao đổi khí hiệu quả nhất là",
+      "A": "da của giun đất",
+      "B": "phổi và da của ếch nhái",
+      "C": "phổi của bò sát",
+      "D": "phổi của chim",
+      "True": "D"
+    },
+    {
+      "Q": "Động vật có phổi không hô hấp dưới nước được là do",
+      "A": "phổi không hấp thu được O$_2$ trong nước.",
+      "B": "phổi không thải được CO$_2$ trong nước.",
+      "C": "nước tràn vào đường dẫn khí cản trở lưu thông khí nên không hô hấp được.",
+      "D": "cấu tạo phổi không phù hợp với việc hô hấp trong nước.",
+      "True": "C"
+    },
+    {
+      "Q": "Động vật trao đổi khí với môi trường vừa qua phổi vừa qua da là",
+      "A": "ếch đồng",
+      "B": "chuột",
+      "C": "châu chấu",
+      "D": "tôm",
+      "True": "A"
+    },
+    {
+      "Q": "Động vật sau đây không trao đổi khí qua bề mặt cơ thể là 1. Ruột khoang 2. Giun tròn 3. Lưỡng cư 4. Cá 5. Ruồi",
+      "A": "(1), (2), (3)",
+      "B": "(4), (5)",
+      "C": "(1), (2)",
+      "D": "(3), (4), (5)",
+      "True": "D"
+    },
+    {
+      "Q": "Động vật sau đây trao đổi khi qua ống khí là",
+      "A": "giun đốt, châu chấu.",
+      "B": "lươn, dế mèn.",
+      "C": "ong, gián.",
+      "D": "chim bồ câu, chim cánh cụt.",
+      "True": "C"
+    },
+    {
+      "Q": "Nhóm động vật trao đổi khí qua mang là",
+      "A": "sinh vật đơn bào",
+      "B": "côn trùng",
+      "C": "động vật thủy sinh",
+      "D": "chim",
+      "True": "C"
+    },
+    {
+      "Q": "Số ý đúng khi nói về động vật trao đổi khí qua phổi? 1. Ếch nhái trưởng thành 2. Bò sát 3. Chim 4. Động vật có vú",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "D"
+    },
+    {
+      "Q": "Đơn vị nhỏ nhất trong phổi là",
+      "A": "phế nang",
+      "B": "phế quản",
+      "C": "tiểu phế quản",
+      "D": "khí quản",
+      "True": "A"
+    },
+    {
+      "Q": "Những túi khí trong phế nang được sắp xếp như",
+      "A": "quả mít",
+      "B": "quả bưởi",
+      "C": "chùm nho",
+      "D": "quả cau",
+      "True": "C"
+    },
+    {
+      "Q": "Thành phần không cấu tạo nên mang của cá xương là",
+      "A": "khoang mang",
+      "B": "cung mang",
+      "C": "sợi mang",
+      "D": "phiến mang",
+      "True": "A"
+    },
+    {
+      "Q": "Bò sát, Chim và Thú thông khí nhờ áp suất......",
+      "A": "dương",
+      "B": "âm",
+      "C": "giảm",
+      "D": "tăng",
+      "True": "B"
+    },
+    {
+      "Q": "Các phế quản ở Chim được phân nhánh thành các ống khí rất nhỏ được gọi là",
+      "A": "mao mạch khí",
+      "B": "phế nang",
+      "C": "tiểu ống khí",
+      "D": "ống khí tận",
+      "True": "A"
+    },
+    {
+      "Q": "Động vật sau đây có chiều máu chảy trong các mao mạch máu song song và ngược chiều với dòng không khí lưu thông trong các mao mạch khí? 1. Cá xương 2. Ếch đồng 3. Chim bồ câu 4. Tôm",
+      "A": "(1), (2)",
+      "B": "(1)",
+      "C": "(1), (3)",
+      "D": "(2)",
+      "True": "C"
+    },
+    {
+      "Q": "Số ý đúng khi nói về các chất hóa học trong khói thuốc lá? 1. Nicotin 2. CO 3. Tar 4. Hydrogen cyanide 5. Acrolein 6. Hemoglobin",
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "True": "C"
+    },
+    {
+      "Q": "Hệ tuần hoàn của động vật cấu tạo từ các bộ phận sau:",
+      "A": "dịch tuần hoàn, tim và hệ thống mạch máu.",
+      "B": "động mạch, mao mạch và tĩnh mạch.",
+      "C": "tâm nhĩ, tâm thất, buồng tim và van tim.",
+      "D": "nút xoang nhĩ, nút nhĩ thất, bó His và mạng lưới Purkinje.",
+      "True": "A"
+    },
+    {
+      "Q": "Động mạch gồm các:",
+      "A": "mạch máu từ nhỏ đến lớn, có chức năng đưa máu từ các cơ quan về tim.",
+      "B": "mạch máu từ nhỏ đến lớn, có chức năng đưa máu từ tim đến các cơ quan.",
+      "C": "mạch máu từ lớn đến nhỏ, có chức năng đưa máu từ tim đến các cơ quan.",
+      "D": "mạch máu từ lớn đến nhỏ, có chức năng đưa máu từ các cơ quan về tim.",
+      "True": "C"
+    },
+    {
+      "Q": "Tĩnh mạch gồm các:",
+      "A": "mạch máu từ nhỏ đến lớn, có chức năng đưa máu từ các cơ quan về tim.",
+      "B": "mạch máu từ nhỏ đến lớn, có chức năng đưa máu từ tim đến các cơ quan.",
+      "C": "mạch máu từ lớn đến nhỏ, có chức năng đưa máu từ tim đến các cơ quan.",
+      "D": "mạch máu từ lớn đến nhỏ, có chức năng đưa máu từ các cơ quan về tim.",
+      "True": "A"
+    },
+    {
+      "Q": "Hệ tuần hoàn có chức năng:",
+      "A": "hút và đẩy máu chảy trong hệ thống mạch máu, đảm bảo các hoạt động sống của cơ thể.",
+      "B": "vận chuyển các chất từ bộ phận này đến bộ phận khác, đảm bảo các hoạt động sống của cơ thể.",
+      "C": "hút và đẩy máu chảy trong hệ thống mạch máu, nhận máu từ tĩnh mạch và đưa máu xuống tâm thất.",
+      "D": "vận chuyển các chất từ bộ phận này đến bộ phận khác, nhận máu từ tĩnh mạch và đưa máu xuống tâm thất.",
+      "True": "B"
+    },
+    {
+      "Q": "Hệ tuần hoàn gồm các dạng:",
+      "A": "hệ tuần hoàn đơn và hệ tuần hoàn kép.",
+      "B": "hệ tuần hoàn hở và hệ tuần hoàn kín.",
+      "C": "hệ tuần hoàn đơn và hệ tuần hoàn kín.",
+      "D": "hệ tuần hoàn hở và hệ tuần hoàn kép.",
+      "True": "B"
+    },
+    {
+      "Q": "Hệ tuần hoàn hở có ở đa số động vật thuộc ngành:",
+      "A": "Lưỡng cư.",
+      "B": "Bò sát.",
+      "C": "Giun đốt.",
+      "D": "Chân khớp.",
+      "True": "D"
+    },
+    {
+      "Q": "Trong hệ tuần hoàn hở, máu chảy trong động mạch dưới .........(1)........., tim thu hồi máu .........(2)......... Các cụm từ còn thiếu điền vào chỗ trống là:",
+      "A": "(1) áp lực thấp nên tốc độ máu chảy chậm, (2) chậm.",
+      "B": "(1) áp lực cao hoặc trung bình nên tốc độ máu chảy nhanh, (2) nhanh.",
+      "C": "(1) áp lực thấp nên tốc độ máu chảy nhanh, (2) nhanh.",
+      "D": "(1) áp lực cao hoặc trung bình nên tốc độ máu chảy chậm, (2) chậm.",
+      "True": "A"
+    },
+    {
+      "Q": "\"Tim bơm máu vào động mạch với áp lực thấp, máu chảy vào khoang cơ thể trộn lẫn với dịch mô tạo thành hỗn hợp máu dịch mô, gọi chung là máu\". Đây là một đặc điểm của:",
+      "A": "Hệ tuần hoàn kín.",
+      "B": "Hệ tuần hoàn hở.",
+      "C": "Hệ tuần hoàn đơn.",
+      "D": "Hệ tuần hoàn kép.",
+      "True": "B"
+    },
+    {
+      "Q": "Trong các nhận định sau, có bao nhiêu nhận định đúng về hệ tuần hoàn hở? (1) Tim bơm máu vào động mạch với áp lực mạnh, máu chảy liên tục từ động mạch qua mao mạch, tĩnh mạch và về tim. (2) Máu trao đổi chất trực tiếp với tế bào cơ thể sau đó trở về tim theo các ống góp. (3) Máu chảy trong động mạch dưới áp lực cao hoặc trung bình nên tốc độ máu chảy nhanh, tim thu hồi máu nhanh. (4) Hệ tuần hoàn hở có thể là hệ tuần hoàn đơn hoặc hệ tuần hoàn kép.",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "A"
+    },
+    {
+      "Q": "Bệnh là sự ......... của bất kỳ bộ phận cơ quan hệ thống nào của cơ thể.",
+      "A": "sai lệch hoặc tổn thương về cấu trúc và chức năng",
+      "B": "thay đổi cấu trúc và chức năng",
+      "C": "biến đổi về cấu trúc và hình dạng",
+      "D": "suy yếu",
+      "True": "A"
+    },
+    {
+      "Q": "Hai nguyên tử kháng thể IgG đặc hiệu với cùng một quyết định kháng nguyên, lấy từ hai cơ thể khác gene cùng loại giống nhau về:",
+      "A": "cấu trúc chuỗi nhẹ.",
+      "B": "cấu trúc phân tử.",
+      "C": "tính kháng nguyên.",
+      "D": "vị trí gắn kháng nguyên.",
+      "True": "D"
+    },
+    {
+      "Q": "Bệnh được chia thành:",
+      "A": "bệnh di truyền và bệnh không di truyền.",
+      "B": "bệnh truyền nhiễm và bệnh không truyền nhiễm.",
+      "C": "bệnh được gây ra bởi các nguyên nhân bên trong và bệnh được gây ra bởi các nguyên nhân bên ngoài.",
+      "D": "bệnh có triệu chứng và bệnh không có triệu chứng.",
+      "True": "B"
+    },
+    {
+      "Q": "Đâu là nguyên nhân bên trong gây bệnh cho người và động vật?",
+      "A": "Vi khuẩn.",
+      "B": "Virus",
+      "C": "Nấm.",
+      "D": "Rối loạn di truyền.",
+      "True": "D"
+    },
+    {
+      "Q": "Đâu không phải là tác nhân bên ngoài gây ra bệnh cho người và động vật?",
+      "A": "Tác nhân sinh học.",
+      "B": "Tác nhân hóa học.",
+      "C": "Chế độ dinh dưỡng.",
+      "D": "Tác nhân vật lý.",
+      "True": "C"
+    },
+    {
+      "Q": "Một ví dụ về bệnh không truyền nhiễm là:",
+      "A": "nấm da.",
+      "B": "lở mồm long móng",
+      "C": "ung thư.",
+      "D": "sốt rét.",
+      "True": "C"
+    },
+    {
+      "Q": "Cơ thể chỉ bị bệnh khi tác nhân gây bệnh hội tụ đủ:",
+      "A": "3 yếu tố: có khả năng gây bệnh, có con đường xâm nhiễm phù hợp và số lượng đủ lớn.",
+      "B": "2 yếu tố: có con đường xâm nhiễm phù hợp và có khả năng thích nghi cao.",
+      "C": "3 yếu tố: có con đường xâm nhiễm phù hợp, có khả năng thích nghi cao và số lượng đủ lớn",
+      "D": "2 yếu tố: có khả năng gây bệnh và có số lượng đủ lớn.",
+      "True": "A"
+    },
+    {
+      "Q": "Trong thực tế, nguyên nhân nào làm cho xác suất xâm nhiễm và gây bệnh của các tác nhân gây bệnh tồn tại trong môi trường tự nhiên trên người và động vật là rất nhỏ?",
+      "A": "Do các tác nhân gây bệnh trong môi trường tự nhiên không có khả năng thích nghi cao.",
+      "B": "Do các tác nhân gây bệnh trong môi trường tự nhiên không đủ số lượng (chưa đạt ngưỡng vượt tầm kiểm soát của cơ thể).",
+      "C": "Do cơ thể người và động vật không phù hợp với con đường gây bệnh của các tác nhân gây bệnh trong môi trường tự nhiên.",
+      "D": "Do cơ thể người và động vật có khả năng miễn dịch chống lại sự xâm nhiễm và gây bệnh của các tác nhân gây bệnh.",
+      "True": "D"
+    },
+    {
+      "Q": "Trong các nhận định sau, có bao nhiêu nhận định đúng về miễn dịch? (1) Miễn dịch là cơ chế bảo vệ đặc biệt của cơ thể. (2) Miễn dịch có chức năng ngăn chặn, nhận biết và loại bỏ những thành phần bị hư hỏng hoặc các tác nhân gây bệnh. (3) Miễn dịch là khả năng bảo vệ cơ thể chống lại các tác nhân gây bệnh, đảm bảo cho cơ thể khỏe mạnh không mắc bệnh. (4) Cơ chế miễn dịch chống lại các tác nhân gây bệnh được thực hiện bởi hệ miễn dịch.",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "D"
+    },
+    {
+      "Q": "Trong các nhận định sau, có bao nhiêu nhận định đúng? (1) Bệnh được chia thành hai loại: bệnh truyền nhiễm và bệnh không truyền nhiễm. (2) Bệnh truyền nhiễm thường do các nguyên nhân bên ngoài gây ra. (3) Bệnh không truyền nhiễm thường do các nguyên nhân bên trong gây ra. (4) Tác nhân sinh học là nguyên nhân gây bệnh cho người và động vật từ bên ngoài.",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "D"
+    },
+    {
+      "Q": "Bài tiết là quá trình:",
+      "A": "thải chất dư thừa, chất độc sinh ra do quá trình trao đổi chất của các tế bào mô, cơ quan trong cơ thể.",
+      "B": "thải chất có hại và hấp thu chất có lợi vào cơ thể.",
+      "C": "duy trì cân bằng áp suất thẩm thấu của máu.",
+      "D": "duy trì cân bằng nhiệt độ của cơ thể.",
+      "True": "A"
+    },
+    {
+      "Q": "Các cơ quan sau đây tham gia bài tiết, ngoại trừ:",
+      "A": "phổi.",
+      "B": "da.",
+      "C": "gan.",
+      "D": "tim.",
+      "True": "D"
+    },
+    {
+      "Q": "Bài tiết giúp:",
+      "A": "tái hấp thụ nước và giải độc cho cơ thể.",
+      "B": "thải độc cho cơ thể và điều tiết lượng máu.",
+      "C": "điều tiết lượng nước tiểu và duy trì cân bằng nội môi.",
+      "D": "giải độc cho cơ thể và duy trì cân bằng nội môi.",
+      "True": "D"
+    },
+    {
+      "Q": "Thận là nơi diễn ra quá trình .........(1)......, giúp .........(2)........ Các cụm từ còn thiếu điền và chỗ trống là:",
+      "A": "(1) hình thành nước tiểu, (2) chuyển hóa các chất độc hại thành các chất có lợi cho cơ thể.",
+      "B": "(1) tái hấp thụ nước, (2) chuyển hóa các chất độc hại thành các chất có lợi cho cơ thể.",
+      "C": "(1) hình thành nước tiểu, (2) đào thải chất thừa, chất độc khỏi cơ thể.",
+      "D": "(1) tái hấp thụ nước, (2) đào thải chất thừa, chất độc khỏi cơ thể.",
+      "True": "C"
+    },
+    {
+      "Q": "Quá trình hình thành nước tiểu diễn ra ở:",
+      "A": "cầu thận.",
+      "B": "ống thận.",
+      "C": "nephron thận.",
+      "D": "khoang Bowman.",
+      "True": "C"
+    },
+    {
+      "Q": "Một quả thận có khoảng bao nhiêu nephron?",
+      "A": "1 triệu.",
+      "B": "10 triệu.",
+      "C": "2 triệu",
+      "D": "1,5 triệu.",
+      "True": "A"
+    },
+    {
+      "Q": "Quá trình hình thành nước tiểu gồm các giai đoạn:",
+      "A": "lọc ở nephron, tái hấp thụ và tiết ở ống dẫn nước tiểu",
+      "B": "lọc ở cầu thận, tái hấp thụ và tiết ở ống thận.",
+      "C": "lọc ở cầu thận, tái hấp thụ và tiết ở ống dẫn nước tiểu.",
+      "D": "lọc ở nephron, tái hấp thụ và tiết ở ống thận.",
+      "True": "B"
+    },
+    {
+      "Q": "Đâu là nhận định đúng về quá trình lọc ở cầu thận?",
+      "A": "Quá trình lọc ở cầu thận là quá trình nước và các chất hòa tan từ máu, qua lỗ lọc của mao mạch cầu thận ra nephron, hình thành nước tiểu đầu.",
+      "B": "Quá trình lọc ở cầu thận là quá trình nước và các chất hòa tan từ máu, qua lỗ lọc của mao mạch cầu thận ra khoang Bowman, hình thành nước tiểu chính thức.",
+      "C": "Quá trình lọc ở cầu thận là quá trình nước và các chất hòa tan từ máu, qua lỗ lọc của mao mạch cầu thận ra nephron, hình thành nước tiểu chính thức.",
+      "D": "Quá trình lọc ở cầu thận là quá trình nước và các chất hòa tan từ máu, qua lỗ lọc của mao mạch cầu thận ra khoang Bowman, hình thành nước tiểu đầu.",
+      "True": "D"
+    },
+    {
+      "Q": "Thành phần của nước tiểu đầu khác gì so với thành phần của máu?",
+      "A": "Thành phần trong nước tiểu đầu có nhiều urea hơn thành phần của máu.",
+      "B": "Thành phần nước tiểu đầu không có tế bào máu và các chất có kích thước phân tử lớn hơn 70 - 80Å.",
+      "C": "Thành phần trong nước tiểu đầu có ít creatine hơn thành phần của máu.",
+      "D": "Thành phần của nước tiểu đầu khác hoàn toàn so với thành phần của máu.",
+      "True": "B"
+    },
+    {
+      "Q": "Trung bình mỗi ngày có khoảng bao nhiêu lít nước tiểu đầu được tạo ra?",
+      "A": "170 - 180 lít.",
+      "B": "100 - 200 lít.",
+      "C": "170 - 300 lít.",
+      "D": "180 - 300 lít",
+      "True": "A"
+    },
+    {
+      "Q": "Cảm ứng là:",
+      "A": "Sự tiếp nhận và không phản ứng của sinh vật đối với những thay đổi của môi trường",
+      "B": "Sự tiếp nhận và phản ứng của sinh vật đối với những thay đổi của môi trường ngoài",
+      "C": "Sự tiếp nhận và phản ứng của sinh vật đối với những thay đổi của môi trường trong và ngoài",
+      "D": "Sự tiếp nhận và phản ứng của sinh vật đối với những thay đổi của cơ thể sinh vật",
+      "True": "C"
+    },
+    {
+      "Q": "Đặc điểm cảm ứng của thực vật:",
+      "A": "Chậm, khó nhận thấy, biểu hiện bằng các cử động dinh dưỡng hoặc sinh trưởng",
+      "B": "Nhanh, khó nhận thấy, biểu hiện bằng các cử động dinh dưỡng hoặc sinh trưởng",
+      "C": "Chậm, dễ nhận thấy, biểu hiện bằng các cử động dinh dưỡng hoặc sinh trưởng",
+      "D": "Chậm, khó nhận thấy, biểu hiện cung phản xạ",
+      "True": "A"
+    },
+    {
+      "Q": "Đặc điểm KHÔNG thuộc cảm ứng của thực vật:",
+      "A": "Diễn ra chậm",
+      "B": "Khó nhận thấy",
+      "C": "Thông qua hệ thần kinh",
+      "D": "Biểu hiện thông qua các cử động dinh dưỡng và sinh trưởng",
+      "True": "C"
+    },
+    {
+      "Q": "Bộ phận tiếp nhận KHÔNG thuộc cảm ứng của thực vật:",
+      "A": "Lá",
+      "B": "Thân",
+      "C": "Hoa",
+      "D": "Da",
+      "True": "D"
+    },
+    {
+      "Q": "Đặc điểm của cảm ứng ở động vật:",
+      "A": "Diễn ra chậm",
+      "B": "Có thể biểu hiện qua hướng sáng",
+      "C": "Biểu hiện qua sinh trưởng",
+      "D": "Mức độ phụ thuộc vào bộ phận phụ trách cảm ứng",
+      "True": "D"
+    },
+    {
+      "Q": "Cây trinh nữ cụp lại khi chạm vào là ví dụ về:",
+      "A": "Phản xạ ở thực vật",
+      "B": "Phản xạ có điều kiện ở động vật",
+      "C": "Cảm ứng ở thực vật",
+      "D": "Cảm ứng ở động vật",
+      "True": "C"
+    },
+    {
+      "Q": "Đặc điểm KHÔNG thuộc cảm ứng ở động vật:",
+      "A": "Diễn ra chậm",
+      "B": "Diễn ra nhanh và đa dạng",
+      "C": "Không thể hiện qua các cử động dinh dưỡng",
+      "D": "Hình thức cảm ứng thay đổi phụ thuộc vào bộ phận phụ trách cảm ứng",
+      "True": "A"
+    },
+    {
+      "Q": "Khi có ánh sáng mạnh chiếu trực tiếp vào mắt, đồng tử người sẽ co lại là ví dụ về:",
+      "A": "Cảm ứng ở thực vật",
+      "B": "Cảm ứng ở động vật",
+      "C": "Phản xạ ở thực vật",
+      "D": "Phản xạ có điều kiện ở động vật",
+      "True": "B"
+    },
+    {
+      "Q": "Bộ phận xử lí thông tin trong cảm ứng của động vật có hệ thần kinh là:",
+      "A": "Xung thần kinh truyền về trung ương",
+      "B": "Tủy sống và não bộ",
+      "C": "Bộ phận đáp ứng",
+      "D": "Bộ phận tiếp nhận kích thích",
+      "True": "B"
+    },
+    {
+      "Q": "Đặc điểm KHÔNG thuộc cảm ứng ở thực vật:",
+      "A": "Có sự tham gia của thần kinh",
+      "B": "Không bao gồm các cung phản xạ",
+      "C": "Có thể có các biểu hiện như hướng hóa, hướng nước,...",
+      "D": "Diễn ra chậm hơn so với cảm ứng ở động vật",
+      "True": "A"
+    },
+    {
+      "Q": "Cảm ứng ở thực vật là:",
+      "A": "sự tiếp nhận và trả lời của thực vật đối với các kích thích từ môi trường.",
+      "B": "sự thay đổi hình dạng của thực vật gây ra bởi các kích thích từ môi trường.",
+      "C": "sự thay đổi xu hướng phát triển của thực vật gây ra bởi các kích thích từ môi trường.",
+      "D": "sự vận động của thực vật đối với các kích thích từ môi trường.",
+      "True": "A"
+    },
+    {
+      "Q": "Cảm ứng biểu hiện bằng ................ của các cơ quan, bộ phận thực vật khi nhận kích thích từ môi trường.",
+      "A": "sự phát triển",
+      "B": "sự biến đổi",
+      "C": "sự sinh trưởng",
+      "D": "sự vận động",
+      "True": "D"
+    },
+    {
+      "Q": "Trong các phát biểu sau, có bao nhiêu phát biểu đúng? (1) Cảm ứng đảm bảo cho thực vật tận dụng tối đa nguồn sống như nước, ánh sáng, dinh dưỡng khoáng,... (2) Cảm ứng giúp thực vật tự vệ khi gặp kích thích thích bất lợi. (3) Cảm ứng giúp thực vật thích ứng tốt hơn với những biến đổi thường xuyên của môi trường sống, tạo điều kiện cho cây sinh trưởng và phát triển bình thường. (4) Cảm ứng ở thực vật thường diễn ra nhanh và khó nhận biết bằng mắt thường trong thời gian ngắn.",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "C"
+    },
+    {
+      "Q": "Đâu không phải là các tác nhân kích thích gây ra cảm ứng ở thực vật?",
+      "A": "Nhiệt độ.",
+      "B": "Hormone.",
+      "C": "Hóa chất.",
+      "D": "Trọng lực.",
+      "True": "B"
+    },
+    {
+      "Q": "Cảm ứng ở thực vật thường diễn ra ........(1)........ và ........(2)........ nhận biết bằng mắt thường trong thời gian ngắn.",
+      "A": "(1) nhanh, (2) dễ",
+      "B": "(1) chậm, (2) dễ",
+      "C": "(1) chậm, (2) khó",
+      "D": "(1) nhanh, (2) khó",
+      "True": "C"
+    },
+    {
+      "Q": "Trong các nhận định dưới đây, có bao nhiêu nhận định đúng? (1) Các yếu tố môi trường như ánh sáng, nhiệt độ, trọng lực,... là các tác nhân kích thích gây ra cảm ứng ở thực vật. (2) Có một số vận động cảm ứng diễn ra nhanh như: phản ứng cụp lá ở cây trinh nữ hay phản ứng bắt mồi của cây gọng vó. (3) Cảm ứng ở thực vật có thể liên quan đến sinh trưởng hoặc không liên quan đến sinh trưởng. (4) Cảm ứng biểu hiện bằng sự vận động của các cơ quan, bộ phận thực vật chỉ khi nhận các kích thích đến từ một hướng xác định.",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "C"
+    },
+    {
+      "Q": "Hướng động là hình thức phản ứng của cây (thể hiện qua vận động của cơ quan, bộ phận) đối với các tác nhân kích thích:",
+      "A": "từ một hướng xác định.",
+      "B": "không định hướng.",
+      "C": "di động.",
+      "D": "từ một hướng hoặc nhiều hướng không xác định.",
+      "True": "A"
+    },
+    {
+      "Q": "Khi thực vật vận động hướng về phía tác nhân kích thích được gọi là:",
+      "A": "hướng động thích nghi.",
+      "B": "hướng động tích cực.",
+      "C": "hướng động dương.",
+      "D": "hướng động âm.",
+      "True": "C"
+    },
+    {
+      "Q": "Khi thực vật vận động tránh xa phía tác nhân kích thích được gọi là:",
+      "A": "hướng động tránh xa.",
+      "B": "hướng động tiêu cực.",
+      "C": "hướng động dương.",
+      "D": "hướng động âm.",
+      "True": "D"
+    },
+    {
+      "Q": "Đâu là một ví dụ về phản ứng hướng sáng của thực vật?",
+      "A": "Ngọn cây phát triển hướng về phía có ánh sáng.",
+      "B": "Đỉnh chồi sinh trưởng theo hướng ngược với trọng lực.",
+      "C": "Phản ứng leo giàn của thực vật.",
+      "D": "Hiện tượng cụp lá ở cây trinh nữ.",
+      "True": "A"
+    },
+    {
+      "Q": "Hiện tượng rễ cây sinh trưởng theo hướng tránh xa các kim loại nặng trong đất là một ví dụ về:",
+      "A": "hướng hóa âm.",
+      "B": "hướng hóa dương.",
+      "C": "hướng tiếp xúc âm.",
+      "D": "hướng tiếp xúc dương.",
+      "True": "A"
+    },
+    {
+      "Q": "Quá trình kéo dài của ống phấn khi thụ tinh là một ví dụ về:",
+      "A": "hướng hóa âm.",
+      "B": "hướng hóa dương.",
+      "C": "hướng tiếp xúc âm.",
+      "D": "hướng tiếp xúc dương.",
+      "True": "B"
+    },
+    {
+      "Q": "Trong các nhận định sau, có bao nhiêu nhận định sai? (1) Các cơ quan của thực vật phát triển theo hướng giống nhau đối với hướng của trọng lực. (2) Rễ vừa hướng nước dương, vừa hướng trọng lực dương. (3) Chồi đỉnh sinh trưởng theo hướng trọng lực âm. (4) Hướng nước là một trường hợp đặc biệt của hướng hóa.",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "A"
+    },
+    {
+      "Q": "Khi đặt chậu cây ở vị trí nằm ngang, phần rễ sẽ sinh trưởng quay xuống đất, phần thân sinh trưởng cong lên phía ngược lại. Đây là một ví dụ về:",
+      "A": "hướng nước.",
+      "B": "hướng trọng lực.",
+      "C": "hướng tiếp xúc.",
+      "D": "hướng sáng.",
+      "True": "B"
+    },
+    {
+      "Q": "Hướng tiếp xúc là phản ứng sinh trưởng đối với tác động",
+      "A": "sinh học đến từ một hướng.",
+      "B": "sinh học không định hướng.",
+      "C": "cơ học đến từ một phía.",
+      "D": "cơ học không định hướng.",
+      "True": "C"
+    },
+    {
+      "type": "true_false_set",
+      "True": "T",
+      "Q": "Khi nói về quá trình hô hấp ở động vật, mỗi phát biểu sau đây là đúng hay sai?",
+      "questions": [
+        {
+          "text": "Tất cả các loài động vật sống trên cạn đều có hình thức hô hấp bằng phổi.",
+          "correct": false
+        },
+        {
+          "text": "Hô hấp là quá trình cơ thể lấy O$_2$ từ môi trường ngoài để oxi hoá các chất trong tế bào và giải phóng năng lượng cho các hoạt động sống, đồng thời thải CO$_2$ ra ngoài môi trường.",
+          "correct": true
+        },
+        {
+          "text": "Khi lên cạn, cá sẽ ngừng hô hấp do các khe mang bị khô, các phiến mang dính lại với nhau làm giảm diện tích bề mặt trao đổi khí.",
+          "correct": true
+        },
+        {
+          "text": "Phổi của tất cả các loài chim đều có hệ thống phế nang phát triển, do đó sẽ thích nghi với đời sống bay lượn.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "true_false_set",
+      "True": "T",
+      "Q": "Nói về hô hấp của giun đất, mỗi phát biểu sau đây là đúng hay sai?",
+      "questions": [
+        {
+          "text": "Giun đất hô hấp qua da",
+          "correct": true
+        },
+        {
+          "text": "Giun đất có thể hô hấp hiệu quả trong môi trường khô hạn",
+          "correct": false
+        },
+        {
+          "text": "Giun đất cần sống trong môi trường ẩm ướt xung quanh.",
+          "correct": true
+        },
+        {
+          "text": "Sau cơn mưa, giun đất chui lên mặt đất vì cần tìm không khí để hô hấp.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "true_false_set",
+      "True": "T",
+      "Q": "Chim là động vật đạt hiệu quả hô hấp cao nhất trong các động vật có xương sống ở trên cạn. Mỗi phát biểu sau về nguyên nhân là đúng hay sai?",
+      "questions": [
+        {
+          "text": "Không khí giàu O$_2$ đi qua các ống khí liên tục kể cả khi hít vào thở ra",
+          "correct": true
+        },
+        {
+          "text": "Không có khí cặn trong phổi",
+          "correct": true
+        },
+        {
+          "text": "Hoạt động hô hấp kép nhờ hệ thống ống khí và túi khí",
+          "correct": true
+        },
+        {
+          "text": "Chim có đời sống bay lượn trên cao nên sử dụng được không khí sạch, giàu O$_2$ hơn.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "true_false_set",
+      "True": "T",
+      "Q": "Tim là một bộ phận quan trọng của hệ tuần hoàn. Tim của người và thú là một khối cơ rỗng được bao bọc bởi một xoang bao tim. Mỗi nhận định sau là đúng hay sai khi nói về cấu tạo, hoạt động của tim người và thú.",
+      "questions": [
+        {
+          "text": "Van ba lá và van hai lá đảm bảo cho máu chảy một chiều từ tâm nhĩ xuống tâm thất.",
+          "correct": true
+        },
+        {
+          "text": "Van động mạch phổi đảm bảo cho máu chảy một chiều từ tâm thất trái vào động mạch phổi.",
+          "correct": false
+        },
+        {
+          "text": "Tính tự động của tim do nút nhĩ thất phát xung điện truyền đến cơ tâm nhĩ co, xung điện truyền đến nút nhĩ thất.",
+          "correct": false
+        },
+        {
+          "text": "Hệ dẫn truyền tim gồm nút xoang nhĩ, nút nhĩ thất, bó His, mạng lưới Purkinje.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "type": "true_false_set",
+      "True": "T",
+      "Q": "Bảng dưới đây thể hiện kết quả đo chỉ số huyết áp và nhịp tim ở một người. Dựa vào bảng kết quả hãy cho biết nhận định đúng hay sai?",
+      "questions": [
+        {
+          "text": "Ngay sau khi chạy nhanh nhịp tim tăng lên.",
+          "correct": true
+        },
+        {
+          "text": "Huyết áp giảm ngay sau khi chạy nhanh do nhịp tim tăng lên.",
+          "correct": false
+        },
+        {
+          "text": "Sau khi ngồi nghỉ ngơi, sự giảm tiêu thụ O$_2$ và đào thải CO$_2$ lúc này sẽ làm giảm kích thích lên hệ thần kinh giao cảm dẫn đến nhịp tim dần giảm về trạng thái bình thường.",
+          "correct": true
+        },
+        {
+          "text": "Nên tập thể dục đều đặn và hợp lý sẽ tốt cho tim và hệ tuần hoàn.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "type": "true_false_set",
+      "True": "T",
+      "Q": "Trong cuộc chiến chống lại dịch bệnh Covid-19, vũ khí mạnh nhất của cơ thể chính là hệ miễn dịch khỏe mạnh. Hệ miễn dịch của chúng ta hoạt động nhằm tìm ra mầm bệnh và những \"kẻ xâm lược\" không có nhiệm vụ gì trong cơ thể. Đáp ứng miễn dịch là cách thức cơ thể của chúng ta nhận dạng và bảo vệ bản thân trước vi khuẩn, virus và các tác nhân ngoại lai có hại khác. Khi nói về đáp ứng miễn dịch, nhận định nào đúng hoặc sai?",
+      "questions": [
+        {
+          "text": "Miễn dịch đặc hiệu còn được gọi là miễn dịch tự nhiên.",
+          "correct": false
+        },
+        {
+          "text": "Các đáp ứng không đặc hiệu gồm: tế bào trình diện kháng nguyên và tế bào T độc.",
+          "correct": false
+        },
+        {
+          "text": "Hàng rào bảo vệ vật lý và hóa học gồm: da, niêm mạc, lông, chất nhầy; dịch của cơ thể như nước mắt, nước tiểu,...",
+          "correct": true
+        },
+        {
+          "text": "Một trong những hàng rào bảo vệ vật lý và hóa học của hệ hô hấp là lớp dịch nhầy trong khí quản, phế quản.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "type": "true_false_set",
+      "True": "T",
+      "Q": "Lạc đà có thể sống được ở sa mạc. Mỗi nhận định sau đây là đúng hay sai khi nói về những đặc điểm giúp lạc đà có thể thích nghi được với môi trường sống ở sa mạc?",
+      "questions": [
+        {
+          "text": "Lạc đà thường ăn các loại thức ăn tươi, giàu dinh dưỡng, chứa nhiều nước.",
+          "correct": false
+        },
+        {
+          "text": "Một lần lạc đà có thể uống được một lượng nước rất lớn.",
+          "correct": true
+        },
+        {
+          "text": "Sự hấp thụ nước từ ống tiêu hóa diễn ra rất nhanh giúp hấp thu nhanh nước cung cấp cho cơ thể.",
+          "correct": true
+        },
+        {
+          "text": "Quai henle và ống góp của thận lạc đà dài hơn rất nhiều so với ở các động vật có vú khác.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "type": "true_false_set",
+      "True": "T",
+      "Q": "Một học sinh thắc mắc \"Tại sao trong quy trình làm rau mầm, người ta thường che tối khoảng 2 - 3 ngày đầu khi hạt mới nảy mầm?\" Mỗi giải thích sau đây đúng hay sai.",
+      "questions": [
+        {
+          "text": "Che lại giúp cho cây tăng các chất dinh dưỡng giá trị.",
+          "correct": false
+        },
+        {
+          "text": "Che lại giúp cho cây mầm lùn lại mà không cao lên.",
+          "correct": false
+        },
+        {
+          "text": "Đây là một ứng dụng của hiện tượng hướng động.",
+          "correct": true
+        },
+        {
+          "text": "Người ta thường che tối khoảng 2 - 3 ngày đầu khi hạt mới nảy mầm để thúc đẩy cây mầm vươn dài, tăng chiều cao.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Xét các loài động vật: Cá chép, thủy tức, châu chấu, bồ câu, bò. Có bao nhiêu loài động vật hô hấp bằng phổi?",
+      "correctAnswer": "2"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Xét 5 cá thể thuộc các loài động vật có xương sống: Ngựa, rắn, đại bàng, hươu, ếch đồng. Có bao nhiêu cá thể thực hiện trao đổi khí qua phế nang?",
+      "correctAnswer": "4"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Cơ quan hô hấp của nhóm động vật nào dưới đây thường có hiệu quả trao đổi khí đạt hiệu suất cao nhất? 1. Phổi của chim. 2. Phổi và da của ếch nhái. 3. Phổi của bò sát. 4. Bề mặt da của giun đất.",
+      "correctAnswer": "1"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Trong các lớp: lưỡng cư, bò sát, cá, chim, thú của giới động vật. Có bao nhiêu lớp có hệ tuần hoàn kép.",
+      "correctAnswer": "4"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Hệ dẫn truyền tim gồm mấy bộ phận?",
+      "correctAnswer": "4"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Tim của các loài ếch, nhái, có mấy ngăn?",
+      "correctAnswer": "3"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Cho các bộ phận: nút xoang nhĩ, hai tâm nhĩ, nút nhĩ thất, bó His, mạng lưới Purkinje, van nhĩ thất, có mấy bộ phận thuộc hệ dẫn truyền tim?",
+      "correctAnswer": "4"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Khi nhiễm vi sinh vật gây bệnh, người ta thấy có kháng thể xuất hiện trong dịch thể của cơ thể như: máu, bạch huyết, màng phổi, dịch dạ dày,... Trong các loại tế bào sau đây: 1. Tế bào gan. 2. Tế bào lympho T$_2$. 3. Tế bào lympho B. 4. tế bào lympho T$_4$. Loại tế bào số mấy có khả năng sản sinh ra kháng thể đó?",
+      "correctAnswer": "3"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Cho các chất sau đây: 1. kháng nguyên. 2. kháng thể. 3. lợi khuẩn. 4. interferon. 5. histamine. 6. epitope. Các tế bào cơ thể bị nhiễm virus tiết ra chất gì kích thích các tế bào không bị nhiễm bệnh bên cạnh sản sinh ra các protein ức chế sự nhân lên của virus?",
+      "correctAnswer": "4"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Ở người, nhờ chức năng bài tiết nước tiểu, thận đào thải khoảng ......% các sản phẩm bài tiết hòa tan trong máu (trừ CO$_2$). Số liệu còn thiếu điền vào chỗ trống là bao nhiêu?",
+      "correctAnswer": "80"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Trị số pH tối thiểu của dịch ngoại bào ở cơ thể người là bao nhiêu để đảm bảo cho các hoạt động sinh lý của tế bào diễn ra bình thường?",
+      "correctAnswer": "6,8"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Giới hạn lượng đường glucose tối đa trong máu người là bao nhiêu mmol/l?",
+      "correctAnswer": "7,8"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Cho các phát biểu sau đây, có mấy phát biểu sai về cảm ứng ở sinh vật? 1. Cảm ứng là đặc điểm thích nghi với những thay đổi của môi trường, đảm bảo cho sinh vật tồn tại và phát triển. 2. Ngọn cây hướng về phía có ánh sáng. 3. Ở người, khi ánh sáng mạnh chiếu vào mắt thì đồng tử co lại, tránh cho mắt bị tổn thương. 4. Cảm ứng là đặc điểm thay đổi của môi trường, giúp cho sinh vật tồn tại và phát triển.",
+      "correctAnswer": "1"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Phát biểu thứ mấy đúng về cảm ứng ở sinh vật? 1. Đảm bảo trước điều kiện với môi trường sống. 2. Cảm ứng là sự tiếp nhận và phản ứng của sinh vật đối với những thay đổi của môi trường. 3. Cảm ứng là sự tiếp nhận kích thích của sinh vật đối với những thay đổi của môi trường. 4. Cảm ứng là phản ứng của sinh vật đối với những thay đổi của môi trường.",
+      "correctAnswer": "2"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Trong các loại hướng động sau: hướng sáng, hướng nước, hướng hóa, hướng trọng lực, hướng tiếp xúc. Có bao nhiêu kiểu hướng động cơ quan phản ứng là rễ?",
+      "correctAnswer": "4"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Trong các hiện tượng sau: đóng mở khí khổng, hiện tượng thức ngủ của lá cây họ Đậu, lá cây trinh nữ khép lại khi bị va chạm, cây bắt ruồi. Có bao nhiêu trường hợp thuộc kiểu ứng động sinh trưởng?",
+      "correctAnswer": "2"
+    },
+    {
+      "type": "short_answer",
+      "True": "S",
+      "Q": "Cho các đặc điểm: Ứng động sinh trưởng, phản ứng nhanh, do nhiệt độ và ánh sáng, giúp bảo vệ lá. Có bao nhiêu đặc điểm của hiện tượng khép mở lá do va chạm cơ học?",
+      "correctAnswer": "1"
+    }
+  ]
+}
