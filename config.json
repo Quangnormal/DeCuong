@@ -1,5 +1,8 @@
 {
   "files": [
-    "VatLy.json"
+    "VatLy.json",
+    "TinHoc.json",
+    "SinhHoc.json",
+    "LichSu.json"
   ]
 }
