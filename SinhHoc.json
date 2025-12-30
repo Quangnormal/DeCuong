@@ -979,13 +979,13 @@
       "type": "short_answer",
       "True": "S",
       "Q": "Ở người, nhờ chức năng bài tiết nước tiểu, thận đào thải khoảng ......% các sản phẩm bài tiết hòa tan trong máu (trừ CO$_2$). Số liệu còn thiếu điền vào chỗ trống là bao nhiêu?",
-      "correctAnswer": "80"
+      "correctAnswer": "90"
     },
     {
       "type": "short_answer",
       "True": "S",
       "Q": "Trị số pH tối thiểu của dịch ngoại bào ở cơ thể người là bao nhiêu để đảm bảo cho các hoạt động sinh lý của tế bào diễn ra bình thường?",
-      "correctAnswer": "6,8"
+      "correctAnswer": "7,35"
     },
     {
       "type": "short_answer",
@@ -1026,6 +1026,7 @@
   ]
 
 }
+
 
 
 
