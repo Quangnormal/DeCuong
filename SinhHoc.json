@@ -135,7 +135,7 @@
       "B": "Cửa miệng đóng, thềm miệng nâng lên, nắp mang đóng.",
       "C": "Cửa miệng đóng, thềm miệng hạ xuống, nắp mang mở.",
       "D": "Cửa miệng đóng, thềm miệng nâng lên, nắp mang đóng.",
-      "True": "C"
+      "True": "A"
     },
     {
       "Q": "Khi cá thở ra, thể tích khoang miệng ...., áp suất trong khoang miệng ..... nước từ khoang miệng đi qua mang.",
@@ -1026,4 +1026,5 @@
   ]
 
 }
+
 
