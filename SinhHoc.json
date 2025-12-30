@@ -31,7 +31,7 @@
       "B": "O$_2$ được vận chuyển chủ động từ môi trường ngoài vào.",
       "C": "Năng lượng hóa học có trong chất hữu cơ được chuyển đổi thành năng lượng ATP.",
       "D": "CO$_2$ được thẩm thấu từ tế bào ra môi trường.",
-      "True": "A"
+      "True": "C"
     },
     {
       "Q": "Phát biểu nào sau đây không đúng về quá trình hô hấp tế bào?",
@@ -890,7 +890,7 @@
         },
         {
           "text": "Sự hấp thụ nước từ ống tiêu hóa diễn ra rất nhanh giúp hấp thu nhanh nước cung cấp cho cơ thể.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Quai henle và ống góp của thận lạc đà dài hơn rất nhiều so với ở các động vật có vú khác.",
@@ -1024,4 +1024,5 @@
       "correctAnswer": "1"
     }
   ]
+
 }
