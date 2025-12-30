@@ -7,7 +7,7 @@
             "B": "đòi hỏi mọi hành vi ứng xử trên mạng xã hội phải phù hợp với các giá trị đạo đức, văn hóa truyền thống tốt đẹp của dân tộc Việt Nam.",
             "C": "yêu cầu phải tuân thủ luật pháp Việt Nam, tôn trọng quyền và lợi ích hợp pháp của tổ chức, cá nhân.",
             "D": "yêu cầu phải tuân thủ các quy định và hướng dẫn về bảo vệ an toàn và bảo mật thông tin cá nhân và tổ chức.",
-            "True": "C"
+            "True": "B"
         },
         {
             "Q": "Việc nào sau đây không được khuyến khích khi tham gia môi trường số?",
@@ -15,7 +15,7 @@
             "B": "Trong ứng xử trên mạng xã hội được phép làm mọi điều pháp luật không cấm.",
             "C": "Mạng xã hội là môi trường ảo, do vậy không cần quá câu nệ về câu chữ.",
             "D": "Cần được sự đồng ý khi chia sẻ hình ảnh và chuyện riêng tư của bạn bè.",
-            "True": "B"
+            "True": "C"
         },
         {
             "Q": "Phát biểu nào SAI trong các phát biểu sau?",
@@ -55,7 +55,7 @@
             "B": "lưu vào sổ điểm.",
             "C": "lưu trữ dữ liệu điểm.",
             "D": "ghi chép dữ liệu điểm.",
-            "True": "C"
+            "True": "B"
         },
         {
             "Q": "Công việc lập bảng phân loại kết quả học tập như Bảng 10.3, đòi hỏi phải phân tích, thống kê, tính toán từ dữ liệu đã có để được thông tin cần thiết. Những công việc kiểu như vậy được gọi là",
@@ -183,7 +183,7 @@
             "B": "hệ CSDL mà CSDL của nó được lưu trữ trên một máy tính.",
             "C": "hệ CSDL một người dùng trên một máy tính.",
             "D": "hệ CSDL mà tất cả các ứng dụng CSDL được cài đặt tập trung trên một máy tính.",
-            "True": "A"
+            "True": "B"
         },
         {
             "Q": "Một hệ thống gồm ba thành phần: CSDL, hệ QTCSDL và các phần mềm ứng dụng CSDL được gọi là",
@@ -207,7 +207,7 @@
             "B": "Đỗ Nhuận",
             "C": "Văn Cao",
             "D": "Nguyễn Tài Tuệ",
-            "True": "C"
+            "True": "A"
         },
         {
             "Q": "Trong CSDL quan hệ, TRƯỜNG là",
@@ -275,7 +275,7 @@
                 {"text": "CSDL quan hệ tổ chức dữ liệu dưới dạng bảng, trong đó các hàng và cột được gọi lần lượt là bản ghi và trường.", "correct": true},
                 {"text": "Mỗi hàng trong bảng CSDL quan hệ đại diện cho một đối tượng dữ liệu, và các cột đại diện cho các thuộc tính của đối tượng đó.", "correct": true},
                 {"text": "Các bảng trong CSDL quan hệ không cần phải có thuộc tính chung để có thể liên kết với nhau.", "correct": false},
-                {"text": "Dữ liệu trong CSDL quan hệ có thể được tổ chức một cách phi cấu trúc để phù hợp với nhiều kiểu lưu trữ khác nhau.", "correct": false}
+                {"text": "Dữ liệu trong CSDL quan hệ có thể được tổ chức một cách phi cấu trúc để phù hợp với nhiều kiểu lưu trữ khác nhau.", "correct": true}
             ],
             "True": "T"
         },
@@ -302,4 +302,5 @@
             "True": "T"
         }
     ]
+
 }
