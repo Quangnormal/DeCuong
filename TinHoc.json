@@ -58,7 +58,7 @@
             "True": "C"
         },
         {
-            "Q": "Công việc lập bảng phân loại kết quả học tập như Bảng 10.3, đòi hỏi phải phân tích, thống kê, tính toán từ dữ liệu đã có để được thông tin cần thiết. Những công việc kiểu như vậy được gọi là",
+            "Q": "<img src='https://i.imgur.com/sWOaEWO.png' style='width:60%;height:auto'><br>Công việc lập bảng phân loại kết quả học tập như Bảng 10.3, đòi hỏi phải phân tích, thống kê, tính toán từ dữ liệu đã có để được thông tin cần thiết. Những công việc kiểu như vậy được gọi là",
             "A": "cập nhật thông tin từ dữ liệu đã có.",
             "B": "khai thác thông tin từ dữ liệu đã có.",
             "C": "tìm kiếm thông tin từ dữ liệu đã có.",
@@ -304,4 +304,5 @@
     ]
 
 }
+
 
