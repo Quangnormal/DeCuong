@@ -832,7 +832,7 @@
     {
       "type": "true_false_set",
       "True": "T",
-      "Q": "Bảng dưới đây thể hiện kết quả đo chỉ số huyết áp và nhịp tim ở một người. Dựa vào bảng kết quả hãy cho biết nhận định đúng hay sai?",
+      "Q": "<img src='https://i.imgur.com/vdA0MNI.png' style='width:100%;height:auto'><br>Bảng dưới đây thể hiện kết quả đo chỉ số huyết áp và nhịp tim ở một người. Dựa vào bảng kết quả hãy cho biết nhận định đúng hay sai?",
       "questions": [
         {
           "text": "Ngay sau khi chạy nhanh nhịp tim tăng lên.",
@@ -1026,5 +1026,6 @@
   ]
 
 }
+
 
 
