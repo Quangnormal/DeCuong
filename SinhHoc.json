@@ -779,7 +779,7 @@
         },
         {
           "text": "Sau cơn mưa, giun đất chui lên mặt đất vì cần tìm không khí để hô hấp.",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -991,7 +991,7 @@
       "type": "short_answer",
       "True": "S",
       "Q": "Giới hạn lượng đường glucose tối đa trong máu người là bao nhiêu mmol/l?",
-      "correctAnswer": "7,8"
+      "correctAnswer": "7,9"
     },
     {
       "type": "short_answer",
@@ -1026,3 +1026,4 @@
   ]
 
 }
+
