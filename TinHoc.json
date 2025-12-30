@@ -55,7 +55,7 @@
             "B": "lưu vào sổ điểm.",
             "C": "lưu trữ dữ liệu điểm.",
             "D": "ghi chép dữ liệu điểm.",
-            "True": "B"
+            "True": "C"
         },
         {
             "Q": "Công việc lập bảng phân loại kết quả học tập như Bảng 10.3, đòi hỏi phải phân tích, thống kê, tính toán từ dữ liệu đã có để được thông tin cần thiết. Những công việc kiểu như vậy được gọi là",
@@ -304,3 +304,4 @@
     ]
 
 }
+
