@@ -202,7 +202,7 @@
             "True": "A"
         },
         {
-            "Q": "Cho CSDL Music gồm 2 bảng, Bản nhạc và Nhạc sĩ. Thì Tên nhạc sĩ của Tên bản nhạc \"Tình ca\" là",
+            "Q": "<img src='https://i.imgur.com/SiSKD8g.png' style='width:90%;height:auto'><br>Cho CSDL Music gồm 2 bảng, Bản nhạc và Nhạc sĩ. Thì Tên nhạc sĩ của Tên bản nhạc \"Tình ca\" là",
             "A": "Hoàng Việt",
             "B": "Đỗ Nhuận",
             "C": "Văn Cao",
@@ -242,7 +242,7 @@
             "True": "B"
         },
         {
-            "Q": "Giả sử có bảng nhacsi. Câu truy vấn lấy tất cả các dòng của bảng nhacsi là:",
+            "Q": "<img src='https://i.imgur.com/vfQMB6n.png' style='width:60%;height:auto'><br>Giả sử có bảng nhacsi. Câu truy vấn lấy tất cả các dòng của bảng nhacsi là:",
             "A": "SELECT Aid, TenNS FROM nhacsi;",
             "B": "SELECT 1, 2, 3 4 FROM nhacsi;",
             "C": "SELECT TenNS FROM nhacsi;",
@@ -250,7 +250,7 @@
             "True": "A"
         },
         {
-            "Q": "Câu truy vấn tạo bảng Ca sĩ như đã mô tả với tên bảng casi là:",
+            "Q": "<img src='https://i.imgur.com/lVQFdGK.png' style='width:60%;height:auto'><br>Câu truy vấn tạo bảng Ca sĩ như đã mô tả với tên bảng casi là:",
             "A": "CREATE TABLE casi (Sid CHAR(2), TenCS VARCHAR (28) );",
             "B": "CREATE DATABASE casi (Sid VARCHAR (28), TenCS CHAR (2) );",
             "C": "CREATE DATABASE casi (Sid CHAR(2), TenCS VARCHAR (28) );",
@@ -258,7 +258,7 @@
             "True": "A"
         },
         {
-            "Q": "Một nhóm học sinh sử dụng phần mềm hệ QTCSDL tạo ra CSDL có 2 bảng sau. Sau đây là các ý kiến của nhóm học sinh đối với việc tạo hai bảng nói trên:",
+            "Q": "<img src='https://i.imgur.com/59gZ38P.png' style='width:100%;height:auto'><br>Một nhóm học sinh sử dụng phần mềm hệ QTCSDL tạo ra CSDL có 2 bảng sau. Sau đây là các ý kiến của nhóm học sinh đối với việc tạo hai bảng nói trên:",
             "type": "true_false_set",
             "questions": [
                 {"text": "Trường Sdt trong bảng THUE_BAO tuy chứa số điện thoại nhưng định nghĩa kiểu dữ liệu là chuỗi ký tự", "correct": true},
@@ -304,5 +304,6 @@
     ]
 
 }
+
 
 
