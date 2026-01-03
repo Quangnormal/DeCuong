@@ -991,7 +991,7 @@
       "type": "short_answer",
       "True": "S",
       "Q": "Giới hạn lượng đường glucose tối đa trong máu người là bao nhiêu mmol/l?",
-      "correctAnswer": "7,9"
+      "correctAnswer": "3,9"
     },
     {
       "type": "short_answer",
@@ -1026,6 +1026,7 @@
   ]
 
 }
+
 
 
 
