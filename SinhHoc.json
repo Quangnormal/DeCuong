@@ -844,7 +844,7 @@
         },
         {
           "text": "Sau khi ngồi nghỉ ngơi, sự giảm tiêu thụ O$_2$ và đào thải CO$_2$ lúc này sẽ làm giảm kích thích lên hệ thần kinh giao cảm dẫn đến nhịp tim dần giảm về trạng thái bình thường.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Nên tập thể dục đều đặn và hợp lý sẽ tốt cho tim và hệ tuần hoàn.",
@@ -1015,17 +1015,18 @@
       "type": "short_answer",
       "True": "S",
       "Q": "Trong các hiện tượng sau: đóng mở khí khổng, hiện tượng thức ngủ của lá cây họ Đậu, lá cây trinh nữ khép lại khi bị va chạm, cây bắt ruồi. Có bao nhiêu trường hợp thuộc kiểu ứng động sinh trưởng?",
-      "correctAnswer": "2"
+      "correctAnswer": "1"
     },
     {
       "type": "short_answer",
       "True": "S",
       "Q": "Cho các đặc điểm: Ứng động sinh trưởng, phản ứng nhanh, do nhiệt độ và ánh sáng, giúp bảo vệ lá. Có bao nhiêu đặc điểm của hiện tượng khép mở lá do va chạm cơ học?",
-      "correctAnswer": "1"
+      "correctAnswer": "2"
     }
   ]
 
 }
+
 
 
 
