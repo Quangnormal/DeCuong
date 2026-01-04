@@ -63,7 +63,7 @@
       "B": "(1), (2), (3)",
       "C": "(1), (4), (5)",
       "D": "(1), (3), (5)",
-      "True": "B"
+      "True": "A"
     },
     {
       "Q": "Vai trò không đúng khi nói về hô hấp ở động vật là: 1. Cung cấp năng lượng cho toàn bộ hoạt động cơ thể 2. Cung cấp O$_2$ cho tế bào tạo năng lượng. 3. Mang CO$_2$ từ tế bào đến cơ quan hô hấp 4. Cung cấp các sản phẩm trung gian cho quá trình đồng hóa các chất.",
@@ -1026,6 +1026,7 @@
   ]
 
 }
+
 
 
 
