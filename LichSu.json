@@ -415,7 +415,7 @@
       "B": "Kế sách \"thanh dã\"",
       "C": "Chủ động kết thúc chiến tranh.",
       "D": "Đánh nhanh thắng nhanh.",
-      "True": "B"
+      "True": "C"
     },
     {
       "Q": "Cuộc khởi nghĩa Lam Sơn (1418-1427) thắng lợi đã",
@@ -423,7 +423,7 @@
       "B": "chấm dứt mọi cuộc chiến tranh xâm lược từ Trung Quốc.",
       "C": "mở đầu thời kì độc lập, tự chủ lâu dài cho dân tộc.",
       "D": "đập tan âm mưu thủ tiêu văn hóa Đại Việt của Trung Quốc",
-      "True": "C"
+      "True": "D"
     },
     {
       "Q": "Một trong những đặc điểm nổi bật về nghệ thuật quân sự của các cuộc khởi nghĩa trong lịch sử Việt Nam từ thế kỉ III TCN đến cuối thế kỉ XIX là",
@@ -465,42 +465,7 @@
         { "text": "Trận quyết chiến chiến lược của cuộc kháng chiến diễn ra tại sông Như Nguyệt, phía bắc kinh thành Thăng Long", "correct": true }
       ],
       "True": "T"
-    },
-    {
-      "Q": "Trình bày những nét chính về phong trào đấu tranh chống thực dân xâm lược ở Đông Nam Á.",
-      "type": "short_answer",
-      "correctAnswer": "Phong trào đấu tranh chống thực dân ở Đông Nam Á diễn ra sôi nổi, liên tục từ khi thực dân phương Tây xâm lược đến khi các quốc gia giành được độc lập. Các phong trào phát triển từ tự phát đến tự giác, với sự tham gia của nhiều tầng lớp nhân dân. Từ đầu thế kỉ XX, xuất hiện hai khuynh hướng chính: dân chủ tư sản và vô sản. Sau Chiến tranh thế giới thứ hai, phong trào phát triển mạnh mẽ, giành độc lập cho hầu hết các nước trong khu vực.",
-      "True": "S"
-    },
-    {
-      "Q": "Phân tích những tác động của chủ nghĩa thực dân đối với quá trình tái thiết và phát triển của các quốc gia Đông Nam Á (giữa thế kỉ XX)?",
-      "type": "short_answer",
-      "correctAnswer": "Chủ nghĩa thực dân để lại những di sản phức tạp: tích cực (du nhập kỹ thuật, hình thành cơ sở hạ tầng hiện đại, gắn kết với thị trường thế giới) và tiêu cực (nền kinh tế lệ thuộc, mất cân đối, mâu thuẫn xã hội và sắc tộc trầm trọng, văn hóa truyền thống bị xâm hại). Những di sản này ảnh hưởng lâu dài đến quá trình tái thiết và phát triển của các quốc gia Đông Nam Á sau khi giành độc lập.",
-      "True": "S"
-    },
-    {
-      "Q": "Lập bảng thống kê các cuộc kháng chiến chống ngoại xâm thắng lợi tiêu biểu của quân dân ta từ thế kỉ X - XVIII theo yêu cầu",
-      "type": "short_answer",
-      "correctAnswer": "| Tên cuộc kháng chiến | Thời gian | Lãnh đạo | Chiến thắng tiêu biểu |\n|----------------------|-----------|----------|------------------------|\n| Chống Nam Hán | 938 | Ngô Quyền | Trận Bạch Đằng |\n| Chống Tống lần 1 | 981 | Lê Hoàn | Chiến thắng trên sông Bạch Đằng |\n| Chống Tống lần 2 | 1075-1077 | Lý Thường Kiệt | Phòng tuyến sông Như Nguyệt |\n| Chống Mông Cổ lần 1 | 1258 | Vua Trần, Trần Thủ Độ | Trận Đông Bộ Đầu |\n| Chống Nguyên lần 2 | 1285 | Trần Quốc Tuấn | Các trận Hàm Tử, Chương Dương, Tây Kết |\n| Chống Nguyên lần 3 | 1287-1288 | Trần Quốc Tuấn | Trận Bạch Đằng |\n| Chống Minh | 1418-1427 | Lê Lợi, Nguyễn Trãi | Chiến thắng Chi Lăng - Xương Giang |\n| Chống Xiêm | 1785 | Nguyễn Huệ | Trận Rạch Gầm - Xoài Mút |\n| Chống Thanh | 1789 | Quang Trung | Trận Ngọc Hồi - Đống Đa |",
-      "True": "S"
-    },
-    {
-      "Q": "Phân tích vai trò và ý nghĩa của chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam?",
-      "type": "short_answer",
-      "correctAnswer": "Chiến tranh bảo vệ Tổ quốc có vai trò và ý nghĩa to lớn: Bảo vệ nền độc lập, chủ quyền và toàn vẹn lãnh thổ của dân tộc. Củng cố và phát huy tinh thần yêu nước, ý chí tự lực tự cường, truyền thống đoàn kết. Rèn luyện nghệ thuật quân sự độc đáo, sáng tạo. Góp phần hình thành và phát triển bản sắc văn hóa, con người Việt Nam. Khẳng định sức mạnh và vị thế của dân tộc trên trường quốc tế.",
-      "True": "S"
-    },
-    {
-      "Q": "Vì sao nói phong trào khởi nghĩa Tây Sơn đã đặt cơ sở bước đầu cho việc thống nhất đất nước vào cuối thế kỉ XVIII và bảo vệ nền độc lập dân tộc?",
-      "type": "short_answer",
-      "correctAnswer": "Phong trào Tây Sơn đã lật đổ các chính quyền phong kiến cát cứ (chúa Nguyễn ở Đàng Trong, chúa Trịnh ở Đàng Ngoài), xóa bỏ tình trạng chia cắt đất nước kéo dài hơn 2 thế kỷ, đặt nền móng cho sự thống nhất quốc gia. Đồng thời, phong trào đã đánh bại các cuộc xâm lược của Xiêm (1785) và Thanh (1789), bảo vệ vững chắc nền độc lập, chủ quyền của dân tộc.",
-      "True": "S"
-    },
-    {
-      "Q": "Kể tên các cuộc khởi nghĩa tiêu biểu thời kỳ Bắc thuộc và nêu thời gian bùng nổ, tên người lãnh đạo của các cuộc khởi nghĩa đó.",
-      "type": "short_answer",
-      "correctAnswer": "1. Khởi nghĩa Hai Bà Trưng (40 - 43), lãnh đạo: Trưng Trắc, Trưng Nhị.\n2. Khởi nghĩa Bà Triệu (248), lãnh đạo: Triệu Thị Trinh.\n3. Khởi nghĩa Lý Bí (542), lãnh đạo: Lý Bí.\n4. Khởi nghĩa Mai Thúc Loan (722), lãnh đạo: Mai Thúc Loan.\n5. Khởi nghĩa Phùng Hưng (766 - 791), lãnh đạo: Phùng Hưng.\n6. Khởi nghĩa Khúc Thừa Dụ (905), lãnh đạo: Khúc Thừa Dụ.",
-      "True": "S"
     }
   ]
+
 }
