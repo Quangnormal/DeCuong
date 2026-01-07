@@ -1,0 +1,841 @@
+{
+  "Mon": "Tiếng Anh 11",
+  "QA": [
+    {
+      "Q": "Question 1. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. Vietnam has been an active member of ASEAN since 1995, contributing to various political and economic initiatives.<br>b. By promoting regional stability, Vietnam helps ensure peace and cooperation among Southeast Asian nations.<br>c. ASEAN has provided Vietnam with a platform to expand its economic ties, particularly through trade agreements.<br>d. Additionally, Vietnam plays a crucial role in addressing regional challenges such as climate change and the South China Sea dispute.<br>e. As ASEAN continues to grow, Vietnam's leadership remains essential in fostering regional unity and prosperity.",
+      "A": "b - a - d - e - c",
+      "B": "a - c - e - b - d",
+      "C": "a - b - d - c - e",
+      "D": "c - a - b - e - d",
+      "True": "C"
+    },
+    {
+      "Q": "Question 2. Sắp xếp các câu sau thành một bài phát biểu có nghĩa:<br>a. Vietnam has long been committed to the goals of ASEAN, striving to enhance cooperation across various sectors.<br>b. I firmly believe that ASEAN will play an essential role in shaping the future of Southeast Asia.<br>c. Dear ASEAN colleagues,<br>d. Furthermore, Vietnam's contributions to regional stability and economic growth have strengthened its position as a key ASEAN member.<br>e. Thank you for supporting Vietnam's role within ASEAN as we continue to promote peace and development.<br>f. By engaging in ASEAN activities, Vietnam is actively participating in building a prosperous future for the region.",
+      "A": "c - d - a - f - c - b",
+      "B": "c - a - f - d - b - c",
+      "C": "c - a - d - f - b - c",
+      "D": "c - f - a - b - d - e",
+      "True": "D"
+    },
+    {
+      "Q": "Question 3. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. Reducing carbon footprints at an individual level can make a meaningful impact on global warming.<br>b. Additionally, small daily actions, like conserving energy and reducing waste, contribute to overall emissions reduction.<br>c. Together, these efforts help combat climate change and preserve the environment for future generations.<br>d. Many people are unaware of how their daily habits contribute to global warming.<br>e. With greater awareness and small lifestyle changes, everyone can play a role in slowing down global warming.",
+      "A": "d - a - b - c - c",
+      "B": "a - d - c - c - b",
+      "C": "d - a - c - b - c",
+      "D": "a - c - b - d - e",
+      "True": "C"
+    },
+    {
+      "Q": "Question 4. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. This connectivity ensures that residents can manage their homes, work, and social lives with ease.<br>b. Smart cities are designed to be highly connected, integrating various technologies into everyday life.<br>c. Moreover, the efficiency of smart cities contributes to a more sustainable and eco-friendly urban environment.<br>d. As a result, residents of smart cities can experience a higher quality of life with less environmental impact.<br>e. One of the most significant advantages of living in a smart city is the seamless integration of technology.",
+      "A": "a - b - d - c - c",
+      "B": "c - b - a - c - d",
+      "C": "c - b - a - c - d",
+      "D": "a - d - b - c - c",
+      "True": "B"
+    },
+    {
+      "Q": "Question 5. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. Scientists have warned that deforestation contributes significantly to global warming.<br>b. One way to prevent further damage is to protect forests and encourage reforestation.<br>c. Forests act as natural carbon sinks, absorbing CO₂ from the atmosphere.<br>d. With effective reforestation efforts, we can reduce the impact of global warming.<br>e. Additionally, individuals can support these efforts by reducing their use of paper products.",
+      "A": "a - c - e - b - d",
+      "B": "c - a - d - b - e",
+      "C": "a - c - b - c - d",
+      "D": "c - a - d - c - b",
+      "True": "A"
+    },
+    {
+      "Q": "Question 6. Sắp xếp các câu sau thành một bài phát biểu có nghĩa:<br>a. I encourage each of you to be mindful of your daily actions and their impact on our planet.<br>b. By conserving resources, reducing waste, and promoting sustainability, we can make a positive change.<br>c. Thank you for your commitment to preserving the environment for future generations.<br>d. Together, we have the power to make a difference, no matter how small our actions may seem.<br>e. Dear Friends of the Earth,<br>f. Protecting our environment is more important now than ever.",
+      "A": "e - f - a - b - d - c",
+      "B": "f - c - d - b - a - c",
+      "C": "e - a - f - d - c - b",
+      "D": "e - f - d - a - c - b",
+      "True": "A"
+    },
+    {
+      "Q": "Question 7. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. ASEAN plays a vital role in promoting economic development and cooperation across Southeast Asia.<br>b. Vietnam, as a member of ASEAN, has leveraged these partnerships to boost its economic growth.<br>c. Through ASEAN, Vietnam has expanded its trade networks and attracted foreign investment, particularly in key sectors like manufacturing and agriculture.<br>d. Furthermore, ASEAN's regional trade agreements have allowed Vietnam to increase its exports and engage in global markets.<br>e. This economic collaboration has been crucial in helping Vietnam become one of the fastest-growing economies in the region.",
+      "A": "a - b - c - d - c",
+      "B": "b - a - c - d",
+      "C": "b - c - d - a - c",
+      "D": "c - d - a - b - c",
+      "True": "B"
+    },
+    {
+      "Q": "Question 8. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. The introduction of smart technologies in cities can help reduce traffic congestion and improve public transportation.<br>b. In future cities, people are expected to live in more sustainable and eco-friendly environments.<br>c. Additionally, urban areas will likely see an increase in green spaces and renewable energy sources.<br>d. As cities evolve, the quality of life for residents will continue to improve with better infrastructure and services.<br>e. Living in the city will become more efficient and convenient as technology advances.",
+      "A": "c - d - c - b - a",
+      "B": "b - c - a - d",
+      "C": "b - d - c - a - c",
+      "D": "c - a - c - b - d",
+      "True": "B"
+    },
+    {
+      "Q": "Question 9. Sắp xếp đoạn hội thoại:<br>a. Anna: I think cities in the future will have more green spaces and cleaner air.<br>b. Mark: Really? I imagine flying taxis and robots helping people every day.<br>c. Anna: That sounds exciting! But I hope technology won't replace human connection.",
+      "A": "a - b - c",
+      "B": "a - c - b",
+      "C": "b - a - c",
+      "D": "b - c - a",
+      "True": "A"
+    },
+    {
+      "Q": "Question 10. Sắp xếp đoạn hội thoại:<br>a. Lan: I agree. I also think teamwork experience is important because participants often work in groups.<br>b. Minh: What skills do you think ASEAN Youth Programme applicants should have?<br>c. Lan: Well, in my opinion, communication skills are the most necessary.",
+      "A": "a - b - c",
+      "B": "b - c - a",
+      "C": "c - a - b",
+      "D": "c - b - a",
+      "True": "B"
+    },
+    {
+      "Q": "Question 11. Sắp xếp đoạn hội thoại:<br>a. Hoa: I think we should reduce plastic use because it increases waste and harms the environment.<br>b. Nam: What human activities do you think have the biggest impact on global warming?<br>c. Hoa: Well, burning fossil fuels is the main cause. It releases a lot of carbon dioxide into the air.",
+      "A": "a - b - c",
+      "B": "c - a - b",
+      "C": "b - c - a",
+      "D": "c - b - a",
+      "True": "C"
+    },
+    {
+      "Q": "Question 12. Sắp xếp đoạn hội thoại:<br>a. Lan: Yeah, and factories release a lot of smoke. That makes the air even more polluted.<br>b. Tuan: Really? I didn't know cars and motorbikes caused that much pollution.<br>c. Lan: Well, many human activities increase global warming.<br>d. Tuan: Can you give me an example?<br>e. Lan: Sure. For example, using too many vehicles burns fossil fuels and produces greenhouse gases.",
+      "A": "c - d - e - b - a",
+      "B": "d - c - e - a - b",
+      "C": "c - e - a - d - b",
+      "D": "e - b - c - a - d",
+      "True": "A"
+    },
+    {
+      "Q": "Question 13. Sắp xếp đoạn hội thoại:<br>a. Hoa: Yes, and young people from Viet Nam often join these events to share ideas and learn new skills.<br>b. Minh: Really? I didn't know there were so many activities for students.<br>c. Hoa: ASEAN creates many programmes to help young people connect with others in the region.<br>d. Minh: What do students usually do in those programmes?<br>e. Hoa: They take part in workshops, cultural exchanges, and volunteer projects.",
+      "A": "d - c - a - e - b",
+      "B": "e - b - d - c - a",
+      "C": "c - e - a - b - d",
+      "D": "c - d - e - b - a",
+      "True": "D"
+    },
+    {
+      "Q": "Question 14. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. Raising awareness about pollution can inspire people to adopt more sustainable habits.<br>b. Small actions, such as using reusable bags and reducing single-use plastics, help decrease waste.<br>c. Collectively, these efforts contribute to protecting the environment and reducing pollution levels.<br>d. Many individuals do not realize the environmental impact of their daily choices.<br>e. With increased awareness and simple lifestyle changes, everyone can make a positive difference in protecting the planet.",
+      "A": "d - a - c - b - e",
+      "B": "a - d - e - c - b",
+      "C": "d - a - b - e - c",
+      "D": "a - c - b - d - e",
+      "True": "C"
+    },
+    {
+      "Q": "Question 15. Sắp xếp các câu sau thành một bức thư có nghĩa:<br>Dear ASEAN partners,<br>a. Vietnam's engagement in ASEAN has been crucial in addressing key security and environmental challenges.<br>b. I believe that Vietnam will continue to lead the way in promoting regional stability and peace.<br>c. Moreover, through initiatives like the ASEAN Regional Forum, Vietnam remains committed to fostering cooperation and diplomacy.<br>d. Thank you for your continued support of Vietnam's role within ASEAN.<br>e. By working together, we can ensure a safer and more stable Southeast Asia for future generations.",
+      "A": "a - b - c - e - d",
+      "B": "b - a - c - e - d",
+      "C": "c - a - b - d - e",
+      "D": "a - c - b - e - d",
+      "True": "D"
+    },
+    {
+      "Q": "Question 16. Write a proposal (120-150 words) about organising an ASEAN festival at your school. Use the suggested questions to help you. You can also add your own ideas.<br>• When and where will the ASEAN Day event take place?<br>• What will each class prepare for the event?<br>• What activities are planned for the event?<br>• How will the event help students learn more about ASEAN countries?<br>• Why do the organisers believe the school should approve this proposal?",
+      "type": "short_answer",
+      "correctAnswer": "Học sinh tự viết bài proposal",
+      "True": "S"
+    },
+    {
+      "Q": "Question 17. You are organising your school's Green Fair. Write about 120-150 words to complete the announcement. Use the suggested questions to help you.<br>• What is the event and why is it organised?<br>• What workshops or green activities will people join at the fair?<br>• What recycling activities will the fair offer?<br>• How will the event help students protect the planet?/ What good habits will students learn?<br>• How will you invite people to join the event, and what do you hope they will feel or learn?",
+      "type": "short_answer",
+      "correctAnswer": "Học sinh tự viết bài thông báo",
+      "True": "S"
+    },
+    {
+      "Q": "LANGUAGE 1 - Câu 1:<br>Our new city model features energy-saving homes and smart transport systems (1) _______ pollution and traffic problems.",
+      "A": "reduce",
+      "B": "reducing",
+      "C": "reduced",
+      "D": "to reducing",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 1 - Câu 2:<br>Visitors can learn how technology helps people (2) _______ safer and healthier lives.",
+      "A": "live",
+      "B": "living",
+      "C": "lived",
+      "D": "to living",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 1 - Câu 3:<br>You can also join activities such as planting trees, recycling, and (3) _______ energy at home to protect the environment.",
+      "A": "save",
+      "B": "saving",
+      "C": "saved",
+      "D": "to save",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 1 - Câu 4:<br>The showcase explains useful phrasal verbs related to city life, including how clean energy can cut (4) _______ waste and reduce harmful gases in the air.",
+      "A": "out",
+      "B": "up",
+      "C": "in",
+      "D": "off",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 1 - Câu 5:<br>Don't miss the demo house designed to help families stay comfortable while using (5) _______ electricity.",
+      "A": "few",
+      "B": "little",
+      "C": "fewer",
+      "D": "less",
+      "True": "D"
+    },
+    {
+      "Q": "LANGUAGE 1 - Câu 6:<br>Together, we can build (6) _______ cleaner and brighter future.",
+      "A": "the",
+      "B": "a",
+      "C": "an",
+      "D": "Ø (no article)",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 2 - Câu 1:<br>Vietnam plays (1) ______ important role in promoting peace, unity, and economic cooperation among Southeast Asian countries.",
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "Ø",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 2 - Câu 2:<br>ASEAN works to support stability and development (2) ______ the region.",
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "to",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 2 - Câu 3:<br>Vietnam has made great progress in the economic (3) ______ (integrate) of ASEAN, becoming a reliable partner in trade, tourism, and investment.",
+      "A": "integrate",
+      "B": "integrating",
+      "C": "integration",
+      "D": "integrative",
+      "True": "C"
+    },
+    {
+      "Q": "LANGUAGE 2 - Câu 4:<br>Students can join exchange programmes, cultural events, and competitions that help them understand the meaning of 'cooperation,' which means (4) ______ together with others to achieve a shared goal.",
+      "A": "talking",
+      "B": "working",
+      "C": "waiting",
+      "D": "moving",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 2 - Câu 5:<br>The country values long-term friendship and believes strong regional ties (5) ______ essential for future success.",
+      "A": "are",
+      "B": "become",
+      "C": "are becoming",
+      "D": "will become",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 2 - Câu 6:<br>Across the region, new projects are being launched to support green cities, digital innovation, and community development, with several initiatives (6) ______ by Vietnam in recent years.",
+      "A": "leading",
+      "B": "led",
+      "C": "being lead",
+      "D": "having led",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 3 - Câu 1:<br>These cities focus on reducing pollution, saving energy, and (1) ______ (make) services more efficient.",
+      "A": "make",
+      "B": "making",
+      "C": "made",
+      "D": "to make",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 3 - Câu 2:<br>Many smart systems, (2) ______ to monitor traffic and public transport, help reduce congestion in busy areas.",
+      "A": "design",
+      "B": "designing",
+      "C": "designed",
+      "D": "to designing",
+      "True": "C"
+    },
+    {
+      "Q": "LANGUAGE 3 - Câu 3:<br>In addition, smart cities invest in green spaces and digital platforms that give people easy access (3) ______ important information.",
+      "A": "with",
+      "B": "about",
+      "C": "to",
+      "D": "for",
+      "True": "C"
+    },
+    {
+      "Q": "LANGUAGE 3 - Câu 4:<br>Young people play an important role in shaping smart cities by sharing creative ideas, joining innovation clubs, and taking part in projects (4) ______ environmental problems.",
+      "A": "solve",
+      "B": "solving",
+      "C": "solved",
+      "D": "to solve",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 3 - Câu 5:<br>With the right solutions, smart cities can bring long-term (5) ______ to society and create (6) ______ healthier and more sustainable future.",
+      "A": "benefits",
+      "B": "beneficial",
+      "C": "benefit",
+      "D": "benefiting",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 3 - Câu 6:<br>With the right solutions, smart cities can bring long-term benefits to society and create (6) ______ healthier and more sustainable future.",
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "Ø (no article)",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 4 - Câu 1:<br>Cultural Discovery Zone: Experience unique traditions from ASEAN nations, seeing how local customs (1) ______ modern lifestyles.",
+      "A": "inspires",
+      "B": "encourages",
+      "C": "transforms",
+      "D": "limits",
+      "True": "C"
+    },
+    {
+      "Q": "LANGUAGE 4 - Câu 2:<br>Creative Workshop Hub: Try hands-on activities such as battle painting and lantern making, with instructors guiding you (2) ______ new crafting skills.",
+      "A": "to learn",
+      "B": "learning",
+      "C": "learn",
+      "D": "learns",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 4 - Câu 3:<br>Youth Networking Forum: Talk with young innovators about the future of the (3) ______ and how cooperation can improve sustainable development.",
+      "A": "world",
+      "B": "community",
+      "C": "region",
+      "D": "economy",
+      "True": "C"
+    },
+    {
+      "Q": "LANGUAGE 4 - Câu 4:<br>ASEAN Food Court: Enjoy delicious snacks from street markets across the region, prepared with (4) ______ care and fresh ingredients.",
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article",
+      "True": "D"
+    },
+    {
+      "Q": "LANGUAGE 4 - Câu 5:<br>Travel Information Corner: Learn useful tips for visiting ASEAN countries and get brochures filled with information (5) ______ must-see destinations.",
+      "A": "about",
+      "B": "at",
+      "C": "on",
+      "D": "of",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 4 - Câu 6:<br>Innovation Showcase: Explore student projects that highlight creativity and technological (6) ______ in solving local challenges.",
+      "A": "innovate",
+      "B": "innovation",
+      "C": "innovative",
+      "D": "innovating",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 5 - Câu 1:<br>Our school is launching a new environmental campaign to raise awareness about global warming, a serious issue caused by rising temperatures and (1) ______ (increase) greenhouse gas emissions.",
+      "A": "increase",
+      "B": "increased",
+      "C": "increasing",
+      "D": "to increase",
+      "True": "C"
+    },
+    {
+      "Q": "LANGUAGE 5 - Câu 2:<br>The campaign will include workshops, activities, and projects (2) ______ to help students understand how daily habits impact the planet.",
+      "A": "designed",
+      "B": "designing",
+      "C": "design",
+      "D": "to designing",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 5 - Câu 3:<br>Students will also learn practical ways to reduce their carbon footprint, such as using less plastic, saving energy, and switching (3) ______ eco-friendly products.",
+      "A": "for",
+      "B": "with",
+      "C": "to",
+      "D": "into",
+      "True": "C"
+    },
+    {
+      "Q": "LANGUAGE 5 - Câu 4:<br>In addition, we will hold a poster contest (4) ______ creative solutions to protect the environment.",
+      "A": "promote",
+      "B": "promoting",
+      "C": "promoted",
+      "D": "promotion",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 5 - Câu 5:<br>Global warming has many negative (5) ______ on wildlife, weather patterns, and human health, so it is important for everyone to take action.",
+      "A": "effect",
+      "B": "effects",
+      "C": "effective",
+      "D": "effectively",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 5 - Câu 6:<br>Together, we can build a cleaner and more sustainable (6) ______ future.",
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "Ø (no article)",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 6 - Câu 1:<br>Viet Nam's youth are known for their creativity and teamwork, often (1) ______ community projects that support education and culture.",
+      "A": "participate",
+      "B": "participating",
+      "C": "participated",
+      "D": "participation",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 6 - Câu 2:<br>ASEAN encourages students to join youth forums and exchange programmes (2) ______ aim to build leadership skills.",
+      "A": "who",
+      "B": "which",
+      "C": "where",
+      "D": "what",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 6 - Câu 3:<br>Many activities are designed to help young people make a positive (3) ______ on their communities.",
+      "A": "impact",
+      "B": "improve",
+      "C": "impress",
+      "D": "impactful",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 6 - Câu 4:<br>In Viet Nam, student groups also organise events (4) ______ environmental protection and cultural awareness.",
+      "A": "promote",
+      "B": "promoting",
+      "C": "promoted",
+      "D": "promotion",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 6 - Câu 5:<br>These programmes allow students to share (5) ______ ideas and learn more about their ASEAN identity.",
+      "A": "they",
+      "B": "them",
+      "C": "their",
+      "D": "theirs",
+      "True": "C"
+    },
+    {
+      "Q": "LANGUAGE 6 - Câu 6:<br>With energy and determination, the youth of ASEAN are ready to create (6) ______ brighter and more connected future.",
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "Ø (no article)",
+      "True": "A"
+    },
+    {
+      "Q": "LANGUAGE 7 - Câu 1:<br>Global warming is becoming a serious threat, (1) ______ temperatures and causing extreme weather in many areas.",
+      "A": "rise",
+      "B": "rising",
+      "C": "risen",
+      "D": "to rise",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 7 - Câu 2:<br>Scientists warn that greenhouse gases released from factories and vehicles are (2) ______ responsible for this rapid change.",
+      "A": "feel",
+      "B": "feeling",
+      "C": "felt",
+      "D": "to feel",
+      "True": "C"
+    },
+    {
+      "Q": "LANGUAGE 7 - Câu 3:<br>To fight climate change, our school encourages students to join activities such as planting trees, recycling, and (3) ______ energy at home.",
+      "A": "save",
+      "B": "saving",
+      "C": "saved",
+      "D": "to saving",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 7 - Câu 4:<br>We will also launch a campaign to help students understand common phrasal verbs and expressions used when talking (4) ______ environmental issues.",
+      "A": "with",
+      "B": "about",
+      "C": "for",
+      "D": "into",
+      "True": "B"
+    },
+    {
+      "Q": "LANGUAGE 7 - Câu 5:<br>Students can submit (5) ______ posters that send a clear (6) ______ about the importance of saving the planet.",
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "Ø (no article)",
+      "True": "D"
+    },
+    {
+      "Q": "LANGUAGE 7 - Câu 6:<br>Students can submit posters that send a clear (6) ______ about the importance of saving the planet.",
+      "A": "message",
+      "B": "messaging",
+      "C": "messaged",
+      "D": "mislead",
+      "True": "A"
+    },
+    {
+      "Q": "READ 1.1 - Câu 1:<br>Global warming and deforestation are destroying our valuable ecosystems and harming the animals and plants (1) ______ live in them.",
+      "A": "whose",
+      "B": "that",
+      "C": "who",
+      "D": "whom",
+      "True": "B"
+    },
+    {
+      "Q": "READ 1.1 - Câu 2:<br>Firstly, we must try to use only (2) ______ products.",
+      "A": "energy-saving",
+      "B": "well-preserved",
+      "C": "eye-opening",
+      "D": "high-rise",
+      "True": "A"
+    },
+    {
+      "Q": "READ 1.1 - Câu 3:<br>These products don't use (3) ______ electricity that produces greenhouse gases.",
+      "A": "a lot of",
+      "B": "many",
+      "C": "some",
+      "D": "each",
+      "True": "A"
+    },
+    {
+      "Q": "READ 1.1 - Câu 4:<br>The more trees we have, the more we can (4) ______ the CO2 already in the air.",
+      "A": "face up to",
+      "B": "get on with",
+      "C": "put up with",
+      "D": "cut down on",
+      "True": "D"
+    },
+    {
+      "Q": "READ 1.1 - Câu 5:<br>By doing this, we reduce global warming and its harmful (5) ______ on the environment.",
+      "A": "affects",
+      "B": "effects",
+      "C": "effective",
+      "D": "effectively",
+      "True": "B"
+    },
+    {
+      "Q": "READ 1.2 - Câu 1:<br>Smart cities improve the usage of resources such as electricity or water by predicting their demand. (1) ______ sensors are installed inside commercial and residential buildings like smart meters, they can analyze the amount of energy consumed, central management systems are able to (2) ______ patterns and demand, thus limiting wasted resources.",
+      "A": "Although",
+      "B": "However",
+      "C": "Because of",
+      "D": "Because",
+      "True": "D"
+    },
+    {
+      "Q": "READ 1.2 - Câu 2:<br>central management systems are able to (2) ______ patterns and demand, thus limiting wasted resources.",
+      "A": "increase",
+      "B": "predict",
+      "C": "produce",
+      "D": "manage",
+      "True": "B"
+    },
+    {
+      "Q": "READ 1.2 - Câu 3:<br>Transportation can be made more efficient with connected traffic management systems and new types of mobility, (3) ______ of which include shared vehicles (cars, bikes, e-scooters).",
+      "A": "many",
+      "B": "much",
+      "C": "each",
+      "D": "some",
+      "True": "D"
+    },
+    {
+      "Q": "READ 1.2 - Câu 4:<br>(4) ______ such as streets, bridges, and buildings can be made safer and cheaper to maintain.",
+      "A": "Transformation",
+      "B": "Infrastructure",
+      "C": "Individual",
+      "D": "Access",
+      "True": "B"
+    },
+    {
+      "Q": "READ 1.2 - Câu 5:<br>With sensors installed throughout the structure, (5) ______ use AI data analysis, maintenance issues can be predicted before they occur.",
+      "A": "who",
+      "B": "whose",
+      "C": "whom",
+      "D": "which",
+      "True": "D"
+    },
+    {
+      "Q": "READ 1.3 - Câu 1:<br>Recognizing the role of the youth in art, culture, and nation building, the ASEAN-COCI Sub-Committee on Culture had been implementing several projects (1) ______ their creative skills and provide them an opportunity to be exposed to, understand and (2) ______ other ASEAN cultures.",
+      "A": "develop",
+      "B": "developing",
+      "C": "to develop",
+      "D": "to developing",
+      "True": "C"
+    },
+    {
+      "Q": "READ 1.3 - Câu 2:<br>provide them an opportunity to be exposed to, understand and (2) ______ other ASEAN cultures.",
+      "A": "appreciate",
+      "B": "qualify",
+      "C": "Promise",
+      "D": "propose",
+      "True": "A"
+    },
+    {
+      "Q": "READ 1.3 - Câu 3:<br>The ASEAN Youth Cultural Friendship Program, later named ASEAN Youth Camp (AYC), has successfully (3) ______ the awareness of the young participants about the history, arts, and culture of the region.",
+      "A": "put",
+      "B": "took",
+      "C": "Paid",
+      "D": "raised",
+      "True": "D"
+    },
+    {
+      "Q": "READ 1.3 - Câu 4:<br>and (4) ______ to the development of future ASEAN artists and culture leaders.",
+      "A": "respond",
+      "B": "contribute",
+      "C": "Represent",
+      "D": "avoid",
+      "True": "B"
+    },
+    {
+      "Q": "READ 1.3 - Câu 5:<br>(5) ______ delegates from China, South Korea, and Japan were also invited to take part in some of the camps.",
+      "A": "Any",
+      "B": "Some",
+      "C": "Much",
+      "D": "Other",
+      "True": "B"
+    },
+    {
+      "Q": "READ 1.4 - Câu 1:<br>With so many people living close together, it might seem (1) ______ to build connections, but the fast pace of city life can make it difficult.",
+      "A": "easy",
+      "B": "easily",
+      "C": "easier",
+      "D": "more easily",
+      "True": "C"
+    },
+    {
+      "Q": "READ 1.4 - Câu 2:<br>People are often busy with work, commuting, and other responsibilities, leaving little time to get to know their (2) ______.",
+      "A": "pedestrians",
+      "B": "neighbors",
+      "C": "skyscrapers",
+      "D": "dwellers",
+      "True": "B"
+    },
+    {
+      "Q": "READ 1.4 - Câu 3:<br>(3) ______ communities can organize events like street fairs or clean-up days, which bring people together and make the area nicer for everyone.",
+      "A": "For example",
+      "B": "In short",
+      "C": "Due to",
+      "D": "Nevertheless",
+      "True": "A"
+    },
+    {
+      "Q": "READ 1.4 - Câu 4:<br>Even small things, like saying hello to a neighbor or helping someone with their groceries, can (4) ______ a big difference.",
+      "A": "give",
+      "B": "take",
+      "C": "make",
+      "D": "have",
+      "True": "C"
+    },
+    {
+      "Q": "READ 1.4 - Câu 5:<br>In the end, the sense of community in modern cities is something that needs to be nurtured, but it brings (5) ______ benefits, making city life richer and more enjoyable for everyone.",
+      "A": "much",
+      "B": "little",
+      "C": "few",
+      "D": "many",
+      "True": "D"
+    },
+    {
+      "Q": "READ 2.1 - Câu 1:<br>What is the main idea of the passage about Vietnam and ASEAN?",
+      "A": "Vietnam's role in promoting cultural exchange in ASEAN",
+      "B": "The impact of trade agreements on Vietnam's economy",
+      "C": "Vietnam's contributions to ASEAN",
+      "D": "The challenges Vietnam faces in ASEAN integration",
+      "True": "C"
+    },
+    {
+      "Q": "READ 2.1 - Câu 2:<br>The word 'actively' in paragraph 1 is opposite in meaning to ______.",
+      "A": "passively",
+      "B": "enthusiastically",
+      "C": "relatively",
+      "D": "silently",
+      "True": "A"
+    },
+    {
+      "Q": "READ 2.1 - Câu 3:<br>According to the passage, what is one way Vietnam has contributed to sustainable development in ASEAN?",
+      "A": "reducing trade barriers",
+      "B": "promoting renewable energy policies",
+      "C": "organizing the ASEAN Cultural Year",
+      "D": "signing the RCEP agreement",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.1 - Câu 4:<br>According to the passage, what has been one of Vietnam's primary initiatives within ASEAN?",
+      "A": "Fostering regional economic cooperation through trade agreements",
+      "B": "Establishing a unified military alliance among ASEAN countries",
+      "C": "Developing a common ASEAN education system",
+      "D": "Enhancing tourism through cultural festivals",
+      "True": "A"
+    },
+    {
+      "Q": "READ 2.1 - Câu 5:<br>What does the word 'which' in paragraph 1 refer to?",
+      "A": "Regional trade agreements",
+      "B": "The ASEAN Economic Community",
+      "C": "Economic integration",
+      "D": "Member countries",
+      "True": "A"
+    },
+    {
+      "Q": "READ 2.1 - Câu 6:<br>The word 'solidifying' in paragraph 1 most likely means ______.",
+      "A": "weaken",
+      "B": "strengthen",
+      "C": "change",
+      "D": "ignore",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.1 - Câu 7:<br>What can be inferred about Vietnam's involvement in ASEAN initiatives?",
+      "A": "Vietnam is primarily focused on military alliances within ASEAN.",
+      "B": "Vietnam avoids engagement in cultural activities with ASEAN.",
+      "C": "Vietnam is committed to enhancing regional cooperation and sustainability.",
+      "D": "Vietnam has not participated in any regional trade agreements.",
+      "True": "C"
+    },
+    {
+      "Q": "READ 2.2 - Câu 1:<br>What is the passage mainly about?",
+      "A": "The benefits and impacts of climate change",
+      "B": "The causes and effects of global warming",
+      "C": "The importance of reducing wildfires",
+      "D": "The role of CO2 emissions in pollution",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.2 - Câu 2:<br>The word 'losing' in the passage is closest in meaning to ______.",
+      "A": "finding",
+      "B": "lacking",
+      "C": "gaining",
+      "D": "missing",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.2 - Câu 3:<br>According to the passage, what has led to the increase in global warming?",
+      "A": "CO2 emissions",
+      "B": "Reduced waste",
+      "C": "Marine pollution",
+      "D": "Air humidity",
+      "True": "A"
+    },
+    {
+      "Q": "READ 2.2 - Câu 4:<br>The word 'they' in the passage refers to ______.",
+      "A": "scientists",
+      "B": "effects",
+      "C": "ecosystems",
+      "D": "temperatures",
+      "True": "A"
+    },
+    {
+      "Q": "READ 2.2 - Câu 5:<br>Which of the following is NOT true according to the passage?",
+      "A": "Global warming affects both marine and land life.",
+      "B": "Fish populations in lakes and rivers have decreased.",
+      "C": "Wildfires are decreasing due to climate change.",
+      "D": "Deserts are experiencing terrible droughts.",
+      "True": "C"
+    },
+    {
+      "Q": "READ 2.3 - Câu 1:<br>What is the main purpose of the passage?",
+      "A": "To explain how Google Earth was created and developed",
+      "B": "To show how Google Earth supports environmental protection",
+      "C": "To describe the history of the Amazonian Surui tribe",
+      "D": "To discuss Google Earth's global influence and expansion",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.3 - Câu 2:<br>The word 'global' in the passage is closest in meaning to ______.",
+      "A": "local",
+      "B": "international",
+      "C": "individual",
+      "D": "political",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.3 - Câu 3:<br>According to the passage, what made it possible for the Surui tribe to raise awareness about illegal logging?",
+      "A": "Using social media",
+      "B": "Contacting local government",
+      "C": "Access to Google Earth technology",
+      "D": "Building their own website",
+      "True": "C"
+    },
+    {
+      "Q": "READ 2.3 - Câu 4:<br>The word 'they' in the passage refers to ______.",
+      "A": "the Surui people",
+      "B": "rainforests",
+      "C": "plants",
+      "D": "Google headquarters",
+      "True": "A"
+    },
+    {
+      "Q": "READ 2.3 - Câu 5:<br>Which of the following is NOT true according to the passage?",
+      "A": "The Surui tribe had contact with the outside world before 1969.",
+      "B": "The Surui tribe worked with Google to fight deforestation.",
+      "C": "The tribe uses mobile phones to share their culture globally.",
+      "D": "Google Earth helped inform people about the Surui tribe's issues.",
+      "True": "A"
+    },
+    {
+      "Q": "READ 2.3 - Câu 6:<br>The word 'protect' in the passage is opposite in meaning to ______.",
+      "A": "preserve",
+      "B": "defend",
+      "C": "harm",
+      "D": "support",
+      "True": "C"
+    },
+    {
+      "Q": "READ 2.3 - Câu 7:<br>What can be inferred from the passage about the relationship between Google and the Surui tribe?",
+      "A": "The tribe learned little from Google's technology.",
+      "B": "They collaborated to protect the rainforest.",
+      "C": "Google only helped for a short time.",
+      "D": "Google did not understand the tribe's culture.",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.4 - Câu 1:<br>What is the main idea of the passage?",
+      "A": "The challenges Vietnam faced when joining ASEAN",
+      "B": "Vietnam's journey and impact in ASEAN",
+      "C": "The cultural differences between Vietnam and other ASEAN countries",
+      "D": "The role of technology in ASEAN's development",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.4 - Câu 2:<br>What does the word 'pivotal' in the first paragraph mean?",
+      "A": "unimportant",
+      "B": "minor",
+      "C": "crucial",
+      "D": "common",
+      "True": "C"
+    },
+    {
+      "Q": "READ 2.4 - Câu 3:<br>The word 'integration' in paragraph 1 is opposite in meaning to ______.",
+      "A": "separation",
+      "B": "cooperation",
+      "C": "development",
+      "D": "expansion",
+      "True": "A"
+    },
+    {
+      "Q": "READ 2.4 - Câu 4:<br>Which of the following is NOT mentioned as an area of collaboration between Vietnam and ASEAN?",
+      "A": "trade",
+      "B": "education",
+      "C": "security",
+      "D": "cultural exchange",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.4 - Câu 5:<br>What does the word 'they' in paragraph 3 refer to?",
+      "A": "Regional initiatives",
+      "B": "Millennials and Generation Z in Vietnam",
+      "C": "Economic opportunities",
+      "D": "ASEAN member states",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.4 - Câu 6:<br>According to the passage, how did Generation X in Vietnam benefit from ASEAN membership?",
+      "A": "They gained access to better educational resources",
+      "B": "They witnessed the transition to a market economy and increased foreign investment",
+      "C": "They focused on cultural and educational exchanges",
+      "D": "They created the ASEAN Smart Cities Network.",
+      "True": "B"
+    },
+    {
+      "Q": "READ 2.4 - Câu 7:<br>It can be inferred from the passage that ______.",
+      "A": "ASEAN membership has been crucial to Vietnam's economic and social development",
+      "B": "Generation Z in Vietnam is less involved in ASEAN initiatives",
+      "C": "The ASEAN Free Trade Area was not beneficial to Vietnam",
+      "D": "Millennials in Vietnam do not focus on regional collaboration",
+      "True": "A"
+    }
+  ]
+}
