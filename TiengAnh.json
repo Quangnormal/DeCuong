@@ -12,7 +12,7 @@
     {
       "Q": "Question 2. Sắp xếp các câu sau thành một bài phát biểu có nghĩa:<br>a. Vietnam has long been committed to the goals of ASEAN, striving to enhance cooperation across various sectors.<br>b. I firmly believe that ASEAN will play an essential role in shaping the future of Southeast Asia.<br>c. Dear ASEAN colleagues,<br>d. Furthermore, Vietnam's contributions to regional stability and economic growth have strengthened its position as a key ASEAN member.<br>e. Thank you for supporting Vietnam's role within ASEAN as we continue to promote peace and development.<br>f. By engaging in ASEAN activities, Vietnam is actively participating in building a prosperous future for the region.",
       "A": "c - d - a - f - c - b",
-      "B": "c - a - f - d - b - c",
+      "B": "c - a - f - d - b - e",
       "C": "c - a - d - f - b - c",
       "D": "c - f - a - b - d - e",
       "True": "D"
@@ -37,7 +37,7 @@
       "Q": "Question 5. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. Scientists have warned that deforestation contributes significantly to global warming.<br>b. One way to prevent further damage is to protect forests and encourage reforestation.<br>c. Forests act as natural carbon sinks, absorbing CO₂ from the atmosphere.<br>d. With effective reforestation efforts, we can reduce the impact of global warming.<br>e. Additionally, individuals can support these efforts by reducing their use of paper products.",
       "A": "a - c - e - b - d",
       "B": "c - a - d - b - e",
-      "C": "a - c - b - c - d",
+      "C": "a - c - b - e - d",
       "D": "c - a - d - c - b",
       "True": "A"
     },
@@ -51,17 +51,17 @@
     },
     {
       "Q": "Question 7. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. ASEAN plays a vital role in promoting economic development and cooperation across Southeast Asia.<br>b. Vietnam, as a member of ASEAN, has leveraged these partnerships to boost its economic growth.<br>c. Through ASEAN, Vietnam has expanded its trade networks and attracted foreign investment, particularly in key sectors like manufacturing and agriculture.<br>d. Furthermore, ASEAN's regional trade agreements have allowed Vietnam to increase its exports and engage in global markets.<br>e. This economic collaboration has been crucial in helping Vietnam become one of the fastest-growing economies in the region.",
-      "A": "a - b - c - d - c",
-      "B": "b - a - c - d",
+      "A": "a - b - c - d - e",
+      "B": "b - a - e - c - d",
       "C": "b - c - d - a - c",
       "D": "c - d - a - b - c",
-      "True": "B"
+      "True": "A"
     },
     {
       "Q": "Question 8. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. The introduction of smart technologies in cities can help reduce traffic congestion and improve public transportation.<br>b. In future cities, people are expected to live in more sustainable and eco-friendly environments.<br>c. Additionally, urban areas will likely see an increase in green spaces and renewable energy sources.<br>d. As cities evolve, the quality of life for residents will continue to improve with better infrastructure and services.<br>e. Living in the city will become more efficient and convenient as technology advances.",
       "A": "c - d - c - b - a",
-      "B": "b - c - a - d",
-      "C": "b - d - c - a - c",
+      "B": "b - e - c - a - d",
+      "C": "b - d - e - a - c",
       "D": "c - a - c - b - d",
       "True": "B"
     },
@@ -139,7 +139,7 @@
       "B": "reducing",
       "C": "reduced",
       "D": "to reducing",
-      "True": "A"
+      "True": "B"
     },
     {
       "Q": "LANGUAGE 1 - Câu 2:<br>Visitors can learn how technology helps people (2) _______ safer and healthier lives.",
@@ -163,7 +163,7 @@
       "B": "up",
       "C": "in",
       "D": "off",
-      "True": "B"
+      "True": "A"
     },
     {
       "Q": "LANGUAGE 1 - Câu 5:<br>Don't miss the demo house designed to help families stay comfortable while using (5) _______ electricity.",
@@ -179,7 +179,7 @@
       "B": "a",
       "C": "an",
       "D": "Ø (no article)",
-      "True": "B"
+      "True": "D"
     },
     {
       "Q": "LANGUAGE 2 - Câu 1:<br>Vietnam plays (1) ______ important role in promoting peace, unity, and economic cooperation among Southeast Asian countries.",
@@ -283,7 +283,7 @@
       "B": "encourages",
       "C": "transforms",
       "D": "limits",
-      "True": "C"
+      "True": "A"
     },
     {
       "Q": "LANGUAGE 4 - Câu 2:<br>Creative Workshop Hub: Try hands-on activities such as battle painting and lantern making, with instructors guiding you (2) ______ new crafting skills.",
@@ -435,7 +435,7 @@
       "B": "feeling",
       "C": "felt",
       "D": "to feel",
-      "True": "C"
+      "True": "A"
     },
     {
       "Q": "LANGUAGE 7 - Câu 3:<br>To fight climate change, our school encourages students to join activities such as planting trees, recycling, and (3) ______ energy at home.",
@@ -595,7 +595,7 @@
       "B": "easily",
       "C": "easier",
       "D": "more easily",
-      "True": "C"
+      "True": "A"
     },
     {
       "Q": "READ 1.4 - Câu 2:<br>People are often busy with work, commuting, and other responsibilities, leaving little time to get to know their (2) ______.",
@@ -699,7 +699,7 @@
       "B": "lacking",
       "C": "gaining",
       "D": "missing",
-      "True": "B"
+      "True": "D"
     },
     {
       "Q": "READ 2.2 - Câu 3:<br>According to the passage, what has led to the increase in global warming?",
