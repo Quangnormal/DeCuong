@@ -11,26 +11,26 @@
     },
     {
       "Q": "Question 2. Sắp xếp các câu sau thành một bài phát biểu có nghĩa:<br>a. Vietnam has long been committed to the goals of ASEAN, striving to enhance cooperation across various sectors.<br>b. I firmly believe that ASEAN will play an essential role in shaping the future of Southeast Asia.<br>c. Dear ASEAN colleagues,<br>d. Furthermore, Vietnam's contributions to regional stability and economic growth have strengthened its position as a key ASEAN member.<br>e. Thank you for supporting Vietnam's role within ASEAN as we continue to promote peace and development.<br>f. By engaging in ASEAN activities, Vietnam is actively participating in building a prosperous future for the region.",
-      "A": "c - d - a - f - c - b",
+      "A": "c - d - a - f - e - b",
       "B": "c - a - f - d - b - e",
-      "C": "c - a - d - f - b - c",
+      "C": "c - a - d - f - b - e",
       "D": "c - f - a - b - d - e",
       "True": "B"
     },
     {
       "Q": "Question 3. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. Reducing carbon footprints at an individual level can make a meaningful impact on global warming.<br>b. Additionally, small daily actions, like conserving energy and reducing waste, contribute to overall emissions reduction.<br>c. Together, these efforts help combat climate change and preserve the environment for future generations.<br>d. Many people are unaware of how their daily habits contribute to global warming.<br>e. With greater awareness and small lifestyle changes, everyone can play a role in slowing down global warming.",
-      "A": "d - a - b - c - c",
-      "B": "a - d - c - c - b",
-      "C": "d - a - c - b - c",
+      "A": "d - a - b - e - c",
+      "B": "a - d - e - c - b",
+      "C": "d - a - c - b - e",
       "D": "a - c - b - d - e",
-      "True": "C"
+      "True": "A"
     },
     {
       "Q": "Question 4. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. This connectivity ensures that residents can manage their homes, work, and social lives with ease.<br>b. Smart cities are designed to be highly connected, integrating various technologies into everyday life.<br>c. Moreover, the efficiency of smart cities contributes to a more sustainable and eco-friendly urban environment.<br>d. As a result, residents of smart cities can experience a higher quality of life with less environmental impact.<br>e. One of the most significant advantages of living in a smart city is the seamless integration of technology.",
-      "A": "a - b - d - c - c",
-      "B": "c - b - a - c - d",
-      "C": "c - b - a - c - d",
-      "D": "a - d - b - c - c",
+      "A": "a - b - d - e - c",
+      "B": "e - b - a - c - d",
+      "C": "e - b - a - c - d",
+      "D": "a - d - b - c - e",
       "True": "B"
     },
     {
@@ -38,13 +38,13 @@
       "A": "a - c - e - b - d",
       "B": "c - a - d - b - e",
       "C": "a - c - b - e - d",
-      "D": "c - a - d - c - b",
-      "True": "A"
+      "D": "e - a - d - c - b",
+      "True": "C"
     },
     {
       "Q": "Question 6. Sắp xếp các câu sau thành một bài phát biểu có nghĩa:<br>a. I encourage each of you to be mindful of your daily actions and their impact on our planet.<br>b. By conserving resources, reducing waste, and promoting sustainability, we can make a positive change.<br>c. Thank you for your commitment to preserving the environment for future generations.<br>d. Together, we have the power to make a difference, no matter how small our actions may seem.<br>e. Dear Friends of the Earth,<br>f. Protecting our environment is more important now than ever.",
       "A": "e - f - a - b - d - c",
-      "B": "f - c - d - b - a - c",
+      "B": "f - e - d - b - a - c",
       "C": "e - a - f - d - c - b",
       "D": "e - f - d - a - c - b",
       "True": "A"
@@ -53,16 +53,16 @@
       "Q": "Question 7. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. ASEAN plays a vital role in promoting economic development and cooperation across Southeast Asia.<br>b. Vietnam, as a member of ASEAN, has leveraged these partnerships to boost its economic growth.<br>c. Through ASEAN, Vietnam has expanded its trade networks and attracted foreign investment, particularly in key sectors like manufacturing and agriculture.<br>d. Furthermore, ASEAN's regional trade agreements have allowed Vietnam to increase its exports and engage in global markets.<br>e. This economic collaboration has been crucial in helping Vietnam become one of the fastest-growing economies in the region.",
       "A": "a - b - c - d - e",
       "B": "b - a - e - c - d",
-      "C": "b - c - d - a - c",
-      "D": "c - d - a - b - c",
+      "C": "b - c - d - a - e",
+      "D": "e - d - a - b - c",
       "True": "A"
     },
     {
       "Q": "Question 8. Sắp xếp các câu sau thành một đoạn văn có nghĩa:<br>a. The introduction of smart technologies in cities can help reduce traffic congestion and improve public transportation.<br>b. In future cities, people are expected to live in more sustainable and eco-friendly environments.<br>c. Additionally, urban areas will likely see an increase in green spaces and renewable energy sources.<br>d. As cities evolve, the quality of life for residents will continue to improve with better infrastructure and services.<br>e. Living in the city will become more efficient and convenient as technology advances.",
-      "A": "c - d - c - b - a",
+      "A": "e - d - c - b - a",
       "B": "b - e - c - a - d",
       "C": "b - d - e - a - c",
-      "D": "c - a - c - b - d",
+      "D": "e - a - c - b - d",
       "True": "B"
     },
     {
@@ -74,7 +74,7 @@
       "True": "A"
     },
     {
-      "Q": "Question 10. Sắp xếp đoạn hội thoại:<br>a. Lan: I agree. I also think teamwork experience is important because participants often work in groups.<br>b. Minh: What skills do you think ASEAN Youth Programme applicants should have?<br>c. Lan: Well, in my opinion, communication skills are the most necessary.",
+      "Q": "Question 10. Sắp xếp đoạn hội thoại:<br>a. Minh: I agree. I also think teamwork experience is important because participants often work in groups.<br>b. Minh: What skills do you think ASEAN Youth Programme applicants should have?<br>c. Lan: Well, in my opinion, communication skills are the most necessary.",
       "A": "a - b - c",
       "B": "b - c - a",
       "C": "c - a - b",
@@ -82,7 +82,7 @@
       "True": "B"
     },
     {
-      "Q": "Question 11. Sắp xếp đoạn hội thoại:<br>a. Hoa: I think we should reduce plastic use because it increases waste and harms the environment.<br>b. Nam: What human activities do you think have the biggest impact on global warming?<br>c. Hoa: Well, burning fossil fuels is the main cause. It releases a lot of carbon dioxide into the air.",
+      "Q": "Question 11. Sắp xếp đoạn hội thoại:<br>a. Nam: I think we should reduce plastic use because it increases waste and harms the environment.<br>b. Nam: What human activities do you think have the biggest impact on global warming?<br>c. Hoa: Well, burning fossil fuels is the main cause. It releases a lot of carbon dioxide into the air.",
       "A": "a - b - c",
       "B": "c - a - b",
       "C": "b - c - a",
