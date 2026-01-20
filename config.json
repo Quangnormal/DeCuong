@@ -1,9 +1,1 @@
-{
-  "files": [
-    "VatLy.json",
-    "TinHoc.json",
-    "SinhHoc.json",
-    "LichSu.json",
-    "TiengAnh.json"
-  ]
-}
+{"files":["VatLy.json","SinhHoc.json","LichSu.json","TiengAnh.json"]}
