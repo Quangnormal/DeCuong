@@ -391,43 +391,8 @@
                 {"text": "d. Biển Đông là vùng biển có sản lượng đánh bắt hải sản chiếm tỉ lệ gần như tuyệt đối trên toàn thế giới.", "correct": false}
             ],
             "True": "T"
-        },
-        {
-            "Q": "Bằng những kiến thức về cuộc cải cách của Lê Thánh Tông, em hãy: Trình bày nội dung cuộc cải cách hành chính lớn do vua Lê Thánh Tông thực hiện?",
-            "type": "short_answer",
-            "correctAnswer": "Nội dung cải cách hành chính của vua Lê Thánh Tông: - Ở trung ương: hoàn chỉnh hệ thống Lục bộ (Lại, Hộ, Lễ, Binh, Hình, Công); thành lập Lục khoa, Lục tự; tăng cường chế độ kiểm tra giám sát. - Ở địa phương: chia cả nước thành 12 đạo thừa tuyên và phủ Trung Đô (Thăng Long); mỗi đạo có ba ty: Đô ty (quân sự), Thừa ty (hành chính), Hiến ty (thanh tra). - Quy định cụ thể nhiệm vụ, quyền hạn của các cơ quan, tăng tính chuyên môn hóa.",
-            "True": "S"
-        },
-        {
-            "Q": "Phân tích kết quả, ý nghĩa cuộc cải cách và bài học kinh nghiệm trong xây dựng và phát triển đất nước hiện nay.",
-            "type": "short_answer",
-            "correctAnswer": "Kết quả, ý nghĩa: - Đưa chế độ quân chủ chuyên chế trung ương tập quyền đạt đỉnh cao. - Hệ thống hành chính hoàn chỉnh, chặt chẽ từ trung ương đến địa phương. - Kinh tế, văn hóa, giáo dục phát triển mạnh. - Ổn định xã hội, củng cố quốc phòng, mở rộng lãnh thổ. Bài học: - Cần cải cách đồng bộ, toàn diện. - Xây dựng bộ máy tinh gọn, hiệu lực, hiệu quả. - Đề cao pháp luật, tăng cường kiểm tra giám sát. - Trọng dụng nhân tài, phát triển giáo dục.",
-            "True": "S"
-        },
-        {
-            "Q": "Trình bày kết quả và ý nghĩa cuộc cải cách của Minh Mạng nửa đầu thế kỉ XIX?",
-            "type": "short_answer",
-            "correctAnswer": "Kết quả: - Hoàn thiện bộ máy nhà nước từ trung ương đến địa phương. - Thành lập các cơ quan: Cơ mật viện, Đô sát viện, Nội các. - Chia cả nước thành 30 tỉnh và phủ Thừa Thiên. - Tăng cường tính thống nhất, tập quyền. Ý nghĩa: - Nâng cao hiệu lực, hiệu quả quản lý nhà nước. - Đặt nền móng cho việc phân chia đơn vị hành chính cấp tỉnh đến ngày nay. - Góp phần ổn định chính trị, xã hội.",
-            "True": "S"
-        },
-        {
-            "Q": "Vì sao vào nửa đầu thế kỉ XIX, vua Minh Mạng tiến hành cải cách hành chính?",
-            "type": "short_answer",
-            "correctAnswer": "Vì: - Bộ máy nhà nước thời Gia Long còn thiếu thống nhất, phân quyền (tồn tại Bắc Thành, Gia Định Thành). - Quyền lực nhà vua bị hạn chế ở một số khu vực. - Cần củng cố chế độ quân chủ chuyên chế trung ương tập quyền. - Tăng cường hiệu lực quản lý nhà nước trên phạm vi toàn lãnh thổ. - Khắc phục tình trạng cát cứ, lạm quyền ở địa phương.",
-            "True": "S"
-        },
-        {
-            "Q": "Em hãy nêu vai trò quan trọng chiến lược của Biển Đông trong giao thông hàng hải quốc tế? Vì sao Biển Đông là địa bàn chiến lược quan trọng ở khu vực châu Á - Thái Bình Dương?",
-            "type": "short_answer",
-            "correctAnswer": "Vai trò trong giao thông hàng hải: - Là tuyến đường biển huyết mạch nối Thái Bình Dương và Ấn Độ Dương. - Kết nối các nền kinh tế lớn: Trung Quốc, Nhật Bản, Hàn Quốc với Ấn Độ, Trung Đông, châu Âu. - Là tuyến đường vận tải nhộn nhịp thứ hai thế giới. Là địa bàn chiến lược vì: - Vị trí địa chính trị quan trọng. - Giàu tài nguyên thiên nhiên (dầu khí, hải sản). - Là cửa ngõ giao thương của nhiều quốc gia. - Nhiều nước có lợi ích chiến lược gắn với Biển Đông.",
-            "True": "S"
-        },
-        {
-            "Q": "Em hãy giải thích tầm quan trọng chiến lược của các đảo và quần đảo của Việt Nam ở Biển Đông.",
-            "type": "short_answer",
-            "correctAnswer": "Tầm quan trọng: - Về kinh tế: là ngư trường lớn, giàu hải sản; có tiềm năng dầu khí, du lịch biển đảo; là không gian phát triển kinh tế biển. - Về giao thông: nằm trên tuyến đường hàng hải quốc tế; có thể xây dựng trạm dừng chân, tiếp nhiên liệu, trạm thông tin. - Về quốc phòng - an ninh: là tuyến phòng thủ tiền tiêu bảo vệ đất liền; tạo thế trận phòng thủ nhiều tầng; khẳng định chủ quyền biển đảo. - Về văn hóa - xã hội: gắn với truyền thống dựng nước, giữ nước; là không gian sinh kế của ngư dân.",
-            "True": "S"
         }
     ]
 }
+
 
