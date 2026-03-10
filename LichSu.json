@@ -385,7 +385,7 @@
             "Q": "Đọc đoạn tư liệu sau đây: Các nước giáp Biển Đông có sản lượng đánh bắt và nuôi trồng hải sản đứng hàng đầu thế giới như: Trung Quốc, Thái Lan, Việt Nam, In - đô - nê - xi - a và Phi - lip - pin. Theo tổ chức Lương thực và Nông nghiệp Liên hợp quốc (FAO), Biển Đông là vùng biển có sản lượng đánh bắt hải sản hàng đầu thế giới với khoảng 6 triệu tấn, chiếm 10% tổng khối lượng toàn thế giới, riêng sản lượng cá xếp thứ 4/19 thế giới. (Sách giáo khoa Lịch sử 11, bộ Kết nối tri thức với cuộc sống, tr.76)",
             "type": "true_false_set",
             "questions": [
-                {"text": "a. Những dẫn chứng được đưa ra trong đoạn tư liệu cho thấy Biển Đông có tầm quan trọng chiến lược về kinh tế, chính trị - an ninh với nhiều quốc gia.", "correct": true},
+                {"text": "a. Những dẫn chứng được đưa ra trong đoạn tư liệu cho thấy Biển Đông có tầm quan trọng chiến lược về kinh tế, chính trị - an ninh với nhiều quốc gia.", "correct": false},
                 {"text": "b. Theo tổ chức UNESCO, Biển Đông là vùng biển có sản lượng đánh bắt hải sản hàng đầu thế giới.", "correct": false},
                 {"text": "c. Việt Nam là một trong những quốc gia ven Biển Đông có sản lượng đánh bắt hải sản đứng hàng đầu thế giới", "correct": true},
                 {"text": "d. Biển Đông là vùng biển có sản lượng đánh bắt hải sản chiếm tỉ lệ gần như tuyệt đối trên toàn thế giới.", "correct": false}
@@ -430,3 +430,4 @@
         }
     ]
 }
+
