@@ -2,58 +2,6 @@
     "Mon": "Tiếng Anh 11",
     "QA": [
         {
-            "Q": "Listen to the talk and decide whether the statements are True (T) or False (F).",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "1. Many students find studying abroad difficult because they must live independently.", "correct": true},
-                {"text": "2. Learning the local language only helps students pass their exams.", "correct": false},
-                {"text": "3. Having a part-time job can help students become more organised.", "correct": true},
-                {"text": "4. Students can save some money if they have a part-time job.", "correct": true},
-                {"text": "5. Cooking for yourself is more expensive than eating at restaurants.", "correct": false}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "What is the main topic of the talk?",
-            "A": "How to travel abroad",
-            "B": "How to make friends overseas",
-            "C": "How to become more independent while studying abroad",
-            "D": "How to choose a university",
-            "True": "C"
-        },
-        {
-            "Q": "Why should students learn the local language well?",
-            "A": "To travel around the country",
-            "B": "To understand lectures and communicate confidently",
-            "C": "To get a full-time job",
-            "D": "To avoid talking to local people",
-            "True": "B"
-        },
-        {
-            "Q": "What is one benefit of having a part-time job?",
-            "A": "It makes students richer than others",
-            "B": "It gives students free meals",
-            "C": "It helps students earn pocket money and gain experience",
-            "D": "It reduces study time completely",
-            "True": "C"
-        },
-        {
-            "Q": "What can students do with the money from a part-time job?",
-            "A": "Buy expensive clothes",
-            "B": "Cover some expenses and save money",
-            "C": "Send all of it home",
-            "D": "Travel every weekend",
-            "True": "B"
-        },
-        {
-            "Q": "Why is cooking important for students living abroad?",
-            "A": "It helps them avoid junk food and save money",
-            "B": "It makes them famous",
-            "C": "It replaces studying",
-            "D": "It helps them learn new languages",
-            "True": "A"
-        },
-        {
             "Q": "Global warming is one of the most serious problems facing our planet today. Caused mainly (1) human activities, it leads to rising temperatures, melting ice caps, and extreme weather events. (1) _______",
             "A": "by",
             "B": "from",
