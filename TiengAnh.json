@@ -127,7 +127,7 @@
             "B": "Considering",
             "C": "Considered",
             "D": "Having considered",
-            "True": "B"
+            "True": "C"
         },
         {
             "Q": "University education provides students with academic knowledge and opportunities (3) _______ develop critical thinking skills.",
@@ -159,7 +159,7 @@
             "B": "Comparing",
             "C": "Compared",
             "D": "Having compared",
-            "True": "D"
+            "True": "B"
         },
         {
             "Q": "Making the right decision can be (7) _______ important step towards a successful future.",
@@ -167,7 +167,7 @@
             "B": "an",
             "C": "the",
             "D": "0",
-            "True": "B"
+            "True": "C"
         },
         {
             "Q": "The \"greenhouse effect\" is the warming that happens when certain gases in Earth's atmosphere (1) _______ heat.",
@@ -231,7 +231,7 @@
             "B": "right",
             "C": "straight",
             "D": "forward",
-            "True": "C"
+            "True": "D"
         },
         {
             "Q": "Some students go straight to a college of further education which (9) _______ a wide range of full or part-time courses.",
@@ -247,7 +247,7 @@
             "B": "diploma",
             "C": "certificate",
             "D": "qualifications",
-            "True": "D"
+            "True": "B"
         },
         {
             "Q": "Further education also includes training in (11) _______ such as arts and music.",
@@ -271,7 +271,7 @@
             "B": "ask",
             "C": "remind",
             "D": "inquire",
-            "True": "B"
+            "True": "A"
         },
         {
             "Q": "The British government is keen to ask more young people to remain in education as (14) _______ as possible.",
