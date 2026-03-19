@@ -211,7 +211,7 @@
                 {"text": "A. Phản ứng thường diễn ra nhanh, dễ nhận thấy.", "correct": true},
                 {"text": "B. Phản ứng đa dạng với kích thích.", "correct": true},
                 {"text": "C. dựa trên nguyên tắc phản xạ.", "correct": false},
-                {"text": "D. Hầu hết có hệ thần kinh tham gia.", "correct": false}
+                {"text": "D. Hầu hết có hệ thần kinh tham gia.", "correct": true}
             ],
             "True": "T"
         },
