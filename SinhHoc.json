@@ -205,11 +205,11 @@
             "True": "T"
         },
         {
-            "Q": "Khi nói về đặc điểm cảm ứng ở thực vật so với cảm ứng ở động vật. Phát biểu dưới đây là đúng hay sai?",
+            "Q": "Khi nói về đặc điểm cảm ứng ở động vật so với cảm ứng ở thực vât. Phát biểu dưới đây là đúng hay sai?",
             "type": "true_false_set",
             "questions": [
-                {"text": "A. Phản ứng thường diễn ra nhanh, dễ nhận thấy.", "correct": false},
-                {"text": "B. Phản ứng đa dạng với kích thích.", "correct": false},
+                {"text": "A. Phản ứng thường diễn ra nhanh, dễ nhận thấy.", "correct": true},
+                {"text": "B. Phản ứng đa dạng với kích thích.", "correct": true},
                 {"text": "C. dựa trên nguyên tắc phản xạ.", "correct": false},
                 {"text": "D. Hầu hết có hệ thần kinh tham gia.", "correct": false}
             ],
@@ -399,7 +399,7 @@
             "questions": [
                 {"text": "a. Tập tính giúp động vật thích ứng với môi trường.", "correct": true},
                 {"text": "b. Ếch vẫy chân tỏ tình thông qua vũ điệu vẫy chân là tập tính kiếm ăn.", "correct": false},
-                {"text": "c. Tắc kè thay đổi màu thân khi ở các môi trường khác nhau là một ví dụ tập tính.", "correct": true},
+                {"text": "c. Tắc kè thay đổi màu thân khi ở các môi trường khác nhau là một ví dụ tập tính.", "correct": false},
                 {"text": "d. Tập tính giúp động vật đảm bảo cho chúng tồn tại và phát triển.", "correct": true}
             ],
             "True": "T"
@@ -408,8 +408,8 @@
             "Q": "Ví dụ sau đây Đúng hay Sai về tập tính bẩm sinh và học được của động vật?",
             "type": "true_false_set",
             "questions": [
-                {"text": "a. Gà trống gáy vào mỗi sớm thuộc tập tính học được.", "correct": false},
-                {"text": "b. Ếch đực kêu sau cơn mưa đầu hạ để gọi bạn tình thuộc tập tính học được.", "correct": false},
+                {"text": "a. Gà trống gáy vào mỗi sớm thuộc tập tính học được.", "correct": true},
+                {"text": "b. Ếch đực kêu sau cơn mưa đầu hạ để gọi bạn tình thuộc tập tính học được.", "correct": true},
                 {"text": "c. Khỉ con học cách leo trèo thuộc tập tính học được.", "correct": true},
                 {"text": "d. Cóc nghiến răng khi trời sắp mưa thuộc tập tính học được.", "correct": false}
             ],
@@ -736,19 +736,19 @@
         {
             "Q": "Quá trình phát triển của thực vật có hoa bao gồm mấy giai đoạn?",
             "type": "short_answer",
-            "correctAnswer": "3 giai đoạn",
+            "correctAnswer": "3",
             "True": "S"
         },
         {
             "Q": "Trong các loại hormone sau: auxin, ethylene, gibberellin, cytokinin, abscisic acid. Có bao nhiêu hormone kích thích sinh trưởng của thực vật?",
             "type": "short_answer",
-            "correctAnswer": "3 hormone (auxin, gibberellin, cytokinin)",
+            "correctAnswer": "3",
             "True": "S"
         },
         {
             "Q": "Cho các đặc điểm sau: gặp ở cây Một lá mầm, gặp ở cây Hai lá mầm, có ở ngọn thân, nằm ở phần vỏ và trụ của thân và rễ, nằm ở gốc lóng, có ở chóp rễ, giúp cây tăng trưởng theo chiều dài, giúp lóng dài ra, giúp cây tăng trưởng theo đường kính. Có bao nhiêu đặc điểm thuộc mô phân sinh đỉnh?",
             "type": "short_answer",
-            "correctAnswer": "4 đặc điểm (gặp ở cây Một lá mầm, gặp ở cây Hai lá mầm, có ở ngọn thân, có ở chóp rễ, giúp cây tăng trưởng theo chiều dài)",
+            "correctAnswer": "4",
             "True": "S"
         },
         {
@@ -915,7 +915,7 @@
             "Q": "Phân tích các giai đoạn phát triển ở gà (hình bên), một học sinh rút ra các kết luận bên dưới. Hãy xác định đúng hay sai cho mỗi nhận định sau đây về nghiên cứu này:",
             "type": "true_false_set",
             "questions": [
-                {"text": "a. Quá trình phát triển ở gà được chia thành những giai đoạn: gà mẹ đẻ ra trứng - Giai đoạn phôi - Phát triển hợp tử, hậu phôi - gà con - gà trưởng thành", "correct": false},
+                {"text": "a. Quá trình phát triển ở gà được chia thành những giai đoạn: gà mẹ đẻ ra trứng - Giai đoạn phôi - Phát triển hợp tử, hậu phôi - gà con - gà trưởng thành", "correct": true},
                 {"text": "b. Giai đoạn phôi, diễn ra trong trứng được thụ tinh", "correct": true},
                 {"text": "c. Giai đoạn hậu phôi, từ lúc trứng nở thành gà con", "correct": true},
                 {"text": "d. Gà con khác hoàn toàn gà trưởng thành.", "correct": false}
@@ -929,74 +929,38 @@
                 {"text": "a. Nhộng là giai đoạn trung gian, có sự biến đổi mạnh mẽ nhất trong vòng đời của bướm", "correct": true},
                 {"text": "b. Bướm có kiểu phát triển qua biến thái hoàn toàn", "correct": true},
                 {"text": "c. Trật tự đúng các giai đoạn phát triển trong vòng đời của bướm là: trứng - nhộng - sâu - bướm.", "correct": false},
-                {"text": "d. Các giai đoạn phát triển hậu phôi của bướm bao gồm nhộng, sâu và bướm", "correct": false}
+                {"text": "d. Các giai đoạn phát triển hậu phôi của bướm bao gồm nhộng, sâu và bướm", "correct": true}
             ],
             "True": "T"
         },
         {
             "Q": "Khi nói về sinh trưởng và phát triển ở người, có bao nhiêu phát biểu sau đây đúng? (1) Sự kết hợp nhân tinh trùng và nhân tế bào trứng tạo thành hợp tử được gọi là sự thụ tinh. (2) Giai đoạn trước sinh diễn ra sự thụ tinh → phát triển phôi → phát triển thai. (3) Giai đoạn trước sinh diễn ra trong tử cung của người mẹ. (4) Giai đoạn dậy thì là mốc phát triển quan trọng trong giai đoạn trước sinh.",
             "type": "short_answer",
-            "correctAnswer": "3 phát biểu (1,2,3)",
+            "correctAnswer": "3",
             "True": "S"
         },
         {
             "Q": "Cho các nội dung sau: 1/ Buồng trứng, tử cung và âm hộ phát triển. 2/ Bắt đầu rụng trứng và có kinh nguyệt. 3/ Lông nách, lông mu xuất hiện, phát triển vú. 4/ Ngực và mông phát triển, giọng nói thanh. 5/ Vai và các cơ phát triển. Có mấy nội dung nói về sự biến đổi cơ thể trong giai đoạn dậy thì ở nữ giới?",
             "type": "short_answer",
-            "correctAnswer": "4 nội dung (1,2,3,4)",
+            "correctAnswer": "4",
             "True": "S"
         },
         {
             "Q": "Cho các nội dung sau: 1/ Tinh hoàn và dương vật phát triển. 2/ Bắt đầu sản sinh tinh trùng. 3/ Mọc râu, lông nách, lông mu xuất hiện, phát triển ngực. 4/ Thanh quản nở rộng, giọng nói trầm. 5/ Ngực và vai phát triển, các cơ phát triển rắn chắc. Có mấy nội dung nói về sự biến đổi cơ thể trong giai đoạn dậy thì ở nam giới?",
             "type": "short_answer",
-            "correctAnswer": "5 nội dung (tất cả)",
+            "correctAnswer": "5)",
             "True": "S"
         },
         {
             "Q": "Cho các hormone sau đây: (1) Hormone sinh trưởng (GH). (2) Thyroxine. (3) Ecdysone. (4). Testosteron. Có bao nhiêu loại hormone gây ảnh hưởng đến quá trình sinh trưởng và phát triển ở động vật có vú?",
             "type": "short_answer",
-            "correctAnswer": "3 hormone (1,2,4)",
+            "correctAnswer": "3",
             "True": "S"
         },
         {
             "Q": "Cho các hormone sau đây: (1) Hormone sinh trưởng (GH). (2) Thyroxine. (3) Ecdysone. (4) Testosteron. Có bao nhiêu hormone gây biến thái ở sâu bướm?",
             "type": "short_answer",
-            "correctAnswer": "1 hormone (3)",
-            "True": "S"
-        },
-        {
-            "Q": "Cảm ứng ở động vật là gì và có vai trò gì trong đời sống?",
-            "type": "short_answer",
-            "correctAnswer": "Cảm ứng ở động vật là khả năng tiếp nhận kích thích và phản ứng lại các kích thích từ môi trường sống, đảm bảo cho động vật tồn tại và phát triển. Vai trò: giúp động vật định hướng, tìm kiếm thức ăn, tránh kẻ thù, sinh sản, thích nghi với môi trường.",
-            "True": "S"
-        },
-        {
-            "Q": "Sự khác biệt giữa cảm ứng ở động vật bậc thấp và động vật bậc cao là gì?",
-            "type": "short_answer",
-            "correctAnswer": "Động vật bậc thấp (chưa có hệ thần kinh hoặc hệ thần kinh dạng lưới, chuỗi hạch): phản ứng chậm, kém chính xác, tiêu tốn nhiều năng lượng. Động vật bậc cao (hệ thần kinh dạng ống): phản ứng nhanh, chính xác, ít tiêu tốn năng lượng, có khả năng học tập và hình thành phản xạ có điều kiện.",
-            "True": "S"
-        },
-        {
-            "Q": "Tập tính ở động vật là gì và có những loại tập tính nào? Cho ví dụ?",
-            "type": "short_answer",
-            "correctAnswer": "Tập tính là chuỗi phản ứng của động vật trả lời kích thích từ môi trường. Có 3 loại: Tập tính bẩm sinh (vd: nhện giăng tơ), tập tính học được (vd: khỉ biết dùng ống hút nước), tập tính hỗn hợp (vd: tập tính bắt chuột của mèo vừa bẩm sinh vừa học được).",
-            "True": "S"
-        },
-        {
-            "Q": "Vòng đời và tuổi thọ của sinh vật là gì? Chúng có mối quan hệ như thế nào?",
-            "type": "short_answer",
-            "correctAnswer": "Vòng đời là khoảng thời gian từ khi sinh ra, lớn lên, trưởng thành, sinh sản, già và chết. Tuổi thọ là thời gian sống của sinh vật. Mối quan hệ: vòng đời kết thúc khi sinh vật chết, tuổi thọ là tổng thời gian của vòng đời.",
-            "True": "S"
-        },
-        {
-            "Q": "Hormone ở thực vật là gì và có những loại hormone chính nào?",
-            "type": "short_answer",
-            "correctAnswer": "Hormone thực vật là chất hữu cơ do thực vật tiết ra, điều hòa hoạt động sống. Gồm hormone kích thích: auxin, gibberellin, cytokinin và hormone ức chế: ethylene, abscisic acid.",
-            "True": "S"
-        },
-        {
-            "Q": "Ở trẻ em, nhiều trường hợp cơ thể có sự thay đổi thành người trưởng thành sớm hơn bình thường (trước 9 tuổi ở nam và trước 8 tuổi ở nữ). Hiện tượng này được gọi là gì? Cho biết nguyên nhân, hậu quả và cách phòng tránh hiện tượng này?",
-            "type": "short_answer",
-            "correctAnswer": "Hiện tượng dậy thì sớm. Nguyên nhân: do rối loạn nội tiết, u não, u buồng trứng/tinh hoàn, di truyền, béo phì, tiếp xúc hormone ngoại sinh. Hậu quả: ảnh hưởng tâm lý, chiều cao thấp hơn so với tiềm năng. Phòng tránh: chế độ dinh dưỡng hợp lý, tránh thực phẩm chứa hormone, khám sức khỏe định kỳ.",
+            "correctAnswer": "1",
             "True": "S"
         }
     ]
