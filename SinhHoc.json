@@ -218,19 +218,19 @@
         {
             "Q": "Cấu tạo của Synapse hóa học gồm mấy phần?",
             "type": "short_answer",
-            "correctAnswer": "3 phần",
+            "correctAnswer": "3",
             "True": "S"
         },
         {
             "Q": "Ở mỗi Synapse hoá học tồn tại bao nhiêu chất trung gian hoá học ?",
             "type": "short_answer",
-            "correctAnswer": "1 chất",
+            "correctAnswer": "1",
             "True": "S"
         },
         {
-            "Q": "Vỏ não người có khoảng bao nhiêu Synapse ?",
+            "Q": "Vỏ não người có khoảng bao nhiêu Synapse? (Viết x^{y} = x^y)",
             "type": "short_answer",
-            "correctAnswer": "khoảng 10^14 - 10^15 synapse",
+            "correctAnswer": "10^14",
             "True": "S"
         },
         {
@@ -418,19 +418,19 @@
         {
             "Q": "Trong các đặc điểm sau, có bao nhiêu đặc điểm là của tập tính bẩm sinh? (1) Đặc trưng cho loài. (2) Hình thành trong quá trình sống của cá thể. (3) Được di truyền từ thế hệ trước. (4) Mang tính bản năng. (5) Không bị thay đổi theo thời gian.",
             "type": "short_answer",
-            "correctAnswer": "4 đặc điểm (1,3,4,5)",
+            "correctAnswer": "4",
             "True": "S"
         },
         {
             "Q": "Có bao nhiêu ví dụ sau đây không phải là tập tính bẩm sinh? (1) Ếch tìm nơi kết cặp đẻ trứng vào mùa mưa. (2) Tò vò đào hố trên mặt đất để làm tổ sinh sản. (3) Khi nhìn thấy đèn giao thông chuyển sang màu đỏ, những người qua đường dừng lại. (4) Chim tu hú đẻ trứng vào tổ của các loài chim khác và nhờ ấp hộ.",
             "type": "short_answer",
-            "correctAnswer": "1 ví dụ (3)",
+            "correctAnswer": "1",
             "True": "S"
         },
         {
             "Q": "Có bao nhiêu ví dụ sau đây không phải là tập tính học được? (1) Khỉ biết dùng ống hút để hút nước dừa. (2) Chuồn chuồn bay thấp thì mưa, bay cao thì nắng, bay vừa thì râm (3) Khi tham gia giao thông, khi thấy đèn tín hiệu bật xanh thì người điều khiển xe được đi. (4) Thú con biết tìm vú mẹ để bú khi chưa mở mắt.",
             "type": "short_answer",
-            "correctAnswer": "2 ví dụ (2,4)",
+            "correctAnswer": "2",
             "True": "S"
         },
         {
@@ -530,25 +530,25 @@
         {
             "Q": "Khi quan sát sự sinh trưởng và phát triển ở cây xoài, có bao nhiêu trường hợp là dấu hiệu đặc trưng của sự phát triển? (1) Quả xoài già có màu xanh, sau khi thu hoạch vài ngày sẽ chuyển sang màu vàng, có vị ngọt thơm. (2) Hạt xoài khi gieo trong đất ẩm và đầy đủ dinh dưỡng sẽ mọc rễ và nảy mầm sau 1-2 tuần. (3) Cây xoài giống thường được bán khi đạt chiều cao khoảng 50-60 cm, sau 2 năm cây xoài có thể cao đến 2m. (4) Khi cây xoài được 3-4 năm tuổi, cây có thể ra hoa và cho lượt trái bói đầu tiên. (5) Sau khi hoa xoài được thụ phấn, thụ tinh thành công, hợp tử phát triển thành phôi, noãn phát triển thành hạt, bầu nhụy phát triển thành quả chứa hạt",
             "type": "short_answer",
-            "correctAnswer": "4 trường hợp (1,2,4,5)",
+            "correctAnswer": "4",
             "True": "S"
         },
         {
             "Q": "Cho các dấu hiệu của sự sinh trưởng và phát triển ở sinh vật, có bao nhiêu dấu hiệu thuộc về sự sinh trưởng? (1). Cây ngô sau khi nảy mầm sẽ tăng chiều cao thân và kích thước lá. (2). Hạt cà chua nảy mầm và tăng trưởng trên môi trường đất ẩm, khi ra lá thứ 14 cây cà chua sẽ ra hoa, kết quả. (3). Một đứa trẻ sinh ra có cân nặng trung bình khoảng 3kg, trong 3 tháng đầu tiên, trung bình mỗi tháng đứa trẻ sẽ tăng khoảng 800-1,2kg. (4). Mô, tế bào thực vật được nuôi cấy trong môi trường dinh dưỡng và bổ sung hormone sinh trưởng thích hợp có thể tạo thành rễ, thân, lá, hình thành cấy con hoàn chỉnh. (5). Trứng sau khi được thụ tinh trong ống dẫn trứng 12-24h sẽ phân chia liên tục thành phôi gồm hàng trăm tế bào và di chuyển về phía tử cung. (6). Bé trai đến tuổi dậy thì có sự biến đổi cơ thể như vỡ giọng, mọc râu, bắp thịt vạm vỡ... (7). Quả trên cây chín và rụng xuống đất.",
             "type": "short_answer",
-            "correctAnswer": "3 dấu hiệu (1,3,5)",
+            "correctAnswer": "3)",
             "True": "S"
         },
         {
             "Q": "Cho các biện pháp sau đây, có bao nhiêu biện pháp là ứng dụng sự hiểu biết về vòng đời của sinh vật trong thực tiễn? (1) Sàng lọc dị tật và đình chỉ thai kỳ tốt nhất trước 12 tuần thai. (2) Tỉa cành, tỉa ngọn dau khi thu hoạch giúp cây sai quả cho vụ mùa sau. (3) Cho vật nuôi ăn nhiều và ăn đủ chất vào thời kỳ sinh trưởng để thịt có năng suất và chất lượng cao. (4) Ở khoai tây sẽ bón nitrogen khi cây đang sinh trưởng và bón kali lúc cây đang tạo củ (5) Tiêu diệt sâu bệnh hại tốt nhất ở giai đoạn sâu bướm. (6) Sử dụng thuốc trừ sâu có nguồn gốc từ virus",
             "type": "short_answer",
-            "correctAnswer": "4 biện pháp (1,3,4,5)",
+            "correctAnswer": "4)",
             "True": "S"
         },
         {
             "Q": "Cho các dấu hiệu đặc trưng của sinh trưởng và phát triển: (1) Sự gia tăng số lượng tế bào. (2) Sự phân hóa tế bào (3) Sự phát sinh hình thái cơ quan (4) Sự gia tăng kích thước tế bào. Có bao nhiêu dấu hiệu đặc trưng của sinh trưởng ở sinh vật?",
             "type": "short_answer",
-            "correctAnswer": "2 dấu hiệu (1,4)",
+            "correctAnswer": "2",
             "True": "S"
         },
         {
