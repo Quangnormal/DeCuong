@@ -536,13 +536,13 @@
         {
             "Q": "Cho các dấu hiệu của sự sinh trưởng và phát triển ở sinh vật, có bao nhiêu dấu hiệu thuộc về sự sinh trưởng? (1). Cây ngô sau khi nảy mầm sẽ tăng chiều cao thân và kích thước lá. (2). Hạt cà chua nảy mầm và tăng trưởng trên môi trường đất ẩm, khi ra lá thứ 14 cây cà chua sẽ ra hoa, kết quả. (3). Một đứa trẻ sinh ra có cân nặng trung bình khoảng 3kg, trong 3 tháng đầu tiên, trung bình mỗi tháng đứa trẻ sẽ tăng khoảng 800-1,2kg. (4). Mô, tế bào thực vật được nuôi cấy trong môi trường dinh dưỡng và bổ sung hormone sinh trưởng thích hợp có thể tạo thành rễ, thân, lá, hình thành cấy con hoàn chỉnh. (5). Trứng sau khi được thụ tinh trong ống dẫn trứng 12-24h sẽ phân chia liên tục thành phôi gồm hàng trăm tế bào và di chuyển về phía tử cung. (6). Bé trai đến tuổi dậy thì có sự biến đổi cơ thể như vỡ giọng, mọc râu, bắp thịt vạm vỡ... (7). Quả trên cây chín và rụng xuống đất.",
             "type": "short_answer",
-            "correctAnswer": "3)",
+            "correctAnswer": "3",
             "True": "S"
         },
         {
             "Q": "Cho các biện pháp sau đây, có bao nhiêu biện pháp là ứng dụng sự hiểu biết về vòng đời của sinh vật trong thực tiễn? (1) Sàng lọc dị tật và đình chỉ thai kỳ tốt nhất trước 12 tuần thai. (2) Tỉa cành, tỉa ngọn dau khi thu hoạch giúp cây sai quả cho vụ mùa sau. (3) Cho vật nuôi ăn nhiều và ăn đủ chất vào thời kỳ sinh trưởng để thịt có năng suất và chất lượng cao. (4) Ở khoai tây sẽ bón nitrogen khi cây đang sinh trưởng và bón kali lúc cây đang tạo củ (5) Tiêu diệt sâu bệnh hại tốt nhất ở giai đoạn sâu bướm. (6) Sử dụng thuốc trừ sâu có nguồn gốc từ virus",
             "type": "short_answer",
-            "correctAnswer": "4)",
+            "correctAnswer": "4",
             "True": "S"
         },
         {
