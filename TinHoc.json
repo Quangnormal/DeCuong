@@ -23,7 +23,7 @@
             "B": "Gộp.",
             "C": "Khoá ngoại.",
             "D": "Nhóm.",
-            "True": "A"
+            "True": "B"
         },
         {
             "Q": "Để tối ưu hiệu suất khi thực hiện sao lưu cơ sở dữ liệu, nên thực hiện quá trình sao lưu vào thời điểm nào trong chu kỳ làm việc của hệ thống?",
@@ -79,7 +79,7 @@
             "B": "Sử dụng công cụ cắt ghép để cắt và kéo các đoạn phim vào dự án.",
             "C": "Sử dụng công cụ chỉnh sửa đồ họa để tạo hiệu ứng chuyển cảnh.",
             "D": "Sử dụng công cụ chuyển đổi để tạo hiệu ứng chuyển cảnh.",
-            "True": "C"
+            "True": "B"
         },
         {
             "Q": "Làm thế nào để thêm phụ đề vào một đoạn video trong GIMP?",
@@ -111,7 +111,7 @@
             "B": "Tạo hiệu ứng chuyển động.",
             "C": "Sắp xếp các lớp.",
             "D": "Đổi kích thước hình ảnh.",
-            "True": "C"
+            "True": "A"
         },
         {
             "Q": "Làm thế nào để đồng bộ hóa thời gian hiển thị của phụ đề với video trong GIMP?",
@@ -119,7 +119,7 @@
             "B": "Chọn \"Layer\" > \"Sync Subtitles\" > Nhập thời điểm bắt đầu và kết thúc.",
             "C": "Kéo thanh trượt thời gian trên \"Timeline\" panel > Khi đến thời điểm mong muốn, thêm phụ đề.",
             "D": "Nhấp đúp vào phụ đề trên \"Timeline\" panel > Điều chỉnh thời gian bắt đầu và kết thúc.",
-            "True": "C"
+            "True": "D"
         },
         {
             "Q": "Làm thế nào để tạo một lớp mới khi muốn thực hiện thao tác cắt ảnh mà không làm thay đổi ảnh gốc trong GIMP?",
@@ -191,7 +191,7 @@
             "B": "Kéo và thả màu mới từ bảng chọn màu lên lớp cần thay đổi.",
             "C": "Chọn \"Image\" > \"Background Color\" và chọn màu mới.",
             "D": "Click chuột phải vào lớp và chọn \"Change Background Color\".",
-            "True": "A"
+            "True": "B"
         },
         {
             "Q": "MySQL là gì?",
