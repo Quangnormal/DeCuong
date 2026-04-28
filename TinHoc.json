@@ -2,370 +2,507 @@
     "Mon": "Tin học 11",
     "QA": [
         {
-            "Q": "Do đâu mà Quản lý CSDL trên máy tính cung cấp khả năng kiểm soát truy cập và độ bảo mật cao hơn so với quản lý thủ công?",
-            "A": "Dữ liệu trong CSDL có thể được tìm kiếm, lọc, và phân tích theo nhiều tiêu chí khác nhau trong thời gian ngắn, giúp người quản lý dễ dàng đưa ra quyết định hoặc tìm kiếm thông tin cần thiết.",
-            "B": "Các hoạt động cập nhật và chỉnh sửa dữ liệu trên máy tính thường được tự động hóa và có thể được thực hiện đồng thời trên nhiều bản ghi, giúp tiết kiệm thời gian và giảm bớt công sức so với quản lý thủ công mà phải xử lý từng bản ghi một",
-            "C": "Được trải nghiệm nhiều tính năng khác nhau: nghe, gọi, chơi trò chơi, xem video...",
-            "D": "Dữ liệu trong CSDL có thể được bảo vệ bằng các biện pháp bảo mật như mã hóa",
+            "Q": "Cơ sở dữ liệu là gì?",
+            "A": "Một cấu trúc tổ chức dữ liệu.",
+            "B": "Một phần mềm để lưu trữ dữ liệu.",
+            "C": "Một tập hợp các file dữ liệu.",
+            "D": "Một mô hình quản lý máy tính.",
+            "True": "A"
+        },
+        {
+            "Q": "HeidiSQL là một công cụ quản lý Cơ sở dữ liệu nào?",
+            "A": "MongoDB.",
+            "B": "MySQL.",
+            "C": "Oracle.",
+            "D": "SQL Server.",
+            "True": "B"
+        },
+        {
+            "Q": "Trong truy xuất dữ liệu qua các liên kết bảng, khái niệm nào mô tả việc kết nối dữ liệu từ nhiều bảng để lấy thông tin từ các dòng tương ứng?",
+            "A": "Truy vấn.",
+            "B": "Gộp.",
+            "C": "Khoá ngoại.",
+            "D": "Nhóm.",
+            "True": "A"
+        },
+        {
+            "Q": "Để tối ưu hiệu suất khi thực hiện sao lưu cơ sở dữ liệu, nên thực hiện quá trình sao lưu vào thời điểm nào trong chu kỳ làm việc của hệ thống?",
+            "A": "Ngày cuối tuần.",
+            "B": "Ngày đầu tuần.",
+            "C": "Sau mỗi lần có thay đổi dữ liệu.",
+            "D": "Thời gian ít người sử dụng hệ thống nhất.",
             "True": "D"
         },
         {
-            "Q": "Do đâu mà Quản lý CSDL trên máy tính thường nhanh chóng, tiết kiệm thời gian và công sức hơn so với quản lý thủ công?",
-            "A": "Dữ liệu trong CSDL có thể được tìm kiếm, lọc, và phân tích theo nhiều tiêu chí khác nhau trong thời gian ngắn, giúp người quản lý dễ dàng đưa ra quyết định hoặc tìm kiếm thông tin cần thiết.",
-            "B": "Các hoạt động cập nhật và chỉnh sửa dữ liệu trên máy tính thường được tự động hóa và có thể được thực hiện đồng thời trên nhiều bản ghi, giúp tiết kiệm thời gian và giảm bớt công sức so với quản lý thủ công mà phải xử lý từng bản ghi một",
-            "C": "Được trải nghiệm nhiều tính năng khác nhau: nghe, gọi, chơi trò chơi, xem video...",
-            "D": "Dữ liệu trong CSDL có thể được bảo vệ bằng các biện pháp bảo mật như mã hóa",
-            "True": "B"
-        },
-        {
-            "Q": "Do đâu mà Quản lý CSDL trên máy tính mang lại khả năng tra cứu và phân tích dữ liệu hiệu quả hơn so với quản lý thủ công?",
-            "A": "Dữ liệu trong CSDL có thể được tìm kiếm, lọc, và phân tích theo nhiều tiêu chí khác nhau trong thời gian ngắn, giúp người quản lý dễ dàng đưa ra quyết định hoặc tìm kiếm thông tin cần thiết.",
-            "B": "Các hoạt động cập nhật và chỉnh sửa dữ liệu trên máy tính thường được tự động hóa và có thể được thực hiện đồng thời trên nhiều bản ghi, giúp tiết kiệm thời gian và giảm bớt công sức so với quản lý thủ công mà phải xử lý từng bản ghi một",
-            "C": "Được trải nghiệm nhiều tính năng khác nhau: nghe, gọi, chơi trò chơi, xem video...",
-            "D": "Dữ liệu trong CSDL có thể được bảo vệ bằng các biện pháp bảo mật như mã hóa",
+            "Q": "Các bước để thực hiện thao tác xoay ảnh trong GIMP là:",
+            "A": "Chọn Layer > Rotate.",
+            "B": "Chọn File > Open.",
+            "C": "Chọn Edit > Cut.",
+            "D": "Chọn View > Zoom In.",
             "True": "A"
         },
         {
-            "Q": "Hệ thống quản trị CSDL giúp?",
-            "A": "Đơn giản hóa quá trình tuyển dụng, tính toán lương thưởng, quản lý chấm công, và đánh giá hiệu suất",
-            "B": "Cung cấp dữ liệu chính xác về nhân viên",
-            "C": "Tính toán lương thưởng, quản lý chấm công, và đánh giá hiệu suất",
-            "D": "Cung cấp dữ liệu chính xác về nhân viên. Đơn giản hóa quá trình tuyển dụng, tính toán lương thưởng, quản lý chấm công, và đánh giá hiệu suất",
+            "Q": "Công cụ nào trong GIMP được sử dụng để điều chỉnh độ sáng của một hình ảnh?",
+            "A": "Brush tool.",
+            "B": "Brightness/Contrast tool.",
+            "C": "Crop tool.",
+            "D": "Eraser tool.",
+            "True": "B"
+        },
+        {
+            "Q": "Công cụ nào trong GIMP được sử dụng chủ yếu để vẽ các đường, hình ảnh và hình dạng cơ bản?",
+            "A": "Clone Tool.",
+            "B": "Eraser Tool.",
+            "C": "Brush Tool.",
+            "D": "Gradient Tool.",
+            "True": "C"
+        },
+        {
+            "Q": "Trong GIMP, để khóa một lớp ảnh và ngăn chuyển động không mong muốn, nên thực hiện thao tác nào sau đây?",
+            "A": "Nhóm lớp.",
+            "B": "Tạo lớp mới.",
+            "C": "Xóa lớp.",
+            "D": "Khóa lớp.",
             "True": "D"
         },
         {
-            "Q": "Việc xây dựng CSDL lưu trữ thông tin ca sĩ và nhạc sĩ với các trường như idcasi, tencasi, idnhacsi, tennhacsi mang lại lợi ích chính nào?",
-            "A": "Giúp tổ chức dễ dàng tra cứu và quản lý thông tin cá nhân của ca sĩ, nhạc sĩ",
-            "B": "Giúp tổ chức dễ dàng theo dõi và quản lý hoạt động nghệ thuật, tác phẩm âm nhạc của ca sĩ và nhạc sĩ một cách hiệu quả",
-            "C": "Chỉ giúp lưu trữ tên ca sĩ và nhạc sĩ",
-            "D": "Chỉ hỗ trợ thống kê số lượng ca sĩ",
-            "True": "B"
-        },
-        {
-            "Q": "Việc quản lý thông tin về ban nhạc và bản thu âm trong CSDL được thể hiện như thế nào?",
-            "A": "CSDL cho phép lưu trữ và quản lý thông tin về ban nhạc và các bản thu âm của họ",
-            "B": "Chỉ lưu trữ tên ban nhạc mà không quản lý bản thu âm",
-            "C": "Không liên quan đến việc quản lý ban nhạc",
-            "D": "Chỉ quản lý thông tin nhạc sĩ",
-            "True": "A"
-        },
-        {
-            "Q": "Trong quản lý quan hệ giữa ca sĩ, ban nhạc và nhạc sĩ, CSDL hỗ trợ chủ yếu bằng cách nào?",
-            "A": "Sử dụng các khóa ngoại như idcasi, idbanthuam, idnhacsi để liên kết dữ liệu",
-            "B": "Xóa bỏ các bảng dữ liệu không cần thiết",
-            "C": "Chỉ lưu trữ thông tin riêng lẻ, không liên kết",
-            "D": "Chỉ quản lý tên nghệ sĩ",
-            "True": "A"
-        },
-        {
-            "Q": "Việc tra cứu và tìm kiếm dữ liệu trong CSDL âm nhạc trở nên dễ dàng chủ yếu do yếu tố nào?",
-            "A": "Các bảng trong CSDL được thiết kế hợp lý và có cấu trúc rõ ràng",
-            "B": "Có nhiều người cùng sử dụng hệ thống",
-            "C": "Dữ liệu được nhập ngẫu nhiên",
-            "D": "Không cần phân loại dữ liệu",
-            "True": "A"
-        },
-        {
-            "Q": "Quản lý CSDL âm nhạc giúp tổ chức tối ưu hóa hoạt động chủ yếu trong lĩnh vực nào?",
-            "A": "Quản lý dữ liệu một cách hệ thống và khoa học",
-            "B": "Trang trí giao diện phần mềm",
-            "C": "Tăng số lượng nhân viên",
-            "D": "Giảm hoàn toàn chi phí hoạt động",
-            "True": "A"
-        },
-        {
-            "Q": "Nếu muốn quản lý thêm thông tin nơi sinh (tỉnh/thành phố) của ca sĩ và nhạc sĩ, CSDL nên thay đổi như thế nào?",
-            "A": "Xóa toàn bộ CSDL và thiết kế lại từ đầu",
-            "B": "Thêm trường mới vào bảng chứa thông tin ca sĩ và nhạc sĩ",
-            "C": "Không cần thay đổi gì",
-            "D": "Chuyển toàn bộ dữ liệu sang hệ thống khác",
-            "True": "B"
-        },
-        {
-            "Q": "Để bổ sung thông tin ngày sinh của ca sĩ và nhạc sĩ vào CSDL, cần thực hiện thao tác nào?",
-            "A": "Thêm một bảng hoàn toàn mới không liên quan",
-            "B": "Thêm trường ngày sinh vào bảng \"nhacsi\" và \"casi\"",
-            "C": "Xóa bảng cũ và nhập lại dữ liệu",
-            "D": "Không cần cập nhật cấu trúc",
-            "True": "B"
-        },
-        {
-            "Q": "Để xây dựng mô hình quản lý danh sách quận/huyện theo từng tỉnh/thành phố, cần xác định mối quan hệ giữa những đối tượng nào?",
-            "A": "Tỉnh/Thành phố và Quận/Huyện",
-            "B": "Tỉnh và Thị trấn",
-            "C": "Huyện và Thị trấn",
-            "D": "Xã và Phường",
-            "True": "A"
-        },
-        {
-            "Q": "Các trường là khóa ngoài của bảng là ?",
-            "A": "Các dữ liệu trong một cột liên kết đến một cột của bảng khác",
-            "B": "Các ô trong bảng liên kết đến một ô của bảng khác",
-            "C": "Các trường tham chiếu đến một trường khóa chính của bảng khác",
-            "D": "Cả ba đáp án trên đều đúng",
+            "Q": "VideoPad là gì?",
+            "A": "Phần mềm chỉnh sửa ảnh.",
+            "B": "Phần mềm chỉnh sửa âm thanh.",
+            "C": "Phần mềm làm phim.",
+            "D": "Phần mềm chỉnh sửa văn bản.",
             "True": "C"
         },
         {
-            "Q": "Khi thiết kế bảng trong CSDL, giá trị mặc định (Default Value) cần được khai báo phù hợp với yếu tố nào?",
-            "A": "Giá trị của từng hàng trong bảng",
-            "B": "Kiểu dữ liệu và ý nghĩa của từng cột (trường)",
-            "C": "Số lượng bản ghi trong bảng",
-            "D": "Tên của bảng dữ liệu",
-            "True": "B"
-        },
-        {
-            "Q": "Để đảm bảo các giá trị trong một trường không bị trùng lặp, cần khai báo loại khóa nào?",
-            "A": "Khóa chính (Primary Key)",
-            "B": "Khóa ngoại (Foreign Key)",
-            "C": "Trường mô tả",
-            "D": "Trường tùy chọn",
-            "True": "A"
-        },
-        {
-            "Q": "Để khai báo khóa cấm trùng lặp ta dùng?",
-            "A": "Chọn Create new index -> Primary",
-            "B": "Chọn Create new index -> Key",
-            "C": "Chọn Create new index -> Unique",
-            "D": "Chọn Create new index -> Fulltext",
+            "Q": "Làm thế nào để tạo hiệu ứng chuyển cảnh trong phim?",
+            "A": "Sử dụng công cụ chuyển đổi video để chuyển video.",
+            "B": "Sử dụng công cụ cắt ghép để cắt và kéo các đoạn phim vào dự án.",
+            "C": "Sử dụng công cụ chỉnh sửa đồ họa để tạo hiệu ứng chuyển cảnh.",
+            "D": "Sử dụng công cụ chuyển đổi để tạo hiệu ứng chuyển cảnh.",
             "True": "C"
         },
         {
-            "Q": "Để khai báo khóa ngoài chọn thẻ?",
-            "A": "\" Create database\"",
-            "B": "\"Create new\"",
-            "C": "\"Root\"",
-            "D": "Foreign keys",
+            "Q": "Làm thế nào để thêm phụ đề vào một đoạn video trong GIMP?",
+            "A": "Chọn \"File\" > \"New Subtitle\" > Nhập nội dung phụ đề > Xác nhận.",
+            "B": "Chọn \"Layer\" > \"Add Subtitle\" > Nhập nội dung > Xác nhận.",
+            "C": "Mở \"Text\" tool > Kéo đoạn vùng cần thêm phụ đề > Nhập nội dung.",
+            "D": "Mở \"Subtitle\" panel > Nhấp chuột phải vào video > Chọn \"Add Subtitle\" > Nhập nội dung.",
+            "True": "C"
+        },
+        {
+            "Q": "Để xuất file ảnh ở định dạng JPG trong GIMP, nên sử dụng tùy chọn nào sau đây?",
+            "A": "File > Export As.",
+            "B": "Edit > Copy.",
+            "C": "View > Show Grid.",
+            "D": "Layer > New Layer.",
+            "True": "A"
+        },
+        {
+            "Q": "Trong GIMP, để làm cho một đối tượng trong ảnh nổi bật hơn bằng cách làm cho màu sắc của nó trở nên độc đáo, bạn sẽ sử dụng lệnh nào dưới đây?",
+            "A": "Colors à Hue-Saturation.",
+            "B": "Filters à Blur à Gaussian Blur.",
+            "C": "Colors à Desaturate.",
+            "D": "Tools à Transform Tools à Rotate.",
+            "True": "A"
+        },
+        {
+            "Q": "Tiến trình nào sau đây không thể bị ngăn trong phần mềm làm phim?",
+            "A": "Chuyển đổi màu sắc.",
+            "B": "Tạo hiệu ứng chuyển động.",
+            "C": "Sắp xếp các lớp.",
+            "D": "Đổi kích thước hình ảnh.",
+            "True": "C"
+        },
+        {
+            "Q": "Làm thế nào để đồng bộ hóa thời gian hiển thị của phụ đề với video trong GIMP?",
+            "A": "Chọn \"Subtitle\" panel > Nhập thời điểm bắt đầu và kết thúc của phụ đề.",
+            "B": "Chọn \"Layer\" > \"Sync Subtitles\" > Nhập thời điểm bắt đầu và kết thúc.",
+            "C": "Kéo thanh trượt thời gian trên \"Timeline\" panel > Khi đến thời điểm mong muốn, thêm phụ đề.",
+            "D": "Nhấp đúp vào phụ đề trên \"Timeline\" panel > Điều chỉnh thời gian bắt đầu và kết thúc.",
+            "True": "C"
+        },
+        {
+            "Q": "Làm thế nào để tạo một lớp mới khi muốn thực hiện thao tác cắt ảnh mà không làm thay đổi ảnh gốc trong GIMP?",
+            "A": "Chọn Image > Resize.",
+            "B": "Chọn File > Save.",
+            "C": "Chọn Edit > Paste.",
+            "D": "Chọn Layer > New Layer.",
             "True": "D"
         },
         {
-            "Q": "Để chọn bảng tham chiếu ta chọn ô?",
-            "A": "\" Create database\"",
-            "B": "\"Create new\"",
-            "C": "Reference table",
-            "D": "Foreign keys",
-            "True": "C"
-        },
-        {
-            "Q": "Để tạo bảng mới trong HeidiSQL, em chọn?",
-            "A": "\" Create database\"",
-            "B": "\"Root\"",
-            "C": "\"Create new\"",
-            "D": "\"Create root\"",
-            "True": "C"
-        },
-        {
-            "Q": "Bảng banthuam có các trường nào dưới đây?",
-            "A": "Idbanthuam, idcasi",
-            "B": "Idbannhac, idbanthuam",
-            "C": "idcasi",
-            "D": "idbanthuam, idbannhac, idcasi",
-            "True": "D"
-        },
-        {
-            "Q": "Khi chọn thêm mới để thêm trường thì một trường mới hiện ra với tên mặc định là?",
-            "A": "Cột mới",
-            "B": "Trường mới",
-            "C": "Column 1",
-            "D": "Row 1",
-            "True": "C"
-        },
-        {
-            "Q": "HeidiSQL hỗ trợ truy xuất dữ liệu từ các bảng đơn giản (không có khóa ngoại) chủ yếu bằng cách nào?",
-            "A": "Chọn bảng và chỉnh sửa trực tiếp cấu trúc bảng",
-            "B": "Sử dụng giao diện để thiết kế lại cơ sở dữ liệu",
-            "C": "Chọn bảng cần truy xuất và thực hiện câu lệnh SQL để lấy dữ liệu",
-            "D": "Xóa bảng rồi tạo lại để xem dữ liệu",
-            "True": "C"
-        },
-        {
-            "Q": "Để truy xuất dữ liệu từ bảng \"casi\" theo các tiêu chí khác nhau (ví dụ: theo tên, theo mã), nên sử dụng cách nào?",
-            "A": "Lọc dữ liệu thủ công bằng cách xem từng bản ghi",
-            "B": "Sử dụng ngôn ngữ truy vấn cơ sở dữ liệu (SQL) để tạo câu truy vấn phù hợp",
-            "C": "Sao chép toàn bộ dữ liệu sang bảng khác rồi chọn lọc",
-            "D": "Xóa các bản ghi không cần thiết",
-            "True": "B"
-        },
-        {
-            "Q": "Muốn truy xuất tất cả các dòng dữ liệu từ bảng \"casi\" ta dùng ?",
-            "A": "SELECT * FROM casi WHERE tencasi LIKE '%Hoa%';",
-            "B": "SELECT * FROM casi WHERE idcasi = 1;",
-            "C": "SELECT * FROM casi;",
-            "D": "SELECT * FROM casi WHERE tencasi LIKE 'N%';",
-            "True": "C"
-        },
-        {
-            "Q": "Muốn truy xuất các ca sĩ theo thứ tự tên theo thứ tự từ A đến Z ta dùng ?",
-            "A": "SELECT * FROM casi WHERE tencasi LIKE '%Hoa%';",
-            "B": "SELECT * FROM casi WHERE idcasi = 1;",
-            "C": "SELECT * FROM casi ORDER BY tencasi ASC;",
-            "D": "SELECT * FROM casi WHERE tencasi LIKE 'N%';",
-            "True": "C"
-        },
-        {
-            "Q": "Muốn truy xuất dữ liệu các ca sĩ có \"idcasi\" nằm trong danh sách (1, 2, 3) ta dùng ?",
-            "A": "SELECT * FROM casi WHERE tencasi LIKE '%Hoa%';",
-            "B": "SELECT * FROM casi WHERE idcasi = 1;",
-            "C": "SELECT * FROM casi WHERE idcasi IN (1, 2, 3);",
-            "D": "SELECT * FROM casi WHERE tencasi LIKE 'N%';",
-            "True": "C"
-        },
-        {
-            "Q": "Muốn truy xuất dữ liệu các ca sĩ theo thứ tự \"idcasi\" giảm dần ta dùng ?",
-            "A": "SELECT * FROM casi WHERE tencasi LIKE '%Hoa%';",
-            "B": "SELECT * FROM casi WHERE idcasi = 1;",
-            "C": "SELECT * FROM casi ORDER BY idcasi DESC;",
-            "D": "SELECT * FROM casi WHERE tencasi LIKE 'N%';",
-            "True": "C"
-        },
-        {
-            "Q": "Muốn truy xuất dữ liệu các ca sĩ có \"idcasi\" là 1 ta dùng ?",
-            "A": "SELECT * FROM casi WHERE tencasi LIKE '%Hoa%';",
-            "B": "SELECT * FROM casi WHERE idcasi = 1;",
-            "C": "SELECT * FROM casi;",
-            "D": "SELECT * FROM casi WHERE tencasi LIKE 'N%';",
-            "True": "B"
-        },
-        {
-            "Q": "Muốn truy xuất dữ liệu các ca sĩ có \"tencasi\" bắt đầu bằng chữ \"N\" ta dùng ?",
-            "A": "SELECT * FROM casi WHERE tencasi LIKE '%Hoa%';",
-            "B": "SELECT * FROM casi WHERE idcasi = 1;",
-            "C": "SELECT * FROM casi;",
-            "D": "SELECT * FROM casi WHERE tencasi LIKE 'N%';",
-            "True": "D"
-        },
-        {
-            "Q": "Muốn truy xuất dữ liệu các ca sĩ có \"tencasi\" chứa từ khóa \"Hoa\" ta dùng ?",
-            "A": "SELECT * FROM casi WHERE tencasi LIKE '%Hoa%';",
-            "B": "SELECT * FROM casi WHERE idcasi = 1;",
-            "C": "SELECT * FROM casi;",
-            "D": "SELECT * FROM casi WHERE tencasi LIKE 'N%';",
+            "Q": "Làm thế nào để áp dụng một hiệu ứng màu sắc duyệt qua toàn bộ ảnh trong GIMP?",
+            "A": "Mở hộp thoại \"Filters\" và chọn mục \"Colors\" để chọn hiệu ứng mong muốn.",
+            "B": "Sử dụng công cụ \"Clone\" để sao chép màu từ một vùng khác.",
+            "C": "Chọn công cụ \"Eraser\" và lau màu trắng lên hình ảnh.",
+            "D": "Nhấp chuột trái và kéo chọn vùng cần áp dụng hiệu ứng màu.",
             "True": "A"
         },
         {
-            "Q": "Để thêm vào một hàng dữ liệu mới ta dùng?",
-            "A": "Nhấn phím Insert",
-            "B": "Chọn biểu tượng dấu cộng + tròn màu xanh",
-            "C": "Nháy nút phải chuột lên vùng dữ liệu của bảng và chọn Chèn hàng",
-            "D": "Tích hợp quy mô rất lớn, gồm hàng trăm nghìn thành phần trên một chip silicon duy nhất",
+            "Q": "Công cụ Paint Brush trong GIMP được sử dụng chủ yếu để:",
+            "A": "Tạo vùng chọn.",
+            "B": "Vẽ và màu sắc trên hình ảnh.",
+            "C": "Sao chép nội dung từ một layer sang layer khác.",
+            "D": "Điều chỉnh độ tương phản.",
             "True": "B"
         },
         {
-            "Q": "Trong truy vấn cơ sở dữ liệu, biểu thức dữ liệu được hiểu là gì?",
-            "A": "Biểu thức dùng để xác lập các điều kiện logic dựa trên giá trị của các trường dữ liệu",
-            "B": "Biểu thức chỉ dùng cho dữ liệu kiểu kí tự",
-            "C": "Biểu thức chỉ dùng cho dữ liệu kiểu số",
-            "D": "Biểu thức dùng để thay đổi cấu trúc bản.",
+            "Q": "Trong phần mềm GIMP, để thực hiện thao tác \"trong suốt\" cho một lớp ảnh, bạn cần sử dụng tính năng nào sau đây?",
+            "A": "Chuyển động tự do.",
+            "B": "Mở rộng lớp.",
+            "C": "Đặt mức độ trong suốt.",
+            "D": "Chuyển đổi độ sáng.",
+            "True": "C"
+        },
+        {
+            "Q": "Để điều chỉnh độ sáng và độ tương phản của video, cần sử dụng lệnh nào sau đây?",
+            "A": "Filters > Distorts > Lens Distortion.",
+            "B": "Filters > Artistic > Oilify.",
+            "C": "Image > Transform > Flip Horizontally.",
+            "D": "Colors > Brightness-Contrast.",
+            "True": "D"
+        },
+        {
+            "Q": "Khi import video, VideoPad hỗ trợ các định dạng video nào?",
+            "A": "AVIMOV và MKV.",
+            "B": "MP4, MOV và FLV.",
+            "C": "Tất cả các định dạng video trên thị trường",
+            "D": "AVI, WMV và MP4.",
+            "True": "D"
+        },
+        {
+            "Q": "Để thực hiện hiệu ứng chuyển cảnh \"Blur Transition\" trong GIMP, bạn sẽ sử dụng lệnh nào dưới đây?",
+            "A": "Layer > Effects > Blur Transition.",
+            "B": "Filters > Blur > Transition.",
+            "C": "Edit > Transition > Blur.",
+            "D": "Colors > Transition > Blur.",
+            "True": "B"
+        },
+        {
+            "Q": "Khi muốn xác định thời gian hiển thị của mỗi lớp trong ảnh động, bạn sử dụng tính năng nào trong GIMP?",
+            "A": "Layer > Merge Down.",
+            "B": "Layer > Layer Properties.",
+            "C": "Filters > Animation > Playback.",
+            "D": "Layer > Layer to Image Size.",
+            "True": "B"
+        },
+        {
+            "Q": "Muốn thay đổi màu nền của một lớp trong hình ảnh để làm nổi bật một đối tượng. Làm thế nào để thực hiện điều này trong GIMP?",
+            "A": "Nhấp đúp vào lớp và chọn \"Edit\" > \"Fill with Color\".",
+            "B": "Kéo và thả màu mới từ bảng chọn màu lên lớp cần thay đổi.",
+            "C": "Chọn \"Image\" > \"Background Color\" và chọn màu mới.",
+            "D": "Click chuột phải vào lớp và chọn \"Change Background Color\".",
             "True": "A"
         },
         {
-            "Q": "Trong cú pháp mô tả truy vấn, cặp dấu [ ] có ý nghĩa gì?",
-            "A": "Biểu thị nội dung bên trong là thành phần bắt buộc phải có",
-            "B": "Biểu thị nội dung bên trong là thành phần tùy chọn, có thể có hoặc không",
-            "C": "Biểu thị nội dung bên ngoài là thành phần tùy chọn",
-            "D": "Biểu thị nội dung cần thay thế bằng giá trị cụ thể",
+            "Q": "MySQL là gì?",
+            "A": "Hệ quản trị cơ sở dữ liệu.",
+            "B": "Một ngôn ngữ lập trình.",
+            "C": "Một loại hệ điều hành.",
+            "D": "Một trình duyệt web.",
+            "True": "A"
+        },
+        {
+            "Q": "Công cụ nào được sử dụng để tạo lập cơ sở dữ liệu và các bảng đơn giản với phần mềm HeidiSQL?",
+            "A": "Microsoft Excel.",
+            "B": "HeidiSQL.",
+            "C": "Adobe Photoshop.",
+            "D": "Notepad.",
             "True": "B"
         },
         {
-            "Q": "Để biểu diễn thứ tự tăng dần ta dùng",
-            "A": "DESC",
-            "B": "LIKE",
-            "C": "AND",
-            "D": "ASC",
+            "Q": "Trong cơ sở dữ liệu quan hệ, khái niệm nào mô tả quá trình truy xuất dữ liệu thông qua việc kết nối các bảng theo các khóa ngoại?",
+            "A": "Tích hợp.",
+            "B": "Trích xuất.",
+            "C": "Nối (Join).",
+            "D": "Lọc (Filter).",
+            "True": "C"
+        },
+        {
+            "Q": "Khi thực hiện phục hồi cơ sở dữ liệu, phương pháp nào giúp khôi phục toàn bộ cơ sở dữ liệu từ một bản sao lưu đầy đủ?",
+            "A": "Phục hồi đơn (Single restore).",
+            "B": "Phục hồi tập trung (Centralized restore).",
+            "C": "Phục hồi mục tiêu (Targeted restore).",
+            "D": "Phục hồi đa điểm (Point-in-time restore).",
+            "True": "B"
+        },
+        {
+            "Q": "Độ phân giải của ảnh số được đo bằng đơn vị nào?",
+            "A": "Pixel.",
+            "B": "Inch.",
+            "C": "Centimeter.",
+            "D": "Megabyte.",
+            "True": "A"
+        },
+        {
+            "Q": "Trong GIMP, để xoay một ảnh, cần sử dụng công cụ nào sau đây?",
+            "A": "Pencil tool.",
+            "B": "Rotate.",
+            "C": "Cutting knife.",
+            "D": "Flashlight.",
+            "True": "B"
+        },
+        {
+            "Q": "Thao tác nào sau đây không phải là một cách để thay đổi thứ tự lớp trong GIMP?",
+            "A": "Kéo và thả lớp trong bảng Lớp.",
+            "B": "Sử dụng lệnh \"Lớp\" > \"Chuyển lớp lên trên\" hoặc \"Chuyển lớp xuống dưới\".",
+            "C": "Nhấn Ctrl + T.",
+            "D": "Chuột phải vào lớp và chọn \"Chuyển lớp\".",
+            "True": "C"
+        },
+        {
+            "Q": "Làm thế nào để gộp hai lớp ảnh với nhau trong GIMP?",
+            "A": "Chọn Select > Invert.",
+            "B": "Chọn File > Open.",
+            "C": "Chọn Image > Adjustments.",
+            "D": "Chọn Layer > Merge Down.",
             "True": "D"
         },
         {
-            "Q": "Để biểu diễn thứ tự GIẢM dần ta dùng",
-            "A": "ASC",
-            "B": "LIKE",
-            "C": "AND",
-            "D": "DESC",
+            "Q": "Làm cách nào để thay đổi kích thước video trong VideoPad?",
+            "A": "Sử dụng tính năng Brightness and Contrast.",
+            "B": "Sử dụng tính năng Color Correction.",
+            "C": "Sử dụng tính năng Crop and Resize.",
+            "D": "Sử dụng tính năng Hue and Saturation.",
+            "True": "C"
+        },
+        {
+            "Q": "Biên tập phim là gì?",
+            "A": "Quá trình quay phim và chụp hình.",
+            "B": "Quá trình xuất phim.",
+            "C": "Quá trình phát sóng và quảng bá sản phẩm.",
+            "D": "Quá trình cắt ghép các đoạn phim để tạo ra một sản phẩm hoàn chỉnh.",
             "True": "D"
         },
         {
-            "Q": "Phần II. Câu 1 - Lan đang thiết kế bảng HOCSINH gồm các trường: MaHS, HoTen, NgaySinh, Lop. Lan chọn MaHS làm khóa chính để phân biệt các học sinh trong trường. Từ tình huống trên, hãy cho biết các phát biểu sau đúng hay sai:",
+            "Q": "Trong quá trình xây dựng kịch bản cho phim hoạt hình, bước nào quan trọng nhất để phát triển cốt truyện?",
+            "A": "Chọn môi trường làm phim.",
+            "B": "Thiết lập kịch bản kỹ thuật.",
+            "C": "Lựa chọn âm nhạc nền.",
+            "D": "Xây dựng nhân vật chính.",
+            "True": "D"
+        },
+        {
+            "Q": "Để cắt một phần nào đó của ảnh, bạn sẽ sử dụng lệnh nào trong GIMP?",
+            "A": "Sử dụng Crop Image từ menu Image.",
+            "B": "Chọn Resize Selection từ menu Select.",
+            "C": "Chọn Rotate Selection từ menu Tools.",
+            "D": "Sử dụng Zoom In để cắt.",
+            "True": "A"
+        },
+        {
+            "Q": "Công cụ chọn thường được sử dụng để xóa bỏ các đối tượng không mong muốn trong hình ảnh. Tuy nhiên, công cụ này có thể bị hạn chế nếu:",
+            "A": "Đối tượng cần xóa bị che khuất bởi các đối tượng khác.",
+            "B": "Hình ảnh có quá nhiều đối tượng.",
+            "C": "Hình ảnh quá lớn.",
+            "D": "Máy tính không đủ bộ nhớ để xử lý hình ảnh.",
+            "True": "A"
+        },
+        {
+            "Q": "VideoPad hỗ trợ những định dạng video nào?",
+            "A": "MP3, WAV, WMA.",
+            "B": "MP4, AVI, WMV.",
+            "C": "JPEG, PNG, BMP.",
+            "D": "PDF, DOC, TXT.",
+            "True": "B"
+        },
+        {
+            "Q": "Làm thế nào để tạo hiệu ứng âm thanh đặc biệt cho hội thoại trong VideoPad khi làm phim hoạt hình?",
+            "A": "Chọn \"Audio Transitions\" và chọn hiệu ứng âm thanh mong muốn.",
+            "B": "Kéo và thả file âm thanh vào video để tự động áp dụng hiệu ứng.",
+            "C": "Sử dụng chức năng \"Pitch Shift\" trong tab \"Audio Effects\".",
+            "D": "Nhấp chuột phải vào hội thoại và chọn \"Add Sound Effect\".",
+            "True": "C"
+        },
+        {
+            "Q": "Hộp chức năng nào trong GIMP chủ yếu liên quan đến việc điều chỉnh độ sáng, độ tương phản và màu sắc của ảnh?",
+            "A": "Layers.",
+            "B": "Tools.",
+            "C": "Filters.",
+            "D": "Colors.",
+            "True": "D"
+        },
+        {
+            "Q": "Bạn muốn tạo một con mắt có màu sắc đặc biệt trong bức ảnh chân dung. Công cụ nào trong GIMP sẽ giúp bạn thực hiện điều này?",
+            "A": "Hue/Saturation.",
+            "B": "Burn Tool.",
+            "C": "Dodge Tool.",
+            "D": "Smudge Tool.",
+            "True": "A"
+        },
+        {
+            "Q": "Công cụ nào trong phần mềm GIMP được sử dụng để tạo hiệu ứng màu Gradient?",
+            "A": "Brush.",
+            "B": "Gradient.",
+            "C": "Eraser.",
+            "D": "Clone.",
+            "True": "B"
+        },
+        {
+            "Q": "Làm thế nào để thêm hiệu ứng \"Lưới điểm\" cho ảnh trong GIMP?",
+            "A": "Chọn Filter > Artistic > Mosaic.",
+            "B": "Sử dụng Layer > New Layer > Pattern.",
+            "C": "Vào Image > Adjustments > Pixelate.",
+            "D": "Mở Colors > Desaturate.",
+            "True": "A"
+        },
+        {
+            "Q": "Lệnh nào dùng để sử dụng nhạc nền đi kèm mẫu trong VideoPad?",
+            "A": "Load my mucsic.",
+            "B": "Add music.",
+            "C": "No mucsic.",
+            "D": "Use Theme Music.",
+            "True": "D"
+        },
+        {
+            "Q": "Khi import video, VideoPad hỗ trợ các định dạng video nào?",
+            "A": "AVI, MOV và MKV.",
+            "B": "MP4, MOV và FLV.",
+            "C": "Tất cả các định dạng video trên thị trường",
+            "D": "AVI, WMV và MP4.",
+            "True": "D"
+        },
+        {
+            "Q": "Trong quá trình làm phim hoạt hình với phần mềm VideoPad, chức năng nào giúp bạn bổ sung hội thoại vào video?",
+            "A": "Mosaic Tool.",
+            "B": "Color Correction.",
+            "C": "Text Effects.",
+            "D": "Speed Adjustment.",
+            "True": "C"
+        },
+        {
+            "Q": "Trong quá trình tạo ảnh động hình tròn xoay từ các hình dấu gạch trong GIMP, bước nào là quan trọng nhất để đảm bảo tính chuyển động mượt mà?",
+            "A": "Chọn mẫu hình dấu gạch phù hợp.",
+            "B": "Thiết lập số lượng khung hình (frames) đủ.",
+            "C": "Xác định tâm xoay của hình tròn.",
+            "D": "Áp dụng hiệu ứng xoay động cho từng khung hình.",
+            "True": "D"
+        },
+        {
+            "Q": "Lệnh nào trong GIMP bạn sử dụng để điều chỉnh độ tương phản của ảnh?",
+            "A": "Colors > Brightness-Contrast.",
+            "B": "Filters > Blur > Gaussian Blur.",
+            "C": "Image > Scale Image.",
+            "D": "Layer > New Layer.",
+            "True": "A"
+        },
+        {
+            "Q": "MySQL là một hệ quản trị CSDL miễn phí, được sử dụng phổ biến trong các ứng dụng quản lý.",
             "type": "true_false_set",
             "questions": [
-                {"text": "a) Nếu trường MaHS được chọn làm khóa chính thì mỗi học sinh trong bảng bắt buộc phải có một mã khác nhau và không được phép trùng lặp.", "correct": true},
-                {"text": "b) Trường MaHS có thể để trống trong một số bản ghi nếu nhà trường chưa cấp mã học sinh cho các em.", "correct": false},
-                {"text": "c) Trong một bảng dữ liệu, chỉ được phép tồn tại một khóa chính để đảm bảo xác định duy nhất mỗi bản ghi.", "correct": true},
-                {"text": "d) Có thể sử dụng trường HoTen làm khóa chính thay cho MaHS vì họ tên cũng dùng để phân biệt học sinh.", "correct": false}
+                {"text": "MySQL là một hệ quản trị CSDL mã nguồn mở.", "correct": true},
+                {"text": "MySQL chỉ được sử dụng trong các ứng dụng nhỏ, không phù hợp với các hệ thống lớn.", "correct": false},
+                {"text": "MySQL có ưu điểm là gọn nhẹ, tốc độ xử lý nhanh và hỗ trợ quản lý tính nhất quán của dữ liệu.", "correct": true},
+                {"text": "Người dùng có thể tải và cài đặt MySQL miễn phí từ trang web chính thức.", "correct": true}
             ],
             "True": "T"
         },
         {
-            "Q": "Phần II. Câu 2 - Nam tạo bảng MONHOC với các trường: MaMon, TenMon, SoTiet. Nam khai báo SoTiet là kiểu INT và TenMon là VARCHAR(50). Đánh giá các phát biểu sau:",
+            "Q": "HeidiSQL là một phần mềm hỗ trợ giao tiếp với hệ quản trị CSDL MySQL.",
             "type": "true_false_set",
             "questions": [
-                {"text": "a) Việc chọn kiểu dữ liệu INT cho trường SoTiet là hợp lý vì số tiết học là dữ liệu dạng số nguyên.", "correct": true},
-                {"text": "b) Nếu khai báo trường SoTiet là VARCHAR thì vẫn đảm bảo chính xác khi thực hiện các phép tính tổng số tiết.", "correct": false},
-                {"text": "c) Trong một bảng dữ liệu, các trường phải có tên khác nhau để tránh nhầm lẫn khi truy xuất dữ liệu.", "correct": true},
-                {"text": "d) Khi thiết kế bảng, có thể chọn kiểu dữ liệu bất kỳ cho các trường mà không cần quan tâm đến nội dung thực tế của dữ liệu.", "correct": false}
+                {"text": "HeidiSQL có giao diện dòng lệnh, yêu cầu người dùng phải nhớ cú pháp các lệnh.", "correct": false},
+                {"text": "HeidiSQL là một phần mềm miễn phí, có giao diện đồ họa thân thiện với người dùng.", "correct": true},
+                {"text": "HeidiSQL hỗ trợ kết nối với nhiều hệ quản trị CSDL khác nhau, không chỉ MySQL.", "correct": true},
+                {"text": "Người dùng có thể sử dụng HeidiSQL để tạo lập CSDL, tạo bảng, cập nhật và truy xuất dữ liệu.", "correct": true}
             ],
             "True": "T"
         },
         {
-            "Q": "Phần II. Câu 3 - Minh tạo cơ sở dữ liệu QL_THUVIEN, sau đó tạo bảng SACH gồm các trường MaSach, TenSach, TacGia. Đánh giá các phát biểu sau:",
+            "Q": "Để kết nối với MySQL, cần phải nhập đúng tên người dùng và mật khẩu.",
             "type": "true_false_set",
             "questions": [
-                {"text": "a) Khi làm việc với hệ quản trị CSDL, cần tạo và chọn cơ sở dữ liệu trước khi tạo các bảng bên trong nó.", "correct": true},
-                {"text": "b) Có thể tạo bảng mới mà không cần xác định cơ sở dữ liệu đang được sử dụng.", "correct": false},
-                {"text": "c) Sau khi bảng đã được tạo, người dùng vẫn có thể thêm mới một trường nếu phát sinh nhu cầu lưu trữ thông tin bổ sung.", "correct": true},
-                {"text": "d) Nếu bảng không còn sử dụng, có thể xóa bảng đó khỏi cơ sở dữ liệu bằng lệnh thích hợp.", "correct": true}
+                {"text": "Mật khẩu của người dùng root được tạo trong quá trình cài đặt MySQL.", "correct": true},
+                {"text": "Có thể kết nối với MySQL mà không cần mật khẩu.", "correct": false},
+                {"text": "Việc nhập đúng tên người dùng và mật khẩu giúp đảm bảo an toàn cho hệ thống CSDL.", "correct": true},
+                {"text": "Nếu quên mật khẩu, người dùng có thể sử dụng các công cụ khôi phục mật khẩu hoặc cài đặt lại MySQL.", "correct": true}
             ],
             "True": "T"
         },
         {
-            "Q": "Phần II. Câu 4 - Hùng viết câu lệnh: CREATE TABLE LOP (MaLop INT, TenLop VARCHAR(20)); Đánh giá các phát biểu sau:",
+            "Q": "Một nhóm học sinh sử dụng điện thoại, laptop và máy tính trong phòng học để chia sẻ dữ liệu. Các bạn thử kết nối bằng Bluetooth, Wi-Fi và dây mạng. Trong quá trình sử dụng, có lúc kết nối bị yếu hoặc mất tín hiệu khi di chuyển xa. Giáo viên yêu cầu nhóm đánh giá các nhận định sau:",
             "type": "true_false_set",
             "questions": [
-                {"text": "a) Câu lệnh trên sử dụng đúng cú pháp của lệnh CREATE TABLE để tạo một bảng mới trong CSDL.", "correct": true},
-                {"text": "b) Sau khi thực hiện câu lệnh, bảng LOP sẽ có hai trường là MaLop và TenLop đúng như khai báo.", "correct": true},
-                {"text": "c) Nếu trong câu lệnh không khai báo khóa chính thì hệ quản trị CSDL sẽ không cho phép tạo bảng.", "correct": false},
-                {"text": "d) Sau khi bảng được tạo, có thể bổ sung khóa chính bằng một câu lệnh khác nếu cần.", "correct": true}
+                {"text": "Bluetooth chỉ hoạt động hiệu quả trong phạm vi ngắn, thường dưới 10m.", "correct": true},
+                {"text": "Wi-Fi luôn ổn định hơn kết nối có dây trong mọi trường hợp.", "correct": false},
+                {"text": "Dây mạng Ethernet dùng để kết nối các thiết bị trong mạng có dây.", "correct": true},
+                {"text": "Hai thiết bị muốn dùng Bluetooth phải có kết nối Internet.", "correct": false}
             ],
             "True": "T"
         },
         {
-            "Q": "Phần II. Câu 5 - Một hệ thống có hai bảng: LOP (MaLop PRIMARY KEY, TenLop) HOCSINH (MaHS PRIMARY KEY, HoTen, MaLop) Trong đó MaLop ở bảng HOCSINH được khai báo là khóa ngoài. Đánh giá các phát biểu sau:",
+            "Q": "Trong một gia đình, nhiều thiết bị như tivi, điện thoại và laptop cùng truy cập Internet thông qua một router Wi-Fi. Một số thiết bị được kết nối bằng dây mạng để tăng độ ổn định. Trong quá trình sử dụng, các thành viên đưa ra các nhận định khác nhau:",
             "type": "true_false_set",
             "questions": [
-                {"text": "a) Khóa ngoài được sử dụng để tạo mối liên kết giữa bảng HOCSINH và bảng LOP thông qua trường MaLop.", "correct": true},
-                {"text": "b) Khi nhập dữ liệu cho bảng HOCSINH, giá trị MaLop phải tồn tại trước trong bảng LOP.", "correct": true},
-                {"text": "c) Hệ quản trị CSDL vẫn cho phép nhập một giá trị MaLop không có trong bảng LOP mà không xảy ra lỗi.", "correct": false},
-                {"text": "d) Một bảng dữ liệu có thể chứa nhiều khóa ngoài nếu cần liên kết đến nhiều bảng khác nhau.", "correct": true}
+                {"text": "Router có chức năng chia sẻ kết nối Internet cho nhiều thiết bị.", "correct": true},
+                {"text": "Kết nối có dây thường ổn định hơn kết nối không dây.", "correct": true},
+                {"text": "Wi-Fi không cần thiết bị phát sóng vẫn có thể hoạt động.", "correct": false},
+                {"text": "Mạng LAN thường chỉ hoạt động trong phạm vi nhỏ.", "correct": true}
             ],
             "True": "T"
         },
         {
-            "Q": "Phần II. Câu 6 - Thảo tạo bảng HOCSINH có khóa ngoài liên kết đến bảng LOP bằng câu lệnh sau: CREATE TABLE HOCSINH ( MaHS INT PRIMARY KEY, HoTen VARCHAR(50), MaLop INT, FOREIGN KEY (MaLop) REFERENCES LOP(MaLop) ); Giả sử bảng LOP (MaLop PRIMARY KEY, TenLop) đã được thiết kế để quản lý danh sách các lớp học trong trường. Từ tình huống trên, hãy cho biết các phát biểu sau đúng hay sai:",
+            "Q": "Một nhóm học sinh được giao thiết kế website giới thiệu trường. Nhóm bắt đầu thu thập nội dung, thiết kế giao diện và tìm hiểu về tên miền, hosting. Tuy nhiên, do thiếu kinh nghiệm nên có nhiều ý kiến chưa chính xác. Hãy xác định đúng sai:",
             "type": "true_false_set",
             "questions": [
-                {"text": "a) Trước khi tạo bảng HOCSINH với khóa ngoài, bảng LOP phải được tạo trước trong cơ sở dữ liệu.", "correct": true},
-                {"text": "b) Trường MaLop trong bảng HOCSINH phải có kiểu dữ liệu tương thích với kiểu dữ liệu của trường MaLop trong bảng LOP.", "correct": true},
-                {"text": "c) Có thể thiết lập khóa ngoài tham chiếu đến một trường bất kỳ trong bảng LOP dù trường đó không phải khóa chính hoặc không có ràng buộc duy nhất.", "correct": false},
-                {"text": "d) Việc khai báo khóa ngoài giúp đảm bảo rằng mỗi học sinh chỉ được gán vào những lớp thực sự tồn tại trong bảng LOP.", "correct": true}
+                {"text": "Website cần xác định đối tượng người dùng trước khi thiết kế.", "correct": true},
+                {"text": "Tên miền là địa chỉ giúp người dùng truy cập website.", "correct": true},
+                {"text": "Hosting là nơi lưu trữ dữ liệu website trên Internet.", "correct": true},
+                {"text": "Giao diện website không ảnh hưởng đến trải nghiệm người dùng.", "correct": false}
             ],
             "True": "T"
         },
         {
-            "Q": "Phần II. Câu 7 - Giáo viên thực hiện các thao tác thêm học sinh mới, sửa ngày sinh và xóa học sinh đã chuyển trường trong bảng HOCSINH. Đánh giá các phát biểu sau:",
+            "Q": "Một cá nhân muốn tạo website bán hàng trực tuyến. Người này bắt đầu xây dựng nội dung mà chưa lập kế hoạch cụ thể về cấu trúc và chức năng. Sau khi hoàn thành, website gặp nhiều lỗi và khó sử dụng. Hãy đánh giá các nhận định:",
             "type": "true_false_set",
             "questions": [
-                {"text": "a) Thao tác thêm một học sinh mới vào bảng được xem là hành động cập nhật dữ liệu.", "correct": true},
-                {"text": "b) Việc chỉnh sửa thông tin của một bản ghi đã tồn tại cũng thuộc nhóm thao tác cập nhật dữ liệu.", "correct": true},
-                {"text": "c) Xóa một bản ghi khỏi bảng cũng được xem là một dạng cập nhật dữ liệu.", "correct": true},
-                {"text": "d) Sau khi dữ liệu đã được lưu vào bảng thì không thể thay đổi nội dung của bản ghi đó.", "correct": false}
+                {"text": "Cần lập kế hoạch trước khi xây dựng website.", "correct": true},
+                {"text": "Nội dung website phải phù hợp với mục tiêu sử dụng.", "correct": true},
+                {"text": "Website không cần phân chia thành các trang nhỏ.", "correct": false},
+                {"text": "Sơ đồ website giúp tổ chức cấu trúc nội dung hợp lý.", "correct": true}
             ],
             "True": "T"
         },
         {
-            "Q": "Phần II. Câu 8 - Giáo viên sử dụng câu lệnh: SELECT * FROM HOCSINH WHERE Lop = '11A1'; Đánh giá các phát biểu sau:",
+            "Q": "Một nhân viên quản lý danh sách học sinh bằng bảng dữ liệu. Hằng ngày, người này thêm dữ liệu mới, chỉnh sửa thông tin sai và tìm kiếm học sinh theo yêu cầu. Trong quá trình làm việc, có nhiều nhận định được đưa ra:",
             "type": "true_false_set",
             "questions": [
-                {"text": "a) Câu lệnh SELECT được sử dụng để truy xuất dữ liệu từ bảng mà không làm thay đổi dữ liệu gốc.", "correct": true},
-                {"text": "b) Mệnh đề WHERE giúp lọc ra những bản ghi thỏa mãn điều kiện xác định trước.", "correct": true},
-                {"text": "c) Khi thực hiện câu lệnh SELECT, dữ liệu trong bảng sẽ bị thay đổi theo điều kiện truy vấn.", "correct": false},
-                {"text": "d) Có thể bổ sung mệnh đề ORDER BY vào câu lệnh SELECT để sắp xếp kết quả theo thứ tự tăng hoặc giảm.", "correct": true}
+                {"text": "Cập nhật dữ liệu bao gồm thêm, sửa và xóa dữ liệu.", "correct": true},
+                {"text": "Truy xuất dữ liệu là lấy thông tin theo điều kiện.", "correct": true},
+                {"text": "Không cần kiểm tra dữ liệu khi nhập vào bảng.", "correct": false},
+                {"text": "Mỗi bản ghi trong bảng nên là duy nhất.", "correct": true}
+            ],
+            "True": "T"
+        },
+        {
+            "Q": "Một hệ thống quản lý lưu trữ dữ liệu học sinh trong bảng. Khi nhập dữ liệu, hệ thống yêu cầu đúng định dạng và không cho phép trùng lặp khóa chính. Người dùng cũng có thể tìm kiếm và lọc dữ liệu theo yêu cầu. Hãy đánh giá:",
+            "type": "true_false_set",
+            "questions": [
+                {"text": "Dữ liệu cần có cấu trúc rõ ràng và hợp lệ.", "correct": true},
+                {"text": "Có thể truy xuất dữ liệu bằng cách tìm kiếm hoặc lọc.", "correct": true},
+                {"text": "Bảng dữ liệu không cần khóa chính.", "correct": false},
+                {"text": "Có thể cập nhật dữ liệu bất cứ lúc nào.", "correct": true}
+            ],
+            "True": "T"
+        },
+        {
+            "Q": "Một hệ thống quản lý học sinh gồm bảng \"Lớp\" và bảng \"Học sinh\". Bảng \"Học sinh\" có trường mã lớp để liên kết với bảng \"Lớp\". Khi nhập dữ liệu, hệ thống kiểm tra tính hợp lệ của mã lớp. Hãy xác định đúng sai:",
+            "type": "true_false_set",
+            "questions": [
+                {"text": "Khóa ngoại dùng để liên kết giữa các bảng.", "correct": true},
+                {"text": "Giá trị khóa ngoại phải tồn tại trong bảng được tham chiếu.", "correct": true},
+                {"text": "Có thể nhập mã lớp không tồn tại vào bảng học sinh.", "correct": false},
+                {"text": "Liên kết bảng giúp giảm trùng lặp dữ liệu.", "correct": true}
+            ],
+            "True": "T"
+        },
+        {
+            "Q": "Một cơ sở dữ liệu gồm nhiều bảng liên kết với nhau để quản lý thông tin. Khi xóa dữ liệu ở bảng chính, hệ thống có thể ảnh hưởng đến các bảng liên quan nếu không xử lý đúng. Người quản lý đưa ra các nhận định sau:",
+            "type": "true_false_set",
+            "questions": [
+                {"text": "Không phải mọi bảng đều bắt buộc phải liên kết với bảng khác.", "correct": true},
+                {"text": "Xóa dữ liệu ở bảng chính có thể ảnh hưởng đến bảng phụ.", "correct": true},
+                {"text": "Khóa chính dùng để xác định duy nhất mỗi bản ghi.", "correct": true},
+                {"text": "Không cần đảm bảo tính toàn vẹn dữ liệu khi liên kết bảng.", "correct": false}
             ],
             "True": "T"
         }
