@@ -223,7 +223,7 @@
             "B": "Phục hồi tập trung (Centralized restore).",
             "C": "Phục hồi mục tiêu (Targeted restore).",
             "D": "Phục hồi đa điểm (Point-in-time restore).",
-            "True": "B"
+            "True": "A"
         },
         {
             "Q": "Độ phân giải của ảnh số được đo bằng đơn vị nào?",
@@ -375,7 +375,7 @@
             "B": "Thiết lập số lượng khung hình (frames) đủ.",
             "C": "Xác định tâm xoay của hình tròn.",
             "D": "Áp dụng hiệu ứng xoay động cho từng khung hình.",
-            "True": "D"
+            "True": "B"
         },
         {
             "Q": "Lệnh nào trong GIMP bạn sử dụng để điều chỉnh độ tương phản của ảnh?",
