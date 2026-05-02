@@ -1,398 +1,510 @@
 {
-    "Mon": "Lịch sử 11",
+    "Mon": "Lịch Sử",
     "QA": [
         {
-            "Q": "Cuộc cải cách của vua Lê Thánh Tông được tiến hành trong bối cảnh lịch sử nào sau đây?",
-            "A": "Nội bộ triều đình có nhiều mâu thuẫn, biến động.",
-            "B": "Nền kinh tế sa sút, nạn đói diễn ra thường xuyên",
-            "C": "Đất nước đứng trước nguy cơ bị nhà Minh xâm lược",
-            "D": "Chế độ phong kiến lâm vào khủng hoảng trầm trọng",
+            "Q": "Nội dung nào sau đây thể hiện tầm quan trọng chiến lược của Biển Đông?",
+            "A": "Là tuyến hàng hải quốc tế nhộn nhịp nhất trên thế giới.",
+            "B": "Là tuyến hàng hải nối Thái Bình Dương với Bắc Băng Dương",
+            "C": "Có nguồi tài nguyên thiên nhiên biển phong phú.",
+            "D": "Là tuyến giao thông hàng hải duy nhất trên biển.",
             "True": "A"
         },
         {
-            "Q": "Công cuộc cải cách của Lê Thánh Tông được tiến hành trên mọi lĩnh vực, nhưng tập trung chủ yếu vào lĩnh vực",
-            "A": "kinh tế.",
-            "B": "giáo dục.",
-            "C": "hành chính.",
-            "D": "văn hóa.",
+            "Q": "Nguồn tài nguyên khoáng sản đa dạng trên biển Đông là điều kiện thuận lợi để các nước",
+            "A": "kiểm soát, đảm bảo an ninh giao thông trên biển.",
+            "B": "xây dựng cơ sở hậu cần, kỹ thuật, phục vụ quân sự.",
+            "C": "phát triển hoạt động kinh tế có tầm chiến lược.",
+            "D": "xây dựng các trạm thông tin, trạm dừng chân.",
             "True": "C"
         },
         {
-            "Q": "Để quản lý đất nước, vua Lê Thánh Tông đã cho ban hành bộ luật nào sau đây?",
-            "A": "Hình thư",
-            "B": "Quốc triều hình luật.",
-            "C": "Hình luật.",
-            "D": "Hoàng Việt luật lệ.",
-            "True": "B"
-        },
-        {
-            "Q": "Trong lĩnh vực văn hóa, Lê Thánh Tông đặc biệt đề cao hệ tư tưởng",
-            "A": "Phật giáo",
-            "B": "Đạo giáo",
-            "C": "Nho giáo",
-            "D": "Thiên chúa giáo",
-            "True": "C"
-        },
-        {
-            "Q": "Ban cấp ruộng đất ruộng đất cho quý tộc, quan lại cao cấp từ nhất phẩm đến tứ phẩm là nội dung chủ yếu của chính sách cải cách nào sau đây của vua Lê Thánh Tông?",
-            "A": "Quân điền",
-            "B": "Hạn điền",
-            "C": "Hạn nô",
-            "D": "Lộc điền",
-            "True": "D"
-        },
-        {
-            "Q": "Ruộng đất công ở các làng xã thời Lê Thánh Tông được phân chia theo chế độ nào sau đây?",
-            "A": "Điền trang.",
-            "B": "Lộc điền.",
-            "C": "Quân điền.",
-            "D": "Hạn điền",
-            "True": "C"
-        },
-        {
-            "Q": "Nội dung nào sau đây phản ảnh đúng mục đích cải cách của vua Lê Thánh Tông?",
-            "A": "Tăng cường quyền lực của hoàng đế và củng cố bộ máy nhà nước",
-            "B": "Giải quyết tình trạng khủng hoảng trầm trọng của đất nước bấy giờ",
-            "C": "Biến nước ta trở thành cường quốc lớn mạnh hàng đầu trong khu vực.",
-            "D": "Tăng cường tiềm lực đất nước chuẩn bị đối phó với giặc ngoại xâm",
-            "True": "A"
-        },
-        {
-            "Q": "Một trong những điểm mới và tiến bộ của bộ luật Quốc triều hình luật là",
-            "A": "đề cao quyền tự do, dân chủ của nhân dân.",
-            "B": "bảo vệ tuyệt đối quyền và lợi ích của vua.",
-            "C": "bảo vệ quyền và lợi ích của quân cấm binh.",
-            "D": "bảo vệ quyền lợi và địa vị của người phụ nữ.",
-            "True": "D"
-        },
-        {
-            "Q": "Nội dung nào sau đây phản ánh đúng ý nghĩa cải cách của vua Lê Thánh Tông thế kỉ XV?",
-            "A": "Nâng cao tiềm lực quốc gia, đẩy lùi nguy cơ ngoại xâm cận kề",
-            "B": "Đưa đất nước thoát khỏi tình trạng khủng hoảng trầm trọng",
-            "C": "Góp phần ổn định và phát triển kinh tế, văn hóa, xã hội Đại Việt",
-            "D": "Hoàn thành thống nhất đất nước về mặt lãnh thổ và hành chính",
-            "True": "C"
-        },
-        {
-            "Q": "Nội dung nào sau đây không phải là cải cách của vua Lê Thánh Tông trên lĩnh vực hành chính?",
-            "A": "Thành lập Lục bộ đảm nhiệm công việc chủ yếu của quốc gia",
-            "B": "Tăng cường chế độ kiểm tra, giám sát lẫn nhau giữa các cơ quan",
-            "C": "Chia cả nước từ 5 đạo thành 12 đạo thừa tuyên và phủ Trung Đô",
-            "D": "Đề cao Nho giáo, đưa Nho giáo trở thành hệ tư tưởng độc tôn",
-            "True": "D"
-        },
-        {
-            "Q": "\"Coi trọng biên soạn quốc sử\" là nội dung cải cách của vua Lê Thánh Tông trên lĩnh vực nào sau đây?",
-            "A": "Quân đội",
-            "B": "Văn hóa",
-            "C": "Luật pháp",
-            "D": "Kinh tế",
-            "True": "B"
-        },
-        {
-            "Q": "Năm 1484, vua Lê Thánh Tông quyết định cho dựng bia ghi tên Tiến sĩ nhằm",
-            "A": "tập trung quyền lực vào tay vua và triều đình trung ương",
-            "B": "đề cao Nho học và tôn vinh các bậc trí thức Nho học",
-            "C": "phát huy những phong tục tập quán tốt đẹp của dân tộc",
-            "D": "tăng cường sự ràng buộc lẫn nhau giữa các cơ quan",
-            "True": "B"
-        },
-        {
-            "Q": "Nội dung nào sau đây là một trong những ý nghĩa về cuộc cải cách của vua Lê Thánh Tông ở thế kỉ XV?",
-            "A": "Mở ra khả năng độc lập, tự chủ đầu tiên cho dân tộc ta.",
-            "B": "Làm chuyển biến toàn bộ các hoạt động của quốc gia.",
-            "C": "Tạo thế và lực cho ta đánh bại quân xâm lược Minh.",
-            "D": "Tạo tiền đề cho cuộc chiến tranh xâm lược phương Bắc.",
-            "True": "B"
-        },
-        {
-            "Q": "Cuộc cải cách của vua Minh Mạng (nửa đầu thế kỉ XIX) nhằm thực hiện một trong những mục đích nào sau đây?",
-            "A": "Tập trung quyền lực vào tay vua",
-            "B": "Thúc đẩy kinh tế tư bản chủ nghĩa",
-            "C": "Ngăn ngừa nguy cơ giặc ngoại xâm",
-            "D": "Khôi phục nền giáo dục Nho học",
-            "True": "A"
-        },
-        {
-            "Q": "Để hoàn thiện bộ máy chính quyền Trung ương, vua Minh Mạng đã cho thành lập một số cơ quan mới có tên là",
-            "A": "Lục bộ, Lục khoa, Lục tự",
-            "B": "Đô ty, Thừa ty, Hiến ty",
-            "C": "Đô sát viện, Cơ mật viện",
-            "D": "Thông chính ty, Quốc Tử Giám",
-            "True": "C"
-        },
-        {
-            "Q": "Cuộc cải cách của vua Minh Mạng (nửa đầu thế kỉ XIX) tập trung vào lĩnh vực chủ yếu nào sau đây?",
-            "A": "Kinh tế",
-            "B": "Văn hóa",
-            "C": "Quốc phóng",
-            "D": "Hành chính",
-            "True": "D"
-        },
-        {
-            "Q": "Nội dung nào sau đây không phải là hoạt động cải cách của vua Minh Mạng nửa đầu thế kỉ XIX?",
-            "A": "Hoàn thiện cơ cấu, chức năng của Lục bộ",
-            "B": "Ban hành chính sách hạn điền và hạn nô",
-            "C": "Tăng cường giám sát lẫn nhau giữa các cơ quan",
-            "D": "Phân chia lại đơn vị hành chính ở cấp địa phương",
-            "True": "B"
-        },
-        {
-            "Q": "Công cuộc cải cách của vua Minh Mạng (nửa đầu thế kỉ XIX) đã đem lại một trong những kết quả nào sau đây?",
-            "A": "Đưa đất nước phát triển lên chế độ tư bản chủ nghĩa.",
-            "B": "Thúc đẩy bộ máy chính quyền các cấp hoạt động hiệu quả.",
-            "C": "Góp phần mở cửa và hội nhập nền kinh tế khu vực.",
-            "D": "Hoàn thành thống nhất đất nước về mặt lãnh thổ.",
-            "True": "B"
-        },
-        {
-            "Q": "Cuộc cải cách hành chính của vua Minh Mạng (nửa đầu thế kỉ XIX) không nhằm mục đích nào sau đây?",
-            "A": "Khắc phục tình trạng phân quyền, thiếu thống nhất.",
-            "B": "Tăng cường tính thống nhất và tiềm lực của đất nước.",
-            "C": "Tập trung quyền lực và hoàn thiện bộ máy nhà nước.",
-            "D": "Xóa bỏ tình trạng \"bế quan tỏa cảng\" của đất nước.",
-            "True": "D"
-        },
-        {
-            "Q": "Cuộc cải cách của vua Minh Mạng (nửa đầu thế kỉ XIX) có ý nghĩa quan trọng nào sau đây?",
-            "A": "xóa bỏ tình trạng \"bế quan tỏa cảng\" của đất nước.",
-            "B": "ngăn chặn mọi nguy cơ xâm lược từ bên ngoài.",
-            "C": "đặt cơ sở cho sự phân chia tỉnh, huyện hiện nay.",
-            "D": "hoàn thành thống nhất đất nước về mặt lãnh thổ.",
-            "True": "C"
-        },
-        {
-            "Q": "Một trong những di sản lớn nhất trong cuộc cải cách của vua Minh Mạng (nửa đầu thế kỉ XIX) còn giá trị đến ngày nay là",
-            "A": "cách thức tổ chức bộ máy nhà nước ở trung ương.",
-            "B": "cách thức phân chia đơn vị hành chính cấp tỉnh.",
-            "C": "tập trung cao độ quyền lực vào trong tay nhà vua.",
-            "D": "ưu tiên bổ nhiệm quan lại là người ở địa phương.",
-            "True": "B"
-        },
-        {
-            "Q": "Một trong những hạn chế trong cải cách của vua Minh Mạng nửa đầu thế kỉ XIX là",
-            "A": "cải cách nặng về củng cố vương triều, ít chú ý đến cải thiện dân sinh",
-            "B": "cải cách làm tăng thêm tình trạng cát cứ, phân quyền ở các địa phương",
-            "C": "sự giám sát, ràng buộc lẫn nhau giữa các cơ quan, chức quan mờ nhạt",
-            "D": "bộ máy nhà nước cồng kềnh, hoạt động kém hiệu quả hơn thời kì trước",
-            "True": "A"
-        },
-        {
-            "Q": "Trong cải cách của vua Minh Mạng, cơ quan tư vấn tối cao cho nhà vua về những vấn đề quân sự quan trọng được gọi là",
-            "A": "Hàn lâm viện.",
-            "B": "Cơ mật viện.",
-            "C": "Nội các.",
-            "D": "Đô sát viện.",
-            "True": "B"
-        },
-        {
-            "Q": "Một trong những đặc điểm cuộc cải cách của vua Minh Mạng (nửa đầu thế kỉ XIX) là",
-            "A": "mang tính cưỡng bức, nặng về mô phỏng bên ngoài",
-            "B": "chủ yếu diễn ra trên lĩnh vực chính trị, hành chính",
-            "C": "ảnh hưởng trực tiếp đến khối đại đoàn kết dân tộc",
-            "D": "không tạo điều kiện cho sự phát triển kinh tế đất nước",
-            "True": "B"
-        },
-        {
-            "Q": "Eo biển nào sau đây nằm trong khu vực Biển Đông?",
-            "A": "Eo Makassar.",
-            "B": "Eo Magenllan.",
-            "C": "Eo Ma-lắc-ca.",
-            "D": "Eo Mackinac.",
-            "True": "C"
-        },
-        {
-            "Q": "Biển Đông có vị trí quan trọng trong lĩnh vực nào của ngành hàng hải quốc tế?",
-            "A": "Giao thông.",
-            "B": "Kinh tế.",
-            "C": "Chính trị.",
-            "D": "Văn hóa.",
-            "True": "A"
-        },
-        {
-            "Q": "Biển Đông là \"cầu nối\" giữa Thái Bình Dương và đại dương nào sau đây?",
-            "A": "Bắc Băng Dương.",
-            "B": "Ấn Độ Dương.",
-            "C": "Đại Tây Dương.",
-            "D": "Địa Trung Hải.",
-            "True": "B"
-        },
-        {
-            "Q": "Tuyến đường vận tải quốc tế qua Biển Đông được coi là nhộn nhịp thứ 2 trên thế giới chỉ sau",
-            "A": "Địa Trung Hải",
-            "B": "Ả Rập.",
-            "C": "Caribê.",
-            "D": "Tây Ban Nha.",
-            "True": "A"
-        },
-        {
-            "Q": "Biển Đông là cửa ngõ giao thương quốc tế của nhiều quốc gia, vùng lãnh thổ tiếp giáp, giữ vai trò là",
-            "A": "địa bàn chiến lược quan trọng.",
-            "B": "nơi trao đổi buôn bán hàng hóa.",
-            "C": "nơi giao thoa các nền văn hóa.",
-            "D": "địa bàn khai thác khoáng sản.",
-            "True": "A"
-        },
-        {
-            "Q": "Quần đảo Hoàng Sa và quần đảo Trường Sa thuộc chủ quyền của Việt Nam nằm ở trung tâm của Biển Đông có vị trí chiến lược quan trọng như thế nào?",
-            "A": "Nằm trên những tuyến đường hàng hải quốc tế quan trọng.",
-            "B": "Điểm trung chuyển, trao đổi và bốc dỡ hàng hóa nội địa.",
-            "C": "Điểm điều tiết giao thông đường biển quan trọng bậc nhất châu Âu.",
-            "D": "Tuyến đường di chuyển ngắn nhất nối Thái Bình Dương và Đại Tây Dương.",
-            "True": "A"
-        },
-        {
-            "Q": "Nội dung nào không thể hiện sự phong phú, đa dạng của nguồn tài nguyên, thiên nhiên biển ở Biển Đông?",
-            "A": "Đa dạng sinh học cao",
-            "B": "Có bồn trũng chứa dầu khí lớn.",
-            "C": "Chứa lượng lớn tài nguyên khí đốt.",
-            "D": "Địa bàn chiến lược quan trọng.",
-            "True": "D"
-        },
-        {
-            "Q": "Về mặt văn hóa, Biển Đông có vai trò quan trọng như thế nào đối với các nước trong khu vực?",
-            "A": "Tuyến phòng thủ chiến lược quan trọng.",
-            "B": "Cung cấp nguồn thức ăn cho cư dân ven biển.",
-            "C": "Tạo điều kiện để phát triển những ngành kinh tế biển.",
-            "D": "Nơi trao đổi hội nhập của nhiều nền văn hóa.",
-            "True": "D"
-        },
-        {
-            "Q": "Về mặt kinh tế, Biển Đông có vai trò quan trọng như thế nào đối với Việt Nam?",
-            "A": "Đóng vai trò quan trọng trong sự nghiệp xây dựng và bảo vệ Tổ quốc.",
-            "B": "Cửa ngõ để Việt Nam có quan hệ trực tiếp với các vùng miền.",
-            "C": "Tạo điều kiện để phát triển những ngành kinh tế mũi nhọn.",
-            "D": "Cung cấp nguồn lương thực chính cho cư dân ven biển.",
-            "True": "C"
-        },
-        {
-            "Q": "Điều kiện nào khiến cho quần đảo Hoàng Sa và Trường Sa là không gian hoạt động kinh tế có tầm chiến lược trên Biển Đông?",
-            "A": "Có hàng nghìn đảo lớn nhỏ, bãi ngầm, đảo san hô.",
-            "B": "Có một số đảo rất gần với lục địa của Việt Nam.",
-            "C": "Có ngư dân thuộc nhiều nước đến sinh sống.",
-            "D": "Nguồn tài nguyên sinh vật, khoáng sản, du lịch đa dạng.",
-            "True": "D"
-        },
-        {
-            "Q": "Đối với lĩnh vực giao thông trên biển, vị trí của quần đảo Trường Sa và Hoàng Sa có thuận lợi gì?",
+            "Q": "Nội dung nào sau đây phản ánh đúng tầm quan trọng của quần đảo Hoàng Sa và Trường Sa đối với Việt Nam về mặt quốc phòng -- an ninh?",
             "A": "Xây dựng các trạm thông tin, dừng chân, tiếp nhiên liệu cho các tàu.",
-            "B": "Xây dựng các tuyến phòng thủ nhiều tầng bảo vệ đất liền.",
-            "C": "Nuôi trồng, chế biến thủy sản, khai thác dược liệu biển và khoảng sản.",
-            "D": "Xây dựng các khu bảo tồn, trung tâm nghiên cứu sinh vật biển.",
-            "True": "A"
-        },
-        {
-            "Q": "Đối với quốc phòng, an ninh, quần đảo Hoàng Sa và Trường Sa có tầm quan trọng như thế nào?",
-            "A": "Xây dựng các trạm thông tin, dừng chân, tiếp nhiên liệu cho các tàu.",
-            "B": "Hình thành tuyến phòng thủ nhiều tầng bảo vệ đất liền.",
-            "C": "Nuôi trồng, chế biến thủy sản, khai thác dược liệu biển và khoảng sản.",
-            "D": "Xây dựng các khu bảo tồn, trung tâm nghiên cứu sinh vật biển.",
+            "B": "Hình thành tuyến phòng thủ nhiều tầng, từ xa đến gần bảo vệ đất liền.",
+            "C": "Tạo thế mạnh cho dịch vụ hàng hải và đánh bắt hải sản trong khu vực",
+            "D": "Giúp xây dựng các khu bảo tồn, trung tâm nghiên cứu sinh vật biển.",
             "True": "B"
         },
         {
-            "Q": "Nội dung nào không thể hiện vị trí chiến lược của Biển Đông ở khu vực châu Á - Thái Bình Dương?",
-            "A": "Nơi tập trung các mô hình chính trị, kinh tế, văn hóa của thế giới.",
-            "B": "Được nhiều nước quan tâm và là địa bàn cạnh tranh ảnh hưởng.",
-            "C": "Có 1 trong 5 bồn trũng chứa dầu khí lớn nhất của châu Á.",
-            "D": "Nhiều nước trong khu vực có kinh tế phụ thuộc vào Biển Đông.",
-            "True": "A"
+            "Q": "Nội dung nào sau đây không phản ánh đúng tầm quan trọng của quần đảo Hoàng Sa và Trường Sa đối với Việt Nam về mặt kinh tế?",
+            "A": "Tạo thế mạnh về dịch vụ hàng hải cho nước ta trên Biển Đông",
+            "B": "Tạo tuyến phòng thủ nhiều tầng từ xa đến gần để bảo vệ đất liền",
+            "C": "Tạo thế mạnh để phát triển kinh tế du lịch biển đảo cho nước ta",
+            "D": "Tạo thuận lợi để phát triển ngành nuôi trồng, chế biến thủy sản",
+            "True": "B"
         },
         {
-            "Q": "Hiện nay, trên Biển Đông đang tồn tại loại hình tranh chấp nào sau đây?",
-            "A": "Xây dựng cơ sở hậu cầu - kĩ thuật phục vụ hoạt động quân sự.",
-            "B": "Xây dựng các khu bảo tồn biển, trung tâm nghiên cứu sinh vật.",
-            "C": "Chủ quyền lãnh thổ đối với quần đảo Hoàng Sa và Trường Sa.",
-            "D": "Việc khai thác tài nguyên nông - lâm - thủy hải sản.",
+            "Q": "Tầm quan trọng chiến lược của quần đảo Hoàng Sa và Trường Sa được thể hiện ở nội dung nào sau đây?",
+            "A": "Đây là hai quần đảo duy nhất thuộc khu vực Biển Đông",
+            "B": "Đây là hai quần đảo lớn nhất thuộc khu vực Biển Đông",
+            "C": "Phục vụ tuyến hàng hải huyết mạch trên Biển Đông",
+            "D": "Là nơi tiếp nhiên liệu duy nhất cho các tàu trên biển",
             "True": "C"
         },
         {
-            "Q": "Vì sao các quốc gia trong khu vực châu Á - Thái Bình Dương đặc biệt quan tâm tới Biển Đông và các đảo, quần đảo trên Biển Đông?",
-            "A": "Nó có vai trò quan trọng trong sự nghiệp xây dựng và bảo vệ Tổ quốc.",
-            "B": "Đây là điểm điều tiết giao thông đường biển quan trọng nhất châu Âu.",
-            "C": "Có nguồn tài nguyên thiên nhiên phong phú với trữ lượng lớn sinh vật biển.",
-            "D": "Đây là tuyến đường di chuyển ngắn nhất nối Thái Bình Dương và Đại Tây Dương.",
-            "True": "A"
+            "Q": "Đối với Việt Nam, tầm quan trọng chiến lược của quần đảo Trường Sa và quần đảo Hoàng Sa được thể hiện ở điểm nào sau đây ?",
+            "A": "Là tuyến đường duy nhất để Việt Nam xuất khẩu hàng nông sản.",
+            "B": "Đảm bảo nguồn an ninh lương thực cho nhân dân Việt Nam.",
+            "C": "Có ý nghĩa về chiến lược quốc phòng, an ninh, kinh tế biển.",
+            "D": "Là nền tảng duy nhất để Việt Nam phát triển công nghiệp nặng.",
+            "True": "C"
         },
         {
-            "Q": "Ý nào sau đây không thể hiện Biển Đông là địa bàn chiến lược quan trọng ở khu vực châu Á - Thái Bình Dương?",
-            "A": "Tuyến đường di chuyển ngắn nhất nối Thái Bình Dương và Ấn Độ Dương.",
-            "B": "Các hoạt động thương mại hàng hải, khai thác hải sản và dầu khí rất sôi động.",
-            "C": "Điểm trung chuyển của tàu thuyền, trao đổi và bốc dỡ hàng hóa quan trọng.",
-            "D": "\"Cửa ngõ\" để Việt Nam giao lưu kinh tế và hợp tác với các nước trên thế giới.",
-            "True": "D"
-        },
-        {
-            "Q": "Theo Công ước Liên Hợp Quốc về Luật Biển năm 1982 \"vùng đặc quyền kinh tế\" được quy định là?",
-            "A": "Vùng biển tiếp liền tính từ ranh giới ngoài của lãnh hải.",
-            "B": "Một vùng nằm ở phía ngoài lãnh hải và tiếp liền với lãnh hải.",
-            "C": "Vùng hợp với lãnh hải và có chiều rộng tối đa là 24 hải lý.",
-            "D": "Vùng biển tiếp liền nằm ở phía ngoài lãnh hải.",
+            "Q": "Nội dung nào sau đây phản ánh đúng về tầm quan trọng chiến lược của Biển Đông đối với sự phát triển kinh tế Việt Nam?",
+            "A": "Hệ thống đảo, quần đảo trên Biển Đông chỉ thuận lợi để đầu tư và phát triển du lịch.",
+            "B": "Việt Nam được đánh giá là quốc gia có lợi thế và tiềm năng to lớn về tài nguyên biển.",
+            "C": "Vùng biển rộng lớn với nhiều đảo là không gian trọng yếu để phát triển văn hóa.",
+            "D": "Biển đảo là nguồn cung cấp lương thực chủ yếu cho cuộc sống của nhân dân Việt Nam.",
             "True": "B"
         },
         {
-            "Q": "Những loại hình tranh chấp nào sau đây hiện đang tồn tại ở quần đảo Trường Sa và Hoàng Sa của Việt Nam?",
-            "A": "Tranh chấp chủ quyền lãnh thổ và vị trí chiếm đóng.",
-            "B": "Tranh chấp trong việc xác định ranh giới các vùng miền.",
-            "C": "Tranh chấp về vùng lãnh thổ đối với các quốc gia.",
-            "D": "Tranh chấp về khai thác thủy sản trên Biển Đông.",
+            "Q": "Đặc điểm chung về vị trí địa lý của quần đảo Hoàng Sa và Trường Sa là",
+            "A": "gần với khu vực đất liền Việt Nam nhất",
+            "B": "nằm ở vị trí trung tâm của Biển Đông",
+            "C": "đều thuộc khu vực miền Bắc Việt Nam",
+            "D": "đều thuộc khu vực miền Nam Việt Nam",
+            "True": "B"
+        },
+        {
+            "Q": "Cả hai quần đảo Hoàng Sa và Trường Sa đều tạo thuận lợi để Việt Nam phát triển ngành kinh tế nào sau đây?",
+            "A": "nông nghiệp lúa nước",
+            "B": "lâm nghiệp",
+            "C": "công nghiệp chế tạo",
+            "D": "khai thác hải sản",
+            "True": "D"
+        },
+        {
+            "Q": "Khu vực nào của Việt Nam không giáp với Biển Đông?",
+            "A": "Tây Bắc.",
+            "B": "Đông Bắc.",
+            "C": "Tây Nam.",
+            "D": "Đông Nam.",
             "True": "A"
         },
         {
-            "Q": "Đọc đoạn tư liệu sau đây: \"Nay quan gia còn trẻ thơ mà thiên tai xảy ra luôn, trẫm (tức Lê Nhân Tông) rất lo sợ. Mối hại ngày nay có thể là do gây bè cánh, tiến cử không công bằng, có thể vì cậy thế công thần nơi tiềm để cho vợ con chạy chọt nhờ vả nơi quyền thế, có thể do để bọn gia nô làm hại dân lành, hay thậm thụt ở các nhà quyền thế để xin khỏi tội,..\" (Ngô Sĩ Liên và các sử thần triều Hậu Lê, Đại Việt sử kí toàn thư, Tập 2, NXB Khoa học xã hội, Hà Nội, 1998, tr.372)",
+            "Q": "Bờ biển nước ta dài khoảng 3260 km, kéo dài từ",
+            "A": "tỉnh Quảng Ninh đến tỉnh Kiên Giang.",
+            "B": "tỉnh Quảng Ninh đến tỉnh An Giang",
+            "C": "tỉnh Thái Bình đến tỉnh Cà Mau.",
+            "D": "tỉnh Nam định đến tỉnh Bình Thuận.",
+            "True": "A"
+        },
+        {
+            "Q": "Nội dung nào sau đây phản ánh đúng tầm quan trọng của Biển Đông về quốc phòng, an ninh đối với Việt Nam?",
+            "A": "Tạo điều kiện thuận lợi phát triển kinh tế biển đa dạng",
+            "B": "Là cửa ngõ, tuyến phòng thủ bảo vệ đất liền từ xa.",
+            "C": "Là con đường giao thương giữa các vùng trong cả nước.",
+            "D": "Tạo thuận lợi cho Việt Nam phát triển thương mại hàng hải",
+            "True": "B"
+        },
+        {
+            "Q": "Biển Đông nước ta góp phần quan trọng vào việc phát triển các ngành kinh tế trọng điểm, ngoại trừ",
+            "A": "nông nghiệp trồng lúa nước.",
+            "B": "thương mại hàng hải.",
+            "C": "nuôi trồng thủy sản.",
+            "D": "du lịch - dịch vụ.",
+            "True": "A"
+        },
+        {
+            "Q": "Về quốc phòng, an ninh, tầm quan trọng của Biển Đông đối với Việt Nam được thể hiện ở điểm nào sau đây?",
+            "A": "Là nơi có trữ lượng dầu khí lớn nhất thế giới.",
+            "B": "Là nơi có nguồn tài nguyên sinh vật đa dạng.",
+            "C": "Là khu vực tập trung các tuyến đường chiến lược.",
+            "D": "Là tuyến phòng thủ từ phía đông của đất nước.",
+            "True": "D"
+        },
+        {
+            "Q": "Hệ thống các cảng nước sâu và cảng trung bình được xây dựng dọc Biển Đông là điều kiện thuận lợi cho Việt Nam phát triển ngành kinh tế chủ yếu nào sau đây?",
+            "A": "nông nghiệp lúa nước.",
+            "B": "thương mại hàng hải.",
+            "C": "nuôi trồng thủy sản.",
+            "D": "khai thác tài nguyên biển.",
+            "True": "B"
+        },
+        {
+            "Q": "Với vị trí địa lý và tài nguyên phong phú của Biển Đông, Việt Nam có thể khai thác phát triển nhiều ngành mũi nhọn, ngoại trừ",
+            "A": "giao thông hàng hải",
+            "B": "du lịch biển",
+            "C": "công nghiệp khai khoáng",
+            "D": "chăn nuôi gia cầm",
+            "True": "D"
+        },
+        {
+            "Q": "Nội dung nào sau đây không phản ánh đúng tầm quan trọng của Biển Đông về kinh tế đối với Việt Nam?",
+            "A": "Là con đường để Việt Nam giao lưu, hội nhập với các nền văn hóa khác",
+            "B": "Là cửa ngõ để Việt Nam giao lưu kinh tế với các nước khác trên thế giới",
+            "C": "Cung cấp tiềm năng bảo tồn đa dạng sinh học biển và nguồn giống hải sản",
+            "D": "Tạo điều kiện thuận lợi đề phát triển đa dạng nhiều loại hình du lịch biển",
+            "True": "A"
+        },
+        {
+            "Q": "Một trong những bãi biển nổi tiếng của nước ta ở miền Trung, là địa điểm thu hút khách du lịch trong và ngoài nước là",
+            "A": "Hạ Long",
+            "B": "Đà Nẵng",
+            "C": "Phú Quốc",
+            "D": "Cát Bà",
+            "True": "B"
+        },
+        {
+            "Q": "Cảnh quan ở Biển Đông đa dạng với nhiều bãi cát, vịnh, hang động, tạo điều kiện cho Việt Nam phát triển nghành kinh tế mũi nhọn nào sau đây?",
+            "A": "Khai khoáng.",
+            "B": "Du lịch.",
+            "C": "Thương mại.",
+            "D": "Hàng hải .",
+            "True": "B"
+        },
+        {
+            "Q": "Một trong những nguồn tài nguyên quan trọng nhất ở thềm lục địa Việt Nam ở Biển Đông là",
+            "A": "dầu khí.",
+            "B": "gỗ lim.",
+            "C": "cánh kiến.",
+            "D": "đồi mồi.",
+            "True": "A"
+        },
+        {
+            "Q": "Nguồn tài nguyên phong phú của Biển Đông đã tạo điều kiện thuận lợi để Việt Nam phát triển ngành",
+            "A": "dệt may",
+            "B": "khai khoáng",
+            "C": "hàng không",
+            "D": "da giầy",
+            "True": "B"
+        },
+        {
+            "Q": "Quốc gia đầu tiên khai phá, xác lập chủ quyền và quản lý liên tục đối với quần đảo Trường Sa và Hoàng Sa là",
+            "A": "Việt Nam.",
+            "B": "Trung Quốc",
+            "C": "Thái Lan.",
+            "D": "Campuchia.",
+            "True": "A"
+        },
+        {
+            "Q": "Một trong những công trình sử học và địa lí ghi chép về cương vực, lãnh thổ và hoạt động thực thi, bảo vệ chủ quyền của nhà nước phong kiến Việt Nam ở quần đảo Hoàng Sa, quần đảo Trường Sa là",
+            "A": "Đại Nam thực lục.",
+            "B": "Hịch tướng sĩ.",
+            "C": "Bình Ngô đại cáo.",
+            "D": "Ức Trai thi tập.",
+            "True": "A"
+        },
+        {
+            "Q": "Từ thế kỉ XVII đến thế kỉ XIX, tổ chức nào sau đây có nhiệm vụ đến khai thác sản vật, thực thi chủ quyền tại quần đảo Hoàng Sa và Trường Sa?",
+            "A": "Đội Hoàng Sa, Bắc Hải",
+            "B": "Đội Trường Sa, Bắc Hải",
+            "C": "Đội Hoàng Sa, Trường Sa.",
+            "D": "Đội Nam Hải, Đông Hải",
+            "True": "C"
+        },
+        {
+            "Q": "Dưới thời vua Minh Mạng, hoạt động khẳng định chủ quyền đối với quần đảo Hoàng Sa và Trường Sa được thể hiện qua việc",
+            "A": "thành lập các xã đảo, huyện đảo",
+            "B": "dựng miếu, trồng cây ở một số đảo",
+            "C": "xây dựng các trạm khí tượng lớn",
+            "D": "xây dựng các trạm vô tuyến điện",
+            "True": "A"
+        },
+        {
+            "Q": "Dưới thời kì nhà Nguyễn, một trong những biện pháp của Nhà nước nhằm xác lập chủ quyền và quản lý đối với hai quần đảo Hoàng Sa và Trường Sa là",
+            "A": "xây dựng trạm vô tuyến điện",
+            "B": "khảo sát đo vẽ bản đồ",
+            "C": "thành lập các huyện đảo",
+            "D": "xây dựng ngọn hải đăng",
+            "True": "B"
+        },
+        {
+            "Q": "Nội dung nào sau đây không phản ánh đúng nhiệm vụ của hải đội Hoàng Sa và Bắc Hải dưới triều Nguyễn?",
+            "A": "Dựng miếu thờ và trồng cây ở một số đảo",
+            "B": "Đo đạc và cắm dấu mốc tại nơi khảo sát.",
+            "C": "Ngăn tàu thuyền nước ngoài đến buôn bán",
+            "D": "Tiến hành thu gom, khai thác sản vật biển",
+            "True": "C"
+        },
+        {
+            "Q": "Trong những năm 30 của thế kỉ XX, chính quyền Pháp đại diện cho Việt Nam trong quan hệ đối ngoại đã khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Trường Sa thông qua việc",
+            "A": "thành lập đội Hoàng Sa",
+            "B": "thành lập đội Bắc Hải",
+            "C": "xây dựng trạm khí tượng",
+            "D": "xây dựng sân bay lớn",
+            "True": "C"
+        },
+        {
+            "Q": "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam đã khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Trường Sa thông qua việc",
+            "A": "thành lập huyện đảo Hoàng Sa và Trường Sa",
+            "B": "thành lập đội Hoàng Sa, Bắc Hải và Trường Đà",
+            "C": "cho hoàn thiện tập Đại Nam nhất thống toàn đồ",
+            "D": "cử thủy quân ra tuần tra đảo định kì hàng năm",
+            "True": "A"
+        },
+        {
+            "Q": "Từ cuối thế kỉ XIX đến năm 1945, quốc gia nào đại diện cho quyền lợi của Việt Nam tiếp tục khẳng định chủ quyền đối với quần đảo Hoàng Sa và Trường Sa?",
+            "A": "Trung Quốc",
+            "B": "Anh",
+            "C": "Mĩ",
+            "D": "Pháp",
+            "True": "D"
+        },
+        {
+            "Q": "Sau khi Pháp rút khỏi Việt Nam theo Hiệp định Giơnevơ (1954), lực lượng nào sau đây đã tiếp quản và khẳng định chủ quyền đối với quần đảo Hoàng Sa và Trường Sa?",
+            "A": "Chính quyền Sài Gòn",
+            "B": "Chính quyền Bảo Đại",
+            "C": "Chính quyền Pháp",
+            "D": "Chính phủ Việt Nam dân chủ cộng hòa",
+            "True": "A"
+        },
+        {
+            "Q": "Nhằm bảo vệ và thực thi chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông, biện pháp nào sau đây không được nhà nước Việt Nam áp dụng?",
+            "A": "Chủ động tấn công vũ trang.",
+            "B": "Tuyên truyền chủ quyền biển, đảo",
+            "C": "Đàm phán ngoại giao.",
+            "D": "Xây dựng lực lượng quản lý biển",
+            "True": "A"
+        },
+        {
+            "Q": "Nội dung nào sau đây không phải là hoạt động của Việt Nam để bảo vệ chủ quyền biển đảo hiện nay?",
+            "A": "Kí kết với các nước láng giềng một số văn kiện ngoại giao quốc tế về biển",
+            "B": "Tham gia Công ước Luật biển năm 1982 của tổ chức Liên hợp quốc",
+            "C": "Chủ động tấn công ngăn chặn các nước có ý đồ xâm phạm biển",
+            "D": "Thực hiện đầy đủ Tuyên bố về ứng xử của các bên ở Biển Đông .",
+            "True": "C"
+        },
+        {
+            "Q": "Chủ trương nhất quán của nước Cộng hòa xã hội chủ nghĩa Việt Nam trong việc giải quyết các tranh chấp ở Biển Đông hiện nay là",
+            "A": "đấu tranh hòa bình.",
+            "B": "bạo lực cách mạng.",
+            "C": "chiến tranh cách mạng.",
+            "D": "bãi công, bãi khóa",
+            "True": "A"
+        },
+        {
+            "Q": "Văn kiện nào sau đây được kí kết giữa các nước ASEAN và Trung Quốc nhằm duy trì hòa bình và ổn định ở Biển Đông?",
+            "A": "Luật Biển Việt Nam",
+            "B": "Tuyên bố về ứng xử của các bên ở Biển Đông",
+            "C": "Luật Biên giới quốc gia",
+            "D": "Tuyên bố về các vùng biển và thềm lục địa Việt Nam",
+            "True": "B"
+        },
+        {
+            "Q": "Văn kiện nào sau đây do Nhà nước Việt Nam ban hành, khẳng định chủ quyền của nước ta đối với quần đảo Hoàng Sa và Trường Sa?",
+            "A": "Công ước Liên hợp quốc về Luật biển",
+            "B": "Tuyên bố về ứng xử của các bên ở Biển Đông",
+            "C": "Luật Cảnh sát biển Việt Nam",
+            "D": "Hiến chương Liên hợp quốc",
+            "True": "C"
+        },
+        {
+            "Q": "Tại hội nghị Hoà bình Xan Phran-xi-xcô (1951), khi chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và quần đảo Trường Sa tiếp tục được tuyên bố mà không bị các quốc gia tham dự hội nghị phản đối. Điều đó cho thấy",
+            "A": "tính pháp lý quốc tế và lịch sử về chủ quyền của Việt Nam.",
+            "B": "đây là những quần đảo không có giá trị cao về kinh tế.",
+            "C": "đây là những quần đảo không có giá trị cao về quốc phòng.",
+            "D": "các quốc gia tham dự hội nghị đều tuyệt đối tôn trọng luật Biển.",
+            "True": "A"
+        },
+        {
+            "Q": "Nội dung nào sau đây là một trong những khó khăn của Việt Nam trong việc bảo vệ quyền, chủ quyền và các lợi ích hợp pháp trên Biển Đông hiện nay?",
+            "A": "Sự bất đồng về quan điểm giữa các bên liên quan đến Biển Đông",
+            "B": "Lực lượng quân sự của ta quá yếu so với các nước Đông Nam Á",
+            "C": "Các Ủy viên thường trực của Liên Hợp Quốc đều ủng hộ Trung Quốc.",
+            "D": "Thiếu các bằng chứng pháp lí để khẳng định chủ quyền ở Biển Đông.",
+            "True": "A"
+        },
+        {
+            "Q": "Những câu thơ nhắc đến sự kiện lịch sử nào sau đây trong quá trình đấu tranh bảo vệ chủ quyền biển đảo của Việt Nam ở Biển Đông? \"Xin hòa mình vào mênh mông biển cả Hát ru Người yên giấc ngủ ngàn thu 64 người nhắm mắt để triệu người choàng tỉnh Trái tim đập dồn về phía Trường Sa\"",
+            "A": "Pháp chuyển quyền kiểm soát Hoàng Sa và Trường Sa cho Bảo Đại",
+            "B": "Cuộc chiến đấu của các chiến sĩ hải quân Việt Nam trên đảo Gạc Ma",
+            "C": "Việt Nam đàm phán và kí kết Tuyên bố về ứng xử của các bên ở Biển Đông",
+            "D": "Quân giải phóng miền Nam tiếp quản Trường Sa từ chính quyền Sài Gòn",
+            "True": "B"
+        },
+        {
+            "Q": "Nội dung nào sau đây không phải là vai trò của Quần đảo Trường Sa đối với sự nghiệp xây dựng và bảo vệ Tổ quốc?",
+            "A": "Góp phần phát triển kinh tế của đất nước, đặc biệt kinh tế biển.",
+            "B": "Có tiềm năng góp phần đưa nước ta trở thành quốc gia mạnh về biển.",
+            "C": "Có vị trí quan trọng về mặt quốc phòng, an ninh và chủ quyền biển đảo.",
+            "D": "Ảnh hưởng trực tiếp đến an ninh, chính trị và kinh tế của khu vực.",
+            "True": "D"
+        },
+        {
+            "Q": "Vị trí đại lí và tài nguyên của Biển Đông tạo điều kiện thuận lợi cho Việt Nam Phát triển nhiều nghành kinh tế, ngoại trừ nghành",
+            "A": "công nghiệp khai khoáng.",
+            "B": "đánh bắt và nuôi trồng thủy sản.",
+            "C": "giao thông hàng hải.",
+            "D": "giao thông đường hàng không.",
+            "True": "D"
+        },
+        {
+            "Q": "Dưới thời vua Minh Mạng (1820-1841) thuộc triều Nguyễn ở nước ta, Quần đảo Trường Sa có tên gọi là gì?",
+            "A": "Bãi cát vàng.",
+            "B": "Vạn lí Trường Sa.",
+            "C": "Đại Trường Sa đảo.",
+            "D": "Thiên Lý Sa Hoàng.",
+            "True": "C"
+        },
+        {
+            "Q": "Việt Nam có thể dựa vào điều kiện tự nhiên nào của Biển Đông để phát triển nghành công nghiệp khai khoáng?",
+            "A": "Đường bờ biển dài, ven biển có nhiều vũng vịnh nước sâu và kín gió.",
+            "B": "Biển Đông giàu tài nguyên khoáng sản (titan, thiếc...), đặc biệt là dầu khí.",
+            "C": "Cảnh quan ở Biển Đông đa dạng với nhiều vũng, vịnh, bãi cát trắng, hang động...",
+            "D": "Nguồn tài nguyên sinh vật ở Biển Đông phong phú và đa dạng, có giá trị kinh tế.",
+            "True": "B"
+        },
+        {
+            "Q": "Năm 1816, vua Gia Long lệnh cho thủy quân và đội Hoàng Sa đi thuyền ra Hoàng Sa để",
+            "A": "khai thác sản vật (tôm, cá...).",
+            "B": "cứu hộ tàu thuyền gặp nạn.",
+            "C": "xem xét, đo đạc thủy trình.",
+            "D": "dựng miếu thờ và vẽ bản đồ.",
+            "True": "C"
+        },
+        {
+            "Q": "Tháng 6 - 2012, Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII đã thông qua văn bản pháp luật nào sau đây?",
+            "A": "Luật An ninh quốc gia.",
+            "B": "Luật Biên giới quốc gia.",
+            "C": "Sách trắng quốc phòng.",
+            "D": "Luật Biển Việt Nam.",
+            "True": "D"
+        },
+        {
+            "Q": "Nội dung nào dưới đây không phản ánh đúng nhiệm vụ của hải đội Hoàng Sa dưới thời các chúa Nguyễn ?",
+            "A": "Khai thác các sản vật quý ở Biển Đông.",
+            "B": "Canh giữ, bảo vệ các đảo ở Biển Đông.",
+            "C": "Cắm mốc chủ quyền tại quần đảo Hoàng Sa.",
+            "D": "Thu gom hàng hóa của tàu nước ngoài bị đắm.",
+            "True": "C"
+        },
+        {
+            "Q": "Nội dung nào dưới đây không phản ánh đúng nhiệm vụ của hải đội Hoàng Sa dưới triều Nguyễn ?",
+            "A": "Thống kê các đảo, bãi cát, bãi đá ngầm.",
+            "B": "Vẽ hình thể, đo đạc, vẽ thành bản đồ.",
+            "C": "Tập trận, biểu dương lực lượng quân đội.",
+            "D": "Xác định phương hướng, khoảng cách.",
+            "True": "C"
+        },
+        {
+            "Q": "Trong cuộc kháng chiến chống Pháp và chống Mỹ, đảo nào sau đây được mệnh danh là \"Địa ngục trần gian\"?",
+            "A": "Đảo Lý Sơn.",
+            "B": "Đảo Phú Quốc.",
+            "C": "Côn Đảo.",
+            "D": "Đảo Cát Bà.",
+            "True": "C"
+        },
+        {
+            "Q": "Trong những năm 1975 đến nay, quần đảo Hoàng Sa và quần đảo Trường Sa được đặt dưới sự quản lí của chính quyền",
+            "A": "Việt Nam Cộng hòa.",
+            "B": "Việt Nam Dân chủ Cộng hòa.",
+            "C": "Cộng hòa Miền Nam Việt Nam.",
+            "D": "Cộng hòa xã hội chủ nghĩa Việt Nam.",
+            "True": "D"
+        },
+        {
+            "Q": "Trong những năm 1945- 1975, quần đảo Hoàng Sa và quần đảo Trường Sa được đặt dưới sự quản lí của chính quyền",
+            "A": "Việt Nam Cộng hòa.",
+            "B": "Việt Nam Dân chủ Cộng hòa.",
+            "C": "Cộng hòa Miền Nam Việt Nam.",
+            "D": "Cộng hòa xã hội chủ nghĩa Việt Nam.",
+            "True": "A"
+        },
+        {
+            "Q": "Đọc đoạn tư liệu sau đây: Biển Đông có nguồn tài nguyên sinh vật phong phú và đa dạng, có đến hơn 160 000 loài, gần 10 000 loài thực vật và 260 loài chim sống ở biển. Trong đó, trữ lượng cá ở vùng biển nước ta khoảng 5 triệu tấn/năm, trữ lượng cá có thể đánh bắt hàng năm khoảng 2,3 triệu tấn. Trữ lượng dầu mỏ và khí đốt ở thềm lục địa Việt Nam được xác minh là gần 550 triệu tấn dầu và trên 610 tỉ m3 khí.... Bờ biển Việt Nam dài và có nhiều bãi cát, vịnh, hang động tự nhiên đẹp như Hạ Long, Hải Phòng, Đà Nẵng, Quy Nhơn, Nha Trang, Vũng Tàu, Hà Tiên,... là tiềm năng cho phát triển kinh tế du lịch. Đặc biệt, hệ thống ven biển của Việt Nam có nhiều địa điểm thuận lợi cho việc xây dựng các cảng nước sâu và trung bình, phục vụ tốt cho sự phát triển kinh tế đất nước.",
             "type": "true_false_set",
             "questions": [
-                {"text": "a. Đoạn trích phản ánh mối lo ngại của vua Lê Nhân Tông về thực trạng kinh tế, chính trị của quốc gia lúc bấy giờ", "correct": true},
-                {"text": "b. Theo vua Lê Nhân Tông, một trong những nguyên nhân khiến triều đình có nhiều biến động là do tình trạng phe cánh, bè phái trong nội bộ hệ thống quan lại", "correct": true},
-                {"text": "c. Dưới thời vua Lê Nhân Tông, thiên tai xảy ra liên tiếp là do triều đình không quan tâm đến sản xuất nông nghiệp và đời sống nhân dân", "correct": false},
-                {"text": "d. Một bộ phận công thần dưới thời vua Lê Nhân Tông có nhiều biểu hiện của sự lộng quyền", "correct": true}
+                {
+                    "text": "Toàn bộ đoạn tư liệu cung cấp thông tin về sự phát triển của ngành khai thác và nuôi trồng thủy, hải sản ở nước ta.",
+                    "correct": false
+                },
+                {
+                    "text": "Tài nguyên sinh vật ở Biển Đông bao gồm hai loại là thực vật và chim.",
+                    "correct": false
+                },
+                {
+                    "text": "Việt Nam có nhiều tiềm năng phát triển du lịch biển do có nhiều vịnh, hang động, bờ biển đẹp ven Biển Đông.",
+                    "correct": true
+                },
+                {
+                    "text": "Các cảng nước sâu và trung bình được xây dựng ven Biển Đông liên quan trực tiếp đến sự phát triển kinh tế của đất nước.",
+                    "correct": true
+                }
             ],
             "True": "T"
         },
         {
-            "Q": "Đọc đoạn tư liệu sau đây: Năm 1802, nhà Nguyễn thành lập với lãnh thổ mới rộng lớn, kéo dài từ ải Nam Quan đến mũi Cà Mau. Thời gian đầu, bộ máy chính quyền về cơ bản tiếp tục kế thừa mô hình nhà Lê trung hưng kết hợp với một số biện pháp tạm thời. Thời Gia Long, triều đình trung ương ở Phú Xuân chỉ trực tiếp kiểm soát 4 dinh và 7 trấn từ Thanh Hóa đến Bình Thuận. Quản lý 11 trấn ở phía bắc là Bắc Thành, quản lý 5 trấn ở phía nam là Gia Định Thành. Đứng đầu Bắc Thành và Gia Định Thành là chức Tổng trấn.",
+            "Q": "Đọc đoạn tư liệu sau đây: \"Tháng 7 - 1803, vua Gia Long cho lập lại đội Hoàng Sa, lấy Cai cơ Võ văn Phú làm Thủ ngự cửa biển Sa Kỳ, sai mộ dân ngoại tịch lập làm đội Hoàng Sa. Đầu năm 1815, vua Gia Long tiếp tục \"sai bọn Phạm Quang Ảnh thuộc đội Hoàng Sa ra Hoàng Sa xem xét đo đạc thủy trình...\". Năm 1816, vua Gia Long cho lực lượng ra quần đảo Hoàng Sa cắm cờ để xác định chủ quyền. Sang đời Minh Mạng, việc đo đạc thủy trình chủ yếu giao cho thủy quân thực hiện. Trong các năm 1833, 1834, 1836, vua Minh Mạng đã chỉ thị cho Bộ Công phái người ra Hoàng Sa để dựng bia chủ quyền, đo đạc thủy trình, vẽ bản đồ... Mỗi thuyền vãng thám Hoàng Sa phải đem theo 10 tấm bài gỗ dài 4,5 thước, rộng 5 tấc để dựng làm dấu mốc\".",
             "type": "true_false_set",
             "questions": [
-                {"text": "a. Đoạn trích cung cấp thông tin về tình hình nhà Nguyễn dưới thời vua Gia Long trên các mặt chính trị, kinh tế, xã hội", "correct": false},
-                {"text": "b. Bộ máy chính quyền dưới thời vua Gia Long thiếu sự thống nhất và đồng bộ trên phạm vi cả nước.", "correct": true},
-                {"text": "c. Dưới thời vua Gia Long, quyền lực của nhà vua và triều đình phong kiến trung ương bị hạn chế.", "correct": true},
-                {"text": "d. Sự tồn tại của Bắc Thành và Gia Định thành bộc lộ tính phân quyền và tiềm ẩn nhiều nguy cơ lạm quyền ở địa phương.", "correct": true}
+                {
+                    "text": "Đoạn tư liệu cung cấp thông tin về hoạt động xác lập chủ quyền và quản lý đối với quần đảo Hoàng Sa của một số vị vua nhà Nguyễn thế kỉ XVIII.",
+                    "correct": false
+                },
+                {
+                    "text": "Đội Hoàng Sa đã được thành lập từ thời kì trước, sau đó vua Gia Long đã cho tái lập.",
+                    "correct": true
+                },
+                {
+                    "text": "Một trong những hoạt động của vua Minh Mạng nhằm xác lập chủ quyền và quản lý đối với quần đảo Hoàng Sa là cho thủy quân dựng bia chủ quyền và vẽ bản đồ.",
+                    "correct": true
+                },
+                {
+                    "text": "Đoạn tư liệu cho thấy ý thức về việc xác lập chủ quyền và quản lý đối với quần đảo Hoàng Sa của vua Gia Long và Minh Mạng chưa cao.",
+                    "correct": false
+                }
             ],
             "True": "T"
         },
         {
-            "Q": "Đọc đoạn tư liệu sau đây: \"Biển Đông là tên do người Việt Nam đặt từ xa xưa cho vùng biển nằm ở phía đông đất nước (Dư địa chí của Nguyễn Trãi năm 1435). Tên tiếng Anh của Biển Đông là South China Sea, do tổ chức Thủy đạc quốc tế đặt theo thông lệ quốc tế dựa vào tên địa danh của một quốc gia ven biển có diện tích lãnh thổ đất liền lớn nhất nhưng tên gọi này không hàm ý về chủ quyền. Người Trung Quốc gọi là Nam Hải, người Phi - lip - pin gọi là Biển Tây\"",
+            "Q": "Đọc đoạn tư liệu sau đây: Năm 1956, lợi dụng việc chuyển giao giữa Pháp và Việt Nam Cộng hòa, Trung Quốc đã chiếm một phần quần đảo Hoàng Sa và Đài Loan chiếm đảo Ba Bình thuộc quần đảo Trường Sa. Việt Nam Cộng hòa đã lên tiếng phản đối những hành động này, khẳng định quần đảo Hoàng Sa cùng với quần đảo Trường Sa luôn luôn là một phần của Việt Nam. Tháng 4 -- 1975, Hải quân Nhân dân Việt Nam đã thu hồi quần đảo Trường Sa, sau đó triển khai lực lượng quản lý và bảo vệ các đảo trên quần đảo Trường Sa có quân đội Việt Nam Cộng hòa đóng giữ.",
             "type": "true_false_set",
             "questions": [
-                {"text": "a. Biển Đông có nhiều tên gọi khác nhau tùy theo cách gọi của từng quốc gia.", "correct": true},
-                {"text": "b. Tổ chức Thủy đạc quốc tế đặt tên cho Biển Đông là South China Sea (tức là vùng biển phía Nam Trung Quốc) vì Trung Quốc là quốc gia ven Biển Đông có diện tích lớn nhất.", "correct": true},
-                {"text": "c. Theo tổ chức Thủy đạc quốc tế, Biển Đông là vùng biển thuộc chủ quyền duy nhất của Trung Quốc.", "correct": false},
-                {"text": "d. Biển Đông là tên do người Việt Nam đặt do vùng biển này nằm ở phía đông đất nước ta, nhưng người Phi - lip - pin lại gọi là Biển Tây vì vùng biển này nằm ở phía tây đất nước Phi - lip - pin.", "correct": true}
+                {
+                    "text": "Toàn bộ quần đảo Hoàng Sa và Trường Sa của Việt Nam đã bị Trung Quốc và Đài Loan đánh chiếm ngay từ năm 1956.",
+                    "correct": false
+                },
+                {
+                    "text": "Trung Quốc bắt đầu có hoạt động xâm chiếm quần đảo Hoàng Sa khi quần đảo Hoàng Sa đang thuộc quyền quản lý của chính phủ Việt Nam Cộng hòa.",
+                    "correct": true
+                },
+                {
+                    "text": "Trước những hành động xâm lấn quần đảo Hoảng Sa và Trường Sa của Trung Quốc và Đài Loan, chính phủ Việt Nam Cộng hòa đã có những hành động quân sự đích đáng và giành thắng lợi cuối cùng.",
+                    "correct": false
+                },
+                {
+                    "text": "Năm 1975, Hải quân Nhân dân Việt Nam đã tiếp quản quần đảo Trường Sa từ Trung Quốc và chính quyền Việt Nam Cộng hòa.",
+                    "correct": false
+                }
             ],
             "True": "T"
         },
         {
-            "Q": "Đọc đoạn tư liệu sau đây: \"Quần đảo Hoàng Sa (trực thuộc huyện đảo Hoàng Sa, thành phố Đà Nẵng) bao gồm hai nhóm đảo chính: nhóm phía tây (nhóm Lưỡi Liềm hay Trăng Khuyết) gồm một số đảo như Hoàng Sa, Tri Tôn, Hữu Nhật, Duy Mộng,...; nhóm phía đông (nhóm An Vĩnh) gồm các đảo tương đối lớn như Phú Lâm, Đa Cây, Linh Côn và các bãi ngầm, trong đó lớn nhất là đảo Phú Lâm. Quần đảo Trường Sa (trực thuộc huyện đảo Trường Sa, tỉnh Khánh Hòa) được chia thành 8 cụm là Song Tử, Loại Ta, Thị Tứ, Nam Yết, Sinh Tồn, Trường Sa, Thám Hiểm (An Bang) và Bình Nguyên.",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "a. Đoạn tư liệu cung cấp thông tin về tiềm năng phát triển du lịch của hai quần đảo Hoàng Sa và Trường Sa.", "correct": false},
-                {"text": "b. Quần đảo Hoàng Sa và quần đảo Trường Sa lần lượt trực thuộc thành phố Đà Nẵng và tỉnh Khánh Hòa.", "correct": true},
-                {"text": "c. Đảo Phú Lâm là một trong những đảo lớn nhất thuộc nhóm phía đông của quần đảo Hoàng Sa.", "correct": true},
-                {"text": "d. Nhóm đảo Loại Ta là 1 trong 8 cụm thuộc quần đảo Trường Sa.", "correct": true}
-            ],
-            "True": "T"
+            "Q": "Em hãy nêu vai trò quan trọng chiến lược của Biển Đông trong giao thông hàng hải quốc tế?",
+            "type": "short_answer",
+            "correctAnswer": "Biển Đông là tuyến đường giao thông hàng hải huyết mạch, kết nối Ấn Độ Dương và Thái Bình Dương; là con đường vận chuyển năng lượng, hàng hóa quan trọng bậc nhất thế giới; phục vụ cho nền kinh tế của nhiều quốc gia lớn như Trung Quốc, Nhật Bản, Hàn Quốc.",
+            "True": "S"
         },
         {
-            "Q": "Đọc đoạn tư liệu sau đây: Các nước giáp Biển Đông có sản lượng đánh bắt và nuôi trồng hải sản đứng hàng đầu thế giới như: Trung Quốc, Thái Lan, Việt Nam, In - đô - nê - xi - a và Phi - lip - pin. Theo tổ chức Lương thực và Nông nghiệp Liên hợp quốc (FAO), Biển Đông là vùng biển có sản lượng đánh bắt hải sản hàng đầu thế giới với khoảng 6 triệu tấn, chiếm 10% tổng khối lượng toàn thế giới, riêng sản lượng cá xếp thứ 4/19 thế giới. (Sách giáo khoa Lịch sử 11, bộ Kết nối tri thức với cuộc sống, tr.76)",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "a. Những dẫn chứng được đưa ra trong đoạn tư liệu cho thấy Biển Đông có tầm quan trọng chiến lược về kinh tế, chính trị - an ninh với nhiều quốc gia.", "correct": false},
-                {"text": "b. Theo tổ chức UNESCO, Biển Đông là vùng biển có sản lượng đánh bắt hải sản hàng đầu thế giới.", "correct": false},
-                {"text": "c. Việt Nam là một trong những quốc gia ven Biển Đông có sản lượng đánh bắt hải sản đứng hàng đầu thế giới", "correct": true},
-                {"text": "d. Biển Đông là vùng biển có sản lượng đánh bắt hải sản chiếm tỉ lệ gần như tuyệt đối trên toàn thế giới.", "correct": false}
-            ],
-            "True": "T"
+            "Q": "Vì sao Biển Đông là địa bàn chiến lược quan trọng ở khu vực châu Á - Thái Bình Dương?",
+            "type": "short_answer",
+            "correctAnswer": "Biển Đông là trung tâm kết nối hai đại dương lớn, nằm trên các tuyến hàng hải quốc tế quan trọng; có nguồn tài nguyên dầu khí, thủy sản phong phú; là khu vực có vị trí địa chính trị - quân sự then chốt, ảnh hưởng đến an ninh và ổn định của khu vực.",
+            "True": "S"
+        },
+        {
+            "Q": "Biển Đông có tầm quan trọng như thế nào đối với Việt Nam?",
+            "type": "short_answer",
+            "correctAnswer": "Về kinh tế: cung cấp nguồn tài nguyên đa dạng, phát triển giao thông hàng hải, du lịch, khai khoáng; Về quốc phòng - an ninh: là tuyến phòng thủ quan trọng từ phía Đông, tạo thành lá chắn bảo vệ đất liền; Về xã hội: góp phần ổn định sinh kế, phát triển các ngành nghề truyền thống.",
+            "True": "S"
+        },
+        {
+            "Q": "Em hãy phân tích tầm quan trọng chiến lược của quần đảo Hoàng Sa và Trường Sa đối với giao thông trên biển và sự phát triển của kinh tế nước ta?",
+            "type": "short_answer",
+            "correctAnswer": "Đối với giao thông: nằm trên các tuyến hàng hải quốc tế nhộn nhịp; là điểm dừng chân, trạm tiếp nhiên liệu; giám sát và đảm bảo an ninh hàng hải. Đối với kinh tế: tạo thế mạnh khai thác thủy sản, dịch vụ hàng hải, du lịch biển; mở rộng vùng đặc quyền kinh tế; bảo vệ ngư trường truyền thống.",
+            "True": "S"
+        },
+        {
+            "Q": "Là một học sinh em cần làm gì để góp phần bảo vệ chủ quyền biển đảo của tổ quốc?",
+            "type": "short_answer",
+            "correctAnswer": "Học tập tốt, tìm hiểu về chủ quyền biển đảo; tuyên truyền, nâng cao nhận thức cho bạn bè và người thân; tham gia các cuộc thi tìm hiểu; sử dụng mạng xã hội lành mạnh để bảo vệ chủ quyền; ủng hộ ngư dân bám biển.",
+            "True": "S"
+        },
+        {
+            "Q": "Vì sao Việt Nam chủ trương giải quyết các tranh chấp ở Biển Đông bằng biện pháp hòa bình?",
+            "type": "short_answer",
+            "correctAnswer": "Đảm bảo môi trường hòa bình, ổn định để phát triển đất nước; phù hợp với luật pháp quốc tế và Công ước Luật biển 1982; tránh xung đột vũ trang, tổn thất về người và tài sản; giữ gìn quan hệ hữu nghị với các nước trong khu vực.",
+            "True": "S"
         }
     ]
 }
-
-
