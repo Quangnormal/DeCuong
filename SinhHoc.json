@@ -82,12 +82,12 @@
             "True": "B"
         },
         {
-            "Q": "Hình vẽ sau đây mô tả hình thức sinh sản nào? (Diagram of a cell division)",
+            "Q": "Hình vẽ sau đây mô tả hình thức sinh sản nào?",
             "A": "Sinh sản hữu tính",
             "B": "Sinh sản sinh dưỡng",
             "C": "Trinh sinh",
             "D": "Sinh sản vô tính",
-            "True": "D"
+            "True": "A"
         },
         {
             "Q": "Sinh sản vô tính là hình thức sinh sản trong đó cá thể mới được tạo thành từ cá thể ở thế hệ trước và",
@@ -164,7 +164,7 @@
             "type": "true_false_set",
             "questions": [
                 {"text": "Thời gian ra rễ của các cây trên rất chậm.", "correct": true},
-                {"text": "Những cây đó có giá trị kinh tế cao.", "correct": true},
+                {"text": "Những cây đó có giá trị kinh tế cao.", "correct": false},
                 {"text": "Cành của các cây đó quá to nên không giâm cành được.", "correct": false},
                 {"text": "Khả năng vận chuyển các chất dinh dưỡng của các cây này kém vì mạch gỗ nhỏ.", "correct": false}
             ],
@@ -195,7 +195,7 @@
         {
             "Q": "Cho các hiện tượng sau: (1) Sư tử cái sinh ra sư tử con. (2) Tái sinh đuôi ở thạch sùng. (3) Cây táo ra hoa. (4) Thuỷ tức nảy chồi thành thuỷ tức con. Có mấy hiện tượng nói về sự sinh sản ở sinh vật?",
             "type": "short_answer",
-            "correctAnswer": "3",
+            "correctAnswer": "2",
             "True": "S"
         },
         {
@@ -207,13 +207,13 @@
         {
             "Q": "Trong các loài sinh vật sau: Voi, rắn, trùng sốt rét, cây táo. Có bao nhiêu loài có hình thức sinh sản hữu tính?",
             "type": "short_answer",
-            "correctAnswer": "3",
+            "correctAnswer": "4",
             "True": "S"
         },
         {
-            "Q": "Trong các loài sau: Trùng giày, ruột khoang, dế, lúa, bắp. Có bao nhiêu loài vừa có hình thức sinh sản vô tính vừa có hình thức sinh sản hữu tính?",
+            "Q": "Trong các loài sau: Trùng giày, san hô, dế, lúa, bắp. Có bao nhiêu loài vừa có hình thức sinh sản vô tính vừa có hình thức sinh sản hữu tính?",
             "type": "short_answer",
-            "correctAnswer": "3",
+            "correctAnswer": "2",
             "True": "S"
         },
         {
@@ -231,7 +231,7 @@
         {
             "Q": "Cho các hoạt động sau. Có bao nhiêu hoạt động là sinh sản: Thằn lằn mọc lại đuôi mới sau khi đứt, cây mận ra hoa, cá mẹ sinh ra đàn cá con, cây xoài lớn lên từ hạt xoài. Hai con voi giao phối với nhau.",
             "type": "short_answer",
-            "correctAnswer": "4",
+            "correctAnswer": "1",
             "True": "S"
         },
         {
@@ -244,12 +244,6 @@
             "Q": "Trong các ý sau đây, có bao nhiêu dấu hiệu của sinh sản hữu tính (1) Là hình thức sinh sản có sự tái tổ hợp vật liệu di truyền của hai cơ thể bố mẹ. (2) Cơ thể con nhận được vật chất di truyền từ cả bố và mẹ nên chỉ có các đặc điểm của bố và mẹ. (3) Sinh sản hữu tính làm tăng khả năng thích nghi của thế hệ sau khi môi trường thay đổi. (4) Quá trình phát sinh giao tử đực, cái được điều hòa bởi hormone",
             "type": "short_answer",
             "correctAnswer": "3",
-            "True": "S"
-        },
-        {
-            "Q": "Cho các loài trong hình sau (các loài động vật khác nhau: ong, kiến, thủy tức, chó, mèo), loài nào có hình thức sinh sản khác với nhóm còn lại ?",
-            "type": "short_answer",
-            "correctAnswer": "Chó",
             "True": "S"
         },
         {
@@ -333,21 +327,21 @@
             "True": "A"
         },
         {
-            "Q": "Hình trên mô tả kĩ thuật nhân giống vô tính của thực vật, mỗi nhận định sau đây là Đúng hay Sai khi nói về kĩ thuật này ? (Hình A: ghép cành, Hình B: ghép mắt)",
+            "Q": "Hình trên mô tả kĩ thuật nhân giống vô tính của thực vật, mỗi nhận định sau đây là Đúng hay Sai khi nói về kĩ thuật này ?",
             "type": "true_false_set",
             "questions": [
-                {"text": "Hình A mô tả kĩ thuật ghép cành, Hình B mô tả kĩ thuật ghép mắt.", "correct": true},
+                {"text": "Hình A mô tả kĩ thuật ghép cành, Hình B mô tả kĩ thuật ghép mắt.", "correct": false},
                 {"text": "Cây cho cành ghép và cây cho mắt ghép thường là cây có các tính trạng tốt, năng suất cao, chống chịu tốt với môi trường.", "correct": true},
                 {"text": "Có thể ghép các chồi/mắt của cây cùng loài hoặc có quan hệ gần gũi với gốc ghép", "correct": true},
-                {"text": "Các bệnh trên cây mẹ, nhất là do virus có thể lây qua cây con qua nhiều thế hệ.", "correct": false}
+                {"text": "Các bệnh trên cây mẹ, nhất là do virus có thể lây qua cây con qua nhiều thế hệ.", "correct": true}
             ],
             "True": "T"
         },
         {
-            "Q": "Hình dưới mô tả túi phôi ở thực vật có hoa, hãy cho biết mỗi nhận định sau đây Đúng hay Sai ? (Hình túi phôi: 1. tế bào kèm, 2. trứng, 3. tế bào đối cực, 4. nhân cực)",
+            "Q": "Hình dưới mô tả túi phôi ở thực vật có hoa, hãy cho biết mỗi nhận định sau đây Đúng hay Sai ?",
             "type": "true_false_set",
             "questions": [
-                {"text": "Các số chú thích là: (1) Tế bào kèm, (2) trứng, (3) tế bào đối cực, (4) tế bào nhân cực", "correct": true},
+                {"text": "Các số chú thích là: (1) Tế bào kèm, (2) trứng, (3) tế bào đối cực, (4) tế bào nhân cực", "correct": false},
                 {"text": "Tế bào mẹ (2n) của noãn xảy ra các lần phân bào gồm một lần giảm phân và 3 lần nguyên phân để tạo ra túi phôi", "correct": true},
                 {"text": "Số (1) là hợp tử cái kết hợp với hợp tử đực tạo thành hợp tử 2n.", "correct": false},
                 {"text": "Tinh tử kết hợp với tế bào nhân cực (2n) tạo thành nhân tam bội (3n)", "correct": true}
@@ -359,7 +353,7 @@
             "type": "true_false_set",
             "questions": [
                 {"text": "Quả được hình thành từ đầu nhị.", "correct": false},
-                {"text": "Sinh sản bào tử tạo ra thế hệ mới từ bào tử được phát sinh do nguyên phân ở những thực vật có xen kẽ thế hệ thể bào tử thể và giao tử thể.", "correct": true},
+                {"text": "Sinh sản bào tử tạo ra thế hệ mới từ bào tử được phát sinh do nguyên phân ở những thực vật có xen kẽ thế hệ thể bào tử thể và giao tử thể.", "correct": false},
                 {"text": "Tự thụ phấn là sự thụ phấn giữa hạt phấn với nhụy của cùng một hoa hay khác hoa cùng một cây.", "correct": true},
                 {"text": "Thụ phấn là quá trình vận chuyển hạt phấn từ nhị đến đầu nhụy.", "correct": true}
             ],
@@ -426,13 +420,13 @@
         {
             "Q": "Có bao nhiêu phát biểu đúng khi nói về quả? (I). Quả do bầu nhụy sinh trưởng dày lên chuyển hóa thành. (II). Quả có vai trò bảo vệ hạt. (III). Quả do noãn đã thụ tinh phát triển thành. (IV). Quả không có vai trò trong phát tán hạt. (V). Quả đơn tính là loại quả phát triển từ bầu nhụy không qua thụ tinh noãn",
             "type": "short_answer",
-            "correctAnswer": "3",
+            "correctAnswer": "4",
             "True": "S"
         },
         {
-            "Q": "Dựa trên hình và kiến thức về sinh sản ở thực vật (Hình: sinh sản sinh dưỡng). Có bao nhiêu phát biểu sau đây đúng về sinh sản vô tính ở thực vật? (I). Sinh sản sinh dưỡng là một hình thức sinh sản vô tính. (II). Từ các bộ phận cơ thể phân tách, tái sinh và tạo thành một cây mới có đặc tính giống như cây mẹ. (III). Sinh sản sinh dưỡng chỉ xảy ra ở lá, rễ cây và thân của nó. (IV). Sinh sản này tạo ra thế hệ con với nhiều biến dị đa dạng phong phú.",
+            "Q": "Dựa trên hình và kiến thức về sinh sản ở thực vật. Có bao nhiêu phát biểu sau đây đúng về sinh sản vô tính ở thực vật? (I). Sinh sản sinh dưỡng là một hình thức sinh sản vô tính. (II). Từ các bộ phận cơ thể phân tách, tái sinh và tạo thành một cây mới có đặc tính giống như cây mẹ. (III). Sinh sản sinh dưỡng chỉ xảy ra ở lá, rễ cây và thân của nó. (IV). Sinh sản này tạo ra thế hệ con với nhiều biến dị đa dạng phong phú.",
             "type": "short_answer",
-            "correctAnswer": "2",
+            "correctAnswer": "3",
             "True": "S"
         },
         {
@@ -478,7 +472,7 @@
             "True": "B"
         },
         {
-            "Q": "Cho các loài động vật và hình thức sinh sản vô tính tương ứng của chúng trong bảng sau đây: 1. Kiến - b. Trinh sinh; 2. Thuỷ tức - a. Nảy chồi; 3. San hô - a. Nảy chồi; 4. Sao biển - c. Phân mảnh. Tổ hợp ý ghép đúng là",
+            "Q": "Cho các loài động vật và hình thức sinh sản vô tính tương ứng của chúng trong bảng sau đây: 1. Kiến; 2. Thuỷ tức; 3. San hô; 4. Sao biển; a. Nảy chồi;b. Trinh sinh; c. Phân mảnh; d. Phân đôi. Tổ hợp ý ghép đúng là",
             "A": "1-b; 2-d; 3-a; 4-c",
             "B": "1-d; 2-a; 3-b; 4-c",
             "C": "1-d 2-b; 3-a; 4-c",
@@ -507,7 +501,7 @@
             "B": "(1), (3), (5)",
             "C": "(2), (3), (4)",
             "D": "(3), (4), (5)",
-            "True": "B"
+            "True": "D"
         },
         {
             "Q": "Loài nào sau đây thụ tinh trong môi trường nước?",
@@ -639,7 +633,7 @@
             "Q": "Có các nhận định sau đây về sự sinh sản của ong, phát biểu sau đây đúng hay sai?",
             "type": "true_false_set",
             "questions": [
-                {"text": "Một vài loài cá, lưỡng cư, bò sát cũng có sinh sản theo cách này.", "correct": false},
+                {"text": "Một vài loài cá, lưỡng cư, bò sát cũng có sinh sản theo cách này.", "correct": true},
                 {"text": "Ong mật chúa đẻ rất nhiều trứng, những trứng không thụ tinh sẽ phát triển thành ong đực", "correct": true},
                 {"text": "Ong chúa có bộ nhiễm sắc thể đơn bội (n)", "correct": false},
                 {"text": "Ong mật chúa đẻ rất nhiều trứng, những trứng thụ tinh phát triển thành ong thợ, ong chúa.", "correct": true}
@@ -677,11 +671,11 @@
         {
             "Q": "Cho các hormone: ICSH, Estrogen, FSH, Progesterone, Testosterone, GnRH, LH. Có bao nhiêu hormone tham gia cơ chế điều hòa sinh tinh?",
             "type": "short_answer",
-            "correctAnswer": "5",
+            "correctAnswer": "4",
             "True": "S"
         },
         {
-            "Q": "Quan sát hình thức sinh sản của động vật như hình dưới (nảy chồi ở thủy tức). Có bao nhiêu phát biểu không đúng về hình thức sinh sản được nhắc đến? I. Quá trình sinh sản của các loài động vật này đều tạo ra các cá thể mới giống nhau và giống cá thể mẹ. II. Bản chất của sự tạo chồi là quá trình nguyên phân và giảm phân. III. Gặp ở động vật: bọt biển, ruột khoang. IV. Nảy chồi là hình thức sinh sản mà chồi mọc ra từ cơ thể mẹ.",
+            "Q": "Quan sát hình thức sinh sản của động vật như hình dưới. Có bao nhiêu phát biểu không đúng về hình thức sinh sản được nhắc đến? I. Quá trình sinh sản của các loài động vật này đều tạo ra các cá thể mới giống nhau và giống cá thể mẹ. II. Bản chất của sự tạo chồi là quá trình nguyên phân và giảm phân. III. Gặp ở động vật: bọt biển, ruột khoang. IV. Nảy chồi là hình thức sinh sản mà chồi mọc ra từ cơ thể mẹ.",
             "type": "short_answer",
             "correctAnswer": "1",
             "True": "S"
@@ -705,9 +699,9 @@
             "True": "S"
         },
         {
-            "Q": "Trong cơ chế điều hòa sinh trứng, tuyến yên tiết ra mấy loại hoc môn trong các loại sau đây: Estrogen.GnRH, FSH và ICSH, FSH và LH.",
+            "Q": "Trong cơ chế điều hòa sinh trứng, tuyến yên tiết ra mấy loại hoc môn trong các loại sau đây: Estrogen.GnRH, FSH, ICSH và LH.",
             "type": "short_answer",
-            "correctAnswer": "1",
+            "correctAnswer": "2",
             "True": "S"
         },
         {
@@ -727,70 +721,6 @@
             "type": "short_answer",
             "correctAnswer": "2",
             "True": "S"
-        },
-        {
-            "Q": "Cơ thể sinh vật là hệ thống mở vì",
-            "A": "giữa cơ thể và môi trường sống luôn có sự trao đổi, tác động qua lại thông qua quá trình trao đổi chất và chuyển hóa năng lượng",
-            "B": "cơ thể sinh vật có khả năng duy trì cân bằng động các chỉ số của hệ thống",
-            "C": "cơ thể sinh vật có khả năng tự điều chỉnh thông qua cơ chế điều hòa",
-            "D": "cơ thể sinh vật luôn lấy thức ăn từ môi trường và đồng thời thải các chất thải vào môi trường",
-            "True": "A"
-        },
-        {
-            "Q": "Sự tự điều chỉnh của cơ thể sinh vật là",
-            "A": "khả năng trao đổi vật chất, năng lượng và thông tin với môi trường xung quanh",
-            "B": "khả năng duy trì không đổi các chỉ số của cơ thể sống thông qua cơ chế cảm ứng",
-            "C": "khả năng duy trì không đổi các chỉ số của cơ thể sống thông qua cơ chế điều hòa",
-            "D": "khả năng duy trì sự cân bằng động các chỉ số của cơ thể thông qua cơ chế điều hòa",
-            "True": "D"
-        },
-        {
-            "Q": "Cơ thể thực vật được tạo thành từ cơ quan nào? (1). Cơ quan sinh dưỡng . (2). Cơ quan sinh sản. (3). Cơ quan bài tiết. (4). Cơ quan hô hấp.",
-            "A": "(1), (2)",
-            "B": "(1), (4)",
-            "C": "(1), (2), (3)",
-            "D": "(3), (4)",
-            "True": "A"
-        },
-        {
-            "Q": "Tất cả các tổ chức sống đều là hệ thống mở vì chúng",
-            "A": "thường xuyên trao đổi chất, năng lượng và thông tin với môi trường",
-            "B": "thường xuyên có khả năng tự điều chỉnh",
-            "C": "thường xuyên biến đổi và liên tục biến hóa",
-            "D": "có khả năng sinh sản, cảm ứng và vận động",
-            "True": "A"
-        },
-        {
-            "Q": "Khả năng tự điều chỉnh của sinh vật có ý nghĩa gì đối với sinh vật ?",
-            "A": "Giúp cho sinh vật có sự trao đổi vật chất và năng lượng với môi trường",
-            "B": "Giúp cho sinh vật sinh sản",
-            "C": "Giúp cho sinh vật sinh trưởng và phát triển",
-            "D": "Giúp cho sinh vật tồn tại, hình thành các đặc điểm thích nghi và tiến hóa",
-            "True": "D"
-        },
-        {
-            "Q": "Ở động vật, khi hệ hô hấp ngừng hoạt động thì điều gì xảy ra?",
-            "A": "Các hệ khác hoạt động bình thường",
-            "B": "Trừ hệ sinh dục, các hệ khác đều dừng hoạt động",
-            "C": "Trừ hệ bài tiết, các hệ khác hoạt động bình thường",
-            "D": "Tất cả các hệ dừng hoạt động",
-            "True": "D"
-        },
-        {
-            "Q": "Đặc tính quan trọng giúp sinh vật tồn tại, thích nghi và tiến hóa?",
-            "A": "Tự điều chỉnh",
-            "B": "Hệ thống mở",
-            "C": "Sinh trưởng",
-            "D": "Vận động",
-            "True": "B"
-        },
-        {
-            "Q": "Hệ thống mở của cơ thể sinh vật được hiểu là",
-            "A": "trong hệ thống cơ thể sinh vật ở mọi tổ chức đều trao đổi vật chất và năng lượng với chính nó, sinh vật chịu sự tác động của môi trường đồng thời sinh vật còn góp phần làm biến đổi môi trường",
-            "B": "trong hệ thống cơ thể sinh vật ở mọi tổ chức đều trao đổi vật chất và năng lượng với môi trường, sinh vật chịu sự tác động của môi trường đồng thời sinh vật còn góp phần làm biến đổi môi trường",
-            "C": "trong hệ thống cơ thể sinh vật ở mọi tổ chức đều trao đổi vật chất và năng lượng với môi trường, sinh vật không chịu sự tác động của môi trường đồng thời sinh vật còn góp phần làm biến đổi môi trường",
-            "D": "trong hệ thống cơ thể sinh vật ở mọi tổ chức đều trao đổi vật chất và năng lượng với chính nó, sinh vật không chịu sự tác động của môi trường đồng thời sinh vật còn góp phần làm biến đổi môi trường",
-            "True": "B"
         }
     ]
 }
