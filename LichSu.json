@@ -191,7 +191,7 @@
             "B": "Đội Trường Sa, Bắc Hải",
             "C": "Đội Hoàng Sa, Trường Sa.",
             "D": "Đội Nam Hải, Đông Hải",
-            "True": "C"
+            "True": "A"
         },
         {
             "Q": "Dưới thời vua Minh Mạng, hoạt động khẳng định chủ quyền đối với quần đảo Hoàng Sa và Trường Sa được thể hiện qua việc",
@@ -199,7 +199,7 @@
             "B": "dựng miếu, trồng cây ở một số đảo",
             "C": "xây dựng các trạm khí tượng lớn",
             "D": "xây dựng các trạm vô tuyến điện",
-            "True": "A"
+            "True": "B"
         },
         {
             "Q": "Dưới thời kì nhà Nguyễn, một trong những biện pháp của Nhà nước nhằm xác lập chủ quyền và quản lý đối với hai quần đảo Hoàng Sa và Trường Sa là",
@@ -279,7 +279,7 @@
             "B": "Tuyên bố về ứng xử của các bên ở Biển Đông",
             "C": "Luật Biên giới quốc gia",
             "D": "Tuyên bố về các vùng biển và thềm lục địa Việt Nam",
-            "True": "B"
+            "True": "D"
         },
         {
             "Q": "Văn kiện nào sau đây do Nhà nước Việt Nam ban hành, khẳng định chủ quyền của nước ta đối với quần đảo Hoàng Sa và Trường Sa?",
@@ -335,7 +335,7 @@
             "B": "Vạn lí Trường Sa.",
             "C": "Đại Trường Sa đảo.",
             "D": "Thiên Lý Sa Hoàng.",
-            "True": "C"
+            "True": "B"
         },
         {
             "Q": "Việt Nam có thể dựa vào điều kiện tự nhiên nào của Biển Đông để phát triển nghành công nghiệp khai khoáng?",
@@ -457,7 +457,7 @@
                 },
                 {
                     "text": "Trung Quốc bắt đầu có hoạt động xâm chiếm quần đảo Hoàng Sa khi quần đảo Hoàng Sa đang thuộc quyền quản lý của chính phủ Việt Nam Cộng hòa.",
-                    "correct": true
+                    "correct": false
                 },
                 {
                     "text": "Trước những hành động xâm lấn quần đảo Hoảng Sa và Trường Sa của Trung Quốc và Đài Loan, chính phủ Việt Nam Cộng hòa đã có những hành động quân sự đích đáng và giành thắng lợi cuối cùng.",
@@ -465,46 +465,10 @@
                 },
                 {
                     "text": "Năm 1975, Hải quân Nhân dân Việt Nam đã tiếp quản quần đảo Trường Sa từ Trung Quốc và chính quyền Việt Nam Cộng hòa.",
-                    "correct": false
+                    "correct": true
                 }
             ],
             "True": "T"
-        },
-        {
-            "Q": "Em hãy nêu vai trò quan trọng chiến lược của Biển Đông trong giao thông hàng hải quốc tế?",
-            "type": "short_answer",
-            "correctAnswer": "Biển Đông là tuyến đường giao thông hàng hải huyết mạch, kết nối Ấn Độ Dương và Thái Bình Dương; là con đường vận chuyển năng lượng, hàng hóa quan trọng bậc nhất thế giới; phục vụ cho nền kinh tế của nhiều quốc gia lớn như Trung Quốc, Nhật Bản, Hàn Quốc.",
-            "True": "S"
-        },
-        {
-            "Q": "Vì sao Biển Đông là địa bàn chiến lược quan trọng ở khu vực châu Á - Thái Bình Dương?",
-            "type": "short_answer",
-            "correctAnswer": "Biển Đông là trung tâm kết nối hai đại dương lớn, nằm trên các tuyến hàng hải quốc tế quan trọng; có nguồn tài nguyên dầu khí, thủy sản phong phú; là khu vực có vị trí địa chính trị - quân sự then chốt, ảnh hưởng đến an ninh và ổn định của khu vực.",
-            "True": "S"
-        },
-        {
-            "Q": "Biển Đông có tầm quan trọng như thế nào đối với Việt Nam?",
-            "type": "short_answer",
-            "correctAnswer": "Về kinh tế: cung cấp nguồn tài nguyên đa dạng, phát triển giao thông hàng hải, du lịch, khai khoáng; Về quốc phòng - an ninh: là tuyến phòng thủ quan trọng từ phía Đông, tạo thành lá chắn bảo vệ đất liền; Về xã hội: góp phần ổn định sinh kế, phát triển các ngành nghề truyền thống.",
-            "True": "S"
-        },
-        {
-            "Q": "Em hãy phân tích tầm quan trọng chiến lược của quần đảo Hoàng Sa và Trường Sa đối với giao thông trên biển và sự phát triển của kinh tế nước ta?",
-            "type": "short_answer",
-            "correctAnswer": "Đối với giao thông: nằm trên các tuyến hàng hải quốc tế nhộn nhịp; là điểm dừng chân, trạm tiếp nhiên liệu; giám sát và đảm bảo an ninh hàng hải. Đối với kinh tế: tạo thế mạnh khai thác thủy sản, dịch vụ hàng hải, du lịch biển; mở rộng vùng đặc quyền kinh tế; bảo vệ ngư trường truyền thống.",
-            "True": "S"
-        },
-        {
-            "Q": "Là một học sinh em cần làm gì để góp phần bảo vệ chủ quyền biển đảo của tổ quốc?",
-            "type": "short_answer",
-            "correctAnswer": "Học tập tốt, tìm hiểu về chủ quyền biển đảo; tuyên truyền, nâng cao nhận thức cho bạn bè và người thân; tham gia các cuộc thi tìm hiểu; sử dụng mạng xã hội lành mạnh để bảo vệ chủ quyền; ủng hộ ngư dân bám biển.",
-            "True": "S"
-        },
-        {
-            "Q": "Vì sao Việt Nam chủ trương giải quyết các tranh chấp ở Biển Đông bằng biện pháp hòa bình?",
-            "type": "short_answer",
-            "correctAnswer": "Đảm bảo môi trường hòa bình, ổn định để phát triển đất nước; phù hợp với luật pháp quốc tế và Công ước Luật biển 1982; tránh xung đột vũ trang, tổn thất về người và tài sản; giữ gìn quan hệ hữu nghị với các nước trong khu vực.",
-            "True": "S"
         }
     ]
 }
