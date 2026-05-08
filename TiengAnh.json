@@ -1,547 +1,673 @@
 {
-    "Mon": "Tiếng Anh 11",
-    "QA": [
-        {
-            "Q": "Global warming is one of the most serious problems facing our planet today. Caused mainly (1) human activities, it leads to rising temperatures, melting ice caps, and extreme weather events. (1) _______",
-            "A": "by",
-            "B": "from",
-            "C": "with",
-            "D": "about",
-            "True": "A"
-        },
-        {
-            "Q": "At Green Future Club, we are organising a campaign (2) _______ raise awareness about climate change.",
-            "A": "for",
-            "B": "in order",
-            "C": "to",
-            "D": "so",
-            "True": "C"
-        },
-        {
-            "Q": "By (3) _______ simple daily habits like saving electricity and using public transport, we can make a big difference.",
-            "A": "change",
-            "B": "changing",
-            "C": "to change",
-            "D": "changed",
-            "True": "B"
-        },
-        {
-            "Q": "Many environmental problems can be reduced by (4) _______ renewable energy sources.",
-            "A": "use",
-            "B": "using",
-            "C": "used",
-            "D": "to use",
-            "True": "B"
-        },
-        {
-            "Q": "(5) _______ about the future of our Earth, we must take action now.",
-            "A": "Concern",
-            "B": "Concerning",
-            "C": "Concerned",
-            "D": "To concern",
-            "True": "C"
-        },
-        {
-            "Q": "Students (6) _______ in the campaign will receive certificates and special gifts.",
-            "A": "participating",
-            "B": "participated",
-            "C": "to participate",
-            "D": "participate",
-            "True": "A"
-        },
-        {
-            "Q": "Let's work together to protect (7) _______ environment for future generations!",
-            "A": "a",
-            "B": "an",
-            "C": "the",
-            "D": "0",
-            "True": "C"
-        },
-        {
-            "Q": "Cultural heritage is essential (1) maintaining our national identity.",
-            "A": "in",
-            "B": "on",
-            "C": "for",
-            "D": "at",
-            "True": "C"
-        },
-        {
-            "Q": "(2) _______ neglected for many years, several ancient buildings are now in serious need of restoration.",
-            "A": "Neglect",
-            "B": "Neglecting",
-            "C": "Neglected",
-            "D": "To neglect",
-            "True": "C"
-        },
-        {
-            "Q": "Local authorities have launched programmes to encourage citizens (3) _______ greater responsibility for protecting these sites.",
-            "A": "to take",
-            "B": "taking",
-            "C": "take",
-            "D": "taken",
-            "True": "A"
-        },
-        {
-            "Q": "Many students feel proud of their culture after (4) _______ historical places and learning about traditional crafts.",
-            "A": "visit",
-            "B": "visiting",
-            "C": "to visit",
-            "D": "having visited",
-            "True": "B"
-        },
-        {
-            "Q": "(5) _______ valuable lessons from the past, we can better understand our present.",
-            "A": "Learn",
-            "B": "Learning",
-            "C": "Learned",
-            "D": "Having learned",
-            "True": "D"
-        },
-        {
-            "Q": "Visitors are advised to avoid littering and behave (6) _______ at heritage sites.",
-            "A": "respectful",
-            "B": "respectfully",
-            "C": "respect",
-            "D": "respecting",
-            "True": "B"
-        },
-        {
-            "Q": "Protecting cultural treasures is not only a duty but also (7) _______ honour for every citizen.",
-            "A": "a",
-            "B": "an",
-            "C": "the",
-            "D": "0",
-            "True": "B"
-        },
-        {
-            "Q": "After finishing secondary school, many students are uncertain (1) _______ their future.",
-            "A": "about",
-            "B": "of",
-            "C": "with",
-            "D": "for",
-            "True": "A"
-        },
-        {
-            "Q": "(2) _______ carefully, each option offers different advantages and challenges.",
-            "A": "Consider",
-            "B": "Considering",
-            "C": "Considered",
-            "D": "Having considered",
-            "True": "C"
-        },
-        {
-            "Q": "University education provides students with academic knowledge and opportunities (3) _______ develop critical thinking skills.",
-            "A": "for",
-            "B": "in",
-            "C": "to",
-            "D": "so",
-            "True": "C"
-        },
-        {
-            "Q": "Vocational courses focus on practical skills, helping learners succeed in specific careers without (4) _______ too much time on theory.",
-            "A": "spending",
-            "B": "spend",
-            "C": "to spend",
-            "D": "having spent",
-            "True": "A"
-        },
-        {
-            "Q": "Many students appreciate (5) _______ given the chance to gain hands-on experience early.",
-            "A": "offer",
-            "B": "offering",
-            "C": "offered",
-            "D": "being offered",
-            "True": "D"
-        },
-        {
-            "Q": "(6) _______ different pathways, school-leavers should consider their interests, strengths, and long-term goals.",
-            "A": "Compare",
-            "B": "Comparing",
-            "C": "Compared",
-            "D": "Having compared",
-            "True": "B"
-        },
-        {
-            "Q": "Making the right decision can be (7) _______ important step towards a successful future.",
-            "A": "a",
-            "B": "an",
-            "C": "the",
-            "D": "0",
-            "True": "C"
-        },
-        {
-            "Q": "The \"greenhouse effect\" is the warming that happens when certain gases in Earth's atmosphere (1) _______ heat.",
-            "A": "seize",
-            "B": "capture",
-            "C": "trap",
-            "D": "grasp",
-            "True": "C"
-        },
-        {
-            "Q": "First, sunlight shines onto the Earth's surface, (2) _______ it is absorbed and then radiates back into the atmosphere as heat.",
-            "A": "who",
-            "B": "where",
-            "C": "that",
-            "D": "when",
-            "True": "B"
-        },
-        {
-            "Q": "This greenhouse effect is what keeps the Earth's climate (3) _______.",
-            "A": "energetic",
-            "B": "animate",
-            "C": "livable",
-            "D": "active",
-            "True": "C"
-        },
-        {
-            "Q": "This is because as the Earth's average temperature climbs, winds and ocean currents move heat around the globe in ways that can cool some areas, warm (4) _______, and change the amount of rain and snow falling.",
-            "A": "others",
-            "B": "another",
-            "C": "one",
-            "D": "the other",
-            "True": "A"
-        },
-        {
-            "Q": "(5) _______, the climate changes differently in different areas.",
-            "A": "However",
-            "B": "In addition",
-            "C": "On the contrary",
-            "D": "As a result",
-            "True": "D"
-        },
-        {
-            "Q": "Further education in Britain means education after GCSE exams (6) _______ around the age of 16.",
-            "A": "taken",
-            "B": "made",
-            "C": "performed",
-            "D": "participated",
-            "True": "A"
-        },
-        {
-            "Q": "It includes courses of study (7) _______ to A-levels which students do at their school or college.",
-            "A": "led",
-            "B": "linked",
-            "C": "leading",
-            "D": "linking",
-            "True": "C"
-        },
-        {
-            "Q": "Some students go (8) _______ to a college of further education which (9) a wide range of full or part-time courses.",
-            "A": "ahead",
-            "B": "right",
-            "C": "straight",
-            "D": "forward",
-            "True": "D"
-        },
-        {
-            "Q": "Some students go straight to a college of further education which (9) _______ a wide range of full or part-time courses.",
-            "A": "gives",
-            "B": "offers",
-            "C": "supports",
-            "D": "presents",
-            "True": "B"
-        },
-        {
-            "Q": "Further education also includes training for professional (10) _______ in nursing, accountancy, and management.",
-            "A": "degree",
-            "B": "diploma",
-            "C": "certificate",
-            "D": "qualifications",
-            "True": "B"
-        },
-        {
-            "Q": "Further education also includes training in (11) _______ such as arts and music.",
-            "A": "skills",
-            "B": "fields",
-            "C": "topics",
-            "D": "respects",
-            "True": "B"
-        },
-        {
-            "Q": "The term (12) _______ education is used to refer to degree courses at universities.",
-            "A": "high",
-            "B": "secondary",
-            "C": "tertiary",
-            "D": "main",
-            "True": "C"
-        },
-        {
-            "Q": "The British government is keen to (13) _______ more young people to remain in education.",
-            "A": "make",
-            "B": "ask",
-            "C": "remind",
-            "D": "inquire",
-            "True": "A"
-        },
-        {
-            "Q": "The British government is keen to ask more young people to remain in education as (14) _______ as possible.",
-            "A": "soon",
-            "B": "long",
-            "C": "well",
-            "D": "much",
-            "True": "B"
-        },
-        {
-            "Q": "The goal is to build up a more highly (15) _______ better educated workforce.",
-            "A": "skilled",
-            "B": "valued",
-            "C": "devoted",
-            "D": "talented",
-            "True": "A"
-        },
-        {
-            "Q": "The citadel of the Ho Dynasty was built according to the Feng Shui principles, (16) _______ the flowering of neo-Confucianism in the late 14th century.",
-            "A": "considering",
-            "B": "reflecting",
-            "C": "throwing back",
-            "D": "affecting",
-            "True": "B"
-        },
-        {
-            "Q": "Neo-Confucianism spread to other (17) _______ of East Asia.",
-            "A": "areas",
-            "B": "sections",
-            "C": "sessions",
-            "D": "regions",
-            "True": "D"
-        },
-        {
-            "Q": "According to these principles, it was located in a landscape of great (18) _______ beauty.",
-            "A": "scenic",
-            "B": "nature",
-            "C": "visual",
-            "D": "significant",
-            "True": "A"
-        },
-        {
-            "Q": "It was located on an axis (19) _______ the Tuong Son and Don Son Mountains.",
-            "A": "fastening",
-            "B": "meeting",
-            "C": "joining",
-            "D": "matching",
-            "True": "C"
-        },
-        {
-            "Q": "In terms of architectural history, the citadel of the Ho Dynasty (20) _______ an important role in the planning and building of urban areas.",
-            "A": "deals with",
-            "B": "plays",
-            "C": "makes",
-            "D": "performs",
-            "True": "B"
-        },
-        {
-            "Q": "It shows the uniqueness (21) _______ the construction of a citadel in general and a stone citadel in particular.",
-            "A": "in",
-            "B": "on",
-            "C": "with",
-            "D": "for",
-            "True": "A"
-        },
-        {
-            "Q": "Thanks to the unique construction techniques, all the (22) _______ stone sections are intact.",
-            "A": "serious",
-            "B": "rocky",
-            "C": "special",
-            "D": "major",
-            "True": "D"
-        },
-        {
-            "Q": "All the major stone sections have not been (23) _______ by time and weather.",
-            "A": "changed",
-            "B": "influenced",
-            "C": "affected",
-            "D": "attacked",
-            "True": "C"
-        },
-        {
-            "Q": "The citadel of the Ho Dynasty is an architectural (24) _______ of the 14th century.",
-            "A": "building",
-            "B": "art",
-            "C": "skill",
-            "D": "masterpiece",
-            "True": "D"
-        },
-        {
-            "Q": "The citadel buildings represent an outstanding example of a new (25) _______ of Southeast Asian imperial city.",
-            "A": "set",
-            "B": "style",
-            "C": "quality",
-            "D": "use",
-            "True": "B"
-        },
-        {
-            "Q": "The attraction that Ha Long Bay offers to tourists is",
-            "A": "a large number of islands and islets",
-            "B": "the largest limestone region in the world",
-            "C": "its caves and grottoes, with stalactites and stalagmites",
-            "D": "its unique value of landscape and biology",
-            "True": "D"
-        },
-        {
-            "Q": "The writer was",
-            "A": "able to escape from an explosion in Ha Long Bay",
-            "B": "very impressed by the beauty of Ha Long Bay",
-            "C": "unable to see Ha Long Bay due to the fog",
-            "D": "really frightened of visiting the Surprising Cave",
-            "True": "B"
-        },
-        {
-            "Q": "All of the following statements are true about Ha Long Bay EXCEPT that",
-            "A": "the writer thought its beauty surpassed many other sites",
-            "B": "the writer didn't think the number of tourists had decreased over the years",
-            "C": "the writer saw some monkeys in the chambers of the Surprising Cave",
-            "D": "it took three and a half hours to travel from Ha Noi to Ha Long by bus",
-            "True": "C"
-        },
-        {
-            "Q": "During half an hour of kayaking, the writer found that",
-            "A": "he was more impressed by the view from the kayak than by that from the boat",
-            "B": "the problem of pollution there was serious with plastic or other junk floating around",
-            "C": "he could see the peaks rise sharply in front of him",
-            "D": "he could see a thin layer of oil on the water in a full circle around the main area",
-            "True": "A"
-        },
-        {
-            "Q": "The word 'karst' in paragraph 3 is closest in meaning to",
-            "A": "the common landscape found in China suitable for kayaking and boating",
-            "B": "an irregular limestone region with underground streams, and caves",
-            "C": "a large number of islands and islets in Viet Nam and China",
-            "D": "the explosive that can blow tourists away if they are not careful",
-            "True": "B"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. 1. A. Nam: That's right. Human activities like burning fossil fuels are the main cause. B. Long: What causes global warming? C. Long: I think global warming is becoming a serious problem worldwide.",
-            "A": "C-B-A",
-            "B": "B-C-A",
-            "C": "C-A-B",
-            "D": "A-B-C",
-            "True": "A"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. 2. A. Ann: Yes, many historic buildings are being damaged by pollution and careless visitors. B. Tim: Why is it important to preserve our cultural heritage? C. Tim: I think preserving heritage is everyone's responsibility.",
-            "A": "C-B-A",
-            "B": "C-A-B",
-            "C": "B-C-A",
-            "D": "A-C-B",
-            "True": "B"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. 3. A. Hoa: That sounds interesting. Vocational training can help you gain practical skills quickly. B. Mi: I'm thinking about taking a vocational course after finishing school. C. Hoa: What are your plans after graduation?",
-            "A": "B-C-A",
-            "B": "C-B-A",
-            "C": "B-A-C",
-            "D": "C-A-B",
-            "True": "B"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. 4. A. Tom: That's true, and human activities are mainly responsible for it. B. Mary: I've noticed that the weather has become more unpredictable recently. C. Mary: If we don't act now, the consequences will be even worse in the future. D. Tom: Yes, especially the burning of fossil fuels and deforestation. E. Mary: Do you think global warming is the main reason?",
-            "A": "B-E-A-D-C",
-            "B": "B-E-A-C-D",
-            "C": "E-B-A-D-C",
-            "D": "B-A-E-D-C",
-            "True": "A"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. 5. A. Hung: Schools should organise more cultural events and field trips. B. Long: Many young people seem less interested in traditional culture nowadays. C. Long: That would definitely help raise their awareness.",
-            "type": "short_answer",
-            "correctAnswer": "B-A-C",
-            "True": "S"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. 6. A. Linda: That's true, but vocational training helps students get jobs more quickly. B. Mark: University is a good choice, but it may take more time and cost more money. C. Linda: I suppose I need to consider my strengths carefully before deciding. D. Linda: I'm still unsure whether to go to university or attend a vocational school. E. Mark: It really depends on your career goals and personal interests.",
-            "A": "D-A-B-E-C",
-            "B": "B-D-A-E-C",
-            "C": "D-B-E-A-C",
-            "D": "D-B-A-E-C",
-            "True": "D"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. Dear Minh, A. If we don't take action now, the situation will become even worse in the future. B. I'm writing to share my thoughts about global warming. C. Recently, I have noticed many unusual weather changes in our area. D. I think we should start by saving energy and reducing plastic waste. E. Many scientists say that human activities are the main cause of this problem. Love, Nam",
-            "A": "B-C-E-D-A",
-            "B": "C-B-E-A-D",
-            "C": "B-E-C-D-A",
-            "D": "B-C-D-E-A",
-            "True": "A"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. Dear Lan, A. I believe young people play an important role in protecting traditional values. B. Last weekend, I visited a historical site in my hometown. C. However, I was disappointed to see some visitors littering around the area. D. Therefore, schools should organise more activities to raise students' awareness. E. The trip helped me understand more about our cultural heritage. Best wishes, Hoa",
-            "A": "B-E-A-C-D",
-            "B": "B-C-E-A-D",
-            "C": "B-E-C-A-D",
-            "D": "E-B-C-A-D",
-            "True": "C"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. Dear Alex, A. I'm still thinking about whether to go to university or attend a vocational school. B. University education offers deeper academic knowledge and research opportunities. C. On the other hand, vocational training helps students gain practical skills quickly. D. My parents think university is the best choice for me. E. I hope I can make the right decision based on my interests and strengths. Yours, Phong",
-            "A": "D-A-B-C-E",
-            "B": "A-D-B-C-E",
-            "C": "A-B-D-C-E",
-            "D": "D-B-A-C-E",
-            "True": "B"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. A. In my opinion, global warming is one of the most serious problems facing humanity today. B. Therefore, governments and individuals must work together to reduce carbon emissions. C. As a result, temperatures are rising and natural disasters are becoming more frequent. D. Many human activities, such as burning fossil fuels, contribute to this issue. E. If we fail to act now, future generations will suffer the consequences.",
-            "A": "A-C-D-B-E",
-            "B": "D-A-C-B-E",
-            "C": "A-D-C-B-E",
-            "D": "A-D-B-C-E",
-            "True": "C"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. A. However, some people are not fully aware of its importance. B. Preserving cultural heritage is essential for maintaining national identity. C. That is why education and community involvement are necessary. D. Many historical sites are being damaged by pollution and careless tourism. E. I strongly believe that everyone has a responsibility to protect it.",
-            "A": "B-D-A-C-E",
-            "B": "A-B-D-C-E",
-            "C": "B-A-C-D-E",
-            "D": "B-A-D-C-E",
-            "True": "A"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. A. Others prefer vocational training because it provides practical skills for specific careers. B. Choosing the right path after finishing school is a difficult decision for many students. C. Personally, I think students should consider their strengths and long-term goals carefully. D. Some students decide to attend university to gain academic knowledge. E. Each option has its own advantages and disadvantages.",
-            "A": "B-A-D-E-C",
-            "B": "D-B-A-E-C",
-            "C": "B-D-E-A-C",
-            "D": "B-D-A-E-C",
-            "True": "D"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. A. Second, many countries are investing in renewable energy to reduce carbon emissions. B. Global warming is one of the most serious environmental problems today. C. First, human activities such as burning fossil fuels release large amounts of greenhouse gases. D. Moreover, deforestation makes the situation worse by reducing the number of trees that absorb carbon dioxide. E. Therefore, immediate action is necessary to protect our planet.",
-            "A": "B-C-D-A-E",
-            "B": "B-A-C-D-E",
-            "C": "C-B-D-A-E",
-            "D": "B-D-C-A-E",
-            "True": "A"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. A. However, some historical sites are being damaged by pollution and careless tourism. B. First, schools should educate students about traditional values. C. Preserving cultural heritage is essential for maintaining national identity. D. Second, local communities need to take responsibility for protecting these sites. E. Therefore, joint efforts are required to protect our heritage for future generations.",
-            "A": "C-B-D-A-E",
-            "B": "C-A-B-D-E",
-            "C": "B-C-D-A-E",
-            "D": "C-B-A-D-E",
-            "True": "B"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. A. Second, vocational training provides practical skills for specific careers. B. First, university education offers academic knowledge and research opportunities. C. Choosing the right education path after school is an important decision. D. However, each option has its own advantages and disadvantages. E. Therefore, students should carefully consider their interests and strengths before deciding.",
-            "A": "C-B-D-A-E",
-            "B": "B-C-A-D-E",
-            "C": "C-A-B-D-E",
-            "D": "C-B-A-D-E",
-            "True": "D"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. A. As a result, global temperatures continue to rise. B. First, individuals can reduce energy consumption in daily life. C. Global warming affects every country in the world. D. Second, governments should introduce stricter environmental policies. E. In conclusion, cooperation at all levels is essential.",
-            "A": "C-A-B-D-E",
-            "B": "C-B-D-A-E",
-            "C": "C-A-D-B-E",
-            "D": "A-C-B-D-E",
-            "True": "A"
-        },
-        {
-            "Q": "Mark the letter A, B, C, or D to indicate the correct arrangement of the sentences to make a meaningful paragraph. A. Therefore, they should actively participate in cultural activities. B. First, they can learn about traditional customs and festivals. C. Young people play an important role in preserving cultural heritage. D. Moreover, they can help raise awareness in their communities. E. Second, they should respect historical sites when visiting them.",
-            "A": "B-C-E-D-A",
-            "B": "C-B-E-D-A",
-            "C": "C-E-B-D-A",
-            "D": "C-B-D-E-A",
-            "True": "B"
-        }
-    ]
+  "Mon": "Tiếng Anh 11 CKII",
+  "QA": [
+    {
+      "Q": "Listen 1 - Question 1: Tom feels excited because he is going to college. (True/False)",
+      "type": "true_false_set",
+      "questions": [
+        {"text": "Tom feels excited because he is going to college.", "correct": false},
+        {"text": "Tom should make friends at university because they can help him study.", "correct": true},
+        {"text": "Tom doesn't know how to do the cooking, cleaning up or washing.", "correct": true},
+        {"text": "Ann suggests that Tom have a part-time job.", "correct": true},
+        {"text": "Working part-time helps Tom spend money effectively.", "correct": true}
+      ],
+      "True": "T"
+    },
+    {
+      "Q": "Listen 2 - Question 6: Why is Tom worried about going to college?",
+      "A": "He doesn't like studying",
+      "B": "He has no friends or cousins there",
+      "C": "He doesn't have enough money",
+      "D": "He can't cook",
+      "True": "B"
+    },
+    {
+      "Q": "Listen 2 - Question 7: What skill does Ann suggest Tom learn first?",
+      "A": "Cooking",
+      "B": "Budgeting",
+      "C": "Making friends",
+      "D": "Cleaning",
+      "True": "B"
+    },
+    {
+      "Q": "Listen 2 - Question 8: What does Tom say about housework?",
+      "A": "He can't do it",
+      "B": "He hates doing it",
+      "C": "He sometimes helps his mom",
+      "D": "He is good at it",
+      "True": "A"
+    },
+    {
+      "Q": "Listen 2 - Question 9: Why does Tom want a part-time job?",
+      "A": "To meet new people",
+      "B": "To gain experience",
+      "C": "To earn money",
+      "D": "To learn new skills",
+      "True": "C"
+    },
+    {
+      "Q": "Listen 2 - Question 10: What advice does Ann give about part-time jobs?",
+      "A": "Tom should start working immediately",
+      "B": "Tom should not work at all",
+      "C": "Tom should focus on studies first",
+      "D": "Tom should find a job near home",
+      "True": "C"
+    },
+    {
+      "Q": "II.1 - Question 1: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph/letter.\na. Liam: Yeah, I started using public transport on my own and doing chores like sorting laundry, measuring washing powder, and ironing.\nb. Mia: Smart! It builds reliability and proves you're responsible enough to earn their trust for more independence.\nc. Mia: Most teenagers hate too much dependence on parents, right?",
+      "A": "b-a-c",
+      "B": "c-a-b",
+      "C": "a-c-b",
+      "D": "b-c-a",
+      "True": "B"
+    },
+    {
+      "Q": "II.1 - Question 2: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph/letter.\na. Leo: Don't follow them. Stand up to that bullying instead of joining it. We can draw attention to the problem by starting a small awareness campaign and reporting the worst comments.\nb. Mia: I'm upset. In our class group chat, some kids keep body shaming Lan. I wanted to fit in, but the peer pressure to 'like' those posts is real, and she looks ashamed.\nc. Mia: You're right. I'll ask permission to talk to our teacher, then promote a kinder chat rule. Hopefully it will improve her self-confidence.",
+      "A": "a - b - c",
+      "B": "b - a - c",
+      "C": "b - c - a",
+      "D": "c - b - a",
+      "True": "B"
+    },
+    {
+      "Q": "II.1 - Question 3: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph/letter.\na. Emma: Nice! My parents also taught me how to fold clothes and keep my wardrobe and drawers organized. It really builds a sense of responsibility.\nb. Liam: True. From time to time I still feel pressured, but I'm motivated to move forward and earn their trust.\nc. Emma: Good. Those time-management skills are good for any teenager.\nd. Liam: I'm trying to be more independent, so I do my own laundry, sort the clothes, measure the washing powder, and even use the dryer. It's becoming manageable now.\ne. Liam: Yeah, and I'm less reliant on them. I even make a to-do list every day.",
+      "A": "d-a-b-c-e",
+      "B": "d-c-e-a-b",
+      "C": "d-a-e-c-b",
+      "D": "e-c-b-a-d",
+      "True": "C"
+    },
+    {
+      "Q": "II.1 - Question 4: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph/letter.\na. Ryan: Let's save the link, take screenshots, and ask permission to report it; the counselor can run an awareness campaign.\nb. Chloe: Thanks. I was hesitant to speak up, because I felt ashamed of my accent.\nc. Chloe: It's anonymous, and the comments are spreading fast, so your plan will really help me deal with it.\nd. Ryan: Did they use their real name, or is it an anonymous account? We need details before we complain about it.\ne. Chloe: Someone uploaded a short clip from my oral performance and added offensive captions in the class forum.",
+      "A": "e-d-a-c-b",
+      "B": "e-c-d-a-b",
+      "C": "d-e-a-c-b",
+      "D": "c-e-d-a-b",
+      "True": "A"
+    },
+    {
+      "Q": "II.1 - Question 10: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph.\na. If we learn to focus on comfort, permission rules, and real friendships instead of trends, we will have a good influence on each other and feel freer sooner or later.\nb. (Câu b không có trong đề)\nc. For example, my classmate Nam bought an overpriced hoodie after a brand's promotional video appeared in our chat, even though our school requires a simple jacket.\nd. As a result, he kept comparing his appearance with others, which lowered his self-confidence and made him anxious about comments.\ne. When a popular group approves of one look, others may pretend they like it too, just to fit in.",
+      "A": "a-e-c-d-b",
+      "B": "e-c-a-d-b",
+      "C": "c-a-e-d-b",
+      "D": "b-e-d-a-c",
+      "True": "A"
+    },
+    {
+      "Q": "II.1 - Question 11: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph.\na. In a survey a week later, many students admitted honestly that they used to pretend it was harmless under peer pressure, but they now hesitate before clicking 'share'.\nb. The speaker explained that sharing someone's photo without permission can be illegal, and offensive comments often lead to real consequences, so screenshots matter in case of a report.\nc. After a rise in cyberbullying cases, our school asked students to attend a short workshop about online legality and respect, and the press team posted reminders in the hallway.\nd. This change may seem small, yet it makes our class more sociable and safe; consequently, people feel less ashamed and more confident to speak up, which improves teamwork and classroom performance.\ne. During a role-play, we practiced how to stand up to an offender in our group chat, comfort the victim, and report posts instead of forwarding them or laughing along.",
+      "A": "c-e-b-a-d",
+      "B": "b-d-e-a-c",
+      "C": "c-b-a-e-d",
+      "D": "c-b-e-a-d",
+      "True": "A"
+    },
+    {
+      "Q": "II.1 - Question 12: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful letter.\nDear Sam,\nHope you're doing well. How is your new class going?\na. The park has invested in camera traps and drones to protect wildlife and support restoration.\nb. After we got off the bus, a ranger gave a talk: it is home to endangered pangolins and rare bats.\nc. Last Sunday, our class visited a rainforest national park located in the tropics.\nd. We scanned a QR code to donate and picked up plastic, which can harm habitats.\ne. He said illegal hunting still happens, so mass tourism is limited by an online reservation.\nWrite back when you can.\nBest wishes,\nKim",
+      "A": "c-e-b-a-d",
+      "B": "b-c-e-a-d",
+      "C": "c-b-a-e-d",
+      "D": "c-b-e-a-d",
+      "True": "D"
+    },
+    {
+      "Q": "II.1 - Question 13: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful letter.\na. Secondly, could you give me some more information about the accommodation? Do volunteers stay with local families?\nb. I look forward to your reply and I am excited to learn more about the programme.\nc. Lastly, can you let me know if the programme provides any meals? I'd also like to know what other expenses there may be. I want to work out the total costs.\nd. Dear Ms. Riggs, I am writing regarding the preservation volunteer programme at Banteay Chhmar Temple Complex in Cambodia. I am interested in becoming a volunteer and would like to have some information about the programme.\ne. First of all, do you know what kind of training volunteers get? It will be my first time at a heritage site and I am unsure about what I should do.\nThank you in advance for the information.",
+      "A": "a-c-d-b-e",
+      "B": "d-e-a-c-b",
+      "C": "e-a-b-d-c",
+      "D": "b-d-e-c-a",
+      "True": "B"
+    },
+    {
+      "Q": "II.1 - Question 14: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph.\na. Additionally, choosing eco-friendly products and supporting renewable energy sources, such as solar or wind power, contributes to a greener planet.\nb. Planting trees helps reduce carbon dioxide levels and improves air quality.\nc. Simple actions like reducing plastic use, recycling, and conserving water can make a significant difference.\nd. It's important for individuals, businesses, and governments to work together to preserve natural resources, reduce pollution, and combat climate change for future generations.\ne. Protecting the environment is crucial for ensuring a healthy and sustainable future.",
+      "A": "e-c-a-b-d",
+      "B": "d-e-a-c-b",
+      "C": "e-a-c-d-b",
+      "D": "e-c-b-a-d",
+      "True": "D"
+    },
+    {
+      "Q": "II.1 - Question 15: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph.\na. After the cycle, they remove clothes, hang delicate items, put others in the dryer, then fold everything neatly and organise it into drawers or wardrobe.\nb. They learn to sort colours separately, measure the right amount of washing powder or liquid, add fabric softener, and follow the washing machine instructions carefully.\nc. Many teenagers start building independence by taking responsibility for their own laundry instead of staying dependent on parents.\nd. This simple chore teaches time-management, attention to detail, and reliability.\ne. Once parents see their teenager can carry out the task without being reminded, they naturally earn trust and gain more freedom.",
+      "A": "d-c-a-b-e",
+      "B": "c-b-a-d-e",
+      "C": "c-d-b-a-e",
+      "D": "e-a-c-d-b",
+      "True": "B"
+    },
+    {
+      "Q": "III - LANGUAGE 1 - Question 1: (1) ______ ecosystem is a community of living organisms interacting with their environment.",
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "Ø",
+      "True": "B"
+    },
+    {
+      "Q": "III - LANGUAGE 1 - Question 2: Many students are interested (2) ______ protecting endangered species.",
+      "A": "on",
+      "B": "in",
+      "C": "at",
+      "D": "for",
+      "True": "B"
+    },
+    {
+      "Q": "III - LANGUAGE 1 - Question 3: The campaign aims to increase students' (3) ______ of environmental issues.",
+      "A": "aware",
+      "B": "awareness",
+      "C": "awarely",
+      "D": "unaware",
+      "True": "B"
+    },
+    {
+      "Q": "III - LANGUAGE 1 - Question 4: (4) ______ the importance of biodiversity, many students have joined the programme enthusiastically.",
+      "A": "Having understood",
+      "B": "Understand",
+      "C": "Understood",
+      "D": "Understanding",
+      "True": "D"
+    },
+    {
+      "Q": "III - LANGUAGE 1 - Question 5: (5) ______ part in many environmental activities, students become more responsible.",
+      "A": "Took",
+      "B": "Take",
+      "C": "Having taken",
+      "D": "Taking",
+      "True": "C"
+    },
+    {
+      "Q": "III - LANGUAGE 1 - Question 6: (6) ______ students who take part in this campaign that can make a real difference.",
+      "A": "It is",
+      "B": "What",
+      "C": "There is",
+      "D": "That is",
+      "True": "A"
+    },
+    {
+      "Q": "III - LANGUAGE 1 - Question 7: Students are encouraged to reduce waste; (7) ______ they should recycle more.",
+      "A": "however",
+      "B": "therefore",
+      "C": "because",
+      "D": "although",
+      "True": "B"
+    },
+    {
+      "Q": "III - LANGUAGE 1 - Question 8: We will organize a (8) ______ to clean up the nearby forest.",
+      "A": "clean-up campaign",
+      "B": "cleaning up campaign",
+      "C": "clean up campaign",
+      "D": "cleaned-up campaign",
+      "True": "A"
+    },
+    {
+      "Q": "III - LANGUAGE 2 - Question 1: (1) ______ workshop aims to help students understand common problems teenagers face today.",
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "Ø",
+      "True": "C"
+    },
+    {
+      "Q": "III - LANGUAGE 2 - Question 2 (implied): Students are encouraged to join discussions and share their experiences (2) ______ social issues.",
+      "A": "with",
+      "B": "on",
+      "C": "in",
+      "D": "at",
+      "True": "B"
+    },
+    {
+      "Q": "III - LANGUAGE 3 - Question 1: One major problem that affects teenagers today is the lack of problem-solving opportunities, (1) ______ slows down their development.",
+      "A": "that",
+      "B": "whose",
+      "C": "whom",
+      "D": "which",
+      "True": "D"
+    },
+    {
+      "Q": "III - LANGUAGE 3 - Question 2: ...slows down their (2) ______.",
+      "A": "toward journey independence",
+      "B": "journey toward independence",
+      "C": "independence toward journey",
+      "D": "toward independence journey",
+      "True": "B"
+    },
+    {
+      "Q": "III - LANGUAGE 3 - Question 3: As a result, teenagers rarely (3) ______ real-life situations that require decision-making...",
+      "A": "face",
+      "B": "identify",
+      "C": "handle",
+      "D": "avoid",
+      "True": "A"
+    },
+    {
+      "Q": "III - LANGUAGE 3 - Question 4: They may also lose the (4) ______ needed to handle new challenges at school or in daily life.",
+      "A": "confidently",
+      "B": "confident",
+      "C": "confidence",
+      "D": "confident",
+      "True": "C"
+    },
+    {
+      "Q": "III - LANGUAGE 3 - Question 5: ...take responsibility (5) ______ simple activities like doing chores or planning their study routine.",
+      "A": "by",
+      "B": "for",
+      "C": "with",
+      "D": "on",
+      "True": "B"
+    },
+    {
+      "Q": "III - LANGUAGE 3 - Question 6: When teenagers are given space to practise, they gradually learn (6) ______ problems...",
+      "A": "solve",
+      "B": "solving",
+      "C": "to solving",
+      "D": "to solve",
+      "True": "D"
+    },
+    {
+      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 1: Around the age of seventeen, you have to make one of the most important decisions in your life. (1) ______ your education or start working that you have to decide whether to continue.",
+      "A": "It is",
+      "B": "It was",
+      "C": "There is",
+      "D": "That is",
+      "True": "A"
+    },
+    {
+      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 2: This is your decision, (2) ______ you should remember two things...",
+      "A": "although",
+      "B": "but",
+      "C": "or",
+      "D": "so",
+      "True": "B"
+    },
+    {
+      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 3: ...there is more unemployment among young people (3) ______ have not been to university...",
+      "A": "whose",
+      "B": "whom",
+      "C": "which",
+      "D": "who",
+      "True": "D"
+    },
+    {
+      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 4: If you make the decision to go straight (4) ______ a job...",
+      "A": "to",
+      "B": "into",
+      "C": "in",
+      "D": "on",
+      "True": "B"
+    },
+    {
+      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 5: ...there are (5) ______ opportunities for training.",
+      "A": "much",
+      "B": "many",
+      "C": "others",
+      "D": "one",
+      "True": "B"
+    },
+    {
+      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 6: While you are earning, you can also take evening classes to (6) ______ qualifications...",
+      "A": "start",
+      "B": "continue",
+      "C": "take",
+      "D": "gain",
+      "True": "D"
+    },
+    {
+      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 7: ...and get practical (7) ______.",
+      "A": "experienced",
+      "B": "experiencing",
+      "C": "experience",
+      "D": "experienced",
+      "True": "C"
+    },
+    {
+      "Q": "IV - READ - TEENAGERS SHOULD... - Question 8: Teenagers should (8) ______ to become independent as it is a crucial part of their personal growth and development.",
+      "A": "strive",
+      "B": "pay",
+      "C": "have",
+      "D": "get",
+      "True": "A"
+    },
+    {
+      "Q": "IV - READ - TEENAGERS SHOULD... - Question 9: Independence equips teenagers (9) ______ valuable life skills...",
+      "A": "for",
+      "B": "by",
+      "C": "about",
+      "D": "with",
+      "True": "D"
+    },
+    {
+      "Q": "IV - READ - TEENAGERS SHOULD... - Question 10: Independence also fosters resilience, problem-solving abilities, and critical thinking skills, (10) ______ are essential for navigating the complexities of life.",
+      "A": "where",
+      "B": "which",
+      "C": "who",
+      "D": "when",
+      "True": "B"
+    },
+    {
+      "Q": "IV - READ - TEENAGERS SHOULD... - Question 11: (11) ______, becoming independent empowers teenagers to have a greater sense of agency...",
+      "A": "However",
+      "B": "Therefore",
+      "C": "Moreover",
+      "D": "Otherwise",
+      "True": "C"
+    },
+    {
+      "Q": "IV - READ - TEENAGERS SHOULD... - Question 12: ...enabling them to (12) ______ fulfilling and meaningful lives.",
+      "A": "get",
+      "B": "turn",
+      "C": "lead",
+      "D": "head",
+      "True": "C"
+    },
+    {
+      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 13: It is hard to (13) ______ a Gen Z teenager growing up without smartphones and social media.",
+      "A": "accept",
+      "B": "imagine",
+      "C": "know",
+      "D": "believe",
+      "True": "B"
+    },
+    {
+      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 14: (14) ______, while these sites provide entertainment and ways to connect with people, they can also harm young people.",
+      "A": "However",
+      "B": "Besides",
+      "C": "Therefore",
+      "D": "Then",
+      "True": "A"
+    },
+    {
+      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 15: Social media users often hide their identities online, so it is (15) ______ for them to post offensive comments or images.",
+      "A": "more difficult",
+      "B": "impossible",
+      "C": "easier",
+      "D": "dangerous",
+      "True": "C"
+    },
+    {
+      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 16: Social media can also make teens feel less (16) ______.",
+      "A": "violent",
+      "B": "confident",
+      "C": "fashionable",
+      "D": "confidence",
+      "True": "B"
+    },
+    {
+      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 17: (17) ______ images of paper-thin models and glamorous 'influencers' with expensive cars and clothes are everywhere...",
+      "A": "As",
+      "B": "Besides",
+      "C": "Although",
+      "D": "While",
+      "True": "A"
+    },
+    {
+      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 18: ...teenagers start thinking that being slim and (18) ______ is the only way to be accepted in society and become successful.",
+      "A": "healthy",
+      "B": "generous",
+      "C": "rich",
+      "D": "clever",
+      "True": "C"
+    },
+    {
+      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 19: (19) ______, there is a risk that they meet bad people online, as well as come across harmful content.",
+      "A": "However",
+      "B": "In addition",
+      "C": "Therefore",
+      "D": "Then",
+      "True": "B"
+    },
+    {
+      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 20: Parents can't ban teenagers from social networks (20) ______ it is actually impossible to do so.",
+      "A": "although",
+      "B": "because",
+      "C": "while",
+      "D": "for example",
+      "True": "B"
+    },
+    {
+      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 21: (21) ______, young people should learn how to stay safe online.",
+      "A": "However",
+      "B": "Moreover",
+      "C": "By contrast",
+      "D": "Instead",
+      "True": "D"
+    },
+    {
+      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 22: ...knowing how their children and students use the Internet is essential for (22) ______ them online.",
+      "A": "encouraging",
+      "B": "promoting",
+      "C": "preserving",
+      "D": "protecting",
+      "True": "D"
+    },
+    {
+      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 23: With a coastline of over 3,260 kilometres, Viet Nam is (23) ______ to many different kinds of flora and fauna.",
+      "A": "area",
+      "B": "location",
+      "C": "place",
+      "D": "home",
+      "True": "D"
+    },
+    {
+      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 24: ...the country has a rich (24) ______ of wildlife.",
+      "A": "diversity",
+      "B": "complex",
+      "C": "number",
+      "D": "footprint",
+      "True": "A"
+    },
+    {
+      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 25: However, due to population growth and rapid urban development, many of Viet Nam's plant and (25) ______ species are endangered.",
+      "A": "flora",
+      "B": "fauna",
+      "C": "animal",
+      "D": "creature",
+      "True": "C"
+    },
+    {
+      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 26: Natural habitats are threatened by deforestation and the (26) ______ of natural resources.",
+      "A": "use",
+      "B": "overuse",
+      "C": "misuse",
+      "D": "lack",
+      "True": "B"
+    },
+    {
+      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 27: Several unique species have almost disappeared in recent years (27) ______ the illegal wildlife trade.",
+      "A": "due",
+      "B": "although",
+      "C": "because of",
+      "D": "because",
+      "True": "C"
+    },
+    {
+      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 28: The trade in animal parts continues to be a serious problem (28) ______ the heavy punishment.",
+      "A": "because of",
+      "B": "despite",
+      "C": "due to",
+      "D": "since",
+      "True": "B"
+    },
+    {
+      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 29: This has forced a number of mammals and other (29) ______ onto the Red List of Threatened Species.",
+      "A": "things",
+      "B": "flora",
+      "C": "birds",
+      "D": "creatures",
+      "True": "D"
+    },
+    {
+      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 30: In 2010, Viet Nam's last Javan rhino was shot and killed for its (30) ______.",
+      "A": "horn",
+      "B": "ivory",
+      "C": "eggs",
+      "D": "parts",
+      "True": "A"
+    },
+    {
+      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 31: Scientists continue to (31) ______ unique and rare animals such as the saola and the pangolin.",
+      "A": "list",
+      "B": "shoot",
+      "C": "meet",
+      "D": "discover",
+      "True": "D"
+    },
+    {
+      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 32: However, if the country wants to conserve its biodiversity and fascinating features, it still has (32) ______ to go.",
+      "A": "a lot",
+      "B": "a long way",
+      "C": "some way",
+      "D": "nothing",
+      "True": "B"
+    },
+    {
+      "Q": "IV.2 - HOW TO EARN AND MANAGE MONEY - Question 1: According to paragraph 1, which of the following is NOT mentioned as a way for teenagers to earn money?",
+      "A": "Working for someone who is not a family member.",
+      "B": "Doing tasks or chores for their parents at home.",
+      "C": "Taking on a part-time position in a small business run by family.",
+      "D": "Selling used items such as clothes or books online.",
+      "True": "D"
+    },
+    {
+      "Q": "IV.2 - HOW TO EARN AND MANAGE MONEY - Question 2: The word 'valuable' in paragraph 2 is closest in meaning to ______.",
+      "A": "expensive",
+      "B": "minimal",
+      "C": "worthwhile",
+      "D": "countless",
+      "True": "C"
+    },
+    {
+      "Q": "IV.2 - HOW TO EARN AND MANAGE MONEY - Question 3: The word 'carefully' in paragraph 3 is OPPOSITE in meaning to ______.",
+      "A": "cautiously",
+      "B": "recklessly",
+      "C": "attentively",
+      "D": "thoughtfully",
+      "True": "B"
+    },
+    {
+      "Q": "IV.2 - HOW TO EARN AND MANAGE MONEY - Question 4: The word 'them' in paragraph 2 refers to ______.",
+      "A": "bank accounts",
+      "B": "teenagers",
+      "C": "co-owners",
+      "D": "parents",
+      "True": "D"
+    },
+    {
+      "Q": "IV.2 - HOW TO EARN AND MANAGE MONEY - Question 5: Which of the following statements is TRUE according to the passage?",
+      "A": "Teenagers should only start saving money once they receive their first monthly salary.",
+      "B": "Opening a bank account is a simple process for teenagers to do completely by themselves.",
+      "C": "Parents' involvement in a teenager's bank account facilitates the development of essential financial tracking skills.",
+      "D": "Financial planning is only required when the item a teenager intends to purchase is for a family member.",
+      "True": "C"
+    },
+    {
+      "Q": "IV.2 - FOOD CHAINS - Question 6: What is the main idea of the passage?",
+      "A": "The importance of plants in human life",
+      "B": "The roles of producers and consumers in food chains",
+      "C": "The eating habits of farm animals",
+      "D": "The differences between predators and prey",
+      "True": "B"
+    },
+    {
+      "Q": "IV.2 - FOOD CHAINS - Question 7: Why are plants considered producers?",
+      "A": "Because they eat other living things",
+      "B": "Because they make their own food using sunlight, water, and nutrients",
+      "C": "Because they only grow in soil",
+      "D": "Because they depend on animals for food",
+      "True": "B"
+    },
+    {
+      "Q": "IV.2 - FOOD CHAINS - Question 8: Which of the following is NOT mentioned as an example of a consumer in the first paragraph?",
+      "A": "chickens",
+      "B": "pigs",
+      "C": "cows",
+      "D": "sheep",
+      "True": "D"
+    },
+    {
+      "Q": "IV.2 - FOOD CHAINS - Question 9: The word 'sequence' in paragraph 2 is closest in meaning to ______.",
+      "A": "progression",
+      "B": "disorder",
+      "C": "consequence",
+      "D": "interruption",
+      "True": "A"
+    },
+    {
+      "Q": "IV.2 - FOOD CHAINS - Question 10: The word 'interdependent' in paragraph 3 is OPPOSITE in meaning to ______.",
+      "A": "mutually exclusive",
+      "B": "closely connected",
+      "C": "financially profitable",
+      "D": "heavily relied",
+      "True": "A"
+    },
+    {
+      "Q": "IV.2 - FOOD CHAINS - Question 11: The word 'they' in paragraph 1 refers to",
+      "A": "many plants",
+      "B": "farm animals",
+      "C": "nutrients",
+      "D": "consumers",
+      "True": "B"
+    },
+    {
+      "Q": "IV.2 - FOOD CHAINS - Question 12: Which of the following statements is TRUE according to the passage?",
+      "A": "A food chain always starts with a consumer and ends with a producer.",
+      "B": "Humans are considered producers because they make fruit juice from plants.",
+      "C": "Herbivores are animals that can eat both plants and other animals in the ecosystem.",
+      "D": "Energy from the sun is the starting point for the food chain involving grass and zebras.",
+      "True": "D"
+    },
+    {
+      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 13: The word 'digital' in the first paragraph is closest in meaning to",
+      "A": "analogue",
+      "B": "numeracy",
+      "C": "numerous",
+      "D": "online",
+      "True": "D"
+    },
+    {
+      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 14: The word 'they' in paragraph 3 refers to",
+      "A": "friends",
+      "B": "online-only friends",
+      "C": "online gamers",
+      "D": "their teammates",
+      "True": "C"
+    },
+    {
+      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 15: According to the passage, what percentage of teens spend actual time with their friends?",
+      "A": "23%",
+      "B": "25%",
+      "C": "27%",
+      "D": "55%",
+      "True": "B"
+    },
+    {
+      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 16: The following sentences are true, EXCEPT",
+      "A": "Most teenagers use video chat to maintain relationship with friends",
+      "B": "New forms of communication play an important role in keeping friendships",
+      "C": "According to the survey, more than half of teens have ever made new friends online",
+      "D": "Teens only meet face-to-face one fifth of online friends they have made",
+      "True": "A"
+    },
+    {
+      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 17: What can be inferred from the passage?",
+      "A": "The majority of teenage users agree that social media has negative consequences in their lives.",
+      "B": "Thanks to social media, more than two thirds of teens are supported when they face with challenges in their lives.",
+      "C": "Boys are more likely to meet new friends than girls.",
+      "D": "Most teens are not easy to give others their usernames when making new friends.",
+      "True": "B"
+    },
+    {
+      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 18: What is the antonym of the word 'breakup' in the last paragraph?",
+      "A": "reconciliation",
+      "B": "popularity",
+      "C": "termination",
+      "D": "divorce",
+      "True": "A"
+    },
+    {
+      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 19: What is the main idea of the passage?",
+      "A": "The difference of making new friends between girls and boys.",
+      "B": "Social media connects friendship.",
+      "C": "Social media affects friendship too much.",
+      "D": "Teenagers are making and keeping friends in a surprising way.",
+      "True": "D"
+    }
+  ]
 }
