@@ -396,7 +396,7 @@
         {
             "Q": "Cho các bộ phận sau: đế, thân, cành, đài, cánh, rễ, nhị, lá, nhụy. Có bao nhiêu bộ phận là cấu tạo của 1 hoa.",
             "type": "short_answer",
-            "correctAnswer": "6",
+            "correctAnswer": "5",
             "True": "S"
         },
         {
