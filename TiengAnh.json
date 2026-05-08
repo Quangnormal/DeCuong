@@ -2,18 +2,6 @@
   "Mon": "Tiếng Anh 11 CKII",
   "QA": [
     {
-      "Q": "Listen 1 - Question 1: Tom feels excited because he is going to college. (True/False)",
-      "type": "true_false_set",
-      "questions": [
-        {"text": "Tom feels excited because he is going to college.", "correct": false},
-        {"text": "Tom should make friends at university because they can help him study.", "correct": true},
-        {"text": "Tom doesn't know how to do the cooking, cleaning up or washing.", "correct": true},
-        {"text": "Ann suggests that Tom have a part-time job.", "correct": true},
-        {"text": "Working part-time helps Tom spend money effectively.", "correct": true}
-      ],
-      "True": "T"
-    },
-    {
       "Q": "Listen 2 - Question 6: Why is Tom worried about going to college?",
       "A": "He doesn't like studying",
       "B": "He has no friends or cousins there",
