@@ -15,7 +15,7 @@
             "B": "Budgeting",
             "C": "Making friends",
             "D": "Cleaning",
-            "True": "B"
+            "True": "C"
         },
         {
             "Q": "What does Tom say about housework?",
@@ -23,7 +23,7 @@
             "B": "He hates doing it",
             "C": "He sometimes helps his mom",
             "D": "He is good at it",
-            "True": "C"
+            "True": "D"
         },
         {
             "Q": "Why does Tom want a part-time job?",
@@ -162,24 +162,12 @@
             "True": "B"
         },
         {
-            "Q": "Write an article about benefits and drawback of time management for teens",
-            "type": "short_answer",
-            "correctAnswer": "Học sinh tự viết đoạn văn theo yêu cầu",
-            "True": "S"
-        },
-        {
-            "Q": "Write a proposal for a school campaign against bodyshaming\nProposal for a School Campaign Against Body Shaming\nTitle: Be Kind to Every Body\nIntroduction:\nObjectives:\nActivities:\nExpected Results:\nConclusion:",
-            "type": "short_answer",
-            "correctAnswer": "Học sinh tự viết đề xuất theo cấu trúc cho sẵn",
-            "True": "S"
-        },
-        {
             "Q": "______ ecosystem is a community of living organisms interacting with their environment.",
             "A": "A",
             "B": "An",
             "C": "The",
             "D": "Ø",
-            "True": "C"
+            "True": "B"
         },
         {
             "Q": "Many students are interested (2) ______ protecting endangered species.",
@@ -379,7 +367,7 @@
             "B": "into",
             "C": "in",
             "D": "on",
-            "True": "B"
+            "True": "A"
         },
         {
             "Q": "If you make the decision to go straight into a job, there are (5) ______ opportunities for training.",
@@ -435,7 +423,7 @@
             "B": "Therefore",
             "C": "Moreover",
             "D": "Otherwise",
-            "True": "B"
+            "True": "C"
         },
         {
             "Q": "becoming independent empowers teenagers to have a greater sense of agency, autonomy, and control over their own lives, enabling them to (12) __________ fulfilling and meaningful lives.",
