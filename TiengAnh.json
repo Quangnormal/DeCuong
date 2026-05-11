@@ -1,621 +1,788 @@
 {
-  "Mon": "Tiếng Anh 11 CKII",
-  "QA": [
-    {
-      "Q": "II.1 - Question 1: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph/letter.\na. Liam: Yeah, I started using public transport on my own and doing chores like sorting laundry, measuring washing powder, and ironing.\nb. Mia: Smart! It builds reliability and proves you're responsible enough to earn their trust for more independence.\nc. Mia: Most teenagers hate too much dependence on parents, right?",
-      "A": "b-a-c",
-      "B": "c-a-b",
-      "C": "a-c-b",
-      "D": "b-c-a",
-      "True": "B"
-    },
-    {
-      "Q": "II.1 - Question 2: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph/letter.\na. Leo: Don't follow them. Stand up to that bullying instead of joining it. We can draw attention to the problem by starting a small awareness campaign and reporting the worst comments.\nb. Mia: I'm upset. In our class group chat, some kids keep body shaming Lan. I wanted to fit in, but the peer pressure to 'like' those posts is real, and she looks ashamed.\nc. Mia: You're right. I'll ask permission to talk to our teacher, then promote a kinder chat rule. Hopefully it will improve her self-confidence.",
-      "A": "a - b - c",
-      "B": "b - a - c",
-      "C": "b - c - a",
-      "D": "c - b - a",
-      "True": "B"
-    },
-    {
-      "Q": "II.1 - Question 3: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph/letter.\na. Emma: Nice! My parents also taught me how to fold clothes and keep my wardrobe and drawers organized. It really builds a sense of responsibility.\nb. Liam: True. From time to time I still feel pressured, but I'm motivated to move forward and earn their trust.\nc. Emma: Good. Those time-management skills are good for any teenager.\nd. Liam: I'm trying to be more independent, so I do my own laundry, sort the clothes, measure the washing powder, and even use the dryer. It's becoming manageable now.\ne. Liam: Yeah, and I'm less reliant on them. I even make a to-do list every day.",
-      "A": "d-a-b-c-e",
-      "B": "d-c-e-a-b",
-      "C": "d-a-e-c-b",
-      "D": "e-c-b-a-d",
-      "True": "C"
-    },
-    {
-      "Q": "II.1 - Question 4: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph/letter.\na. Ryan: Let's save the link, take screenshots, and ask permission to report it; the counselor can run an awareness campaign.\nb. Chloe: Thanks. I was hesitant to speak up, because I felt ashamed of my accent.\nc. Chloe: It's anonymous, and the comments are spreading fast, so your plan will really help me deal with it.\nd. Ryan: Did they use their real name, or is it an anonymous account? We need details before we complain about it.\ne. Chloe: Someone uploaded a short clip from my oral performance and added offensive captions in the class forum.",
-      "A": "e-d-a-c-b",
-      "B": "e-c-d-a-b",
-      "C": "d-e-a-c-b",
-      "D": "c-e-d-a-b",
-      "True": "A"
-    },
-    {
-      "Q": "II.1 - Question 10: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph.\na. If we learn to focus on comfort, permission rules, and real friendships instead of trends, we will have a good influence on each other and feel freer sooner or later.\nb. (Câu b không có trong đề)\nc. For example, my classmate Nam bought an overpriced hoodie after a brand's promotional video appeared in our chat, even though our school requires a simple jacket.\nd. As a result, he kept comparing his appearance with others, which lowered his self-confidence and made him anxious about comments.\ne. When a popular group approves of one look, others may pretend they like it too, just to fit in.",
-      "A": "a-e-c-d-b",
-      "B": "e-c-a-d-b",
-      "C": "c-a-e-d-b",
-      "D": "b-e-d-a-c",
-      "True": "A"
-    },
-    {
-      "Q": "II.1 - Question 11: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph.\na. In a survey a week later, many students admitted honestly that they used to pretend it was harmless under peer pressure, but they now hesitate before clicking 'share'.\nb. The speaker explained that sharing someone's photo without permission can be illegal, and offensive comments often lead to real consequences, so screenshots matter in case of a report.\nc. After a rise in cyberbullying cases, our school asked students to attend a short workshop about online legality and respect, and the press team posted reminders in the hallway.\nd. This change may seem small, yet it makes our class more sociable and safe; consequently, people feel less ashamed and more confident to speak up, which improves teamwork and classroom performance.\ne. During a role-play, we practiced how to stand up to an offender in our group chat, comfort the victim, and report posts instead of forwarding them or laughing along.",
-      "A": "c-e-b-a-d",
-      "B": "b-d-e-a-c",
-      "C": "c-b-a-e-d",
-      "D": "c-b-e-a-d",
-      "True": "A"
-    },
-    {
-      "Q": "II.1 - Question 12: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful letter.\nDear Sam,\nHope you're doing well. How is your new class going?\na. The park has invested in camera traps and drones to protect wildlife and support restoration.\nb. After we got off the bus, a ranger gave a talk: it is home to endangered pangolins and rare bats.\nc. Last Sunday, our class visited a rainforest national park located in the tropics.\nd. We scanned a QR code to donate and picked up plastic, which can harm habitats.\ne. He said illegal hunting still happens, so mass tourism is limited by an online reservation.\nWrite back when you can.\nBest wishes,\nKim",
-      "A": "c-e-b-a-d",
-      "B": "b-c-e-a-d",
-      "C": "c-b-a-e-d",
-      "D": "c-b-e-a-d",
-      "True": "D"
-    },
-    {
-      "Q": "II.1 - Question 13: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful letter.\na. Secondly, could you give me some more information about the accommodation? Do volunteers stay with local families?\nb. I look forward to your reply and I am excited to learn more about the programme.\nc. Lastly, can you let me know if the programme provides any meals? I'd also like to know what other expenses there may be. I want to work out the total costs.\nd. Dear Ms. Riggs, I am writing regarding the preservation volunteer programme at Banteay Chhmar Temple Complex in Cambodia. I am interested in becoming a volunteer and would like to have some information about the programme.\ne. First of all, do you know what kind of training volunteers get? It will be my first time at a heritage site and I am unsure about what I should do.\nThank you in advance for the information.",
-      "A": "a-c-d-b-e",
-      "B": "d-e-a-c-b",
-      "C": "e-a-b-d-c",
-      "D": "b-d-e-c-a",
-      "True": "B"
-    },
-    {
-      "Q": "II.1 - Question 14: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph.\na. Additionally, choosing eco-friendly products and supporting renewable energy sources, such as solar or wind power, contributes to a greener planet.\nb. Planting trees helps reduce carbon dioxide levels and improves air quality.\nc. Simple actions like reducing plastic use, recycling, and conserving water can make a significant difference.\nd. It's important for individuals, businesses, and governments to work together to preserve natural resources, reduce pollution, and combat climate change for future generations.\ne. Protecting the environment is crucial for ensuring a healthy and sustainable future.",
-      "A": "e-c-a-b-d",
-      "B": "d-e-a-c-b",
-      "C": "e-a-c-d-b",
-      "D": "e-c-b-a-d",
-      "True": "D"
-    },
-    {
-      "Q": "II.1 - Question 15: Mark the letter A, B, C, or D to indicate the correct arrangement of the sentence to make a meaningful paragraph.\na. After the cycle, they remove clothes, hang delicate items, put others in the dryer, then fold everything neatly and organise it into drawers or wardrobe.\nb. They learn to sort colours separately, measure the right amount of washing powder or liquid, add fabric softener, and follow the washing machine instructions carefully.\nc. Many teenagers start building independence by taking responsibility for their own laundry instead of staying dependent on parents.\nd. This simple chore teaches time-management, attention to detail, and reliability.\ne. Once parents see their teenager can carry out the task without being reminded, they naturally earn trust and gain more freedom.",
-      "A": "d-c-a-b-e",
-      "B": "c-b-a-d-e",
-      "C": "c-d-b-a-e",
-      "D": "e-a-c-d-b",
-      "True": "B"
-    },
-    {
-      "Q": "III - LANGUAGE 1 - Question 1: (1) ______ ecosystem is a community of living organisms interacting with their environment.",
-      "A": "A",
-      "B": "An",
-      "C": "The",
-      "D": "Ø",
-      "True": "B"
-    },
-    {
-      "Q": "III - LANGUAGE 1 - Question 2: Many students are interested (2) ______ protecting endangered species.",
-      "A": "on",
-      "B": "in",
-      "C": "at",
-      "D": "for",
-      "True": "B"
-    },
-    {
-      "Q": "III - LANGUAGE 1 - Question 3: The campaign aims to increase students' (3) ______ of environmental issues.",
-      "A": "aware",
-      "B": "awareness",
-      "C": "awarely",
-      "D": "unaware",
-      "True": "B"
-    },
-    {
-      "Q": "III - LANGUAGE 1 - Question 4: (4) ______ the importance of biodiversity, many students have joined the programme enthusiastically.",
-      "A": "Having understood",
-      "B": "Understand",
-      "C": "Understood",
-      "D": "Understanding",
-      "True": "D"
-    },
-    {
-      "Q": "III - LANGUAGE 1 - Question 5: (5) ______ part in many environmental activities, students become more responsible.",
-      "A": "Took",
-      "B": "Take",
-      "C": "Having taken",
-      "D": "Taking",
-      "True": "C"
-    },
-    {
-      "Q": "III - LANGUAGE 1 - Question 6: (6) ______ students who take part in this campaign that can make a real difference.",
-      "A": "It is",
-      "B": "What",
-      "C": "There is",
-      "D": "That is",
-      "True": "A"
-    },
-    {
-      "Q": "III - LANGUAGE 1 - Question 7: Students are encouraged to reduce waste; (7) ______ they should recycle more.",
-      "A": "however",
-      "B": "therefore",
-      "C": "because",
-      "D": "although",
-      "True": "B"
-    },
-    {
-      "Q": "III - LANGUAGE 1 - Question 8: We will organize a (8) ______ to clean up the nearby forest.",
-      "A": "clean-up campaign",
-      "B": "cleaning up campaign",
-      "C": "clean up campaign",
-      "D": "cleaned-up campaign",
-      "True": "A"
-    },
-    {
-      "Q": "III - LANGUAGE 2 - Question 1: (1) ______ workshop aims to help students understand common problems teenagers face today.",
-      "A": "A",
-      "B": "An",
-      "C": "The",
-      "D": "Ø",
-      "True": "C"
-    },
-    {
-      "Q": "III - LANGUAGE 2 - Question 2 (implied): Students are encouraged to join discussions and share their experiences (2) ______ social issues.",
-      "A": "with",
-      "B": "on",
-      "C": "in",
-      "D": "at",
-      "True": "B"
-    },
-    {
-      "Q": "III - LANGUAGE 3 - Question 1: One major problem that affects teenagers today is the lack of problem-solving opportunities, (1) ______ slows down their development.",
-      "A": "that",
-      "B": "whose",
-      "C": "whom",
-      "D": "which",
-      "True": "D"
-    },
-    {
-      "Q": "III - LANGUAGE 3 - Question 2: ...slows down their (2) ______.",
-      "A": "toward journey independence",
-      "B": "journey toward independence",
-      "C": "independence toward journey",
-      "D": "toward independence journey",
-      "True": "B"
-    },
-    {
-      "Q": "III - LANGUAGE 3 - Question 3: As a result, teenagers rarely (3) ______ real-life situations that require decision-making...",
-      "A": "face",
-      "B": "identify",
-      "C": "handle",
-      "D": "avoid",
-      "True": "A"
-    },
-    {
-      "Q": "III - LANGUAGE 3 - Question 4: They may also lose the (4) ______ needed to handle new challenges at school or in daily life.",
-      "A": "confidently",
-      "B": "confident",
-      "C": "confidence",
-      "D": "confident",
-      "True": "C"
-    },
-    {
-      "Q": "III - LANGUAGE 3 - Question 5: ...take responsibility (5) ______ simple activities like doing chores or planning their study routine.",
-      "A": "by",
-      "B": "for",
-      "C": "with",
-      "D": "on",
-      "True": "B"
-    },
-    {
-      "Q": "III - LANGUAGE 3 - Question 6: When teenagers are given space to practise, they gradually learn (6) ______ problems...",
-      "A": "solve",
-      "B": "solving",
-      "C": "to solving",
-      "D": "to solve",
-      "True": "D"
-    },
-    {
-      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 1: Around the age of seventeen, you have to make one of the most important decisions in your life. (1) ______ your education or start working that you have to decide whether to continue.",
-      "A": "It is",
-      "B": "It was",
-      "C": "There is",
-      "D": "That is",
-      "True": "A"
-    },
-    {
-      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 2: This is your decision, (2) ______ you should remember two things...",
-      "A": "although",
-      "B": "but",
-      "C": "or",
-      "D": "so",
-      "True": "B"
-    },
-    {
-      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 3: ...there is more unemployment among young people (3) ______ have not been to university...",
-      "A": "whose",
-      "B": "whom",
-      "C": "which",
-      "D": "who",
-      "True": "D"
-    },
-    {
-      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 4: If you make the decision to go straight (4) ______ a job...",
-      "A": "to",
-      "B": "into",
-      "C": "in",
-      "D": "on",
-      "True": "B"
-    },
-    {
-      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 5: ...there are (5) ______ opportunities for training.",
-      "A": "much",
-      "B": "many",
-      "C": "others",
-      "D": "one",
-      "True": "B"
-    },
-    {
-      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 6: While you are earning, you can also take evening classes to (6) ______ qualifications...",
-      "A": "start",
-      "B": "continue",
-      "C": "take",
-      "D": "gain",
-      "True": "D"
-    },
-    {
-      "Q": "IV - READ - THE MOST IMPORTANT DECISION - Question 7: ...and get practical (7) ______.",
-      "A": "experienced",
-      "B": "experiencing",
-      "C": "experience",
-      "D": "experienced",
-      "True": "C"
-    },
-    {
-      "Q": "IV - READ - TEENAGERS SHOULD... - Question 8: Teenagers should (8) ______ to become independent as it is a crucial part of their personal growth and development.",
-      "A": "strive",
-      "B": "pay",
-      "C": "have",
-      "D": "get",
-      "True": "A"
-    },
-    {
-      "Q": "IV - READ - TEENAGERS SHOULD... - Question 9: Independence equips teenagers (9) ______ valuable life skills...",
-      "A": "for",
-      "B": "by",
-      "C": "about",
-      "D": "with",
-      "True": "D"
-    },
-    {
-      "Q": "IV - READ - TEENAGERS SHOULD... - Question 10: Independence also fosters resilience, problem-solving abilities, and critical thinking skills, (10) ______ are essential for navigating the complexities of life.",
-      "A": "where",
-      "B": "which",
-      "C": "who",
-      "D": "when",
-      "True": "B"
-    },
-    {
-      "Q": "IV - READ - TEENAGERS SHOULD... - Question 11: (11) ______, becoming independent empowers teenagers to have a greater sense of agency...",
-      "A": "However",
-      "B": "Therefore",
-      "C": "Moreover",
-      "D": "Otherwise",
-      "True": "C"
-    },
-    {
-      "Q": "IV - READ - TEENAGERS SHOULD... - Question 12: ...enabling them to (12) ______ fulfilling and meaningful lives.",
-      "A": "get",
-      "B": "turn",
-      "C": "lead",
-      "D": "head",
-      "True": "C"
-    },
-    {
-      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 13: It is hard to (13) ______ a Gen Z teenager growing up without smartphones and social media.",
-      "A": "accept",
-      "B": "imagine",
-      "C": "know",
-      "D": "believe",
-      "True": "B"
-    },
-    {
-      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 14: (14) ______, while these sites provide entertainment and ways to connect with people, they can also harm young people.",
-      "A": "However",
-      "B": "Besides",
-      "C": "Therefore",
-      "D": "Then",
-      "True": "A"
-    },
-    {
-      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 15: Social media users often hide their identities online, so it is (15) ______ for them to post offensive comments or images.",
-      "A": "more difficult",
-      "B": "impossible",
-      "C": "easier",
-      "D": "dangerous",
-      "True": "C"
-    },
-    {
-      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 16: Social media can also make teens feel less (16) ______.",
-      "A": "violent",
-      "B": "confident",
-      "C": "fashionable",
-      "D": "confidence",
-      "True": "B"
-    },
-    {
-      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 17: (17) ______ images of paper-thin models and glamorous 'influencers' with expensive cars and clothes are everywhere...",
-      "A": "As",
-      "B": "Besides",
-      "C": "Although",
-      "D": "While",
-      "True": "A"
-    },
-    {
-      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 18: ...teenagers start thinking that being slim and (18) ______ is the only way to be accepted in society and become successful.",
-      "A": "healthy",
-      "B": "generous",
-      "C": "rich",
-      "D": "clever",
-      "True": "C"
-    },
-    {
-      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 19: (19) ______, there is a risk that they meet bad people online, as well as come across harmful content.",
-      "A": "However",
-      "B": "In addition",
-      "C": "Therefore",
-      "D": "Then",
-      "True": "B"
-    },
-    {
-      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 20: Parents can't ban teenagers from social networks (20) ______ it is actually impossible to do so.",
-      "A": "although",
-      "B": "because",
-      "C": "while",
-      "D": "for example",
-      "True": "B"
-    },
-    {
-      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 21: (21) ______, young people should learn how to stay safe online.",
-      "A": "However",
-      "B": "Moreover",
-      "C": "By contrast",
-      "D": "Instead",
-      "True": "D"
-    },
-    {
-      "Q": "IV - READ - SOCIAL MEDIA ISSUES - Question 22: ...knowing how their children and students use the Internet is essential for (22) ______ them online.",
-      "A": "encouraging",
-      "B": "promoting",
-      "C": "preserving",
-      "D": "protecting",
-      "True": "D"
-    },
-    {
-      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 23: With a coastline of over 3,260 kilometres, Viet Nam is (23) ______ to many different kinds of flora and fauna.",
-      "A": "area",
-      "B": "location",
-      "C": "place",
-      "D": "home",
-      "True": "D"
-    },
-    {
-      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 24: ...the country has a rich (24) ______ of wildlife.",
-      "A": "diversity",
-      "B": "complex",
-      "C": "number",
-      "D": "footprint",
-      "True": "A"
-    },
-    {
-      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 25: However, due to population growth and rapid urban development, many of Viet Nam's plant and (25) ______ species are endangered.",
-      "A": "flora",
-      "B": "fauna",
-      "C": "animal",
-      "D": "creature",
-      "True": "C"
-    },
-    {
-      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 26: Natural habitats are threatened by deforestation and the (26) ______ of natural resources.",
-      "A": "use",
-      "B": "overuse",
-      "C": "misuse",
-      "D": "lack",
-      "True": "B"
-    },
-    {
-      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 27: Several unique species have almost disappeared in recent years (27) ______ the illegal wildlife trade.",
-      "A": "due",
-      "B": "although",
-      "C": "because of",
-      "D": "because",
-      "True": "C"
-    },
-    {
-      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 28: The trade in animal parts continues to be a serious problem (28) ______ the heavy punishment.",
-      "A": "because of",
-      "B": "despite",
-      "C": "due to",
-      "D": "since",
-      "True": "B"
-    },
-    {
-      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 29: This has forced a number of mammals and other (29) ______ onto the Red List of Threatened Species.",
-      "A": "things",
-      "B": "flora",
-      "C": "birds",
-      "D": "creatures",
-      "True": "D"
-    },
-    {
-      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 30: In 2010, Viet Nam's last Javan rhino was shot and killed for its (30) ______.",
-      "A": "horn",
-      "B": "ivory",
-      "C": "eggs",
-      "D": "parts",
-      "True": "A"
-    },
-    {
-      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 31: Scientists continue to (31) ______ unique and rare animals such as the saola and the pangolin.",
-      "A": "list",
-      "B": "shoot",
-      "C": "meet",
-      "D": "discover",
-      "True": "D"
-    },
-    {
-      "Q": "IV - READ - VIET NAM'S FLORA AND FAUNA - Question 32: However, if the country wants to conserve its biodiversity and fascinating features, it still has (32) ______ to go.",
-      "A": "a lot",
-      "B": "a long way",
-      "C": "some way",
-      "D": "nothing",
-      "True": "B"
-    },
-    {
-      "Q": "IV.2 - HOW TO EARN AND MANAGE MONEY - Question 1: According to paragraph 1, which of the following is NOT mentioned as a way for teenagers to earn money?",
-      "A": "Working for someone who is not a family member.",
-      "B": "Doing tasks or chores for their parents at home.",
-      "C": "Taking on a part-time position in a small business run by family.",
-      "D": "Selling used items such as clothes or books online.",
-      "True": "D"
-    },
-    {
-      "Q": "IV.2 - HOW TO EARN AND MANAGE MONEY - Question 2: The word 'valuable' in paragraph 2 is closest in meaning to ______.",
-      "A": "expensive",
-      "B": "minimal",
-      "C": "worthwhile",
-      "D": "countless",
-      "True": "C"
-    },
-    {
-      "Q": "IV.2 - HOW TO EARN AND MANAGE MONEY - Question 3: The word 'carefully' in paragraph 3 is OPPOSITE in meaning to ______.",
-      "A": "cautiously",
-      "B": "recklessly",
-      "C": "attentively",
-      "D": "thoughtfully",
-      "True": "B"
-    },
-    {
-      "Q": "IV.2 - HOW TO EARN AND MANAGE MONEY - Question 4: The word 'them' in paragraph 2 refers to ______.",
-      "A": "bank accounts",
-      "B": "teenagers",
-      "C": "co-owners",
-      "D": "parents",
-      "True": "D"
-    },
-    {
-      "Q": "IV.2 - HOW TO EARN AND MANAGE MONEY - Question 5: Which of the following statements is TRUE according to the passage?",
-      "A": "Teenagers should only start saving money once they receive their first monthly salary.",
-      "B": "Opening a bank account is a simple process for teenagers to do completely by themselves.",
-      "C": "Parents' involvement in a teenager's bank account facilitates the development of essential financial tracking skills.",
-      "D": "Financial planning is only required when the item a teenager intends to purchase is for a family member.",
-      "True": "C"
-    },
-    {
-      "Q": "IV.2 - FOOD CHAINS - Question 6: What is the main idea of the passage?",
-      "A": "The importance of plants in human life",
-      "B": "The roles of producers and consumers in food chains",
-      "C": "The eating habits of farm animals",
-      "D": "The differences between predators and prey",
-      "True": "B"
-    },
-    {
-      "Q": "IV.2 - FOOD CHAINS - Question 7: Why are plants considered producers?",
-      "A": "Because they eat other living things",
-      "B": "Because they make their own food using sunlight, water, and nutrients",
-      "C": "Because they only grow in soil",
-      "D": "Because they depend on animals for food",
-      "True": "B"
-    },
-    {
-      "Q": "IV.2 - FOOD CHAINS - Question 8: Which of the following is NOT mentioned as an example of a consumer in the first paragraph?",
-      "A": "chickens",
-      "B": "pigs",
-      "C": "cows",
-      "D": "sheep",
-      "True": "D"
-    },
-    {
-      "Q": "IV.2 - FOOD CHAINS - Question 9: The word 'sequence' in paragraph 2 is closest in meaning to ______.",
-      "A": "progression",
-      "B": "disorder",
-      "C": "consequence",
-      "D": "interruption",
-      "True": "A"
-    },
-    {
-      "Q": "IV.2 - FOOD CHAINS - Question 10: The word 'interdependent' in paragraph 3 is OPPOSITE in meaning to ______.",
-      "A": "mutually exclusive",
-      "B": "closely connected",
-      "C": "financially profitable",
-      "D": "heavily relied",
-      "True": "A"
-    },
-    {
-      "Q": "IV.2 - FOOD CHAINS - Question 11: The word 'they' in paragraph 1 refers to",
-      "A": "many plants",
-      "B": "farm animals",
-      "C": "nutrients",
-      "D": "consumers",
-      "True": "B"
-    },
-    {
-      "Q": "IV.2 - FOOD CHAINS - Question 12: Which of the following statements is TRUE according to the passage?",
-      "A": "A food chain always starts with a consumer and ends with a producer.",
-      "B": "Humans are considered producers because they make fruit juice from plants.",
-      "C": "Herbivores are animals that can eat both plants and other animals in the ecosystem.",
-      "D": "Energy from the sun is the starting point for the food chain involving grass and zebras.",
-      "True": "D"
-    },
-    {
-      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 13: The word 'digital' in the first paragraph is closest in meaning to",
-      "A": "analogue",
-      "B": "numeracy",
-      "C": "numerous",
-      "D": "online",
-      "True": "D"
-    },
-    {
-      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 14: The word 'they' in paragraph 3 refers to",
-      "A": "friends",
-      "B": "online-only friends",
-      "C": "online gamers",
-      "D": "their teammates",
-      "True": "C"
-    },
-    {
-      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 15: According to the passage, what percentage of teens spend actual time with their friends?",
-      "A": "23%",
-      "B": "25%",
-      "C": "27%",
-      "D": "55%",
-      "True": "B"
-    },
-    {
-      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 16: The following sentences are true, EXCEPT",
-      "A": "Most teenagers use video chat to maintain relationship with friends",
-      "B": "New forms of communication play an important role in keeping friendships",
-      "C": "According to the survey, more than half of teens have ever made new friends online",
-      "D": "Teens only meet face-to-face one fifth of online friends they have made",
-      "True": "A"
-    },
-    {
-      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 17: What can be inferred from the passage?",
-      "A": "The majority of teenage users agree that social media has negative consequences in their lives.",
-      "B": "Thanks to social media, more than two thirds of teens are supported when they face with challenges in their lives.",
-      "C": "Boys are more likely to meet new friends than girls.",
-      "D": "Most teens are not easy to give others their usernames when making new friends.",
-      "True": "B"
-    },
-    {
-      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 18: What is the antonym of the word 'breakup' in the last paragraph?",
-      "A": "reconciliation",
-      "B": "popularity",
-      "C": "termination",
-      "D": "divorce",
-      "True": "A"
-    },
-    {
-      "Q": "IV.2 - TECHNOLOGY AND TEEN FRIENDSHIPS - Question 19: What is the main idea of the passage?",
-      "A": "The difference of making new friends between girls and boys.",
-      "B": "Social media connects friendship.",
-      "C": "Social media affects friendship too much.",
-      "D": "Teenagers are making and keeping friends in a surprising way.",
-      "True": "D"
-    }
-  ]
+    "Mon": "Tiếng Anh 11",
+    "QA": [
+        {
+            "Q": "Tom feels excited because he is going to college.",
+            "type": "true_false_set",
+            "questions": [
+                {
+                    "text": "Tom feels excited because he is going to college.",
+                    "correct": false
+                },
+                {
+                    "text": "Tom should make friends at university because they can help him study.",
+                    "correct": true
+                },
+                {
+                    "text": "Tom doesn’t know how to do the cooking, cleaning up or washing.",
+                    "correct": true
+                },
+                {
+                    "text": "Ann suggests that Tom have a part-time job.",
+                    "correct": false
+                },
+                {
+                    "text": "Working part-time helps Tom spend money effectively.",
+                    "correct": true
+                }
+            ],
+            "True": "T"
+        },
+        {
+            "Q": "Why is Tom worried about going to college?",
+            "A": "He doesn’t like studying",
+            "B": "He has no friends or cousins there",
+            "C": "He doesn’t have enough money",
+            "D": "He can’t cook",
+            "True": "B"
+        },
+        {
+            "Q": "What skill does Ann suggest Tom learn first?",
+            "A": "Cooking",
+            "B": "Budgeting",
+            "C": "Making friends",
+            "D": "Cleaning",
+            "True": "B"
+        },
+        {
+            "Q": "What does Tom say about housework?",
+            "A": "He can’t do it",
+            "B": "He hates doing it",
+            "C": "He sometimes helps his mom",
+            "D": "He is good at it",
+            "True": "C"
+        },
+        {
+            "Q": "Why does Tom want a part-time job?",
+            "A": "To meet new people",
+            "B": "To gain experience",
+            "C": "To earn money",
+            "D": "To learn new skills",
+            "True": "C"
+        },
+        {
+            "Q": "What advice does Ann give about part-time jobs?",
+            "A": "Tom should start working immediately",
+            "B": "Tom should not work at all",
+            "C": "Tom should focus on studies first",
+            "D": "Tom should find a job near home",
+            "True": "C"
+        },
+        {
+            "Q": "a. Liam: Yeah, I started using public transport on my own and doing chores like sorting laundry, measuring washing powder, and ironing.\nb. Mia: Smart! It builds reliability and proves you’re responsible enough to earn their trust for more independence.\nc. Mia: Most teenagers hate too much dependence on parents, right?",
+            "A": "b-a-c",
+            "B": "c-a-b",
+            "C": "a-c-b",
+            "D": "b-c-a",
+            "True": "B"
+        },
+        {
+            "Q": "a. Leo: Don’t follow them. Stand up to that bullying instead of joining it. We can draw attention to the problem by starting a small awareness campaign and reporting the worst comments.\nb. Mia: I’m upset. In our class group chat, some kids keep body shaming Lan. I wanted to fit in, but the peer pressure to “like” those posts is real, and she looks ashamed.\nc. Mia: You’re right. I’ll ask permission to talk to our teacher, then promote a kinder chat rule. Hopefully it will improve her self-confidence.",
+            "A": "a – b – c",
+            "B": "b – a – c",
+            "C": "b – c – a",
+            "D": "c – b – a",
+            "True": "B"
+        },
+        {
+            "Q": "a. Emma: Nice! My parents also taught me how to fold clothes and keep my wardrobe and drawers organized. It really builds a sense of responsibility.\nb. Liam: True. From time to time I still feel pressured, but I’m motivated to move forward and earn their trust.\nc. Emma: Good. Those time-management skills are good for any teenager.\nd. Liam: I’m trying to be more independent, so I do my own laundry, sort the clothes, measure the washing powder, and even use the dryer. It’s becoming manageable now.\ne. Liam: Yeah, and I’m less reliant on them. I even make a to-do list every day.",
+            "A": "d-a-b-c-e",
+            "B": "d-c-e-a-b",
+            "C": "d-a-e-c-b",
+            "D": "e-c-b-a-d",
+            "True": "C"
+        },
+        {
+            "Q": "a. Ryan: Let’s save the link, take screenshots, and ask permission to report it; the counselor can run an awareness campaign.\nb. Chloe: Thanks. I was hesitant to speak up, because I felt ashamed of my accent.\nc. Chloe: It’s anonymous, and the comments are spreading fast, so your plan will really help me deal with it.\nd. Ryan: Did they use their real name, or is it an anonymous account? We need details before we complain about it.\ne. Chloe: Someone uploaded a short clip from my oral performance and added offensive captions in the class forum.",
+            "A": "e – d – c – a – b",
+            "B": "c – d – e – a – b",
+            "C": "c – a – e – d – b",
+            "D": "e – a – c – d – b",
+            "True": "A"
+        },
+        {
+            "Q": "a. Zoe: I noticed that too. Did you upload the newest photos to the shared folder, or are we still using the old ones?\nb. Liam: That would help a lot. If we rehearse once after class in the library room, we should be ready and check transitions. Thanks—I’ll message the group right away.\nc. Liam: Hey Zoe, I’m stressed about our science presentation tomorrow morning. The slides look messy, and we still haven’t agreed on who speaks first.\nd. Zoe: Okay, let’s fix it now. I’ll trim the text and set a timer, and you can add the photos during lunch using my hotspot.\ne. Liam: Only the old ones. My Wi-Fi died last night, so I couldn’t upload anything. I tried phone data, but it was too slow.",
+            "A": "b – d – e – a – c",
+            "B": "c – a – e – d – b",
+            "C": "e – a – c – d – b",
+            "D": "c – d – b – a – e",
+            "True": "B"
+        },
+        {
+            "Q": "Hi Sam,\nI wanted to update you on my journey toward independence.\na. These chores give me a stronger sense of responsibility, and I’m becoming less reliant on my parents.\nb. From time to time it’s stressful, but I'm convinced these life skills will help me move forward confidently.\nc. I’m also working on money-management, reviewing every item I buy with my own pocket money.\nd. I now do my laundry, sort clothes, measure washing powder, and even use the dryer without feeling pressured.\ne. Since moving out, I’ve tried to manage my life better by making a weekly schedule and using a time-management tool to stay organized.\nWrite back soon—I’d love to hear how you’re doing.\nAnna",
+            "A": "c-a-e-d-b",
+            "B": "e-d-a-c-b",
+            "C": "b-c-e-a-d",
+            "D": "d-b-a-e-c",
+            "True": "B"
+        },
+        {
+            "Q": "Dear Linh,\nHow are you? I hope school is going well.\na. In case of need, the counselor said support is private, which made students more comfortable.\nb. The results surprised me: some families live near the poverty line, so a few classmates feel ashamed to ask for help.\nc. I joined a community club and ran a short survey about students who struggle to pay for lunch or books.\nd. Now I’m more aware that inequality affects self-confidence and performance, and I speak up when jokes get offensive.\ne. To deal with that, we started a donation campaign and promoted it with posters and a QR code.\nWrite back soon.\nBest,\nMai",
+            "A": "c – b – a – e – d",
+            "B": "c – e – b – a – d",
+            "C": "c – b – e – a – d",
+            "D": "d – c – a – e – b",
+            "True": "C"
+        },
+        {
+            "Q": "a. As a result, parents become convinced that their children can handle bigger challenges, including part-time jobs or university admission interviews, without constant supervision.\nb. This consistent practice gradually develops strong decision-making skills and shows that they are responsible as well as dependable.\nc. At first, many teenagers feel pressured or afraid of making mistakes, but most simply install a journey-planning app, write down backup routes, and review timetables the night before.\nd. Getting into the habit of using public transport alone is a powerful life skill that speeds up teenage independence.\ne. Over time, they become self-motivated to leave home on time, make decisions when buses are late, and solve problems without calling their parents.",
+            "A": "e – b – d – c – a",
+            "B": "d – b – e – c – a",
+            "C": "d – c – e – b – a",
+            "D": "e – d – b – c – a",
+            "True": "C"
+        },
+        {
+            "Q": "a. As a result, many Gen Z users hesitate to speak up for fear of being mocked, and some even develop anxiety or burn out.\nb. On social media, a stigma has emerged: people accuse Gen Z of “sharing too much,” as if posting were a moral offence.\nc. Peer pressure then pulls others in—offensive jokes spread quickly, and what starts as “criticism” often becomes public shaming.\nd. Instead of ridiculing them, we should build digital literacy: encourage respectful discussion and call out harmful bullying.\ne. To be fair, oversharing can have consequences, but judging an entire generation is unfair—and it rarely solves anything.",
+            "A": "b – c – a – e – d",
+            "B": "b – e – c – a – d",
+            "C": "c – b – a – e – d",
+            "D": "b – a – c – e – d",
+            "True": "A"
+        },
+        {
+            "Q": "a. Peer pressure can affect teenagers in everyday choices, especially what to wear to school, what apps to use, or what to post online.\nb. If we learn to focus on comfort, permission rules, and real friendships instead of trends, we will have a good influence on each other and feel freer sooner or later.\nc. For example, my classmate Nam bought an overpriced hoodie after a brand’s promotional video appeared in our chat, even though our school requires a simple jacket.\nd. As a result, he kept comparing his appearance with others, which lowered his self-confidence and made him anxious about comments.\ne. When a popular group approves of one look, others may pretend they like it too, just to fit in.",
+            "A": "a – e – c – d – b",
+            "B": "e – c – a – d – b",
+            "C": "c – a – e – d – b",
+            "D": "b – e – d – a – c",
+            "True": "A"
+        },
+        {
+            "Q": "a. In a survey a week later, many students admitted honestly that they used to pretend it was harmless under peer pressure, but they now hesitate before clicking “share”\nb. The speaker explained that sharing someone’s photo without permission can be illegal, and offensive comments often lead to real consequences, so screenshots matter in case of a report.\nc. After a rise in cyberbullying cases, our school asked students to attend a short workshop about online legality and respect, and the press team posted reminders in the hallway.\nd. This change may seem small, yet it makes our class more sociable and safe; consequently, people feel less ashamed and more confident to speak up, which improves teamwork and classroom performance.\ne. During a role-play, we practiced how to stand up to an offender in our group chat, comfort the victim, and report posts instead of forwarding them or laughing along.",
+            "A": "c – e – b – a – d",
+            "B": "b – d – e – a – c",
+            "C": "c – b – a – e – d",
+            "D": "c – b – e – a – d",
+            "True": "D"
+        },
+        {
+            "Q": "Dear Sam,\nHope you’re doing well. How is your new class going?\na. The park has invested in camera traps and drones to protect wildlife and support restoration.\nb. After we got off the bus, a ranger gave a talk: it is home to endangered pangolins and rare bats.\nc. Last Sunday, our class visited a rainforest national park located in the tropics.\nd. We scanned a QR code to donate and picked up plastic, which can harm habitats.\ne. He said illegal hunting still happens, so mass tourism is limited by an online reservation.\nWrite back when you can.\nBest wishes,\nKim",
+            "A": "c – e – b – a – d",
+            "B": "b – c – e – a – d",
+            "C": "c – b – a – e – d",
+            "D": "c – b – e – a – d",
+            "True": "D"
+        },
+        {
+            "Q": "a. Secondly, could you give me some more information about the accommodation? Do volunteers stay with local families?\nb. I look forward to your reply and I am excited to learn more about the programme.\nc. Lastly, can you let me know if the programme provides any meals? I'd also like to know what other expenses there may be. I want to work out the total costs.\nd. Dear Ms.Riggs, I am writing regarding the preservation volunteer programme at Banteay Chhmar Temple Complex in Cambodia. I am interested in becoming a volunteer and would like to have some information about the programme.\ne. First of all, do you know what kind of training volunteers get? It will be my first time at a heritage site and I am unsure about what I should do.\nThank you in advance for the information.",
+            "A": "a – c – d – b – e",
+            "B": "d – e – a – c – b",
+            "C": "e – a – b – d – c",
+            "D": "b – d – e – c – a",
+            "True": "B"
+        },
+        {
+            "Q": "a. Additionally, choosing eco-friendly products and supporting renewable energy sources, such as solar or wind power, contributes to a greener planet.\nb. Planting trees helps reduce carbon dioxide levels and improves air quality.\nc. Simple actions like reducing plastic use, recycling, and conserving water can make a significant difference.\nd. It’s important for individuals, businesses, and governments to work together to preserve natural resources, reduce pollution, and combat climate change for future generations.\ne. Protecting the environment is crucial for ensuring a healthy and sustainable future.",
+            "A": "e – c – a – b – d",
+            "B": "d – e – a – c – b",
+            "C": "e – a – c – d – b",
+            "D": "e – c – b – a – d",
+            "True": "A"
+        },
+        {
+            "Q": "a. After the cycle, they remove clothes, hang delicate items, put others in the dryer, then fold everything neatly and organise it into drawers or wardrobe.\nb. They learn to sort colours separately, measure the right amount of washing powder or liquid, add fabric softener, and follow the washing machine instructions carefully.\nc. Many teenagers start building independence by taking responsibility for their own laundry instead of staying dependent on parents.\nd. This simple chore teaches time-management, attention to detail, and reliability.\ne. Once parents see their teenager can carry out the task without being reminded, they naturally earn trust and gain more freedom.",
+            "A": "d – c – a – b – e",
+            "B": "c – b – a – d – e",
+            "C": "c – d – b – a – e",
+            "D": "e – a – c – d – b",
+            "True": "B"
+        },
+        {
+            "Q": "Write an article about benefits and drawback of time management for teens",
+            "type": "short_answer",
+            "correctAnswer": "Học sinh tự viết đoạn văn theo yêu cầu",
+            "True": "S"
+        },
+        {
+            "Q": "Write a proposal for a school campaign against bodyshaming\nProposal for a School Campaign Against Body Shaming\nTitle: Be Kind to Every Body\nIntroduction:\nObjectives:\nActivities:\nExpected Results:\nConclusion:",
+            "type": "short_answer",
+            "correctAnswer": "Học sinh tự viết đề xuất theo cấu trúc cho sẵn",
+            "True": "S"
+        },
+        {
+            "Q": "______ ecosystem is a community of living organisms interacting with their environment.",
+            "A": "A",
+            "B": "An",
+            "C": "The",
+            "D": "Ø",
+            "True": "C"
+        },
+        {
+            "Q": "Many students are interested (2) ______ protecting endangered species.",
+            "A": "on",
+            "B": "in",
+            "C": "at",
+            "D": "for",
+            "True": "B"
+        },
+        {
+            "Q": "The campaign aims to increase students’(3) ______ of environmental issues.",
+            "A": "aware",
+            "B": "awareness",
+            "C": "awarely",
+            "D": "unaware",
+            "True": "B"
+        },
+        {
+            "Q": "(4) ______ the importance of biodiversity, many students have joined the programme enthusiastically.",
+            "A": "Having understood",
+            "B": "Understand",
+            "C": "Understood",
+            "D": "Understanding",
+            "True": "A"
+        },
+        {
+            "Q": "(5) ______ part in many environmental activities, students become more responsible.",
+            "A": "Took",
+            "B": "Take",
+            "C": "Having taken",
+            "D": "Taking",
+            "True": "C"
+        },
+        {
+            "Q": "(6) ______ students who take part in this campaign that can make a real difference.",
+            "A": "It is",
+            "B": "What",
+            "C": "There is",
+            "D": "That is",
+            "True": "A"
+        },
+        {
+            "Q": "Students are encouraged to reduce waste; (7) ______, they should recycle more.",
+            "A": "however",
+            "B": "therefore",
+            "C": "because",
+            "D": "although",
+            "True": "B"
+        },
+        {
+            "Q": "We will organize a (8) ______ to clean up the nearby forest.",
+            "A": "clean-up campaign",
+            "B": "cleaning up campaign",
+            "C": "clean up campaign",
+            "D": "cleaned-up campaign",
+            "True": "A"
+        },
+        {
+            "Q": "(1) ______ workshop aims to help students understand common problems teenagers face today.",
+            "A": "A",
+            "B": "An",
+            "C": "The",
+            "D": "Ø",
+            "True": "C"
+        },
+        {
+            "Q": "Many teens struggle (2) ______ peer pressure at school.",
+            "A": "with",
+            "B": "on",
+            "C": "in",
+            "D": "at",
+            "True": "A"
+        },
+        {
+            "Q": "The programme helps students become more (3) ______ when dealing with social issues.",
+            "A": "confidence",
+            "B": "confident",
+            "C": "confidently",
+            "D": "unconfident",
+            "True": "B"
+        },
+        {
+            "Q": "(4) ______ about the harmful effects of bullying, many students have changed their attitudes.",
+            "A": "Having been informed",
+            "B": "Being informed",
+            "C": "Informed",
+            "D": "To inform",
+            "True": "A"
+        },
+        {
+            "Q": "(5) ______ experienced peer pressure, some teens feel more stressed and anxious.",
+            "A": "Had",
+            "B": "Have",
+            "C": "Having",
+            "D": "To have",
+            "True": "C"
+        },
+        {
+            "Q": "(6) ______ teenagers that this workshop mainly supports.",
+            "A": "It is",
+            "B": "What",
+            "C": "There are",
+            "D": "That is",
+            "True": "A"
+        },
+        {
+            "Q": "Some students feel stressed; (7) ______, they find it hard to focus on their studies.",
+            "A": "however",
+            "B": "as a result",
+            "C": "in addition",
+            "D": "moreover",
+            "True": "B"
+        },
+        {
+            "Q": "The school will set up a(8) ______ to support students facing difficulties.",
+            "A": "supported group",
+            "B": "supporting group",
+            "C": "support grouping",
+            "D": "support group",
+            "True": "D"
+        },
+        {
+            "Q": "One major problem that affects teenagers today is the lack of problem-solving opportunities, (1) __________ slows down their (2) __________.",
+            "A": "that",
+            "B": "whose",
+            "C": "whom",
+            "D": "which",
+            "True": "D"
+        },
+        {
+            "Q": "One major problem that affects teenagers today is the lack of problem-solving opportunities, (1) which slows down their (2) __________.",
+            "A": "toward journey independence",
+            "B": "journey toward independence",
+            "C": "independence toward journey",
+            "D": "toward independence journey",
+            "True": "B"
+        },
+        {
+            "Q": "As a result, teenagers rarely (3) __________ real-life situations that require decision-making, such as planning a route, fixing mistakes, or dealing with unexpected problems.",
+            "A": "face",
+            "B": "identify",
+            "C": "handle",
+            "D": "avoid",
+            "True": "A"
+        },
+        {
+            "Q": "They may also lose the (4) __________ needed to handle new challenges at school or in daily life.",
+            "A": "confidently",
+            "B": "confident",
+            "C": "confidence",
+            "D": "confidant",
+            "True": "C"
+        },
+        {
+            "Q": "To become more independent, teenagers should be encouraged to try doing tasks themselves, make use of time-management tools, and take responsibility (5) __________ simple activities like doing chores or planning their study routine.",
+            "A": "by",
+            "B": "for",
+            "C": "with",
+            "D": "on",
+            "True": "B"
+        },
+        {
+            "Q": "When teenagers are given space to practise, they gradually learn (6) __________ problems, become more reliable, and gain the independence needed for the future.",
+            "A": "solve",
+            "B": "solving",
+            "C": "to soloving",
+            "D": "to solve",
+            "True": "D"
+        },
+        {
+            "Q": "(1) ______ your education or start working that you have to decide whether to continue.",
+            "A": "It is",
+            "B": "It was",
+            "C": "There is",
+            "D": "That is",
+            "True": "A"
+        },
+        {
+            "Q": "This is your decision, (2) ______ you should remember two things: there is more unemployment among young people (3) ______ have not been to university, and people with the right skills have a big advantage in the job market.",
+            "A": "although",
+            "B": "but",
+            "C": "or",
+            "D": "so",
+            "True": "B"
+        },
+        {
+            "Q": "This is your decision, but you should remember two things: there is more unemployment among young people (3) ______ have not been to university, and people with the right skills have a big advantage in the job market.",
+            "A": "whose",
+            "B": "whom",
+            "C": "which",
+            "D": "who",
+            "True": "D"
+        },
+        {
+            "Q": "If you make the decision to go straight (4) ______ a job, there are (5) ______ opportunities for training.",
+            "A": "to",
+            "B": "into",
+            "C": "in",
+            "D": "on",
+            "True": "B"
+        },
+        {
+            "Q": "If you make the decision to go straight into a job, there are (5) ______ opportunities for training.",
+            "A": "much",
+            "B": "many",
+            "C": "others",
+            "D": "one",
+            "True": "B"
+        },
+        {
+            "Q": "While you are earning, you can also take evening classes to (6) ______ qualifications, which will help you to get ahead in your career more quickly.",
+            "A": "start",
+            "B": "continue",
+            "C": "take",
+            "D": "gain",
+            "True": "D"
+        },
+        {
+            "Q": "This is the best way to save up money for your studies, and get practical (7) ______.",
+            "A": "experiencedly",
+            "B": "experiencing",
+            "C": "experience",
+            "D": "experienced",
+            "True": "C"
+        },
+        {
+            "Q": "Teenagers should (8) __________ to become independent as it is a crucial part of their personal growth and development.",
+            "A": "strive",
+            "B": "pay",
+            "C": "have",
+            "D": "get",
+            "True": "A"
+        },
+        {
+            "Q": "Independence equips teenagers (9) __________ valuable life skills and prepares them for the challenges and responsibilities of adulthood.",
+            "A": "for",
+            "B": "by",
+            "C": "about",
+            "D": "with",
+            "True": "D"
+        },
+        {
+            "Q": "Independence also fosters resilience, problem-solving abilities, and critical thinking skills, (10) __________ are essential for navigating the complexities of life.",
+            "A": "where",
+            "B": "which",
+            "C": "who",
+            "D": "when",
+            "True": "B"
+        },
+        {
+            "Q": "(11) __________, becoming independent empowers teenagers to have a greater sense of agency, autonomy, and control over their own lives, enabling them to (12) __________ fulfilling and meaningful lives.",
+            "A": "However",
+            "B": "Therefore",
+            "C": "Moreover",
+            "D": "Otherwise",
+            "True": "B"
+        },
+        {
+            "Q": "becoming independent empowers teenagers to have a greater sense of agency, autonomy, and control over their own lives, enabling them to (12) __________ fulfilling and meaningful lives.",
+            "A": "get",
+            "B": "turn",
+            "C": "lead",
+            "D": "head",
+            "True": "C"
+        },
+        {
+            "Q": "It is hard to (13) __________ a Gen Z teenager growing up without smartphones and social media.",
+            "A": "accept",
+            "B": "imagine",
+            "C": "know",
+            "D": "believe",
+            "True": "B"
+        },
+        {
+            "Q": "(14) __________, while these sites provide entertainment and ways to connect with people, they can also harm young people.",
+            "A": "However",
+            "B": "Besides",
+            "C": "Therefore",
+            "D": "Then",
+            "True": "A"
+        },
+        {
+            "Q": "Social media users often hide their identities online, so it is (15) __________ for them to post offensive comments or images.",
+            "A": "more difficult",
+            "B": "impossible",
+            "C": "easier",
+            "D": "dangerous",
+            "True": "C"
+        },
+        {
+            "Q": "Social media can also make teens feel less (16) __________.",
+            "A": "violent",
+            "B": "confident",
+            "C": "fashionable",
+            "D": "confidence",
+            "True": "B"
+        },
+        {
+            "Q": "(17) __________ images of paper-thin models and glamorous ‘influencers’ with expensive cars and clothes are everywhere, teenagers start thinking that being slim and (18) __________ is the only way to be accepted in society and become successful.",
+            "A": "As",
+            "B": "Besides",
+            "C": "Although",
+            "D": "While",
+            "True": "A"
+        },
+        {
+            "Q": "teenagers start thinking that being slim and (18) __________ is the only way to be accepted in society and become successful.",
+            "A": "healthy",
+            "B": "generous",
+            "C": "rich",
+            "D": "clever",
+            "True": "C"
+        },
+        {
+            "Q": "(19) __________, there is a risk that they meet bad people online, as well as come across harmful content.",
+            "A": "However",
+            "B": "In addition",
+            "C": "Therefore",
+            "D": "Then",
+            "True": "B"
+        },
+        {
+            "Q": "Parents can’t ban teenagers from social networks (20) __________ it is actually impossible to do so.",
+            "A": "although",
+            "B": "because",
+            "C": "while",
+            "D": "for example",
+            "True": "B"
+        },
+        {
+            "Q": "(21) __________, young people should learn how to stay safe online.",
+            "A": "However",
+            "B": "Moreover",
+            "C": "By contrast",
+            "D": "Instead",
+            "True": "D"
+        },
+        {
+            "Q": "Parents and teachers play an essential role here as knowing how their children and students use the Internet is essential for (22) __________ them online.",
+            "A": "encouraging",
+            "B": "promoting",
+            "C": "preserving",
+            "D": "protecting",
+            "True": "D"
+        },
+        {
+            "Q": "With a coastline of over 3,260 kilometres, Viet Nam is (23) __________ to many different kinds of flora and fauna.",
+            "A": "area",
+            "B": "location",
+            "C": "place",
+            "D": "home",
+            "True": "D"
+        },
+        {
+            "Q": "From the Fansipan Peak all the way down to the Mekong Delta, the country has a rich (24) __________ of wildlife.",
+            "A": "diversity",
+            "B": "complex",
+            "C": "number",
+            "D": "footprint",
+            "True": "A"
+        },
+        {
+            "Q": "However, due to population growth and rapid urban development, many of Viet Nam’s plant and (25) __________ species are endangered.",
+            "A": "flora",
+            "B": "fauna",
+            "C": "animal",
+            "D": "creature",
+            "True": "B"
+        },
+        {
+            "Q": "Natural habitats are threatened by deforestation and the (26) __________ of natural resources.",
+            "A": "use",
+            "B": "overuse",
+            "C": "misuse",
+            "D": "lack",
+            "True": "B"
+        },
+        {
+            "Q": "Several unique species have almost disappeared in recent years (27) __________ the illegal wildlife trade.",
+            "A": "due",
+            "B": "although",
+            "C": "because of",
+            "D": "because",
+            "True": "C"
+        },
+        {
+            "Q": "The trade in animal parts continues to be a serious problem (28) __________ the heavy punishment.",
+            "A": "because of",
+            "B": "despite",
+            "C": "due to",
+            "D": "since",
+            "True": "B"
+        },
+        {
+            "Q": "This has forced a number of mammals and other (29) __________ onto the Red List of Threatened Species.",
+            "A": "things",
+            "B": "flora",
+            "C": "birds",
+            "D": "creatures",
+            "True": "D"
+        },
+        {
+            "Q": "In 2010, Viet Nam’s last Javan rhino was shot and killed for its (30) __________.",
+            "A": "horn",
+            "B": "ivory",
+            "C": "eggs",
+            "D": "parts",
+            "True": "A"
+        },
+        {
+            "Q": "Scientists continue to (31) __________ unique and rare animals such as the saola and the pangolin.",
+            "A": "list",
+            "B": "shoot",
+            "C": "meet",
+            "D": "discover",
+            "True": "D"
+        },
+        {
+            "Q": "However, if the country wants to conserve its biodiversity and fascinating features, it still has (32) __________ to go.",
+            "A": "a lot",
+            "B": "a long way",
+            "C": "some way",
+            "D": "nothing",
+            "True": "B"
+        },
+        {
+            "Q": "According to paragraph 1, which of the following is NOT mentioned as a way for teenagers to earn money?",
+            "A": "Working for someone who is not a family member.",
+            "B": "Doing tasks or chores for their parents at home.",
+            "C": "Taking on a part-time position in a small business run by family.",
+            "D": "Selling used items such as clothes or books online.",
+            "True": "D"
+        },
+        {
+            "Q": "The word \"valuable\" in paragraph 2 is closest in meaning to __________.",
+            "A": "expensive",
+            "B": "minimal",
+            "C": "worthwhile",
+            "D": "countless",
+            "True": "C"
+        },
+        {
+            "Q": "The word \"carefully\" in paragraph 3 is OPPOSITE in meaning to __________.",
+            "A": "cautiously",
+            "B": "recklessly",
+            "C": "attentively",
+            "D": "thoughtfully",
+            "True": "B"
+        },
+        {
+            "Q": "The word \"them\" in paragraph 2 refers to __________.",
+            "A": "bank accounts",
+            "B": "teenagers",
+            "C": "co-owners",
+            "D": "parents",
+            "True": "D"
+        },
+        {
+            "Q": "Which of the following statements is TRUE according to the passage?",
+            "A": "Teenagers should only start saving money once they receive their first monthly salary.",
+            "B": "Opening a bank account is a simple process for teenagers to do completely by themselves.",
+            "C": "Parents' involvement in a teenager's bank account facilitates the development of essential financial tracking skills.",
+            "D": "Financial planning is only required when the item a teenager intends to purchase is for a family member.",
+            "True": "C"
+        },
+        {
+            "Q": "What is the main idea of the passage? (Food chains)",
+            "A": "The importance of plants in human life",
+            "B": "The roles of producers and consumers in food chains",
+            "C": "The eating habits of farm animals",
+            "D": "The differences between predators and prey",
+            "True": "B"
+        },
+        {
+            "Q": "Why are plants considered producers?",
+            "A": "Because they eat other living things",
+            "B": "Because they make their own food using sunlight, water, and nutrients",
+            "C": "Because they only grow in soil",
+            "D": "Because they depend on animals for food",
+            "True": "B"
+        },
+        {
+            "Q": "Which of the following is NOT mentioned as an example of a consumer in the first paragraph? (Food chains)",
+            "A": "chickens",
+            "B": "pigs",
+            "C": "cows",
+            "D": "sheep",
+            "True": "D"
+        },
+        {
+            "Q": "The word \"sequence\" in paragraph 2 is closest in meaning to ________.",
+            "A": "progression",
+            "B": "disorder",
+            "C": "consequence",
+            "D": "interruption",
+            "True": "A"
+        },
+        {
+            "Q": "The word \"interdependent\" in paragraph 3 is OPPOSITE in meaning to ________.",
+            "A": "mutually exclusive",
+            "B": "closely connected",
+            "C": "financially profitable",
+            "D": "heavily relied",
+            "True": "A"
+        },
+        {
+            "Q": "The word \"they\" in paragraph 1 refers to ________. (Food chains)",
+            "A": "many plants",
+            "B": "farm animals",
+            "C": "nutrients",
+            "D": "consumers",
+            "True": "B"
+        },
+        {
+            "Q": "Which of the following statements is TRUE according to the passage? (Food chains)",
+            "A": "A food chain always starts with a consumer and ends with a producer.",
+            "B": "Humans are considered producers because they make fruit juice from plants.",
+            "C": "Herbivores are animals that can eat both plants and other animals in the ecosystem.",
+            "D": "Energy from the sun is the starting point for the food chain involving grass and zebras.",
+            "True": "D"
+        },
+        {
+            "Q": "The word \"digital\" in the first paragraph (social media passage) is closest in meaning to _____.",
+            "A": "analogue",
+            "B": "numeracy",
+            "C": "numerous",
+            "D": "online",
+            "True": "D"
+        },
+        {
+            "Q": "The word \"they\" in paragraph 3 (social media passage) refers to _____.",
+            "A": "friends",
+            "B": "online-only friends",
+            "C": "online gamers",
+            "D": "their teammates",
+            "True": "C"
+        },
+        {
+            "Q": "According to the passage, what percentage of teens spend actual time with their friends?",
+            "A": "23%",
+            "B": "25%",
+            "C": "27%",
+            "D": "55%",
+            "True": "B"
+        },
+        {
+            "Q": "The following sentences are true, EXCEPT _____ (social media passage).",
+            "A": "Most teenagers use video chat to maintain relationship with friends",
+            "B": "New forms of communication play an important role in keeping friendships",
+            "C": "According to the survey, more than half of teens have ever made new friends online",
+            "D": "Teens only meet face-to-face one fifth of online friends they have made",
+            "True": "A"
+        },
+        {
+            "Q": "What can be inferred from the passage? (social media passage)",
+            "A": "The majority of teenage users agree that social media has negative consequences in their lives.",
+            "B": "Thanks to social media, more than two thirds of teens are supported when they face with challenges in their lives.",
+            "C": "Boys are more likely to meet new friends than girls.",
+            "D": "Most teens are not easy to give others their usernames when making new friends.",
+            "True": "B"
+        },
+        {
+            "Q": "What is the antonym of the word \"breakup” in the last paragraph? (social media passage)",
+            "A": "reconciliation",
+            "B": "popularity",
+            "C": "termination",
+            "D": "divorce",
+            "True": "A"
+        },
+        {
+            "Q": "What is the main idea of the passage? (social media passage)",
+            "A": "The difference of making new friends between girls and boys.",
+            "B": "Social media connects friendship.",
+            "C": "Social media affects friendship too much.",
+            "D": "Teenagers are making and keeping friends in a surprising way.",
+            "True": "D"
+        }
+    ]
 }
