@@ -1,510 +1,773 @@
 {
-    "Mon": "Tin học 11",
-    "QA": [
+  "Mon": "Tin học 12",
+  "QA": [
+    {
+      "id": "1",
+      "Q": "Trong các phát biểu sau, phát biểu nào đúng nhất về 1 hệ thống máy tính được xem là Trí tuệ nhân tạo?",
+      "A": "Có thể tự ra quyết định mà không cần con người lập trình.",
+      "B": "Có khả năng thực hiện các công việc trí tuệ như con người",
+      "C": "Có năng lực giúp con người lập trình dễ dàng hơn.",
+      "D": "Có thể hoạt động khi được cung cấp mạng Internet.",
+      "True": "B"
+    },
+    {
+      "id": "2",
+      "Q": "AI hẹp có thể hỗ trợ người lập trình trong việc nào dưới đây?",
+      "A": "Tăng giá bán của phần mềm.",
+      "B": "Phát hiện lỗi và tối ưu hoá hiệu suất ứng dụng.",
+      "C": "Tự động tuỳ chỉnh mã chương trình phù hợp.",
+      "D": "Giảm số lượng dòng mã cần viết thủ công mà không kiểm tra lỗi.",
+      "True": "B"
+    },
+    {
+      "id": "3",
+      "Q": "Hệ thống chuyên gia MYCYN là ví dụ của AI trong lĩnh vực nào sau đây?",
+      "A": "Giáo dục.",
+      "B": "Tài chính.",
+      "C": "Y tế.",
+      "D": "Kinh doanh.",
+      "True": "C"
+    },
+    {
+      "id": "4",
+      "Q": "Một bệnh viện muốn sử dụng trí tuệ nhân tạo để cải thiện quy trình chăm sóc bệnh nhân. Trong các phương án dưới đây, phương án nào là hợp lý nhất để áp dụng trí tuệ nhân tạo vào việc tối ưu hóa lịch làm việc của nhân viên y tế, đồng thời đảm bảo hiệu quả điều trị và giảm thiểu thời gian chờ đợi của bệnh nhân?",
+      "A": "Sử dụng AI để tự động hóa việc nhập liệu từ bệnh án điện tử",
+      "B": "Sử dụng AI để dự báo số lượng bệnh nhân mỗi ngày và điều chỉnh lịch làm việc của nhân viên y tế dựa trên dự báo đó",
+      "C": "Sử dụng AI để phát hiện sớm các dấu hiệu bệnh lý trong kết quả xét nghiệm của bệnh nhân",
+      "D": "Sử dụng AI để phân tích dữ liệu từ các nghiên cứu lâm sàng và đề xuất phương pháp điều trị mới",
+      "True": "B"
+    },
+    {
+      "id": "5",
+      "Q": "Phương án nào sau đây mô tả đúng về Trí tuệ nhân tạo (AI)?",
+      "A": "Một lĩnh vực khoa học và kĩ thuật nhằm chế tạo các máy móc thông minh.",
+      "B": "Một loại phần mềm giúp máy tính có thể thực hiện các hành vi thông minh.",
+      "C": "Một loại máy tính thông minh có thể thực hiện các nhiệm vụ giống như con người.",
+      "D": "Một loại thuật toán thông minh cho phép máy tính tư duy như con người.",
+      "True": "A"
+    },
+    {
+      "id": "6",
+      "Q": "Phương án nào dưới đây liệt kê hai phân loại chính của Trí tuệ nhân tạo (AI)?",
+      "A": "AI Hẹp (ANI) và AI Siêu thông minh (ASI).",
+      "B": "AI Hẹp (ANI) và AI Tổng quát (AGI).",
+      "C": "AI Tổng quát (AGI) và AI Tự học (ALI).",
+      "D": "AI Tổng quát (AGI) và AI Siêu thông minh (ASI).",
+      "True": "B"
+    },
+    {
+      "id": "7",
+      "Q": "Khả năng nào dưới đây mô tả đúng về Trí tuệ nhân tạo hẹp?",
+      "A": "Tự chuyển đổi để giải quyết các nhiệm vụ khác nhau.",
+      "B": "Suy luận và giải quyết các vấn đề phức tạp như con người.",
+      "C": "Có thể tự ý thức và cảm nhận cảm xúc giống con người.",
+      "D": "Giải quyết nhiệm vụ cụ thể theo những gì đã được học.",
+      "True": "D"
+    },
+    {
+      "id": "8",
+      "Q": "Phương án nào sau đây là hạn chế của Trí tuệ nhân tạo hẹp?",
+      "A": "Học và tích luỹ tri thức.",
+      "B": "Hiểu ngôn ngữ tự nhiên.",
+      "C": "Cảm nhận cảm xúc.",
+      "D": "Giải quyết vấn đề.",
+      "True": "C"
+    },
+    {
+      "id": "9",
+      "Q": "Phương án nào dưới đây nêu đúng về khả năng suy luận của AI?",
+      "A": "Trích xuất thông tin từ dữ liệu để học và tích lũy tri thức.",
+      "B": "Cảm nhận và hiểu biết môi trường thông qua các cảm biến và thiết bị đầu vào.",
+      "C": "Vận dụng logic và tri thức để đưa ra quyết định hoặc kết luận.",
+      "D": "Tìm ra cách giải quyết các tình huống phức tạp dựa trên thông tin và tri thức.",
+      "True": "C"
+    },
+    {
+      "id": "10",
+      "Q": "Phương án nào dưới đây nêu đúng về khả năng nhận thức của AI?",
+      "A": "Trích xuất thông tin từ dữ liệu để học và tích luỹ tri thức.",
+      "B": "Cảm nhận và hiểu biết môi trường thông qua các cảm biến và thiết bị đầu vào.",
+      "C": "Khả năng vận dụng logic và tri thức để đưa ra quyết định hoặc kết luận.",
+      "D": "Khả năng tìm ra cách giải quyết các tình huống phức tạp dựa trên thông tin và tri thức.",
+      "True": "B"
+    },
+    {
+      "id": "11",
+      "Q": "Phương án nào dưới đây nêu đúng về khả năng học của AI?",
+      "A": "Trích xuất thông tin từ dữ liệu để học và tích lũy tri thức.",
+      "B": "Cảm nhận và hiểu biết môi trường thông qua các cảm biến và thiết bị đầu vào.",
+      "C": "Khả năng vận dụng logic và tri thức để đưa ra quyết định hoặc kết luận.",
+      "D": "Khả năng tìm ra cách giải quyết các tình huống phức tạp dựa trên thông tin và tri thức.",
+      "True": "A"
+    },
+    {
+      "id": "12",
+      "Q": "YouTube sử dụng hệ thống Trí tuệ nhân tạo cho mục đích nào sau đây trong việc đề xuất nội dung cho người dùng?",
+      "A": "Tự động xóa các bình luận không phù hợp.",
+      "B": "Gợi ý video phù hợp với sở thích và hành vi xem của người dùng.",
+      "C": "Giới thiệu các tính năng mới của nền tảng.",
+      "D": "Gợi ý các video có lượt xem cao nhất trên toàn hệ thống.",
+      "True": "B"
+    },
+    {
+      "id": "13",
+      "Q": "Phát biểu nào sau đây là phù hợp khi nói về trợ lí ảo?",
+      "A": "Một phần mềm giúp máy tính có thể tự học và giải quyết vấn đề.",
+      "B": "Một công nghệ AI có thể hiểu và thực hiện các yêu cầu bằng ngôn ngữ tự nhiên.",
+      "C": "Một công nghệ AI có thể nhận dạng và hiểu suy nghĩ của con người.",
+      "D": "Một thuật toán thông minh cho phép máy tính tư duy như con người.",
+      "True": "B"
+    },
+    {
+      "id": "14",
+      "Q": "Trí tuệ nhân tạo hỗ trợ chẩn đoán bệnh ung thư da bằng cách nào sau đây?",
+      "A": "Nhận diện giọng nói của bác sĩ trưởng khoa.",
+      "B": "Nhận diện các bệnh lí qua hình ảnh y khoa.",
+      "C": "Phân tích giọng nói của bệnh nhân.",
+      "D": "Quản lí hoạt động thể dục của bệnh nhân.",
+      "True": "B"
+    },
+    {
+      "id": "15",
+      "Q": "Phát biểu nào dưới đây là thách thức liên quan đến việc sử dụng AI?",
+      "A": "AI không lưu trữ và sử dụng quyền riêng tư của cá nhân.",
+      "B": "Khả năng AI không vượt qua trí thông minh của con người.",
+      "C": "Khả năng AI không làm mất đi một số ngành nghề đang có.",
+      "D": "Thiếu qui định và luật lệ về việc sử dụng AI trong xã hội ngày nay.",
+      "True": "D"
+    },
+    {
+      "id": "16",
+      "Q": "Phương án nào sau đây đúng khi nói về tác động của AI đối với việc làm của con người?",
+      "A": "Thay thế hoàn toàn con người trong mọi lĩnh vực việc làm.",
+      "B": "Tạo ra những việc làm mới và thay thế một số công việc hiện có.",
+      "C": "Chỉ tác động đến các công việc đơn giản, lặp đi lặp lại.",
+      "D": "Không có tác động đáng kể đến việc làm của con người.",
+      "True": "B"
+    },
+    {
+      "id": "17",
+      "Q": "Nhận định nào sau đây sai khi nói về sự ảnh hưởng của AI trong tương lai?",
+      "A": "Tăng cường sự tự động hóa trong công việc.",
+      "B": "Có thể thay thế con người trong một số lĩnh vực.",
+      "C": "Tạo ra nguy cơ về an ninh mạng và quyền riêng tư.",
+      "D": "Sẽ luôn an toàn và có lợi cho con người.",
+      "True": "D"
+    },
+    {
+      "id": "18",
+      "Q": "Khả năng nào sau đây không phải đặc trưng của AI hẹp?",
+      "A": "Đọc, phân tích, diễn giải và tạo ra văn bản tương tự con người.",
+      "B": "Thông qua quá trình trích xuất thông tin từ dữ liệu, nhận diện quy luật và tích lũy tri thức.",
+      "C": "Hệ thống có khả năng hoạt động mà không cần dữ liệu đầu vào.",
+      "D": "Bằng cách kết hợp tri thức, suy luận, nhận thức và hiểu ngôn ngữ để tìm ra giải pháp tối ưu.",
+      "True": "C"
+    },
+    {
+      "id": "19",
+      "Q": "Thiết bị nào sau đây là thiết bị mạng?",
+      "A": "Máy in",
+      "B": "Router",
+      "C": "Màn hình",
+      "D": "Bàn phím",
+      "True": "B"
+    },
+    {
+      "id": "20",
+      "Q": "Thiết bị nào sau đây dùng để kết nối các thiết bị trong mạng LAN?",
+      "A": "Switch",
+      "B": "Modem",
+      "C": "Máy chiếu",
+      "D": "Máy in",
+      "True": "A"
+    },
+    {
+      "id": "21",
+      "Q": "Giao thức nào dưới đây là giao thức điều khiển truyền tải dữ liệu?",
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "TCP",
+      "D": "SMTP",
+      "True": "C"
+    },
+    {
+      "id": "22",
+      "Q": "Thiết bị nào được sử dụng để kết nối mạng với Internet qua đường truyền điện thoại?",
+      "A": "Switch",
+      "B": "Router",
+      "C": "Modem",
+      "D": "Hub",
+      "True": "C"
+    },
+    {
+      "id": "23",
+      "Q": "Giao thức nào sau đây được sử dụng để truyền tải email?",
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "SMTP",
+      "D": "POP3",
+      "True": "C"
+    },
+    {
+      "id": "24",
+      "Q": "Phương án nào sau đây là vai trò chính của router trong mạng?",
+      "A": "Kết nối các thiết bị trong một mạng LAN",
+      "B": "Chuyển tiếp dữ liệu giữa các mạng khác nhau",
+      "C": "Lưu trữ dữ liệu tạm thời",
+      "D": "Điều khiển truy cập vào mạng",
+      "True": "B"
+    },
+    {
+      "id": "25",
+      "Q": "FTP là giao thức có chức năng nào sau đây?",
+      "A": "Giao thức truyền tải tập tin",
+      "B": "Giao thức truyền tải email",
+      "C": "Giao thức truyền tải dữ liệu",
+      "D": "Giao thức truyền tải trang web",
+      "True": "A"
+    },
+    {
+      "id": "26",
+      "Q": "Hành động nào sau đây phù hợp khi nhận được tin tức gây hoang mang trên mạng?",
+      "A": "Lan truyền ngay lập tức để mọi người cùng biết.",
+      "B": "Kiểm chứng thông tin trước khi chia sẻ.",
+      "C": "Tạo thêm các câu chuyện liên quan để tăng tính hấp dẫn.",
+      "D": "Bình luận công kích người đăng.",
+      "True": "B"
+    },
+    {
+      "id": "27",
+      "Q": "Phương án nào sau đây thể hiện tính trách nhiệm khi tham gia giao tiếp trong không gian mạng?",
+      "A": "Chia sẻ thông tin theo quan điểm cá nhân không cần kiểm chứng.",
+      "B": "Tuân thủ pháp luật và chuẩn mực đạo đức.",
+      "C": "Bày tỏ quan điểm bằng cách chỉ trích người khác thẳng thắn.",
+      "D": "Công khai mọi thông tin cá nhân để tăng sự minh bạch.",
+      "True": "B"
+    },
+    {
+      "id": "28",
+      "Q": "Hành động nào sau đây là nhân văn khi thấy một người bạn bị bắt nạt trực tuyến?",
+      "A": "Đồng tình với ý kiến của nhóm bắt nạt để tránh bị liên lụy.",
+      "B": "Lặng lẽ rời nhóm trò chuyện để tránh liên quan.",
+      "C": "Can thiệp bằng cách khuyên bảo hoặc báo cáo để bảo vệ nạn nhân.",
+      "D": "Không thực hiện hành động nào vì sợ bị phản ứng tiêu cực.",
+      "True": "C"
+    },
+    {
+      "id": "29",
+      "Q": "Chức năng chia sẻ ổ đĩa và thư mục của hệ điều hành giúp thực hiện nhiệm vụ nào sau đây?",
+      "A": "Lưu trữ dữ liệu trong bộ nhớ ngoài.",
+      "B": "Cho phép các máy tính khác truy cập tài nguyên được chia sẻ.",
+      "C": "Quản lý mật khẩu người dùng trên hệ thống.",
+      "D": "Cài đặt các phần mềm hỗ trợ làm việc nhóm một cách hiệu quả.",
+      "True": "B"
+    },
+    {
+      "id": "30",
+      "Q": "Phương án nào sau đây mô tả đúng hoạt động của máy in khi thiết lập chia sẻ máy in dùng chung trong mạng?",
+      "A": "Chỉ máy tính kết nối trực tiếp với máy in mới có thể in tài liệu.",
+      "B": "Máy in có thể nhận lệnh in từ các máy tính khác trong cùng mạng được cấp quyền.",
+      "C": "Máy in sẽ tự động kết nối với mọi máy tính trong mạng mà không cần cài đặt thêm.",
+      "D": "Chỉ máy tính có quyền quản trị mạng mới được sử dụng máy in.",
+      "True": "B"
+    },
+    {
+      "id": "31",
+      "Q": "Khi tham gia các hoạt động trực tuyến và giao tiếp trong không gian mạng, đâu là hành động phù hợp để bảo vệ thông tin cá nhân và tài khoản trực tuyến của người dùng?",
+      "A": "Sử dụng mật khẩu dễ nhớ và không cần thay đổi thường xuyên.",
+      "B": "Cung cấp thông tin cá nhân chỉ khi trang web hoặc ứng dụng có độ bảo mật cao và đáng tin cậy.",
+      "C": "Chia sẻ thông tin cá nhân trên tất cả các nền tảng mạng xã hội để kết nối với mọi người.",
+      "D": "Tắt các phần mềm bảo mật để tăng hiệu suất của thiết bị khi duyệt web.",
+      "True": "B"
+    },
+    {
+      "id": "32",
+      "Q": "Trong các phát biểu sau, đâu là mô tả đúng về ứng xử nhân văn trong không gian mạng?",
+      "A": "Tôn trọng quyền riêng tư và sử dụng ngôn ngữ đúng mực.",
+      "B": "Mạo danh và lan truyền thông tin sai.",
+      "C": "Phê phán mọi ý kiến khác biệt.",
+      "D": "Đánh giá người khác dựa trên bề ngoài.",
+      "True": "A"
+    },
+    {
+      "id": "33",
+      "Q": "Khi giao tiếp trong không gian mạng, nên tránh hành vi nào sau đây?",
+      "A": "Chia sẻ tấm gương sống đẹp trong cộng đồng.",
+      "B": "Chia sẻ thông tin cá nhân của người khác.",
+      "C": "Chủ động tìm hiểu thông tin trước khi đưa ra ý kiến.",
+      "D": "Chia sẻ hình ảnh đẹp về quê hương, đất nước.",
+      "True": "B"
+    },
+    {
+      "id": "34",
+      "Q": "Phương án nào là điểm khác nhau của switch và hub?",
+      "A": "Hình dạng.",
+      "B": "Số cổng.",
+      "C": "Cách thức hoạt động.",
+      "D": "Màu sắc.",
+      "True": "C"
+    },
+    {
+      "id": "35",
+      "Q": "Phương án nào là tên gọi khác của mạng cục bộ?",
+      "A": "mạng WAN.",
+      "B": "mạng PAN.",
+      "C": "mạng MAN.",
+      "D": "mạng LAN.",
+      "True": "D"
+    },
+    {
+      "id": "36",
+      "Q": "Phương án nào sau đây là chức năng của Router?",
+      "A": "Bộ chuyển mạch.",
+      "B": "Bộ thu phát không dây.",
+      "C": "Bộ định tuyến.",
+      "D": "Bộ chia tín hiệu.",
+      "True": "C"
+    },
+    {
+      "id": "37",
+      "Q": "Thiết bị nào sau đây xác định cổng kết nối giữa thiết bị gửi và thiết bị nhận, sau đó thiết lập tạm thời kênh truyền giữa hai cổng kết nối để truyền dữ liệu và huỷ kết nối sau khi hoàn thành việc truyền?",
+      "A": "Switch.",
+      "B": "Router.",
+      "C": "Hub.",
+      "D": "Modem.",
+      "True": "A"
+    },
+    {
+      "id": "38",
+      "Q": "Wireless Access Point (WAP) có chức năng gì nào sau đây?",
+      "A": "Chuyển đổi tín hiệu từ tín hiệu số sang tín hiệu tương tự và ngược lại, thường dùng khi kết nối LAN với Internet.",
+      "B": "Dùng để kết nối các máy tính trong cùng LAN trực tiếp qua cáp mạng.",
+      "C": "Dùng để kết nối các thiết bị đầu cuối qua sóng Wi-Fi giúp giảm chi phí thiết lập LAN hoặc kết nối với một LAN để mở rộng phạm vi làm việc.",
+      "D": "Dùng để dẫn đường cho dữ liệu khi kết nối trên mạng diện rộng như Internet.",
+      "True": "C"
+    },
+    {
+      "id": "39",
+      "Q": "Phương án nào sau đây là một thiết bị mạng có nhiệm vụ chuyển đổi tín hiệu số thành tín hiệu analog và ngược lại?",
+      "A": "Switch",
+      "B": "Router",
+      "C": "Modem",
+      "D": "Access Point",
+      "True": "C"
+    },
+    {
+      "id": "40",
+      "Q": "Đáp án nào sau đây không phải là chức năng của Access Point?",
+      "A": "Kết nối thiết bị không dây vào mạng LAN",
+      "B": "Mở rộng phạm vi phủ sóng wifi",
+      "C": "Chuyển tiếp dữ liệu giữa các thiết bị qua địa chỉ MAC",
+      "D": "Tạo ra mạng wifi không dây",
+      "True": "C"
+    },
+    {
+      "id": "41",
+      "Q": "Phương án nào sau đây mô tả đúng chức năng của Switch trong mạng máy tính?",
+      "A": "Kết nối các thiết bị trong mạng LAN và chuyển tiếp dữ liệu theo địa chỉ IP",
+      "B": "Tạo ra mạng wifi không dây cho các thiết bị kết nối",
+      "C": "Kết nối các thiết bị trong mạng LAN và chuyển tiếp dữ liệu theo địa chỉ MAC",
+      "D": "Tạo kết nối giữa các mạng khác nhau",
+      "True": "C"
+    },
+    {
+      "id": "42",
+      "Q": "Đáp án nào sau đây mô tả chính xác chức năng của Router?",
+      "A": "Kết nối mạng LAN với internet",
+      "B": "Chuyển tiếp dữ liệu giữa các thiết bị trong mạng LAN",
+      "C": "Chuyển đổi tín hiệu số sang tín hiệu analog",
+      "D": "Kết nối các mạng khác nhau và xác định đường đi của dữ liệu",
+      "True": "D"
+    },
+    {
+      "id": "43",
+      "Q": "Đáp án nào sau đây là một phương tiện vật lý dùng để truyền tải dữ liệu trong mạng?",
+      "A": "Modem",
+      "B": "Router",
+      "C": "Cáp mạng",
+      "D": "Switch",
+      "True": "C"
+    },
+    {
+      "id": "44",
+      "Q": "Phương án nào sau đây không phải là giao thức mạng phổ biến?",
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "SMTP",
+      "D": "RJ45",
+      "True": "D"
+    },
+    {
+      "id": "45",
+      "Q": "Đáp án nào sau đây là chức năng của giao thức TCP?",
+      "A": "Định tuyến dữ liệu từ thiết bị gửi đến thiết bị nhận",
+      "B": "Đảm bảo tính toàn vẹn của dữ liệu và kiểm soát luồng",
+      "C": "Xác định địa chỉ IP của các thiết bị trong mạng",
+      "D": "Tạo kết nối giữa các mạng khác nhau",
+      "True": "B"
+    },
+    {
+      "id": "46",
+      "Q": "Phương án nào sau đây mô tả đúng chức năng của giao thức IP?",
+      "A": "Quản lý kết nối và đảm bảo độ tin cậy của các gói dữ liệu",
+      "B": "Đảm bảo tốc độ truyền tải dữ liệu ổn định",
+      "C": "Cung cấp địa chỉ IP và định tuyến dữ liệu",
+      "D": "Truyền tải siêu văn bản trên internet",
+      "True": "C"
+    },
+    {
+      "id": "47",
+      "Q": "Phương án nào sau đây là giao thức được sử dụng để truyền tải email?",
+      "A": "SMTP",
+      "B": "HTTP",
+      "C": "FTP",
+      "D": "IMAP",
+      "True": "A"
+    },
+    {
+      "id": "48",
+      "Q": "Đáp án nào sau đây là đặc điểm của giao thức TCP/IP?",
+      "A": "Dùng để truyền tải siêu văn bản trên web",
+      "B": "Không có cơ chế kiểm soát lỗi",
+      "C": "Chỉ sử dụng địa chỉ MAC để định tuyến dữ liệu",
+      "D": "Cung cấp độ tin cậy cao và kiểm soát luồng",
+      "True": "D"
+    },
+    {
+      "id": "49",
+      "Q": "Phương án nào sau đây không phải là chức năng của hệ điều hành trong mạng máy tính?",
+      "A": "Quản lý tài nguyên mạng",
+      "B": "Chia sẻ tài nguyên và dữ liệu giữa các thiết bị",
+      "C": "Cung cấp dịch vụ mạng cho thiết bị ngoại vi",
+      "D": "Chỉ hỗ trợ kết nối internet không dây",
+      "True": "D"
+    },
+    {
+      "id": "50",
+      "Q": "Phương án nào sau đây không phải là một giao thức truyền tải dữ liệu?",
+      "A": "FTP",
+      "B": "HTTP",
+      "C": "SMTP",
+      "D": "SSH",
+      "True": "D"
+    },
+    {
+      "id": "51",
+      "Q": "Phương án nào sau đây đúng về ưu điểm của giao tiếp trong không gian mạng?",
+      "A": "Chỉ diễn ra trong thời gian cố định.",
+      "B": "Tiêu tốn nhiều thời gian và chi phí.",
+      "C": "Có thể diễn ra mọi lúc, mọi nơi.",
+      "D": "Hạn chế số lượng người tham gia.",
+      "True": "C"
+    },
+    {
+      "id": "52",
+      "Q": "Pháp luật trong không gian mạng có vai trò nào sau đây?",
+      "A": "Bảo vệ quyền và lợi ích hợp pháp của người dùng.",
+      "B": "Cho phép tự do đăng tải mọi loại thông tin.",
+      "C": "Không can thiệp vào các hoạt động trực tuyến.",
+      "D": "Bắt buộc người dùng phải chia sẻ thông tin cá nhân.",
+      "True": "A"
+    },
+    {
+      "id": "53",
+      "Q": "Giao tiếp trong không gian mạng không có ưu điểm nào sau đây?",
+      "A": "Giao tiếp được mọi lúc, mọi nơi.",
+      "B": "Hỗ trợ người khuyết tật dễ dàng giao tiếp.",
+      "C": "Luôn đảm bảo tính bảo mật cao.",
+      "D": "Giảm rào cản trong giao tiếp ban đầu.",
+      "True": "C"
+    },
+    {
+      "id": "54",
+      "Q": "Phương án nào sau đây làm giảm hiệu quả giao tiếp trong không gian mạng?",
+      "A": "Kết nối ổn định và nhanh chóng.",
+      "B": "Người dùng dễ bị phân tâm bởi các yếu tố khác.",
+      "C": "Có nhiều công cụ hỗ trợ giao tiếp.",
+      "D": "Không giới hạn không gian giao tiếp.",
+      "True": "B"
+    },
+    {
+      "id": "55",
+      "Q": "Phương án nào sau đây đúng về giao tiếp trong không gian mạng?",
+      "A": "Qua các phương tiện kĩ thuật trên nền tảng số.",
+      "B": "Trực tiếp tại địa điểm cụ thể.",
+      "C": "Chỉ qua điện thoại.",
+      "D": "Bằng thư tay và gặp mặt trực tiếp.",
+      "True": "A"
+    },
+    {
+      "id": "56",
+      "Q": "Phương án nào sau đây vi phạm pháp luật trong không gian mạng?",
+      "A": "Đăng tải thông tin sai lệch gây hoang mang dư luận.",
+      "B": "Kiểm soát quyền riêng tư khi chia sẻ thông tin.",
+      "C": "Sử dụng mật khẩu mạnh để bảo vệ tài khoản.",
+      "D": "Thể hiện thái độ tôn trọng khi tranh luận.",
+      "True": "A"
+    },
+    {
+      "id": "57",
+      "Q": "Phương án nào sau đây sai về nguyên tắc ứng xử nhân văn trong không gian mạng?",
+      "A": "Bảo vệ thông tin cá nhân và tôn trọng quyền riêng tư của người khác.",
+      "B": "Chia sẻ mọi thông tin tìm thấy trên không gian mạng.",
+      "C": "Sử dụng ngôn từ lịch sự trong giao tiếp trực tuyến.",
+      "D": "Hỗ trợ và giúp đỡ nhau trên mạng.",
+      "True": "B"
+    },
+    {
+      "id": "58",
+      "Q": "Phương tiện nào sau đây không là công cụ giao tiếp trong không gian mạng?",
+      "A": "Thư điện tử.",
+      "B": "Mạng xã hội.",
+      "C": "Thư tay.",
+      "D": "Ứng dụng nhắn tin.",
+      "True": "C"
+    },
+    {
+      "id": "59",
+      "Q": "Phương án nào sau đây là ưu điểm của giao tiếp trong không gian mạng?",
+      "A": "Kết nối và trao đổi thông tin nhanh chóng, thuận tiện.",
+      "B": "Tất cả thông tin khi giao tiếp đều đáng tin cậy.",
+      "C": "Có thể thay thế hoàn toàn giao tiếp trực tiếp trong đời sống.",
+      "D": "Đảm bảo mọi thông tin cá nhân luôn được bảo mật tuyệt đối.",
+      "True": "A"
+    },
+    {
+      "id": "60",
+      "Q": "Biện pháp nào sau đây đúng về tự bảo vệ trên không gian mạng?",
+      "A": "Chia sẻ mật khẩu cá nhân công khai.",
+      "B": "Tắt tính năng bảo mật hai lớp trên tài khoản.",
+      "C": "Thiết lập chế độ bảo mật thông tin phù hợp.",
+      "D": "Đăng tải thông tin không rõ nguồn gốc.",
+      "True": "C"
+    },
+    {
+      "id": "61",
+      "Q": "Phương án nào sau đây hạn chế hiểu lầm khi giao tiếp trong không gian mạng?",
+      "A": "Gửi tin nhắn thật nhanh mà không cần suy nghĩ nhiều.",
+      "B": "Sử dụng ngôn ngữ rõ ràng, tránh từ ngữ dễ gây nhầm lẫn.",
+      "C": "Chia sẻ tất cả thông tin tìm thấy trên mạng.",
+      "D": "Luôn dùng biểu tượng cảm xúc thay thế nội dung tin nhắn.",
+      "True": "B"
+    },
+    {
+      "id": "62",
+      "Q": "Phương án nào sau đây là nhược điểm khi chia sẻ thông tin trong không gian mạng?",
+      "A": "Dễ bị giả mạo và lan truyền không kiểm chứng.",
+      "B": "Cần nhiều thời gian truyền tải thông tin.",
+      "C": "Hạn chế nhiều người tiếp cận thông tin.",
+      "D": "Không thể chia sẻ thông tin dạng hình ảnh và tài liệu.",
+      "True": "A"
+    },
+    {
+      "id": "63",
+      "Q": "Phương án nào sau đây sai về ứng xử có văn hóa trong không gian mạng?",
+      "A": "Tôn trọng cảm xúc và ý kiến của người khác.",
+      "B": "Tuyên truyền các nội dung tích cực vì cộng đồng.",
+      "C": "Phổ biến thông tin vi phạm pháp luật.",
+      "D": "Kiểm soát lời nói khi giao tiếp trên mạng.",
+      "True": "C"
+    },
+    {
+      "id": "64",
+      "Q": "Phương án nào sau đây thể hiện sự nhân văn khi gặp bình luận tiêu cực trên mạng?",
+      "A": "Phản bác ngay lập tức bằng những lời lẽ nặng nề.",
+      "B": "Giữ bình tĩnh, trả lời lịch sự hoặc chọn cách phớt lờ.",
+      "C": "Đăng tải thông tin cá nhân của người bình luận.",
+      "D": "Lập tài khoản ảo để tiếp tục tranh cãi.",
+      "True": "B"
+    },
+    {
+      "id": "65",
+      "Q": "Phương án nào sau đây nói về mục tiêu rèn luyện ý thức đạo đức khi giao tiếp trong không gian mạng?",
+      "A": "Hành xử tùy ý không cần tuân theo chuẩn mực.",
+      "B": "Thường xuyên đánh giá và cải thiện hành vi của bản thân.",
+      "C": "Dùng ngôn ngữ bạo lực thể hiện quan điểm.",
+      "D": "Thường xuyên chia sẻ thông tin thiếu trung thực.",
+      "True": "B"
+    },
+    {
+      "id": "66",
+      "Q": "Biện pháp nào sau đây không bảo mật thông tin cá nhân?",
+      "A": "Đặt mật khẩu mạnh và không chia sẻ cho người khác.",
+      "B": "Sử dụng phần mềm bảo mật để bảo vệ tài khoản.",
+      "C": "Đăng tải công khai thông tin nhạy cảm lên mạng xã hội.",
+      "D": "Kiểm soát quyền riêng tư khi chia sẻ thông tin.",
+      "True": "C"
+    },
+    {
+      "id": "67",
+      "Q": "Biện pháp nào sau đây phù hợp để bảo vệ quyền riêng tư khi giao tiếp trong không gian mạng?",
+      "A": "Công khai mọi thông tin cá nhân để dễ kết nối.",
+      "B": "Không đổi mật khẩu tránh bị quên.",
+      "C": "Cài đặt quyền riêng tư hợp lí.",
+      "D": "Lan truyền mọi bài viết để tăng tương tác.",
+      "True": "C"
+    },
+    {
+      "id": "68",
+      "Q": "Phương án nào sau đây là rủi ro khi thiếu bảo mật thông tin cá nhân trong không gian mạng?",
+      "A": "Tăng khả năng tương tác trên mạng.",
+      "B": "Nguy cơ bị đánh cắp dữ liệu cá nhân.",
+      "C": "Tiết kiệm chi phí giao tiếp.",
+      "D": "Giảm khoảng cách địa lí khi kết nối.",
+      "True": "B"
+    },
+    {
+      "id": "69",
+      "Q": "Hành động nào sau đây phù hợp khi một người bạn chia sẻ thông tin sai lệch trên mạng xã hội?",
+      "A": "Ngay lập tức chỉ trích và công khai sai lầm của họ.",
+      "B": "Báo cáo bài viết và khuyên họ kiểm chứng thông tin.",
+      "C": "Bỏ qua vì không liên quan đến mình.",
+      "D": "Chia sẻ lại thông tin mà không cần kiểm chứng.",
+      "True": "B"
+    },
+    {
+      "id": "70",
+      "Q": "Hành động nào sau đây đảm bảo giao tiếp hiệu quả khi tham gia một cuộc họp trực tuyến?",
+      "A": "Luôn giữ micro mở để sẵn sàng phát biểu.",
+      "B": "Ngắt lời người khác để tranh luận ý kiến cá nhân.",
+      "C": "Tập trung lắng nghe nội dung của người trình bày.",
+      "D": "Làm việc khác trong khi họp để tiết kiệm thời gian.",
+      "True": "C"
+    },
+    {
+      "id": "T1",
+      "Q": "AI đã và đang phát triển nhanh chóng, đóng vai trò then chốt trong nền kinh tế số, ngày càng trở nên “thông minh” và có khả năng giải quyết những vấn đề phức tạp.",
+      "type": "true_false_set",
+      "questions": [
         {
-            "Q": "Cơ sở dữ liệu là gì?",
-            "A": "Một cấu trúc tổ chức dữ liệu.",
-            "B": "Một phần mềm để lưu trữ dữ liệu.",
-            "C": "Một tập hợp các file dữ liệu.",
-            "D": "Một mô hình quản lý máy tính.",
-            "True": "A"
+          "text": "“AI có thể giúp doanh nghiệp sử dụng nguyên liệu hiệu quả hơn và giảm lãng phí trong quá trình sản xuất” là một thành tựu của Trí tuệ nhân tạo trong lĩnh vực tài chính.",
+          "correct": false
         },
         {
-            "Q": "HeidiSQL là một công cụ quản lý Cơ sở dữ liệu nào?",
-            "A": "MongoDB.",
-            "B": "MySQL.",
-            "C": "Oracle.",
-            "D": "SQL Server.",
-            "True": "B"
+          "text": "Thị giác máy tính góp phần phát triển các hệ thống AI để điều khiển phương tiện tự lái.",
+          "correct": true
         },
         {
-            "Q": "Trong truy xuất dữ liệu qua các liên kết bảng, khái niệm nào mô tả việc kết nối dữ liệu từ nhiều bảng để lấy thông tin từ các dòng tương ứng?",
-            "A": "Truy vấn.",
-            "B": "Gộp.",
-            "C": "Khoá ngoại.",
-            "D": "Nhóm.",
-            "True": "B"
+          "text": "Trong ngành sản xuất công nghiệp, AI có thể dự đoán thời tiết và tác động của nó đối với sản xuất cây trồng, giúp nông dân quản lý nguồn lực hiệu quả hơn.",
+          "correct": false
         },
         {
-            "Q": "Để tối ưu hiệu suất khi thực hiện sao lưu cơ sở dữ liệu, nên thực hiện quá trình sao lưu vào thời điểm nào trong chu kỳ làm việc của hệ thống?",
-            "A": "Ngày cuối tuần.",
-            "B": "Ngày đầu tuần.",
-            "C": "Sau mỗi lần có thay đổi dữ liệu.",
-            "D": "Thời gian ít người sử dụng hệ thống nhất.",
-            "True": "D"
-        },
-        {
-            "Q": "Các bước để thực hiện thao tác xoay ảnh trong GIMP là:",
-            "A": "Chọn Layer > Rotate.",
-            "B": "Chọn File > Open.",
-            "C": "Chọn Edit > Cut.",
-            "D": "Chọn View > Zoom In.",
-            "True": "A"
-        },
-        {
-            "Q": "Công cụ nào trong GIMP được sử dụng để điều chỉnh độ sáng của một hình ảnh?",
-            "A": "Brush tool.",
-            "B": "Brightness/Contrast tool.",
-            "C": "Crop tool.",
-            "D": "Eraser tool.",
-            "True": "B"
-        },
-        {
-            "Q": "Công cụ nào trong GIMP được sử dụng chủ yếu để vẽ các đường, hình ảnh và hình dạng cơ bản?",
-            "A": "Clone Tool.",
-            "B": "Eraser Tool.",
-            "C": "Brush Tool.",
-            "D": "Gradient Tool.",
-            "True": "C"
-        },
-        {
-            "Q": "Trong GIMP, để khóa một lớp ảnh và ngăn chuyển động không mong muốn, nên thực hiện thao tác nào sau đây?",
-            "A": "Nhóm lớp.",
-            "B": "Tạo lớp mới.",
-            "C": "Xóa lớp.",
-            "D": "Khóa lớp.",
-            "True": "D"
-        },
-        {
-            "Q": "VideoPad là gì?",
-            "A": "Phần mềm chỉnh sửa ảnh.",
-            "B": "Phần mềm chỉnh sửa âm thanh.",
-            "C": "Phần mềm làm phim.",
-            "D": "Phần mềm chỉnh sửa văn bản.",
-            "True": "C"
-        },
-        {
-            "Q": "Làm thế nào để tạo hiệu ứng chuyển cảnh trong phim?",
-            "A": "Sử dụng công cụ chuyển đổi video để chuyển video.",
-            "B": "Sử dụng công cụ cắt ghép để cắt và kéo các đoạn phim vào dự án.",
-            "C": "Sử dụng công cụ chỉnh sửa đồ họa để tạo hiệu ứng chuyển cảnh.",
-            "D": "Sử dụng công cụ chuyển đổi để tạo hiệu ứng chuyển cảnh.",
-            "True": "B"
-        },
-        {
-            "Q": "Làm thế nào để thêm phụ đề vào một đoạn video trong GIMP?",
-            "A": "Chọn \"File\" > \"New Subtitle\" > Nhập nội dung phụ đề > Xác nhận.",
-            "B": "Chọn \"Layer\" > \"Add Subtitle\" > Nhập nội dung > Xác nhận.",
-            "C": "Mở \"Text\" tool > Kéo đoạn vùng cần thêm phụ đề > Nhập nội dung.",
-            "D": "Mở \"Subtitle\" panel > Nhấp chuột phải vào video > Chọn \"Add Subtitle\" > Nhập nội dung.",
-            "True": "C"
-        },
-        {
-            "Q": "Để xuất file ảnh ở định dạng JPG trong GIMP, nên sử dụng tùy chọn nào sau đây?",
-            "A": "File > Export As.",
-            "B": "Edit > Copy.",
-            "C": "View > Show Grid.",
-            "D": "Layer > New Layer.",
-            "True": "A"
-        },
-        {
-            "Q": "Trong GIMP, để làm cho một đối tượng trong ảnh nổi bật hơn bằng cách làm cho màu sắc của nó trở nên độc đáo, bạn sẽ sử dụng lệnh nào dưới đây?",
-            "A": "Colors à Hue-Saturation.",
-            "B": "Filters à Blur à Gaussian Blur.",
-            "C": "Colors à Desaturate.",
-            "D": "Tools à Transform Tools à Rotate.",
-            "True": "A"
-        },
-        {
-            "Q": "Tiến trình nào sau đây không thể bị ngăn trong phần mềm làm phim?",
-            "A": "Chuyển đổi màu sắc.",
-            "B": "Tạo hiệu ứng chuyển động.",
-            "C": "Sắp xếp các lớp.",
-            "D": "Đổi kích thước hình ảnh.",
-            "True": "A"
-        },
-        {
-            "Q": "Làm thế nào để đồng bộ hóa thời gian hiển thị của phụ đề với video trong GIMP?",
-            "A": "Chọn \"Subtitle\" panel > Nhập thời điểm bắt đầu và kết thúc của phụ đề.",
-            "B": "Chọn \"Layer\" > \"Sync Subtitles\" > Nhập thời điểm bắt đầu và kết thúc.",
-            "C": "Kéo thanh trượt thời gian trên \"Timeline\" panel > Khi đến thời điểm mong muốn, thêm phụ đề.",
-            "D": "Nhấp đúp vào phụ đề trên \"Timeline\" panel > Điều chỉnh thời gian bắt đầu và kết thúc.",
-            "True": "D"
-        },
-        {
-            "Q": "Làm thế nào để tạo một lớp mới khi muốn thực hiện thao tác cắt ảnh mà không làm thay đổi ảnh gốc trong GIMP?",
-            "A": "Chọn Image > Resize.",
-            "B": "Chọn File > Save.",
-            "C": "Chọn Edit > Paste.",
-            "D": "Chọn Layer > New Layer.",
-            "True": "D"
-        },
-        {
-            "Q": "Làm thế nào để áp dụng một hiệu ứng màu sắc duyệt qua toàn bộ ảnh trong GIMP?",
-            "A": "Mở hộp thoại \"Filters\" và chọn mục \"Colors\" để chọn hiệu ứng mong muốn.",
-            "B": "Sử dụng công cụ \"Clone\" để sao chép màu từ một vùng khác.",
-            "C": "Chọn công cụ \"Eraser\" và lau màu trắng lên hình ảnh.",
-            "D": "Nhấp chuột trái và kéo chọn vùng cần áp dụng hiệu ứng màu.",
-            "True": "A"
-        },
-        {
-            "Q": "Công cụ Paint Brush trong GIMP được sử dụng chủ yếu để:",
-            "A": "Tạo vùng chọn.",
-            "B": "Vẽ và màu sắc trên hình ảnh.",
-            "C": "Sao chép nội dung từ một layer sang layer khác.",
-            "D": "Điều chỉnh độ tương phản.",
-            "True": "B"
-        },
-        {
-            "Q": "Trong phần mềm GIMP, để thực hiện thao tác \"trong suốt\" cho một lớp ảnh, bạn cần sử dụng tính năng nào sau đây?",
-            "A": "Chuyển động tự do.",
-            "B": "Mở rộng lớp.",
-            "C": "Đặt mức độ trong suốt.",
-            "D": "Chuyển đổi độ sáng.",
-            "True": "C"
-        },
-        {
-            "Q": "Để điều chỉnh độ sáng và độ tương phản của video, cần sử dụng lệnh nào sau đây?",
-            "A": "Filters > Distorts > Lens Distortion.",
-            "B": "Filters > Artistic > Oilify.",
-            "C": "Image > Transform > Flip Horizontally.",
-            "D": "Colors > Brightness-Contrast.",
-            "True": "D"
-        },
-        {
-            "Q": "Khi import video, VideoPad hỗ trợ các định dạng video nào?",
-            "A": "AVIMOV và MKV.",
-            "B": "MP4, MOV và FLV.",
-            "C": "Tất cả các định dạng video trên thị trường",
-            "D": "AVI, WMV và MP4.",
-            "True": "D"
-        },
-        {
-            "Q": "Để thực hiện hiệu ứng chuyển cảnh \"Blur Transition\" trong GIMP, bạn sẽ sử dụng lệnh nào dưới đây?",
-            "A": "Layer > Effects > Blur Transition.",
-            "B": "Filters > Blur > Transition.",
-            "C": "Edit > Transition > Blur.",
-            "D": "Colors > Transition > Blur.",
-            "True": "B"
-        },
-        {
-            "Q": "Khi muốn xác định thời gian hiển thị của mỗi lớp trong ảnh động, bạn sử dụng tính năng nào trong GIMP?",
-            "A": "Layer > Merge Down.",
-            "B": "Layer > Layer Properties.",
-            "C": "Filters > Animation > Playback.",
-            "D": "Layer > Layer to Image Size.",
-            "True": "B"
-        },
-        {
-            "Q": "Muốn thay đổi màu nền của một lớp trong hình ảnh để làm nổi bật một đối tượng. Làm thế nào để thực hiện điều này trong GIMP?",
-            "A": "Nhấp đúp vào lớp và chọn \"Edit\" > \"Fill with Color\".",
-            "B": "Kéo và thả màu mới từ bảng chọn màu lên lớp cần thay đổi.",
-            "C": "Chọn \"Image\" > \"Background Color\" và chọn màu mới.",
-            "D": "Click chuột phải vào lớp và chọn \"Change Background Color\".",
-            "True": "B"
-        },
-        {
-            "Q": "MySQL là gì?",
-            "A": "Hệ quản trị cơ sở dữ liệu.",
-            "B": "Một ngôn ngữ lập trình.",
-            "C": "Một loại hệ điều hành.",
-            "D": "Một trình duyệt web.",
-            "True": "A"
-        },
-        {
-            "Q": "Công cụ nào được sử dụng để tạo lập cơ sở dữ liệu và các bảng đơn giản với phần mềm HeidiSQL?",
-            "A": "Microsoft Excel.",
-            "B": "HeidiSQL.",
-            "C": "Adobe Photoshop.",
-            "D": "Notepad.",
-            "True": "B"
-        },
-        {
-            "Q": "Trong cơ sở dữ liệu quan hệ, khái niệm nào mô tả quá trình truy xuất dữ liệu thông qua việc kết nối các bảng theo các khóa ngoại?",
-            "A": "Tích hợp.",
-            "B": "Trích xuất.",
-            "C": "Nối (Join).",
-            "D": "Lọc (Filter).",
-            "True": "C"
-        },
-        {
-            "Q": "Khi thực hiện phục hồi cơ sở dữ liệu, phương pháp nào giúp khôi phục toàn bộ cơ sở dữ liệu từ một bản sao lưu đầy đủ?",
-            "A": "Phục hồi đơn (Single restore).",
-            "B": "Phục hồi tập trung (Centralized restore).",
-            "C": "Phục hồi mục tiêu (Targeted restore).",
-            "D": "Phục hồi đa điểm (Point-in-time restore).",
-            "True": "A"
-        },
-        {
-            "Q": "Độ phân giải của ảnh số được đo bằng đơn vị nào?",
-            "A": "Pixel.",
-            "B": "Inch.",
-            "C": "Centimeter.",
-            "D": "Megabyte.",
-            "True": "A"
-        },
-        {
-            "Q": "Trong GIMP, để xoay một ảnh, cần sử dụng công cụ nào sau đây?",
-            "A": "Pencil tool.",
-            "B": "Rotate.",
-            "C": "Cutting knife.",
-            "D": "Flashlight.",
-            "True": "B"
-        },
-        {
-            "Q": "Thao tác nào sau đây không phải là một cách để thay đổi thứ tự lớp trong GIMP?",
-            "A": "Kéo và thả lớp trong bảng Lớp.",
-            "B": "Sử dụng lệnh \"Lớp\" > \"Chuyển lớp lên trên\" hoặc \"Chuyển lớp xuống dưới\".",
-            "C": "Nhấn Ctrl + T.",
-            "D": "Chuột phải vào lớp và chọn \"Chuyển lớp\".",
-            "True": "C"
-        },
-        {
-            "Q": "Làm thế nào để gộp hai lớp ảnh với nhau trong GIMP?",
-            "A": "Chọn Select > Invert.",
-            "B": "Chọn File > Open.",
-            "C": "Chọn Image > Adjustments.",
-            "D": "Chọn Layer > Merge Down.",
-            "True": "D"
-        },
-        {
-            "Q": "Làm cách nào để thay đổi kích thước video trong VideoPad?",
-            "A": "Sử dụng tính năng Brightness and Contrast.",
-            "B": "Sử dụng tính năng Color Correction.",
-            "C": "Sử dụng tính năng Crop and Resize.",
-            "D": "Sử dụng tính năng Hue and Saturation.",
-            "True": "C"
-        },
-        {
-            "Q": "Biên tập phim là gì?",
-            "A": "Quá trình quay phim và chụp hình.",
-            "B": "Quá trình xuất phim.",
-            "C": "Quá trình phát sóng và quảng bá sản phẩm.",
-            "D": "Quá trình cắt ghép các đoạn phim để tạo ra một sản phẩm hoàn chỉnh.",
-            "True": "D"
-        },
-        {
-            "Q": "Trong quá trình xây dựng kịch bản cho phim hoạt hình, bước nào quan trọng nhất để phát triển cốt truyện?",
-            "A": "Chọn môi trường làm phim.",
-            "B": "Thiết lập kịch bản kỹ thuật.",
-            "C": "Lựa chọn âm nhạc nền.",
-            "D": "Xây dựng nhân vật chính.",
-            "True": "D"
-        },
-        {
-            "Q": "Để cắt một phần nào đó của ảnh, bạn sẽ sử dụng lệnh nào trong GIMP?",
-            "A": "Sử dụng Crop Image từ menu Image.",
-            "B": "Chọn Resize Selection từ menu Select.",
-            "C": "Chọn Rotate Selection từ menu Tools.",
-            "D": "Sử dụng Zoom In để cắt.",
-            "True": "A"
-        },
-        {
-            "Q": "Công cụ chọn thường được sử dụng để xóa bỏ các đối tượng không mong muốn trong hình ảnh. Tuy nhiên, công cụ này có thể bị hạn chế nếu:",
-            "A": "Đối tượng cần xóa bị che khuất bởi các đối tượng khác.",
-            "B": "Hình ảnh có quá nhiều đối tượng.",
-            "C": "Hình ảnh quá lớn.",
-            "D": "Máy tính không đủ bộ nhớ để xử lý hình ảnh.",
-            "True": "A"
-        },
-        {
-            "Q": "VideoPad hỗ trợ những định dạng video nào?",
-            "A": "MP3, WAV, WMA.",
-            "B": "MP4, AVI, WMV.",
-            "C": "JPEG, PNG, BMP.",
-            "D": "PDF, DOC, TXT.",
-            "True": "B"
-        },
-        {
-            "Q": "Làm thế nào để tạo hiệu ứng âm thanh đặc biệt cho hội thoại trong VideoPad khi làm phim hoạt hình?",
-            "A": "Chọn \"Audio Transitions\" và chọn hiệu ứng âm thanh mong muốn.",
-            "B": "Kéo và thả file âm thanh vào video để tự động áp dụng hiệu ứng.",
-            "C": "Sử dụng chức năng \"Pitch Shift\" trong tab \"Audio Effects\".",
-            "D": "Nhấp chuột phải vào hội thoại và chọn \"Add Sound Effect\".",
-            "True": "C"
-        },
-        {
-            "Q": "Hộp chức năng nào trong GIMP chủ yếu liên quan đến việc điều chỉnh độ sáng, độ tương phản và màu sắc của ảnh?",
-            "A": "Layers.",
-            "B": "Tools.",
-            "C": "Filters.",
-            "D": "Colors.",
-            "True": "D"
-        },
-        {
-            "Q": "Bạn muốn tạo một con mắt có màu sắc đặc biệt trong bức ảnh chân dung. Công cụ nào trong GIMP sẽ giúp bạn thực hiện điều này?",
-            "A": "Hue/Saturation.",
-            "B": "Burn Tool.",
-            "C": "Dodge Tool.",
-            "D": "Smudge Tool.",
-            "True": "A"
-        },
-        {
-            "Q": "Công cụ nào trong phần mềm GIMP được sử dụng để tạo hiệu ứng màu Gradient?",
-            "A": "Brush.",
-            "B": "Gradient.",
-            "C": "Eraser.",
-            "D": "Clone.",
-            "True": "B"
-        },
-        {
-            "Q": "Làm thế nào để thêm hiệu ứng \"Lưới điểm\" cho ảnh trong GIMP?",
-            "A": "Chọn Filter > Artistic > Mosaic.",
-            "B": "Sử dụng Layer > New Layer > Pattern.",
-            "C": "Vào Image > Adjustments > Pixelate.",
-            "D": "Mở Colors > Desaturate.",
-            "True": "A"
-        },
-        {
-            "Q": "Lệnh nào dùng để sử dụng nhạc nền đi kèm mẫu trong VideoPad?",
-            "A": "Load my mucsic.",
-            "B": "Add music.",
-            "C": "No mucsic.",
-            "D": "Use Theme Music.",
-            "True": "D"
-        },
-        {
-            "Q": "Khi import video, VideoPad hỗ trợ các định dạng video nào?",
-            "A": "AVI, MOV và MKV.",
-            "B": "MP4, MOV và FLV.",
-            "C": "Tất cả các định dạng video trên thị trường",
-            "D": "AVI, WMV và MP4.",
-            "True": "D"
-        },
-        {
-            "Q": "Trong quá trình làm phim hoạt hình với phần mềm VideoPad, chức năng nào giúp bạn bổ sung hội thoại vào video?",
-            "A": "Mosaic Tool.",
-            "B": "Color Correction.",
-            "C": "Text Effects.",
-            "D": "Speed Adjustment.",
-            "True": "C"
-        },
-        {
-            "Q": "Trong quá trình tạo ảnh động hình tròn xoay từ các hình dấu gạch trong GIMP, bước nào là quan trọng nhất để đảm bảo tính chuyển động mượt mà?",
-            "A": "Chọn mẫu hình dấu gạch phù hợp.",
-            "B": "Thiết lập số lượng khung hình (frames) đủ.",
-            "C": "Xác định tâm xoay của hình tròn.",
-            "D": "Áp dụng hiệu ứng xoay động cho từng khung hình.",
-            "True": "B"
-        },
-        {
-            "Q": "Lệnh nào trong GIMP bạn sử dụng để điều chỉnh độ tương phản của ảnh?",
-            "A": "Colors > Brightness-Contrast.",
-            "B": "Filters > Blur > Gaussian Blur.",
-            "C": "Image > Scale Image.",
-            "D": "Layer > New Layer.",
-            "True": "A"
-        },
-        {
-            "Q": "MySQL là một hệ quản trị CSDL miễn phí, được sử dụng phổ biến trong các ứng dụng quản lý.",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "MySQL là một hệ quản trị CSDL mã nguồn mở.", "correct": true},
-                {"text": "MySQL chỉ được sử dụng trong các ứng dụng nhỏ, không phù hợp với các hệ thống lớn.", "correct": false},
-                {"text": "MySQL có ưu điểm là gọn nhẹ, tốc độ xử lý nhanh và hỗ trợ quản lý tính nhất quán của dữ liệu.", "correct": true},
-                {"text": "Người dùng có thể tải và cài đặt MySQL miễn phí từ trang web chính thức.", "correct": true}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "HeidiSQL là một phần mềm hỗ trợ giao tiếp với hệ quản trị CSDL MySQL.",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "HeidiSQL có giao diện dòng lệnh, yêu cầu người dùng phải nhớ cú pháp các lệnh.", "correct": false},
-                {"text": "HeidiSQL là một phần mềm miễn phí, có giao diện đồ họa thân thiện với người dùng.", "correct": true},
-                {"text": "HeidiSQL hỗ trợ kết nối với nhiều hệ quản trị CSDL khác nhau, không chỉ MySQL.", "correct": true},
-                {"text": "Người dùng có thể sử dụng HeidiSQL để tạo lập CSDL, tạo bảng, cập nhật và truy xuất dữ liệu.", "correct": true}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Để kết nối với MySQL, cần phải nhập đúng tên người dùng và mật khẩu.",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "Mật khẩu của người dùng root được tạo trong quá trình cài đặt MySQL.", "correct": true},
-                {"text": "Có thể kết nối với MySQL mà không cần mật khẩu.", "correct": false},
-                {"text": "Việc nhập đúng tên người dùng và mật khẩu giúp đảm bảo an toàn cho hệ thống CSDL.", "correct": true},
-                {"text": "Nếu quên mật khẩu, người dùng có thể sử dụng các công cụ khôi phục mật khẩu hoặc cài đặt lại MySQL.", "correct": true}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Một nhóm học sinh sử dụng điện thoại, laptop và máy tính trong phòng học để chia sẻ dữ liệu. Các bạn thử kết nối bằng Bluetooth, Wi-Fi và dây mạng. Trong quá trình sử dụng, có lúc kết nối bị yếu hoặc mất tín hiệu khi di chuyển xa. Giáo viên yêu cầu nhóm đánh giá các nhận định sau:",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "Bluetooth chỉ hoạt động hiệu quả trong phạm vi ngắn, thường dưới 10m.", "correct": true},
-                {"text": "Wi-Fi luôn ổn định hơn kết nối có dây trong mọi trường hợp.", "correct": false},
-                {"text": "Dây mạng Ethernet dùng để kết nối các thiết bị trong mạng có dây.", "correct": true},
-                {"text": "Hai thiết bị muốn dùng Bluetooth phải có kết nối Internet.", "correct": false}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Trong một gia đình, nhiều thiết bị như tivi, điện thoại và laptop cùng truy cập Internet thông qua một router Wi-Fi. Một số thiết bị được kết nối bằng dây mạng để tăng độ ổn định. Trong quá trình sử dụng, các thành viên đưa ra các nhận định khác nhau:",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "Router có chức năng chia sẻ kết nối Internet cho nhiều thiết bị.", "correct": true},
-                {"text": "Kết nối có dây thường ổn định hơn kết nối không dây.", "correct": true},
-                {"text": "Wi-Fi không cần thiết bị phát sóng vẫn có thể hoạt động.", "correct": false},
-                {"text": "Mạng LAN thường chỉ hoạt động trong phạm vi nhỏ.", "correct": true}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Một nhóm học sinh được giao thiết kế website giới thiệu trường. Nhóm bắt đầu thu thập nội dung, thiết kế giao diện và tìm hiểu về tên miền, hosting. Tuy nhiên, do thiếu kinh nghiệm nên có nhiều ý kiến chưa chính xác. Hãy xác định đúng sai:",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "Website cần xác định đối tượng người dùng trước khi thiết kế.", "correct": true},
-                {"text": "Tên miền là địa chỉ giúp người dùng truy cập website.", "correct": true},
-                {"text": "Hosting là nơi lưu trữ dữ liệu website trên Internet.", "correct": true},
-                {"text": "Giao diện website không ảnh hưởng đến trải nghiệm người dùng.", "correct": false}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Một cá nhân muốn tạo website bán hàng trực tuyến. Người này bắt đầu xây dựng nội dung mà chưa lập kế hoạch cụ thể về cấu trúc và chức năng. Sau khi hoàn thành, website gặp nhiều lỗi và khó sử dụng. Hãy đánh giá các nhận định:",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "Cần lập kế hoạch trước khi xây dựng website.", "correct": true},
-                {"text": "Nội dung website phải phù hợp với mục tiêu sử dụng.", "correct": true},
-                {"text": "Website không cần phân chia thành các trang nhỏ.", "correct": false},
-                {"text": "Sơ đồ website giúp tổ chức cấu trúc nội dung hợp lý.", "correct": true}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Một nhân viên quản lý danh sách học sinh bằng bảng dữ liệu. Hằng ngày, người này thêm dữ liệu mới, chỉnh sửa thông tin sai và tìm kiếm học sinh theo yêu cầu. Trong quá trình làm việc, có nhiều nhận định được đưa ra:",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "Cập nhật dữ liệu bao gồm thêm, sửa và xóa dữ liệu.", "correct": true},
-                {"text": "Truy xuất dữ liệu là lấy thông tin theo điều kiện.", "correct": true},
-                {"text": "Không cần kiểm tra dữ liệu khi nhập vào bảng.", "correct": false},
-                {"text": "Mỗi bản ghi trong bảng nên là duy nhất.", "correct": true}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Một hệ thống quản lý lưu trữ dữ liệu học sinh trong bảng. Khi nhập dữ liệu, hệ thống yêu cầu đúng định dạng và không cho phép trùng lặp khóa chính. Người dùng cũng có thể tìm kiếm và lọc dữ liệu theo yêu cầu. Hãy đánh giá:",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "Dữ liệu cần có cấu trúc rõ ràng và hợp lệ.", "correct": true},
-                {"text": "Có thể truy xuất dữ liệu bằng cách tìm kiếm hoặc lọc.", "correct": true},
-                {"text": "Bảng dữ liệu không cần khóa chính.", "correct": false},
-                {"text": "Có thể cập nhật dữ liệu bất cứ lúc nào.", "correct": true}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Một hệ thống quản lý học sinh gồm bảng \"Lớp\" và bảng \"Học sinh\". Bảng \"Học sinh\" có trường mã lớp để liên kết với bảng \"Lớp\". Khi nhập dữ liệu, hệ thống kiểm tra tính hợp lệ của mã lớp. Hãy xác định đúng sai:",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "Khóa ngoại dùng để liên kết giữa các bảng.", "correct": true},
-                {"text": "Giá trị khóa ngoại phải tồn tại trong bảng được tham chiếu.", "correct": true},
-                {"text": "Có thể nhập mã lớp không tồn tại vào bảng học sinh.", "correct": false},
-                {"text": "Liên kết bảng giúp giảm trùng lặp dữ liệu.", "correct": true}
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Một cơ sở dữ liệu gồm nhiều bảng liên kết với nhau để quản lý thông tin. Khi xóa dữ liệu ở bảng chính, hệ thống có thể ảnh hưởng đến các bảng liên quan nếu không xử lý đúng. Người quản lý đưa ra các nhận định sau:",
-            "type": "true_false_set",
-            "questions": [
-                {"text": "Không phải mọi bảng đều bắt buộc phải liên kết với bảng khác.", "correct": true},
-                {"text": "Xóa dữ liệu ở bảng chính có thể ảnh hưởng đến bảng phụ.", "correct": true},
-                {"text": "Khóa chính dùng để xác định duy nhất mỗi bản ghi.", "correct": true},
-                {"text": "Không cần đảm bảo tính toàn vẹn dữ liệu khi liên kết bảng.", "correct": false}
-            ],
-            "True": "T"
+          "text": "Trong lĩnh vực y tế, AI được sử dụng để phát triển các hệ thống chẩn đoán bệnh, giúp bác sĩ đưa ra chẩn đoán chính xác và nhanh chóng.",
+          "correct": true
         }
-    ]
+      ]
+    },
+    {
+      "id": "T2",
+      "Q": "Một bệnh viện đang triển khai AI để phân tích ảnh MRI và phát hiện sớm các khối u não, giúp bác sĩ lên kế hoạch phẫu thuật nhanh chóng.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Đây là một ví dụ ứng dụng của AI trong lĩnh vực y tế.",
+          "correct": true
+        },
+        {
+          "text": "Hệ thống AI chỉ hoạt động khi có kết nối với máy chụp MRI.",
+          "correct": false
+        },
+        {
+          "text": "AI hỗ trợ bác sĩ bằng cách phân tích hình ảnh y khoa để phát hiện bất thường chính xác hơn.",
+          "correct": true
+        },
+        {
+          "text": "Công nghệ này có thể được mở rộng để điều khiển robot phẫu thuật tự động trong tương lai.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "T3",
+      "Q": "Công ty B sử dụng mạng LAN để kết nối các máy tính trong văn phòng. Họ quyết định nâng cấp hệ thống lên mạng WLAN để các thiết bị không dây như điện thoại thông minh và máy tính bảng có thể kết nối.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Chỉ có thể sử dụng Access Point để tạo mạng WLAN.",
+          "correct": false
+        },
+        {
+          "text": "Nâng cấp từ mạng LAN lên WLAN cho phép các thiết bị không dây kết nối mạng mà không cần sử dụng cáp mạng.",
+          "correct": true
+        },
+        {
+          "text": "Duy trì kết nối mạng cho các thiết bị có dây trong văn phòng, cần giữ lại thiết bị mạng Switch.",
+          "correct": true
+        },
+        {
+          "text": "WLAN có thể giúp nhân viên di chuyển trong văn phòng mà vẫn duy trì kết nối mạng cho các thiết bị của họ.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "T4",
+      "Q": "Minh sử dụng Laptop để tạo điểm phát Wifi (Mobile Hotspot) bằng cách chia sẻ kết nối mạng di động. Sau đó, Minh dùng điện thoại để kết nối vào mạng Wifi mà Laptop đã phát.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Mobile Hotspot cho phép chia sẻ kết nối Internet từ Laptop cho các thiết bị khác qua Wifi.",
+          "correct": true
+        },
+        {
+          "text": "Điện thoại có thể kết nối vào mạng Wifi do Laptop phát mà không cần cài đặt thêm phần mềm.",
+          "correct": true
+        },
+        {
+          "text": "Laptop phải có kết nối Internet thì mới có thể bật và sử dụng tính năng Mobile Hotspot.",
+          "correct": true
+        },
+        {
+          "text": "Mobile Hotspot chỉ hoạt động khi Laptop kết nối Internet bằng Wifi, không thể chia sẻ kết nối nếu sử dụng mạng có dây.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "T5",
+      "Q": "Mai là học sinh lớp 12, thường xuyên sử dụng các nền tảng trực tuyến trao đổi bài tập và tham gia các lớp học thêm online.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Mai có thể kết nối mọi người dễ dàng hơn không phụ thuộc không gian, thời gian.",
+          "correct": true
+        },
+        {
+          "text": "Tín hiệu mạng chập chờn khiến cuộc thảo luận bị gián đoạn là một nhược điểm của giao tiếp qua mạng nhưng không thể ảnh hưởng đến hiệu quả giao tiếp.",
+          "correct": false
+        },
+        {
+          "text": "Mai có thể sử dụng các biểu tượng cảm xúc trong ứng dụng nhắn tin để diễn đạt đầy đủ các trạng thái cảm xúc khi giao tiếp trực tuyến.",
+          "correct": true
+        },
+        {
+          "text": "Mai có thể sử dụng giao tiếp qua mạng thay thế hoàn toàn giao tiếp trực tiếp truyền thống vì nhanh chóng, tiện lợi.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "T6",
+      "Q": "Nam được học về giao tiếp trên không gian mạng và biết rằng khi tham gia vào các nền tảng mạng xã hội, việc cư xử văn minh và tôn trọng người khác là điều rất quan trọng.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Luôn sử dụng ngôn từ lịch sự, tôn trọng người khác và tránh những lời lẽ thô tục, gây tổn thương.",
+          "correct": true
+        },
+        {
+          "text": "Chia sẻ thông tin sai sự thật về người khác mà không kiểm chứng nguồn gốc không ảnh hưởng đến uy tín của bạn.",
+          "correct": false
+        },
+        {
+          "text": "Xâm phạm quyền riêng tư của người khác là điều có thể chấp nhận được trên không gian mạng.",
+          "correct": false
+        },
+        {
+          "text": "Khi không đồng ý với ý kiến của người khác, bạn có thể tấn công cá nhân đó để bảo vệ quan điểm của mình.",
+          "correct": false
+        }
+      ]
+    }
+  ]
 }
