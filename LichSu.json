@@ -1,474 +1,529 @@
 {
-    "Mon": "Lịch Sử",
-    "QA": [
+  "Mon": "Lịch sử",
+  "QA": [
+    {
+      "id": "q_01",
+      "Q": "Đâu là một trong những nội dung của mục tiêu, hành động mang tính toàn cầu đến năm 2030 của Liên hợp quốc?",
+      "A": "Chống nạn thất nghiệp.",
+      "B": "Quyền tự do chính trị.",
+      "C": "Chống bạo lực gia đình.",
+      "D": "Chất lượng giáo dục.",
+      "True": "D"
+    },
+    {
+      "id": "q_02",
+      "Q": "Đâu không phải là mục tiêu của Liên hợp quốc được quy định trong Hiến chương Liên hợp quốc?",
+      "A": "Duy trì tăng trưởng kinh tế, hội nhập quốc tế của các nước thành viên và các tranh chấp về kinh tế giữa các nước thành viên.",
+      "B": "Thúc đẩy hợp tác quốc tế để giải quyết các vấn đề kinh tế, xã hội, văn hóa, nhân đạo.",
+      "C": "Thúc đẩy quan hệ hữu nghị giữa các dân tộc trên cơ sở tôn trọng quyền bình đẳng, quyền tự quyết dân tộc.",
+      "D": "Đóng vai trò là trung tâm điều hòa các nỗ lực quốc tế vì những mục tiêu chung.",
+      "True": "A"
+    },
+    {
+      "id": "q_03",
+      "Q": "Đâu không phải là nguyên tắc cơ bản của Liên hợp quốc?",
+      "A": "Bình đẳng về chủ quyền giữa các quốc gia.",
+      "B": "Tôn trọng toàn vẹn lãnh thổ và độc lập chính trị quốc gia.",
+      "C": "Ưu tiên sử dụng vũ lực về tranh chấp trong quan hệ quốc tế.",
+      "D": "Giải quyết các tranh chấp quốc tế bằng biện pháp hòa bình.",
+      "True": "C"
+    },
+    {
+      "id": "q_04",
+      "Q": "Nội dung nào là cơ sở để tổ chức Liên hợp quốc đề ra nguyên tắc “Giải quyết các tranh chấp quốc tế bằng biện pháp hòa bình” ?",
+      "A": "Hòa bình là nguyện vọng, xu thế của các dân tộc trên thế giới.",
+      "B": "Hòa bình là điều kiện quyết định để duy trì chế độ chính trị.",
+      "C": "Mục đích của Liên hợp quốc là cân bằng lợi ích của các nước.",
+      "D": "Tranh chấp, xung đột xảy ra ở hầu hết các khu vực trên thế giới.",
+      "True": "A"
+    },
+    {
+      "id": "q_05",
+      "Q": "Hội nghị I-an-ta (2/1945) được tiến hành trong giai đoạn nào của Chiến tranh thế giới thứ hai?",
+      "A": "Vừa mới kết thúc.",
+      "B": "Bùng nổ và lan rộng.",
+      "C": "Giai đoạn sắp kết thúc.",
+      "D": "Đang diễn ra ác liệt.",
+      "True": "C"
+    },
+    {
+      "id": "q_06",
+      "Q": "“Trật tự thế giới hai cực I-an-ta” sau Chiến tranh thế giới thứ hai bị chi phối bởi hai cường quốc nào?",
+      "A": "Mỹ và Đức.",
+      "B": "Mỹ và Anh.",
+      "C": "Mỹ và Trung Quốc.",
+      "D": "Mỹ và Liên Xô.",
+      "True": "D"
+    },
+    {
+      "id": "q_07_1",
+      "Q": "Quyết định nào sau đây không phải là của Hội nghị I-an-ta (2/1945)?",
+      "A": "Thành lập tổ chức quốc tế là Liên hợp quốc.",
+      "B": "Thống nhất tiêu diệt chủ nghĩa phát xít.",
+      "C": "Hình thành trật tự thế giới mới.",
+      "D": "Phân chia phạm vi ảnh hưởng.",
+      "True": "C"
+    },
+    {
+      "id": "q_08",
+      "Q": "Mục tiêu chung được các cường quốc thỏa thuận trong hội nghị I-an-ta (2/1945) là",
+      "A": "chấm dứt tình trạng nội chiến ở Trung Quốc, Áo và Phần Lan.",
+      "B": "thủ tiêu chủ nghĩa thực dân và chủ nghĩa phân biệt chủng tộc.",
+      "C": "xây dựng nước Đức trở thành quốc gia thống nhất và dân chủ.",
+      "D": "tiêu diệt tận gốc phát xít Đức và chủ nghĩa quân phiệt Nhật Bản.",
+      "True": "D"
+    },
+    {
+      "id": "q_09",
+      "Q": "Để tiêu diệt chủ nghĩa quân phiệt Nhật Bản và nhanh chóng kết thúc chiến tranh, hội nghị I-an-ta đã quyết định",
+      "A": "Anh, Pháp, Mỹ sẽ tham gia chiến tranh chống Nhật ở châu Âu.",
+      "B": "Anh và Liên Xô tiêu diệt lực lượng quân Nhật tại Trung Quốc.",
+      "C": "Liên Xô sẽ đánh Nhật ở Châu Á sau khi đánh bại phát xít Đức.",
+      "D": "Liên Xô không đưa quân đội tham gia chống Nhật tại Châu Á.",
+      "True": "C"
+    },
+    {
+      "id": "q_10_1",
+      "Q": "Một trong những khu vực được hội nghị I-an-ta (1945) quy định thuộc phạm vi ảnh hưởng của Liên Xô là",
+      "A": "Tây Âu.",
+      "B": "Đông Âu.",
+      "C": "Nhật Bản.",
+      "D": "Triều Tiên.",
+      "True": "B"
+    },
+    {
+      "id": "q_10_2",
+      "Q": "Một trong những khu vực được hội nghị I-an-ta (1945) quy định thuộc phạm vi ảnh hưởng của Mỹ là",
+      "A": "Tây Âu.",
+      "B": "Đông Âu.",
+      "C": "Mông Cổ.",
+      "D": "Trung Đông.",
+      "True": "A"
+    },
+    {
+      "id": "q_11",
+      "Q": "Đâu là ranh giới phân chia phạm vi chiếm đóng Triều Tiên của Mỹ và Liên Xô được Hội nghị I-an-ta (2/1945) quy định?",
+      "A": "Vĩ tuyến 38.",
+      "B": "Sông Áp Lục.",
+      "C": "Vĩ tuyền 17.",
+      "D": "Cảng Icheon.",
+      "True": "A"
+    },
+    {
+      "id": "q_12",
+      "Q": "Trật tự thế giới mới được hình thành sau chiến tranh thế giới thứ hai (1945) là",
+      "A": "đơn cực.",
+      "B": "I-an-ta.",
+      "C": "Vec-xai.",
+      "D": "đa cực.",
+      "True": "B"
+    },
+    {
+      "id": "q_13",
+      "Q": "Theo quyết định của Hội nghị Ianta (2 - 1945), quốc gia nào dưới đây cần trở thành một quốc gia thống nhất và dân chủ?",
+      "A": "Mông Cổ.",
+      "B": "Nhật Bản.",
+      "C": "Trung Quốc.",
+      "D": "Triều Tiên.",
+      "True": "B"
+    },
+    {
+      "id": "q_14",
+      "Q": "Xu thế chủ đạo trong quan hệ giữa các cường quốc sau Chiến tranh lạnh là",
+      "A": "đối thoại, thỏa hiệp, tránh xung đột trực tiếp.",
+      "B": "tôn trọng vai trò của Liên hợp quốc.",
+      "C": "hợp tác, không cạnh tranh, không mâu thuẫn.",
+      "D": "hòa bình, không xung đột, tiến hành hợp tác.",
+      "True": "A"
+    },
+    {
+      "id": "q_15",
+      "Q": "Một trong những biểu hiện của xu thế Toàn cầu hóa là",
+      "A": "sự gia tăng của thương mại thế giới.",
+      "B": "mâu thuẫn giữa hai siêu cường Xô, Mỹ.",
+      "C": "xu thế hòa hoãn Đông, Tây thế kỷ XX.",
+      "D": "thế giới đã chia thành hai cực, hai phe.",
+      "True": "A"
+    },
+    {
+      "id": "q_16",
+      "Q": "Nội dung nào sau đây phản ánh đúng quan hệ quốc tế trong những năm đầu thế kỉ XXI?",
+      "A": "Liên Xô và Mỹ suy giảm sức mạnh, ngày càng chịu sự cạnh tranh của các nước khác.",
+      "B": "Các nước có tiềm lực kinh tế, quân sự mạnh đóng vai trò chi phối quan hệ quốc tế.",
+      "C": "Trật tự hai cực I-an-ta từng bước được thiết lập, chi phối phần lớn quan hệ quốc tế.",
+      "D": "Trung Quốc là cường quốc số 1 thế giới, vươn lên lãnh đạo hệ thống xã hội chủ nghĩa.",
+      "True": "B"
+    },
+    {
+      "id": "q_17",
+      "Q": "Một trong những biểu tượng cho sự kết thúc Chiến tranh lạnh là",
+      "A": "Liên Xô chính thức sụp đổ (1991).",
+      "B": "bức tường Béc-lin sụp đố (11/1989).",
+      "C": "chiến tranh Việt Nam kết thúc (1975).",
+      "D": "vấn đề Nam Xu-đăng được giải quyết.",
+      "True": "B"
+    },
+    {
+      "id": "q_18",
+      "Q": "Tổ chức nào sau đây là tổ chức liên kết kinh tế thương mại lớn nhất thế giới?",
+      "A": "WTO",
+      "B": "APEC",
+      "C": "ASEM",
+      "D": "NAFTA.",
+      "True": "A"
+    },
+    {
+      "id": "q_19",
+      "Q": "Một trong những biểu tượng cho sự kết thúc của Chiến tranh lạnh là",
+      "A": "sự xuất hiện của xu thế toàn cầu hóa.",
+      "B": "Bức tường Béc-lin sụp đổ (1989).",
+      "C": "Mỹ sang thăm Liên Xô (1972).",
+      "D": "Mỹ sang thăm Trung Quốc (1972).",
+      "True": "B"
+    },
+    {
+      "id": "q_20",
+      "Q": "Nội dung nào dưới đây không phải là yếu tố dẫn đến sự ra đời của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "A": "Hạn chế ảnh hưởng từ bên ngoài vào khu vực.",
+      "B": "Tác động của xu thế toàn cầu hóa.",
+      "C": "Nhu cầu hợp tác giữa các nước để phát triển.",
+      "D": "Sự phát triển của xu thế liên kết khu vực.",
+      "True": "B"
+    },
+    {
+      "id": "q_21",
+      "Q": "Năm 2009, ASEAN thông qua lộ trình xây dựng Cộng đồng ASEAN với ba trụ cột chính gồm:",
+      "A": "Chính trị - An ninh; Kinh tế; Văn hóa - Xã hội.",
+      "B": "Chính trị - An ninh; Năng lượng; Văn hóa.",
+      "C": "Chính trị - An ninh; Kinh tế; Văn hóa – Giáo dục.",
+      "D": "Chính trị - Quân sự; Kinh tế ASEAN; Xã hội.",
+      "True": "A"
+    },
+    {
+      "id": "q_22",
+      "Q": "Đâu không phải là mục đích khi thành lập ASEAN?",
+      "A": "Tăng cường hợp tác kinh tế, văn hóa, xã hội.",
+      "B": "Phấn đấu để ASEAN trở thành tổ chức bao gồm tất cả các quốc gia châu Á.",
+      "C": "Tạo điều kiện cho các nước thành viên phát triển và hội nhập với khu vực, thế giới.",
+      "D": "Phấn đấu để Đông Nam Á trở thành khu vực hòa bình, tự do, thịnh vượng.",
+      "True": "B"
+    },
+    {
+      "id": "q_23",
+      "Q": "Nước nào sau đây ở Đông Nam Á không phải là nước tham gia kí tuyên bố về việc thành lập Hiệp hội các quốc gia Đông Nam Á vào năm 1967?",
+      "A": "In-đô-nê-xi-a.",
+      "B": "Ma-lai-xi-a.",
+      "C": "Bru-nây.",
+      "D": "Phi-líp-pin.",
+      "True": "C"
+    },
+    {
+      "id": "q_24",
+      "Q": "Yếu tố nào sau đây đã thúc đẩy các nước trong khu vực Đông Nam Á thành lập tổ chức ASEAN?",
+      "A": "Các quốc gia cần thấy cần phải đoàn kết với nhau để giành độc lập.",
+      "B": "Các cường quốc trên thế giới đang tìm cách can thiệp vào khu vực.",
+      "C": "Nền kinh tế của các nước Đông Nam Á đang khủng hoảng trầm trọng đòi hỏi phải hợp tác với nhau.",
+      "D": "Xu thế toàn cầu hóa đã thúc đẩy các quốc gia liên kết lại để giải quyết các vấn đề mang tính chất toàn cầu.",
+      "True": "B"
+    },
+    {
+      "id": "q_25",
+      "Q": "Ý nào dưới đây không đúng về bối cảnh lịch sử đưa đến xu hướng mở rộng thành viên của tổ chức ASEAN từ đầu những năm 90 của thế kỉ XX?",
+      "A": "Chiến tranh lạnh đã kết thúc.",
+      "B": "Vấn đề Cam-pu-chia đã được giải quyết.",
+      "C": "Chống lại sự hình thành trật tự đa cực.",
+      "D": "Tình hình chính trị khu vực được cải thiện.",
+      "True": "C"
+    },
+    {
+      "id": "q_26",
+      "Q": "Trong những sự kiện dưới đây sự kiện nào đánh dấu sự khởi sắc trong hoạt động của tổ chức ASEAN?",
+      "A": "Vấn đề Cam-pu-chia được giải quyết năm 1991.",
+      "B": "Hiệp ước Ba-li được kí kết năm 1976.",
+      "C": "Việt Nam gia nhập vào tổ chức năm 1995.",
+      "D": "Thông qua Hiến chương ASEAN (2007).",
+      "True": "B"
+    },
+    {
+      "id": "q_27",
+      "Q": "Mục tiêu tổng quát của ASEAN là",
+      "A": "Đoàn kết và hợp tác vì một ASEAN hòa bình, ổn định, cùng phát triển.",
+      "B": "Phát triển kinh tế, văn hóa, giáo dục và tiến bộ xã hội của các nước thành viên.",
+      "C": "Xây dựng Đông Nam Á thành một khu vực có tốc độ tăng trưởng kinh tế cao nhất thế giới.",
+      "D": "Giải quyết những khác biệt trong nội bộ liên quan đến mối quan hệ giữa ASEAN với các tổ chức quốc tế khác.",
+      "True": "A"
+    },
+    {
+      "id": "q_28",
+      "Q": "Theo Tuyên bố Ba-li (1976), cơ chế hoạt động cao nhất của ASEAN được xác định tại",
+      "A": "Hội nghị Thượng đỉnh.",
+      "B": "Hội nghị Ngoại trưởng.",
+      "C": "Hội nghị Bộ trưởng quốc phòng.",
+      "D": "Hội nghị ASEAN+3.",
+      "True": "A"
+    },
+    {
+      "id": "q_29",
+      "Q": "ASEAN đã thực hiện nội dung nào sau đây trong quá trình phát triển của mình để tạo nền tảng xây dựng một cộng đồng ASEAN?",
+      "A": "Cải thiện quan hệ với các nước trong khu vực.",
+      "B": "Kết nạp thêm các thành viên mới.",
+      "C": "Cải thiện quan hệ với các nước Đông Dương.",
+      "D": "Kết nạp thành viên ở ngoài khu vực.",
+      "True": "B"
+    },
+    {
+      "id": "q_30",
+      "Q": "Văn kiện nào sau đây xác định mục tiêu đưa ASEAN trở thành một nhóm hài hòa các dân tộc Đông Nam Á gắn bó trong một cộng đồng các xã hội đùm bọc lẩn nhau?",
+      "A": "Tầm nhìn ASEAN 2010.",
+      "B": "Tầm nhìn ASEAN 2015.",
+      "C": "Tầm nhìn ASEAN 2020.",
+      "D": "Tầm nhìn ASEAN 2025.",
+      "True": "C"
+    },
+    {
+      "id": "q_31",
+      "Q": "Hội nghị Cấp cao ASEAN lần thứ 37 năm 2020 được tổ chức tại",
+      "A": "Thái Lan.",
+      "B": "Cam-pu-chia.",
+      "C": "Ma-lai-xi-a.",
+      "D": "Hà Nội.",
+      "True": "D"
+    },
+    {
+      "id": "q_32",
+      "Q": "Ý nào dưới đây không phải là lĩnh vực của mục tiêu xây dựng Cộng đồng ASEAN?",
+      "A": "kinh tế.",
+      "B": "chính trị - an ninh.",
+      "C": "văn hóa - xã hội.",
+      "D": "nghệ thuật - văn hóa.",
+      "True": "D"
+    },
+    {
+      "id": "q_33",
+      "Q": "Bối cảnh khi xây dựng Cộng đồng ASEAN là",
+      "A": "Liên Xô – Trung Quốc đang cạnh tranh gay gắt.",
+      "B": "chiến tranh lạnh dần suy yếu.",
+      "C": "nhu cầu hợp tác và phát triển của ASEAN.",
+      "D": "quan hệ Xô – Mỹ diễn ra gay gắt.",
+      "True": "B"
+    },
+    {
+      "id": "q_34",
+      "Q": "Nội dung nào dưới đây không phải là mục tiêu của Cộng đồng ASEAN?",
+      "A": "Tạo dựng một khu vực hòa bình, ổn định, thịnh vượng và phát triển.",
+      "B": "Thúc đẩy hợp tác giữa các nước thành viên trong các lĩnh vực kinh tế, văn hóa, xã hội và an ninh.",
+      "C": "Nâng cao vị thế của ASEAN trên trường quốc tế.",
+      "D": "Tạo dựng sự cạnh tranh, phát triển kinh tế của các quốc gia.",
+      "True": "D"
+    },
+    {
+      "id": "q_35",
+      "Q": "Đâu không phải là trụ cột của Cộng đồng ASEAN?",
+      "A": "Cộng đồng Chia sẻ tương lai.",
+      "B": "Cộng đồng Chính trị - An ninh ASEAN.",
+      "C": "Cộng đồng Kinh tế ASEAN.",
+      "D": "Cộng đồng Văn hóa – Xã hội ASEAN.",
+      "True": "A"
+    },
+    {
+      "id": "q_36",
+      "Q": "Nội dung nào không phải là thách thức của Cộng đồng ASEAN?",
+      "A": "Chính trị ở một số nước còn phức tạp",
+      "B": "Chênh lệch về thu nhập, trình độ phát triển.",
+      "C": "Vị thế đối ngoại ngày càng cao.",
+      "D": "Diễn biến phức tạp trên Biển Đông.",
+      "True": "C"
+    },
+    {
+      "id": "q_37",
+      "Q": "Nội dung nào dưới đây không phải là nội dung chính của Cộng đồng Chính trị - An ninh ASEAN (APSC)?",
+      "A": "Hoạt động giữa các thành viên dựa trên các giá trị, chuẩn mực chung.",
+      "B": "Gắn kết, hòa bình và tự cường, có trách nhiệm chung bảo đảm an ninh toàn diện.",
+      "C": "Nâng hợp tác chính trị - an ninh lên một nấc thang mới.",
+      "D": "Xây dựng cộng đồng các xã hội đùm bọc lẫn nhau, gắn kết xã hội của khu vực.",
+      "True": "D"
+    },
+    {
+      "id": "q_38",
+      "Q": "Nội dung nào dưới đây không phải là nội dung chính của Cộng đồng Kinh tế ASEAN (AEC)?",
+      "A": "Tạo ra một thị trường chung và cơ sở sản xuất thống nhất.",
+      "B": "Xây dựng một khu vực có sức cạnh tranh, phát triển đồng đều.",
+      "C": "Xây dựng một khu vực năng động, quan hệ rộng mở với bên ngoài.",
+      "D": "Đưa kinh tế khu vực hội nhập vào nền kinh tế toàn cầu.",
+      "True": "C"
+    },
+    {
+      "id": "q_39",
+      "Q": "Nội dung nào dưới đây không phải là nội dung chính của Cộng đồng Văn hóa – Xã hội ASEAN (APSC)?",
+      "A": "Tạo dựng môi trường hòa bình và an ninh.",
+      "B": "Chú trọng phát triển con người.",
+      "C": "Xây dựng cộng đồng các xã hội đùm bọc lẫn nhau.",
+      "D": "Tạo ra một thị sản xuất trường chung.",
+      "True": "D"
+    },
+    {
+      "id": "q_40",
+      "Q": "Hội nghị toàn quốc của Đảng Cộng sản Đông Dương họp ở Tân Trào (14-15/8/1945) đã thông qua kế hoạch nào sau đây?",
+      "A": "Thống nhất các lực lượng vũ trang.",
+      "B": "Quyết định khởi nghĩa ở Hà Nội.",
+      "C": "Lãnh đạo toàn dân Tổng khởi nghĩa.",
+      "D": "Giải phóng dân tộc trong năm 1945.",
+      "True": "C"
+    },
+    {
+      "id": "q_41",
+      "Q": "Nội dung nào sau đây là điều kiện khách quan thuận lợi cho Cách mạng tháng Tám nổ ra?",
+      "A": "Chiến tranh thế giới thứ hai đã bùng nổ.",
+      "B": "phát xít Đức đầu hàng quân Đồng minh.",
+      "C": "Mỹ ném bom nguyên tử xuống Nhật Bản.",
+      "D": "Nhật đầu hàng Đồng minh.",
+      "True": "D"
+    },
+    {
+      "id": "q_42",
+      "Q": "Thời cơ khách quan thuận lợi của Cách mạng tháng Tám là sự kiện nào sau đây?",
+      "A": "Nhật đảo chính lật đổ Pháp trên toàn Đông Dương (9/3/1945).",
+      "B": "Mỹ ném hai quả bom nguyên tử xuống Nhật (6, 9/8/1945).",
+      "C": "Đức đã đầu hàng quân Đồng minh vô điều kiện (9/5/1945).",
+      "D": "Phát xít Nhật đầu hàng Đồng minh vô điều kiện (15/8/1945).",
+      "True": "D"
+    },
+    {
+      "id": "q_43",
+      "Q": "Theo những quy định tại hội nghị Pốt-đam, việc giải giáp quân Nhật ở Đông Dương được giao cho những quốc gia nào?",
+      "A": "Anh – Trung Hoa Dân quốc.",
+      "B": "Pháp – Anh.",
+      "C": "Đức – Trung Hoa Dân quốc .",
+      "D": "Mỹ - Pháp.",
+      "True": "A"
+    },
+    {
+      "id": "q_44",
+      "Q": "Đại hội Quốc dân ở Tân Trào từ ngày 16 đến 17/8/1945 đã thông qua nội dung nào?",
+      "A": "Phát lệnh Tổng khởi nghĩa trong cả nước.",
+      "B": "Thành lập Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa.",
+      "C": "Cử ra Ủy ban Dân tộc giải phóng Việt Nam do Hồ Chí Minh làm Chủ tịch.",
+      "D": "Quyết định các chính sách đối nội và đối ngoại của đất nước.",
+      "True": "C"
+    },
+    {
+      "id": "q_45",
+      "Q": "Tổ chức cách mạng nào sau đây đã lãnh đạo nhân dân ta tiến hành cuộc Cách mạng tháng Tám giành được thắng lợi?",
+      "A": "Đảng Cộng sản Đông Dương.",
+      "B": "Đảng Cộng sản Việt Nam.",
+      "C": "Đảng Lao động Việt Nam.",
+      "D": "Việt Nam Quốc dân đảng.",
+      "True": "A"
+    },
+    {
+      "id": "q_46",
+      "Q": "Hình thức đấu tranh nào sau đây không được tiến hành trong Tổng khởi nghĩa tháng Tám (1945)?",
+      "A": "Quân sự.",
+      "B": "Chính trị.",
+      "C": "Binh vận.",
+      "D": "Nghị trường.",
+      "True": "D"
+    },
+    {
+      "id": "q_47",
+      "Q": "Một trong những nguyên nhân khách quan dẫn tới thắng lợi của Cách mạng tháng Tám (1945) là",
+      "A": "những thắng lợi của khối Đồng minh.",
+      "B": "sự chuẩn bị của Đảng trong 15 năm.",
+      "C": "tinh thần đoàn kết của nhân dân.",
+      "D": "sự giúp đỡ của Liên Xô, Trung Quốc.",
+      "True": "A"
+    },
+    {
+      "id": "q_t_01",
+      "Q": "Đọc đoạn tư liệu sau đây: “Duy trì hòa bình và an ninh quốc tế, và để biểu đạt được mục đích đó, thi hành những biện pháp tập thể có hiệu quả để phòng ngừa và loại trừ các mối đe dọa hòa bình, cấm mọi hành vi xâm lược và phá hoại hòa bình khác; điều chỉnh hoặc giải quyết các vụ tranh chấp hoặc những tình thế có tính chất quốc tế có thể đưa đến sự phá hoại hòa bình, bằng biện pháp hòa vình theo đúng nguyên tắc của công lí và pháp luật quốc tế”. (Trích: Điều 1, Hiến chương Liên hợp quốc, ngày 24-10-1945)",
+      "type": "true_false_set",
+      "questions": [
         {
-            "Q": "Nội dung nào sau đây thể hiện tầm quan trọng chiến lược của Biển Đông?",
-            "A": "Là tuyến hàng hải quốc tế nhộn nhịp nhất trên thế giới.",
-            "B": "Là tuyến hàng hải nối Thái Bình Dương với Bắc Băng Dương",
-            "C": "Có nguồi tài nguyên thiên nhiên biển phong phú.",
-            "D": "Là tuyến giao thông hàng hải duy nhất trên biển.",
-            "True": "C"
+          "text": "Đoạn tư liệu thể hiện mục tiêu của Liên hợp quốc là thúc đẩy duy trì hòa bình và hợ tác quốc phòng nhằm đảm bảo nền hòa bình thế giới.",
+          "correct": false
         },
         {
-            "Q": "Nguồn tài nguyên khoáng sản đa dạng trên biển Đông là điều kiện thuận lợi để các nước",
-            "A": "kiểm soát, đảm bảo an ninh giao thông trên biển.",
-            "B": "xây dựng cơ sở hậu cần, kỹ thuật, phục vụ quân sự.",
-            "C": "phát triển hoạt động kinh tế có tầm chiến lược.",
-            "D": "xây dựng các trạm thông tin, trạm dừng chân.",
-            "True": "C"
+          "text": "Để thúc đẩy giải quyết các tranh chấp giữa các quốc gia thành viên, Liên Hợp quốc khuyến khích thông qua các văn bản pháp lý của mỗi nước làm cơ sở để giải quyết.",
+          "correct": false
         },
         {
-            "Q": "Nội dung nào sau đây phản ánh đúng tầm quan trọng của quần đảo Hoàng Sa và Trường Sa đối với Việt Nam về mặt quốc phòng -- an ninh?",
-            "A": "Xây dựng các trạm thông tin, dừng chân, tiếp nhiên liệu cho các tàu.",
-            "B": "Hình thành tuyến phòng thủ nhiều tầng, từ xa đến gần bảo vệ đất liền.",
-            "C": "Tạo thế mạnh cho dịch vụ hàng hải và đánh bắt hải sản trong khu vực",
-            "D": "Giúp xây dựng các khu bảo tồn, trung tâm nghiên cứu sinh vật biển.",
-            "True": "B"
+          "text": "Trong số các mục tiêu của Liên hợp quốc, duy trì hòa bình và an ninh quốc tế là mục tiêu được đặt lên hàng đầu.",
+          "correct": true
         },
         {
-            "Q": "Nội dung nào sau đây không phản ánh đúng tầm quan trọng của quần đảo Hoàng Sa và Trường Sa đối với Việt Nam về mặt kinh tế?",
-            "A": "Tạo thế mạnh về dịch vụ hàng hải cho nước ta trên Biển Đông",
-            "B": "Tạo tuyến phòng thủ nhiều tầng từ xa đến gần để bảo vệ đất liền",
-            "C": "Tạo thế mạnh để phát triển kinh tế du lịch biển đảo cho nước ta",
-            "D": "Tạo thuận lợi để phát triển ngành nuôi trồng, chế biến thủy sản",
-            "True": "B"
-        },
-        {
-            "Q": "Tầm quan trọng chiến lược của quần đảo Hoàng Sa và Trường Sa được thể hiện ở nội dung nào sau đây?",
-            "A": "Đây là hai quần đảo duy nhất thuộc khu vực Biển Đông",
-            "B": "Đây là hai quần đảo lớn nhất thuộc khu vực Biển Đông",
-            "C": "Phục vụ tuyến hàng hải huyết mạch trên Biển Đông",
-            "D": "Là nơi tiếp nhiên liệu duy nhất cho các tàu trên biển",
-            "True": "C"
-        },
-        {
-            "Q": "Đối với Việt Nam, tầm quan trọng chiến lược của quần đảo Trường Sa và quần đảo Hoàng Sa được thể hiện ở điểm nào sau đây ?",
-            "A": "Là tuyến đường duy nhất để Việt Nam xuất khẩu hàng nông sản.",
-            "B": "Đảm bảo nguồn an ninh lương thực cho nhân dân Việt Nam.",
-            "C": "Có ý nghĩa về chiến lược quốc phòng, an ninh, kinh tế biển.",
-            "D": "Là nền tảng duy nhất để Việt Nam phát triển công nghiệp nặng.",
-            "True": "C"
-        },
-        {
-            "Q": "Nội dung nào sau đây phản ánh đúng về tầm quan trọng chiến lược của Biển Đông đối với sự phát triển kinh tế Việt Nam?",
-            "A": "Hệ thống đảo, quần đảo trên Biển Đông chỉ thuận lợi để đầu tư và phát triển du lịch.",
-            "B": "Việt Nam được đánh giá là quốc gia có lợi thế và tiềm năng to lớn về tài nguyên biển.",
-            "C": "Vùng biển rộng lớn với nhiều đảo là không gian trọng yếu để phát triển văn hóa.",
-            "D": "Biển đảo là nguồn cung cấp lương thực chủ yếu cho cuộc sống của nhân dân Việt Nam.",
-            "True": "B"
-        },
-        {
-            "Q": "Đặc điểm chung về vị trí địa lý của quần đảo Hoàng Sa và Trường Sa là",
-            "A": "gần với khu vực đất liền Việt Nam nhất",
-            "B": "nằm ở vị trí trung tâm của Biển Đông",
-            "C": "đều thuộc khu vực miền Bắc Việt Nam",
-            "D": "đều thuộc khu vực miền Nam Việt Nam",
-            "True": "B"
-        },
-        {
-            "Q": "Cả hai quần đảo Hoàng Sa và Trường Sa đều tạo thuận lợi để Việt Nam phát triển ngành kinh tế nào sau đây?",
-            "A": "nông nghiệp lúa nước",
-            "B": "lâm nghiệp",
-            "C": "công nghiệp chế tạo",
-            "D": "khai thác hải sản",
-            "True": "D"
-        },
-        {
-            "Q": "Khu vực nào của Việt Nam không giáp với Biển Đông?",
-            "A": "Tây Bắc.",
-            "B": "Đông Bắc.",
-            "C": "Tây Nam.",
-            "D": "Đông Nam.",
-            "True": "A"
-        },
-        {
-            "Q": "Bờ biển nước ta dài khoảng 3260 km, kéo dài từ",
-            "A": "tỉnh Quảng Ninh đến tỉnh Kiên Giang.",
-            "B": "tỉnh Quảng Ninh đến tỉnh An Giang",
-            "C": "tỉnh Thái Bình đến tỉnh Cà Mau.",
-            "D": "tỉnh Nam định đến tỉnh Bình Thuận.",
-            "True": "A"
-        },
-        {
-            "Q": "Nội dung nào sau đây phản ánh đúng tầm quan trọng của Biển Đông về quốc phòng, an ninh đối với Việt Nam?",
-            "A": "Tạo điều kiện thuận lợi phát triển kinh tế biển đa dạng",
-            "B": "Là cửa ngõ, tuyến phòng thủ bảo vệ đất liền từ xa.",
-            "C": "Là con đường giao thương giữa các vùng trong cả nước.",
-            "D": "Tạo thuận lợi cho Việt Nam phát triển thương mại hàng hải",
-            "True": "B"
-        },
-        {
-            "Q": "Biển Đông nước ta góp phần quan trọng vào việc phát triển các ngành kinh tế trọng điểm, ngoại trừ",
-            "A": "nông nghiệp trồng lúa nước.",
-            "B": "thương mại hàng hải.",
-            "C": "nuôi trồng thủy sản.",
-            "D": "du lịch - dịch vụ.",
-            "True": "A"
-        },
-        {
-            "Q": "Về quốc phòng, an ninh, tầm quan trọng của Biển Đông đối với Việt Nam được thể hiện ở điểm nào sau đây?",
-            "A": "Là nơi có trữ lượng dầu khí lớn nhất thế giới.",
-            "B": "Là nơi có nguồn tài nguyên sinh vật đa dạng.",
-            "C": "Là khu vực tập trung các tuyến đường chiến lược.",
-            "D": "Là tuyến phòng thủ từ phía đông của đất nước.",
-            "True": "D"
-        },
-        {
-            "Q": "Hệ thống các cảng nước sâu và cảng trung bình được xây dựng dọc Biển Đông là điều kiện thuận lợi cho Việt Nam phát triển ngành kinh tế chủ yếu nào sau đây?",
-            "A": "nông nghiệp lúa nước.",
-            "B": "thương mại hàng hải.",
-            "C": "nuôi trồng thủy sản.",
-            "D": "khai thác tài nguyên biển.",
-            "True": "B"
-        },
-        {
-            "Q": "Với vị trí địa lý và tài nguyên phong phú của Biển Đông, Việt Nam có thể khai thác phát triển nhiều ngành mũi nhọn, ngoại trừ",
-            "A": "giao thông hàng hải",
-            "B": "du lịch biển",
-            "C": "công nghiệp khai khoáng",
-            "D": "chăn nuôi gia cầm",
-            "True": "D"
-        },
-        {
-            "Q": "Nội dung nào sau đây không phản ánh đúng tầm quan trọng của Biển Đông về kinh tế đối với Việt Nam?",
-            "A": "Là con đường để Việt Nam giao lưu, hội nhập với các nền văn hóa khác",
-            "B": "Là cửa ngõ để Việt Nam giao lưu kinh tế với các nước khác trên thế giới",
-            "C": "Cung cấp tiềm năng bảo tồn đa dạng sinh học biển và nguồn giống hải sản",
-            "D": "Tạo điều kiện thuận lợi đề phát triển đa dạng nhiều loại hình du lịch biển",
-            "True": "A"
-        },
-        {
-            "Q": "Một trong những bãi biển nổi tiếng của nước ta ở miền Trung, là địa điểm thu hút khách du lịch trong và ngoài nước là",
-            "A": "Hạ Long",
-            "B": "Đà Nẵng",
-            "C": "Phú Quốc",
-            "D": "Cát Bà",
-            "True": "B"
-        },
-        {
-            "Q": "Cảnh quan ở Biển Đông đa dạng với nhiều bãi cát, vịnh, hang động, tạo điều kiện cho Việt Nam phát triển nghành kinh tế mũi nhọn nào sau đây?",
-            "A": "Khai khoáng.",
-            "B": "Du lịch.",
-            "C": "Thương mại.",
-            "D": "Hàng hải .",
-            "True": "B"
-        },
-        {
-            "Q": "Một trong những nguồn tài nguyên quan trọng nhất ở thềm lục địa Việt Nam ở Biển Đông là",
-            "A": "dầu khí.",
-            "B": "gỗ lim.",
-            "C": "cánh kiến.",
-            "D": "đồi mồi.",
-            "True": "A"
-        },
-        {
-            "Q": "Nguồn tài nguyên phong phú của Biển Đông đã tạo điều kiện thuận lợi để Việt Nam phát triển ngành",
-            "A": "dệt may",
-            "B": "khai khoáng",
-            "C": "hàng không",
-            "D": "da giầy",
-            "True": "B"
-        },
-        {
-            "Q": "Quốc gia đầu tiên khai phá, xác lập chủ quyền và quản lý liên tục đối với quần đảo Trường Sa và Hoàng Sa là",
-            "A": "Việt Nam.",
-            "B": "Trung Quốc",
-            "C": "Thái Lan.",
-            "D": "Campuchia.",
-            "True": "A"
-        },
-        {
-            "Q": "Một trong những công trình sử học và địa lí ghi chép về cương vực, lãnh thổ và hoạt động thực thi, bảo vệ chủ quyền của nhà nước phong kiến Việt Nam ở quần đảo Hoàng Sa, quần đảo Trường Sa là",
-            "A": "Đại Nam thực lục.",
-            "B": "Hịch tướng sĩ.",
-            "C": "Bình Ngô đại cáo.",
-            "D": "Ức Trai thi tập.",
-            "True": "A"
-        },
-        {
-            "Q": "Từ thế kỉ XVII đến thế kỉ XIX, tổ chức nào sau đây có nhiệm vụ đến khai thác sản vật, thực thi chủ quyền tại quần đảo Hoàng Sa và Trường Sa?",
-            "A": "Đội Hoàng Sa, Bắc Hải",
-            "B": "Đội Trường Sa, Bắc Hải",
-            "C": "Đội Hoàng Sa, Trường Sa.",
-            "D": "Đội Nam Hải, Đông Hải",
-            "True": "A"
-        },
-        {
-            "Q": "Dưới thời vua Minh Mạng, hoạt động khẳng định chủ quyền đối với quần đảo Hoàng Sa và Trường Sa được thể hiện qua việc",
-            "A": "thành lập các xã đảo, huyện đảo",
-            "B": "dựng miếu, trồng cây ở một số đảo",
-            "C": "xây dựng các trạm khí tượng lớn",
-            "D": "xây dựng các trạm vô tuyến điện",
-            "True": "B"
-        },
-        {
-            "Q": "Dưới thời kì nhà Nguyễn, một trong những biện pháp của Nhà nước nhằm xác lập chủ quyền và quản lý đối với hai quần đảo Hoàng Sa và Trường Sa là",
-            "A": "xây dựng trạm vô tuyến điện",
-            "B": "khảo sát đo vẽ bản đồ",
-            "C": "thành lập các huyện đảo",
-            "D": "xây dựng ngọn hải đăng",
-            "True": "B"
-        },
-        {
-            "Q": "Nội dung nào sau đây không phản ánh đúng nhiệm vụ của hải đội Hoàng Sa và Bắc Hải dưới triều Nguyễn?",
-            "A": "Dựng miếu thờ và trồng cây ở một số đảo",
-            "B": "Đo đạc và cắm dấu mốc tại nơi khảo sát.",
-            "C": "Ngăn tàu thuyền nước ngoài đến buôn bán",
-            "D": "Tiến hành thu gom, khai thác sản vật biển",
-            "True": "C"
-        },
-        {
-            "Q": "Trong những năm 30 của thế kỉ XX, chính quyền Pháp đại diện cho Việt Nam trong quan hệ đối ngoại đã khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Trường Sa thông qua việc",
-            "A": "thành lập đội Hoàng Sa",
-            "B": "thành lập đội Bắc Hải",
-            "C": "xây dựng trạm khí tượng",
-            "D": "xây dựng sân bay lớn",
-            "True": "C"
-        },
-        {
-            "Q": "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam đã khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Trường Sa thông qua việc",
-            "A": "thành lập huyện đảo Hoàng Sa và Trường Sa",
-            "B": "thành lập đội Hoàng Sa, Bắc Hải và Trường Đà",
-            "C": "cho hoàn thiện tập Đại Nam nhất thống toàn đồ",
-            "D": "cử thủy quân ra tuần tra đảo định kì hàng năm",
-            "True": "A"
-        },
-        {
-            "Q": "Từ cuối thế kỉ XIX đến năm 1945, quốc gia nào đại diện cho quyền lợi của Việt Nam tiếp tục khẳng định chủ quyền đối với quần đảo Hoàng Sa và Trường Sa?",
-            "A": "Trung Quốc",
-            "B": "Anh",
-            "C": "Mĩ",
-            "D": "Pháp",
-            "True": "D"
-        },
-        {
-            "Q": "Sau khi Pháp rút khỏi Việt Nam theo Hiệp định Giơnevơ (1954), lực lượng nào sau đây đã tiếp quản và khẳng định chủ quyền đối với quần đảo Hoàng Sa và Trường Sa?",
-            "A": "Chính quyền Sài Gòn",
-            "B": "Chính quyền Bảo Đại",
-            "C": "Chính quyền Pháp",
-            "D": "Chính phủ Việt Nam dân chủ cộng hòa",
-            "True": "A"
-        },
-        {
-            "Q": "Nhằm bảo vệ và thực thi chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông, biện pháp nào sau đây không được nhà nước Việt Nam áp dụng?",
-            "A": "Chủ động tấn công vũ trang.",
-            "B": "Tuyên truyền chủ quyền biển, đảo",
-            "C": "Đàm phán ngoại giao.",
-            "D": "Xây dựng lực lượng quản lý biển",
-            "True": "A"
-        },
-        {
-            "Q": "Nội dung nào sau đây không phải là hoạt động của Việt Nam để bảo vệ chủ quyền biển đảo hiện nay?",
-            "A": "Kí kết với các nước láng giềng một số văn kiện ngoại giao quốc tế về biển",
-            "B": "Tham gia Công ước Luật biển năm 1982 của tổ chức Liên hợp quốc",
-            "C": "Chủ động tấn công ngăn chặn các nước có ý đồ xâm phạm biển",
-            "D": "Thực hiện đầy đủ Tuyên bố về ứng xử của các bên ở Biển Đông .",
-            "True": "C"
-        },
-        {
-            "Q": "Chủ trương nhất quán của nước Cộng hòa xã hội chủ nghĩa Việt Nam trong việc giải quyết các tranh chấp ở Biển Đông hiện nay là",
-            "A": "đấu tranh hòa bình.",
-            "B": "bạo lực cách mạng.",
-            "C": "chiến tranh cách mạng.",
-            "D": "bãi công, bãi khóa",
-            "True": "A"
-        },
-        {
-            "Q": "Văn kiện nào sau đây được kí kết giữa các nước ASEAN và Trung Quốc nhằm duy trì hòa bình và ổn định ở Biển Đông?",
-            "A": "Luật Biển Việt Nam",
-            "B": "Tuyên bố về ứng xử của các bên ở Biển Đông",
-            "C": "Luật Biên giới quốc gia",
-            "D": "Tuyên bố về các vùng biển và thềm lục địa Việt Nam",
-            "True": "B"
-        },
-        {
-            "Q": "Văn kiện nào sau đây do Nhà nước Việt Nam ban hành, khẳng định chủ quyền của nước ta đối với quần đảo Hoàng Sa và Trường Sa?",
-            "A": "Công ước Liên hợp quốc về Luật biển",
-            "B": "Tuyên bố về ứng xử của các bên ở Biển Đông",
-            "C": "Luật Cảnh sát biển Việt Nam",
-            "D": "Hiến chương Liên hợp quốc",
-            "True": "C"
-        },
-        {
-            "Q": "Tại hội nghị Hoà bình Xan Phran-xi-xcô (1951), khi chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và quần đảo Trường Sa tiếp tục được tuyên bố mà không bị các quốc gia tham dự hội nghị phản đối. Điều đó cho thấy",
-            "A": "tính pháp lý quốc tế và lịch sử về chủ quyền của Việt Nam.",
-            "B": "đây là những quần đảo không có giá trị cao về kinh tế.",
-            "C": "đây là những quần đảo không có giá trị cao về quốc phòng.",
-            "D": "các quốc gia tham dự hội nghị đều tuyệt đối tôn trọng luật Biển.",
-            "True": "A"
-        },
-        {
-            "Q": "Nội dung nào sau đây là một trong những khó khăn của Việt Nam trong việc bảo vệ quyền, chủ quyền và các lợi ích hợp pháp trên Biển Đông hiện nay?",
-            "A": "Sự bất đồng về quan điểm giữa các bên liên quan đến Biển Đông",
-            "B": "Lực lượng quân sự của ta quá yếu so với các nước Đông Nam Á",
-            "C": "Các Ủy viên thường trực của Liên Hợp Quốc đều ủng hộ Trung Quốc.",
-            "D": "Thiếu các bằng chứng pháp lí để khẳng định chủ quyền ở Biển Đông.",
-            "True": "A"
-        },
-        {
-            "Q": "Những câu thơ nhắc đến sự kiện lịch sử nào sau đây trong quá trình đấu tranh bảo vệ chủ quyền biển đảo của Việt Nam ở Biển Đông? \"Xin hòa mình vào mênh mông biển cả Hát ru Người yên giấc ngủ ngàn thu 64 người nhắm mắt để triệu người choàng tỉnh Trái tim đập dồn về phía Trường Sa\"",
-            "A": "Pháp chuyển quyền kiểm soát Hoàng Sa và Trường Sa cho Bảo Đại",
-            "B": "Cuộc chiến đấu của các chiến sĩ hải quân Việt Nam trên đảo Gạc Ma",
-            "C": "Việt Nam đàm phán và kí kết Tuyên bố về ứng xử của các bên ở Biển Đông",
-            "D": "Quân giải phóng miền Nam tiếp quản Trường Sa từ chính quyền Sài Gòn",
-            "True": "B"
-        },
-        {
-            "Q": "Nội dung nào sau đây không phải là vai trò của Quần đảo Trường Sa đối với sự nghiệp xây dựng và bảo vệ Tổ quốc?",
-            "A": "Góp phần phát triển kinh tế của đất nước, đặc biệt kinh tế biển.",
-            "B": "Có tiềm năng góp phần đưa nước ta trở thành quốc gia mạnh về biển.",
-            "C": "Có vị trí quan trọng về mặt quốc phòng, an ninh và chủ quyền biển đảo.",
-            "D": "Ảnh hưởng trực tiếp đến an ninh, chính trị và kinh tế của khu vực.",
-            "True": "D"
-        },
-        {
-            "Q": "Vị trí đại lí và tài nguyên của Biển Đông tạo điều kiện thuận lợi cho Việt Nam Phát triển nhiều nghành kinh tế, ngoại trừ nghành",
-            "A": "công nghiệp khai khoáng.",
-            "B": "đánh bắt và nuôi trồng thủy sản.",
-            "C": "giao thông hàng hải.",
-            "D": "giao thông đường hàng không.",
-            "True": "D"
-        },
-        {
-            "Q": "Dưới thời vua Minh Mạng (1820-1841) thuộc triều Nguyễn ở nước ta, Quần đảo Trường Sa có tên gọi là gì?",
-            "A": "Bãi cát vàng.",
-            "B": "Vạn lí Trường Sa.",
-            "C": "Đại Trường Sa đảo.",
-            "D": "Thiên Lý Sa Hoàng.",
-            "True": "B"
-        },
-        {
-            "Q": "Việt Nam có thể dựa vào điều kiện tự nhiên nào của Biển Đông để phát triển nghành công nghiệp khai khoáng?",
-            "A": "Đường bờ biển dài, ven biển có nhiều vũng vịnh nước sâu và kín gió.",
-            "B": "Biển Đông giàu tài nguyên khoáng sản (titan, thiếc...), đặc biệt là dầu khí.",
-            "C": "Cảnh quan ở Biển Đông đa dạng với nhiều vũng, vịnh, bãi cát trắng, hang động...",
-            "D": "Nguồn tài nguyên sinh vật ở Biển Đông phong phú và đa dạng, có giá trị kinh tế.",
-            "True": "B"
-        },
-        {
-            "Q": "Năm 1816, vua Gia Long lệnh cho thủy quân và đội Hoàng Sa đi thuyền ra Hoàng Sa để",
-            "A": "khai thác sản vật (tôm, cá...).",
-            "B": "cứu hộ tàu thuyền gặp nạn.",
-            "C": "xem xét, đo đạc thủy trình.",
-            "D": "dựng miếu thờ và vẽ bản đồ.",
-            "True": "C"
-        },
-        {
-            "Q": "Tháng 6 - 2012, Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII đã thông qua văn bản pháp luật nào sau đây?",
-            "A": "Luật An ninh quốc gia.",
-            "B": "Luật Biên giới quốc gia.",
-            "C": "Sách trắng quốc phòng.",
-            "D": "Luật Biển Việt Nam.",
-            "True": "D"
-        },
-        {
-            "Q": "Nội dung nào dưới đây không phản ánh đúng nhiệm vụ của hải đội Hoàng Sa dưới thời các chúa Nguyễn ?",
-            "A": "Khai thác các sản vật quý ở Biển Đông.",
-            "B": "Canh giữ, bảo vệ các đảo ở Biển Đông.",
-            "C": "Cắm mốc chủ quyền tại quần đảo Hoàng Sa.",
-            "D": "Thu gom hàng hóa của tàu nước ngoài bị đắm.",
-            "True": "C"
-        },
-        {
-            "Q": "Nội dung nào dưới đây không phản ánh đúng nhiệm vụ của hải đội Hoàng Sa dưới triều Nguyễn ?",
-            "A": "Thống kê các đảo, bãi cát, bãi đá ngầm.",
-            "B": "Vẽ hình thể, đo đạc, vẽ thành bản đồ.",
-            "C": "Tập trận, biểu dương lực lượng quân đội.",
-            "D": "Xác định phương hướng, khoảng cách.",
-            "True": "C"
-        },
-        {
-            "Q": "Trong cuộc kháng chiến chống Pháp và chống Mỹ, đảo nào sau đây được mệnh danh là \"Địa ngục trần gian\"?",
-            "A": "Đảo Lý Sơn.",
-            "B": "Đảo Phú Quốc.",
-            "C": "Côn Đảo.",
-            "D": "Đảo Cát Bà.",
-            "True": "C"
-        },
-        {
-            "Q": "Trong những năm 1975 đến nay, quần đảo Hoàng Sa và quần đảo Trường Sa được đặt dưới sự quản lí của chính quyền",
-            "A": "Việt Nam Cộng hòa.",
-            "B": "Việt Nam Dân chủ Cộng hòa.",
-            "C": "Cộng hòa Miền Nam Việt Nam.",
-            "D": "Cộng hòa xã hội chủ nghĩa Việt Nam.",
-            "True": "D"
-        },
-        {
-            "Q": "Trong những năm 1945- 1975, quần đảo Hoàng Sa và quần đảo Trường Sa được đặt dưới sự quản lí của chính quyền",
-            "A": "Việt Nam Cộng hòa.",
-            "B": "Việt Nam Dân chủ Cộng hòa.",
-            "C": "Cộng hòa Miền Nam Việt Nam.",
-            "D": "Cộng hòa xã hội chủ nghĩa Việt Nam.",
-            "True": "A"
-        },
-        {
-            "Q": "Đọc đoạn tư liệu sau đây: Biển Đông có nguồn tài nguyên sinh vật phong phú và đa dạng, có đến hơn 160 000 loài, gần 10 000 loài thực vật và 260 loài chim sống ở biển. Trong đó, trữ lượng cá ở vùng biển nước ta khoảng 5 triệu tấn/năm, trữ lượng cá có thể đánh bắt hàng năm khoảng 2,3 triệu tấn. Trữ lượng dầu mỏ và khí đốt ở thềm lục địa Việt Nam được xác minh là gần 550 triệu tấn dầu và trên 610 tỉ m3 khí.... Bờ biển Việt Nam dài và có nhiều bãi cát, vịnh, hang động tự nhiên đẹp như Hạ Long, Hải Phòng, Đà Nẵng, Quy Nhơn, Nha Trang, Vũng Tàu, Hà Tiên,... là tiềm năng cho phát triển kinh tế du lịch. Đặc biệt, hệ thống ven biển của Việt Nam có nhiều địa điểm thuận lợi cho việc xây dựng các cảng nước sâu và trung bình, phục vụ tốt cho sự phát triển kinh tế đất nước.",
-            "type": "true_false_set",
-            "questions": [
-                {
-                    "text": "Toàn bộ đoạn tư liệu cung cấp thông tin về sự phát triển của ngành khai thác và nuôi trồng thủy, hải sản ở nước ta.",
-                    "correct": false
-                },
-                {
-                    "text": "Tài nguyên sinh vật ở Biển Đông bao gồm hai loại là thực vật và chim.",
-                    "correct": false
-                },
-                {
-                    "text": "Việt Nam có nhiều tiềm năng phát triển du lịch biển do có nhiều vịnh, hang động, bờ biển đẹp ven Biển Đông.",
-                    "correct": true
-                },
-                {
-                    "text": "Các cảng nước sâu và trung bình được xây dựng ven Biển Đông liên quan trực tiếp đến sự phát triển kinh tế của đất nước.",
-                    "correct": true
-                }
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Đọc đoạn tư liệu sau đây: \"Tháng 7 - 1803, vua Gia Long cho lập lại đội Hoàng Sa, lấy Cai cơ Võ văn Phú làm Thủ ngự cửa biển Sa Kỳ, sai mộ dân ngoại tịch lập làm đội Hoàng Sa. Đầu năm 1815, vua Gia Long tiếp tục \"sai bọn Phạm Quang Ảnh thuộc đội Hoàng Sa ra Hoàng Sa xem xét đo đạc thủy trình...\". Năm 1816, vua Gia Long cho lực lượng ra quần đảo Hoàng Sa cắm cờ để xác định chủ quyền. Sang đời Minh Mạng, việc đo đạc thủy trình chủ yếu giao cho thủy quân thực hiện. Trong các năm 1833, 1834, 1836, vua Minh Mạng đã chỉ thị cho Bộ Công phái người ra Hoàng Sa để dựng bia chủ quyền, đo đạc thủy trình, vẽ bản đồ... Mỗi thuyền vãng thám Hoàng Sa phải đem theo 10 tấm bài gỗ dài 4,5 thước, rộng 5 tấc để dựng làm dấu mốc\".",
-            "type": "true_false_set",
-            "questions": [
-                {
-                    "text": "Đoạn tư liệu cung cấp thông tin về hoạt động xác lập chủ quyền và quản lý đối với quần đảo Hoàng Sa của một số vị vua nhà Nguyễn thế kỉ XVIII.",
-                    "correct": false
-                },
-                {
-                    "text": "Đội Hoàng Sa đã được thành lập từ thời kì trước, sau đó vua Gia Long đã cho tái lập.",
-                    "correct": true
-                },
-                {
-                    "text": "Một trong những hoạt động của vua Minh Mạng nhằm xác lập chủ quyền và quản lý đối với quần đảo Hoàng Sa là cho thủy quân dựng bia chủ quyền và vẽ bản đồ.",
-                    "correct": true
-                },
-                {
-                    "text": "Đoạn tư liệu cho thấy ý thức về việc xác lập chủ quyền và quản lý đối với quần đảo Hoàng Sa của vua Gia Long và Minh Mạng chưa cao.",
-                    "correct": false
-                }
-            ],
-            "True": "T"
-        },
-        {
-            "Q": "Đọc đoạn tư liệu sau đây: Năm 1956, lợi dụng việc chuyển giao giữa Pháp và Việt Nam Cộng hòa, Trung Quốc đã chiếm một phần quần đảo Hoàng Sa và Đài Loan chiếm đảo Ba Bình thuộc quần đảo Trường Sa. Việt Nam Cộng hòa đã lên tiếng phản đối những hành động này, khẳng định quần đảo Hoàng Sa cùng với quần đảo Trường Sa luôn luôn là một phần của Việt Nam. Tháng 4 -- 1975, Hải quân Nhân dân Việt Nam đã thu hồi quần đảo Trường Sa, sau đó triển khai lực lượng quản lý và bảo vệ các đảo trên quần đảo Trường Sa có quân đội Việt Nam Cộng hòa đóng giữ.",
-            "type": "true_false_set",
-            "questions": [
-                {
-                    "text": "Toàn bộ quần đảo Hoàng Sa và Trường Sa của Việt Nam đã bị Trung Quốc và Đài Loan đánh chiếm ngay từ năm 1956.",
-                    "correct": false
-                },
-                {
-                    "text": "Trung Quốc bắt đầu có hoạt động xâm chiếm quần đảo Hoàng Sa khi quần đảo Hoàng Sa đang thuộc quyền quản lý của chính phủ Việt Nam Cộng hòa.",
-                    "correct": false
-                },
-                {
-                    "text": "Trước những hành động xâm lấn quần đảo Hoảng Sa và Trường Sa của Trung Quốc và Đài Loan, chính phủ Việt Nam Cộng hòa đã có những hành động quân sự đích đáng và giành thắng lợi cuối cùng.",
-                    "correct": false
-                },
-                {
-                    "text": "Năm 1975, Hải quân Nhân dân Việt Nam đã tiếp quản quần đảo Trường Sa từ Trung Quốc và chính quyền Việt Nam Cộng hòa.",
-                    "correct": true
-                }
-            ],
-            "True": "T"
+          "text": "Ngày nay, Liên hơp quốc vẫn tiếp tục thúc đẩy mục tiêu giải quyết các vụ tranh chấp, xung đột quốc tế bằng biện pháp hòa bình.",
+          "correct": true
         }
-    ]
+      ]
+    },
+    {
+      "id": "q_t_02",
+      "Q": "Cho những thông tin trong bảng sau đây: 1949 NATO, 1949 Cách mạng TQ, 1955 Vác-sa-va, 1972 Ních-xơn thăm LX, 1972 Thỏa thuận LX-Mỹ, 1989 Mỹ-LX chấm dứt chiến tranh lạnh.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Sự ra đời của NATO và Tổ chức Hiệp ước Vác-sa-va là một biểu hiện của Trật tự thế giới hai cực I-an-ta",
+          "correct": true
+        },
+        {
+          "text": "Với thắng lợi của cách mạng Trung Quốc (1949) chứng tỏ ngay trong giai đoạn xác lập và phát triển, Trật tự thế giới hai cực I-an-ta đã có biểu hiện của sự rạn nứt.",
+          "correct": false
+        },
+        {
+          "text": "Trật tự thế giới hai cực I-an-ta chính thức sụp đổ khi Mỹ và Liên Xô tuyên bố chấm dứt Chiến tranh lạnh.",
+          "correct": false
+        },
+        {
+          "text": "Trật tự thế giới hai cực I-an-ta suy yếu khi xu hướng hòa hoãn giữa Mỹ và Liên Xô bắt đầu xuất hiện từ đầu những năm 70 của thế kỉ XX.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "q_t_03",
+      "Q": "Đọc đoạn tư liệu về sự hình thành các tổ chức khu vực ở Đông Nam Á đầu những năm 60 của thế kỷ XX.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "Tiền thân của ASEAN là tổ chức Hiệp hội Đông Nam Á và MAPHILINDO.",
+          "correct": true
+        },
+        {
+          "text": "Sau khi thành lập, tổ chức ASEAN gặp phải những bất đồng trong quan hệ.",
+          "correct": true
+        },
+        {
+          "text": "ASEAN ra đời năm 1967 với số thành viên chính thức ban đầu là năm nước.",
+          "correct": true
+        },
+        {
+          "text": "ASEAN ra đời khi Mỹ đang tiến hành cuộc chiến tranh xâm lược Việt Nam ở quy mô lớn.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "q_t_04",
+      "Q": "Đọc đoạn tư liệu về Hội nghị ASEAN-10 và quá trình phát triển của ASEAN.",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "ASEAN là một tổ chức hợp tác gồm nhiều quốc gia có trình độ về kinh tế - xã hội khác nhau trong khu vực Đông Nam Á.",
+          "correct": true
+        },
+        {
+          "text": "Trong giai đoạn hiện nay ASEAN vẫn đang tồn tại những khó khăn, bất ổn về tình hình kinh tế – chính trị - an ninh ở một số nước thành viên.",
+          "correct": true
+        },
+        {
+          "text": "Hội nghị ASEAN-10 có sự tham gia của các đối tác quan trọng thể hiện quá trình đa phương trong quan hệ đối ngoại của ASEAN.",
+          "correct": true
+        },
+        {
+          "text": "Tiến trình xây dựng khu vực thương mại tự do ASEAN - Trung Quốc (CAFTA) vào năm 2010 là quá trình ASEAN đang xây dựng trụ cột Chính trị - An ninh của cộng đồng ASEAN.",
+          "correct": false
+        }
+      ]
+    }
+  ]
 }
