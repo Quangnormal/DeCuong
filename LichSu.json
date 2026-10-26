@@ -359,7 +359,7 @@
       "B": "Chú trọng phát triển con người.",
       "C": "Xây dựng cộng đồng các xã hội đùm bọc lẫn nhau.",
       "D": "Tạo ra một thị sản xuất trường chung.",
-      "True": "D"
+      "True": "A"
     },
     {
       "id": "q_40",
@@ -486,7 +486,7 @@
       "questions": [
         {
           "text": "Tiền thân của ASEAN là tổ chức Hiệp hội Đông Nam Á và MAPHILINDO.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Sau khi thành lập, tổ chức ASEAN gặp phải những bất đồng trong quan hệ.",
