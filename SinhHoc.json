@@ -9,7 +9,7 @@
       "B": "DNA polymerase.",
       "C": "RNA polymerase.",
       "D": "Ligase.",
-      "True": "A"
+      "True": "B"
     },
     {
       "id": "q2",
@@ -39,7 +39,7 @@
       "B": "Một bộ ba chỉ mã hóa cho một loại amino acid.",
       "C": "Tất cả các loài sinh vật trên Trái Đất hầu như đều dùng chung một bộ mã di truyền (trừ một vài ngoại lệ).",
       "D": "Nhiều bộ ba khác nhau cùng mã hóa cho một loại amino acid.",
-      "True": "A"
+      "True": "C"
     },
     {
       "id": "q5",
@@ -69,7 +69,7 @@
       "B": "Nằm ở đầu 3' trên mạch khuôn của gene, mang tín hiệu khởi đầu phiên mã.",
       "C": "Nằm ở đầu 5' trên mạch khuôn của gene, mang tín hiệu kết thúc phiên mã.",
       "D": "Chỉ chứa các vùng không mã hóa nucleotide.",
-      "True": "A"
+      "True": "B"
     },
     {
       "id": "q8",
@@ -79,7 +79,7 @@
       "B": "1- c; 2 - b; 3 - a.",
       "C": "1 - b; 2 - c; 3 - a.",
       "D": "1 - c; 2 - a; 3 - b.",
-      "True": "A"
+      "True": "B"
     },
     {
       "id": "q9",
@@ -89,7 +89,7 @@
       "B": "Cung cấp môi trường acid giúp kích thích sự tự nhân đôi của phân tử DNA.",
       "C": "Phân hủy các protein (như histone) liên kết với DNA để giúp giải phóng và tinh sạch DNA.",
       "D": "Làm đông tụ và kết tủa DNA ra khỏi dung dịch dịch lọc.",
-      "True": "A"
+      "True": "C"
     },
     {
       "id": "q10",
@@ -99,7 +99,7 @@
       "B": "Kết tủa phân tử DNA giúp DNA tách ra khỏi dung dịch.",
       "C": "Phân hủy các protein (như histone) liên kết với DNA.",
       "D": "Hòa tan màng tế bào và màng nhân để giải phóng DNA ra ngoài.",
-      "True": "A"
+      "True": "D"
     },
     {
       "id": "q11",
@@ -119,7 +119,7 @@
       "B": "(1) Mất một cặp A – T; (2) Thêm một cặp C – G; (3) Thay thế cặp A – T bằng cặp G – C.",
       "C": "(1) Thêm một cặp C – G; (2) Mất một cặp A – T; (3) Thay thế cặp A – T bằng cặp G – C.",
       "D": "(1) Mất một cặp A – T; (2) Thay thế cặp A – T bằng cặp G – C; (3) Thêm một cặp C – G.",
-      "True": "A"
+      "True": "D"
     },
     {
       "id": "q13",
@@ -129,7 +129,7 @@
       "B": "Giúp cây trồng tăng cường hấp thụ nitrogene và chống bệnh.",
       "C": "Tách chiết các kim loại nặng và tăng cường thu hồi dầu.",
       "D": "Sản xuất nhiên liệu ethanol từ các loại vật liệu thực vật.",
-      "True": "A"
+      "True": "B"
     },
     {
       "id": "q14",
@@ -139,7 +139,7 @@
       "B": "Nhiều bộ ba khác nhau cùng mã hóa cho một loại amino acid.",
       "C": "Một bộ ba chỉ mã hóa cho một loại amino acid.",
       "D": "Tất cả các loài sinh vật hầu như đều dùng chung một bảng mã di truyền.",
-      "True": "A"
+      "True": "B"
     },
     {
       "id": "q15",
@@ -159,7 +159,7 @@
       "B": "3' - 3'.",
       "C": "3' - 5'.",
       "D": "5' - 5'.",
-      "True": "A"
+      "True": "C"
     },
     {
       "id": "q17",
@@ -169,7 +169,7 @@
       "B": "Tạo giống cá hồi chuyển gene có tốc độ sinh trưởng nhanh.",
       "C": "Giống bông Bt biến đổi gene có khả năng tạo ra độc tố Bt và kháng một số loại sâu.",
       "D": "Tạo chủng vi khuẩn có khả năng phân hủy dầu mỏ để xử lý ô nhiễm môi trường.",
-      "True": "A"
+      "True": "C"
     },
     {
       "id": "q18",
@@ -179,7 +179,7 @@
       "B": "Phát hiện sự có mặt của các virus gây bệnh có vật chất di truyền RNA.",
       "C": "Tiêu diệt hoàn toàn các vi khuẩn gây bệnh truyền nhiễm trong cơ thể người.",
       "D": "Tổng hợp trực tiếp các chuỗi polypeptide giúp tạo kháng thể phòng vệ sinh học.",
-      "True": "A"
+      "True": "B"
     },
     {
       "id": "q19",
@@ -189,7 +189,7 @@
       "B": "Đảm bảo tạo ra hai phân tử DNA con có trình tự nucleotide giống hệt nhau và giống với phân tử DNA mẹ.",
       "C": "Làm tăng tốc độ tháo xoắn của phân tử DNA mà không cần đến sự tham gia của các enzyme tái bản đặc hiệu.",
       "D": "Giúp tế bào tổng hợp trực tiếp chuỗi polypeptide mà không cần trải qua giai đoạn phiên mã tạo ra mRNA.",
-      "True": "A"
+      "True": "B"
     },
     {
       "id": "q20",
@@ -199,7 +199,7 @@
       "B": "Giúp tăng tổng số lượng liên kết phosphodiester giữa các nucleotide nằm trên cùng một mạch đơn của DNA.",
       "C": "Giúp các base nitrogene liên kết tự do với nhau không theo quy luật nhằm tạo nên tính đa dạng của DNA.",
       "D": "Giúp đường kính chuỗi xoắn kép DNA luôn ổn định và đảm bảo thông tin di truyền được lưu giữ chính xác.",
-      "True": "A"
+      "True": "D"
     },
     {
       "id": "q21",
@@ -229,7 +229,7 @@
       "B": "Ligase.",
       "C": "DNA polymerase.",
       "D": "Restrictase.",
-      "True": "A"
+      "True": "D"
     },
     {
       "id": "q24",
@@ -239,7 +239,7 @@
       "B": "Một bộ ba chỉ mã hóa cho một loại amino acid.",
       "C": "Mã di truyền được đọc từ một điểm xác định theo từng cụm 3 nucleotide không chồng lấp.",
       "D": "Tất cả các loài sinh vật đều dùng chung một bộ mã di truyền (trừ một vài ngoại lệ).",
-      "True": "A"
+      "True": "B"
     },
     {
       "id": "q25",
@@ -249,7 +249,7 @@
       "B": "1 →2 →3 → 4 →6 → 5.",
       "C": "3 → 1 →4 →2 →6 →5.",
       "D": "3 →4 →1→ 2 →6 →5.",
-      "True": "A"
+      "True": "D"
     },
     {
       "id": "q26",
@@ -272,7 +272,7 @@
         },
         {
           "text": "Một đột biến điểm làm biến đổi bộ ba 3'TAC5' trên một mạch của allele ban đầu thành bộ ba 3'TGC5' của allele đột biến, theo lý thuyết số liên kết hydrogene của allele đột biến tăng một so với allele ban đầu.",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Đột biến điểm là những biến đổi trong cấu trúc của gene, có liên quan đến một hoặc một số cặp nucleotide.",
@@ -280,7 +280,7 @@
         },
         {
           "text": "Tác nhân hóa học 5-bromouracil có thể bắt cặp với adenine trong quá trình tái bản DNA, từ đó dẫn đến đột biến thay thế cặp A – T bằng cặp G – C.",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -291,15 +291,15 @@
       "questions": [
         {
           "text": "Một phân tử DNA mang N15 ở cả hai mạch được nuôi cấy trong môi trường chỉ chứa N4. Sau 4 lần nhân đôi liên tiếp, người ta thu được16 phân tử DNA, trong đó có 2 phân tử DNA chứa N14 và N15.",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Vùng mã hóa của gene chứa thông tin quy định trình tự các nucleotide trong phân tử ARN.",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Dựa vào cấu trúc do gene tạo ra, người ta phân loại gene thành gene phân mảnh và gene không phân mảnh.",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Ở sinh vật nhân thực, hầu hết các gene có vùng mã hóa liên tục do không chứa các đoạn intron.",
@@ -311,37 +311,37 @@
       "id": "q29",
       "Q": "Trong cơ chế điều hòa biểu hiện gene của operon Lac khi môi trường có đường lactose. Nếu gene <i>lacA</i> phiên mã 8 lần thì gene <i>lacZ</i> phiên mã mấy lần?",
       "type": "short_answer",
-      "correctAnswer": "?"
+      "correctAnswer": "8"
     },
     {
       "id": "q30",
       "Q": "Hình sau đây mô tả cơ chế điều hòa biểu hiện gene ở operon lac của vi khuẩn E. coli trong môi trường không có lactose.<br><img src=\"https://dis7v7j9hh4x4.cloudfront.net/quiz/2026/10/116671/rId10.png\" /><br>Khi môi trường không có lactose, gene <i>lac</i><i>I</i> sẽ tổng hợp protein ức chế, protein ức chế sẽ bám vào vị trí tương ứng nào trên hình để ngăn cản quá trình phiên mã?",
       "type": "short_answer",
-      "correctAnswer": "?"
+      "correctAnswer": "O"
     },
     {
       "id": "q31",
       "Q": "Trên mạch một của gene có 150G và 120 C. Số nucleotide loại G trên mạch 2 là bao nhiêu?",
       "type": "short_answer",
-      "correctAnswer": "?"
+      "correctAnswer": "120"
     },
     {
       "id": "q32",
       "Q": "Trong các bộ ba trên mRNA sau đây, những bộ ba nào mang tín hiệu kết thúc quá trình dịch mã? <i>(</i><i>Đáp án là dãy số thứ tự viết liền từ nhỏ đến lớn</i><i>)</i>.<br>(1) 5'UAG3' (2) 5'ACU3' (3) 5'UAA3' (4) 5'AUG3' (5) 5'UGA3'",
       "type": "short_answer",
-      "correctAnswer": "?"
+      "correctAnswer": "135"
     },
     {
       "id": "q33",
       "Q": "Hình dưới đây mô tả cơ chế điều hòa biểu hiện gene ở operon lac của vi khuẩn E. coli trong môi trường có lactose.<br><img src=\"https://dis7v7j9hh4x4.cloudfront.net/quiz/2026/10/116671/rId12.png\" /><br>Khi môi trường có lactose, protein ức chế sẽ không bám vào được vùng O, RNA polymerase liên kết vào P, nhờ đó quá trình phiên mã xảy ra. Vị trí nào là nguyên nhân khiến cho protein ức chế bị bất hoạt?",
       "type": "short_answer",
-      "correctAnswer": "?"
+      "correctAnswer": "Lactose"
     },
     {
       "id": "q34",
       "Q": "Cho biết các bộ ba trên mRNA mã hoá cho các amino acid tương ứng là:<br>5'AUG3' - Met; 5'GAC3' - Asp; 5'UAC3' - Tyr; 5'AAG3' - Lys; 5'CGU3' - Arg; 5'UUC3' - Phe.<br>Từ đoạn mạch gốc của một gene có trình tự các đơn phân như sau:<br>3' TAC CTG ATG CTG TTC GCA 5'<br>Đoạn polypeptide do đoạn mạch gốc này quy định có bao nhiêu amino acid? (Không kể bộ ba mở đầu)",
       "type": "short_answer",
-      "correctAnswer": "?"
+      "correctAnswer": "5"
     }
   ]
 }
