@@ -242,7 +242,7 @@
       "B": "Có 6 nước 4 bên",
       "C": "Có 6 nước 6 bên",
       "D": "Có 5 nước 6 bên",
-      "True": "B"
+      "True": "D"
     },
     {
       "id": "q28",
@@ -332,7 +332,7 @@
       "B": "18/3/1979",
       "C": "15/3/1979",
       "D": "05/3/1979",
-      "True": "D"
+      "True": "B"
     },
     {
       "id": "q38",
@@ -449,7 +449,7 @@
       "B": "Đường kính 41mm; Đường kính 36mm; Đường kính 33mm",
       "C": "Đường kính 41mm; Đường kính 33mm; Đường kính 28mm",
       "D": "Đường kính 41mm; Đường kính 36mm; Đường kính 36mm",
-      "True": "B"
+      "True": "A"
     },
     {
       "id": "q51",
@@ -638,7 +638,7 @@
       "B": "38 mm",
       "C": "39 mm",
       "D": "36 mm",
-      "True": "B"
+      "True": "D"
     },
     {
       "id": "q72",
@@ -818,7 +818,7 @@
       "B": "Nền màu xanh dương, viền màu vàng",
       "C": "Nền cấp hiệu màu vàng, viền cấp hiệu màu đỏ tươi",
       "D": "Nền cấp hiệu màu vàng, viền cấp hiệu màu tím than",
-      "True": "A"
+      "True": "B"
     },
     {
       "id": "q92",
