@@ -188,7 +188,7 @@
       "B": "FTP",
       "C": "TCP",
       "D": "SMTP",
-      "True": "C"
+      "True": "A"
     },
     {
       "id": "22",
@@ -197,7 +197,7 @@
       "B": "Router",
       "C": "Modem",
       "D": "Hub",
-      "True": "C"
+      "True": "B"
     },
     {
       "id": "23",
@@ -359,7 +359,7 @@
       "B": "Mở rộng phạm vi phủ sóng wifi",
       "C": "Chuyển tiếp dữ liệu giữa các thiết bị qua địa chỉ MAC",
       "D": "Tạo ra mạng wifi không dây",
-      "True": "C"
+      "True": "D"
     },
     {
       "id": "41",
@@ -368,7 +368,7 @@
       "B": "Tạo ra mạng wifi không dây cho các thiết bị kết nối",
       "C": "Kết nối các thiết bị trong mạng LAN và chuyển tiếp dữ liệu theo địa chỉ MAC",
       "D": "Tạo kết nối giữa các mạng khác nhau",
-      "True": "C"
+      "True": "A"
     },
     {
       "id": "42",
@@ -413,7 +413,7 @@
       "B": "Đảm bảo tốc độ truyền tải dữ liệu ổn định",
       "C": "Cung cấp địa chỉ IP và định tuyến dữ liệu",
       "D": "Truyền tải siêu văn bản trên internet",
-      "True": "C"
+      "True": "A"
     },
     {
       "id": "47",
@@ -715,7 +715,7 @@
         },
         {
           "text": "Laptop phải có kết nối Internet thì mới có thể bật và sử dụng tính năng Mobile Hotspot.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Mobile Hotspot chỉ hoạt động khi Laptop kết nối Internet bằng Wifi, không thể chia sẻ kết nối nếu sử dụng mạng có dây.",
